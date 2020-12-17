@@ -1,0 +1,98 @@
+{
+    "solutionId": "livetiles-reach",
+    "categories": [
+        "BUAAH"
+    ],
+    "industries": [
+        "AIRLINE"
+    ],
+    "sortOrder": 100,
+    "preview": true,
+    "visible": false,
+    "solutionLogoPicture": "/assets/reach-logo.png",
+    "solutionLogoPictureAlt": "Reach",
+    "solutionName": "Reach",
+    "solutionUrl": "https://livetilesglobal.com/products/livetiles-reach/",
+    "solutionUrlTitle": "LiveTiles Reach",
+    "metadata": {
+        "displayInfo": {
+            "default": {
+                "descriptionParagraphs": [
+                    {
+                        "name": "Short Description",
+                        "content": [
+                            "Reach is an internal communications app and pocket intranet that boosts engagement, retention, and connection for all employees regardless of where they work.",
+                            "Can have multiple lines"
+                        ]
+                    },
+                    {
+                        "name": "Business need or problem",
+                        "content": [
+                            "LiveTiles Reach is the mobile communication app designed to live up to your vision and goals regarding employee engagement, user adoption, enterprise grade connectivity and security. Engage your employees in an integrated experience by reaching them with company news, connecting them with social posts, providing structured content and knowledge in pages, giving access to skills and colleagues in a people directory and fostering learning and in-person contact on events and trainings.",
+                            "Can have multiple lines"
+                        ]
+                    },
+                    {
+                        "name": "Business solution",
+                        "content": [
+                            "LiveTiles Reach is the mobile communication app designed to live up to your vision and goals regarding employee engagement, user adoption, enterprise grade connectivity and security. Engage your employees in an integrated experience by reaching them with company news, connecting them with social posts, providing structured content and knowledge in pages, giving access to skills and colleagues in a people directory and fostering learning and in-person contact on events and trainings.",
+                            "Can have multiple lines"
+                        ]
+                    }                                       
+                ],
+                "mediaAssets": [
+                    {
+                        "type": "image",
+                        "order": 100,
+                        "url": "/assets/promo-bot.png",
+                        "alt": "Alt text for the image"
+                    },
+                    {
+                        "type": "video",
+                        "order": 101,
+                        "url": "https://youtube.com/embed/3120470",
+                        "alt": "Alt text for the video"
+                    }
+                ],
+                "detailItemCategories": [
+                    {
+                        "name": "Technologies",
+                        "description": "Possible html supported text shown just above the list of links",
+                        "items": [
+                            {
+                                "name": "Bot - link to extensibility look book",
+                                "url": "http://aka.ms/m365pnp"
+                            },
+                            {
+                                "name": "SharePoint Framework - link to extensibility look book",
+                                "url": "http://aka.ms/m365pnp"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Resources",
+                        "description": "Possible html supported text shown just above the list of links",
+                        "items": [
+                            {
+                                "name": "Here are some additional references"
+                            },
+                            {
+                                "name": "Additional link",
+                                "url": "http://aka.ms/m365pnp"
+                            },
+                            {
+                                "name": "Second additional link",
+                                "url": "http://aka.ms/m365pnp"
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        "fi": {
+            "descriptionParagraphs": [
+                "Tää on tosi kova tuote mitä kaikkien pitäisi käyttää!"
+            ]
+        }
+    }
+}
