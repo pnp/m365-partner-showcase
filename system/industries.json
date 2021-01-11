@@ -1,0 +1,55 @@
+{
+    "industries": [
+        {
+            "id": "INDUSTRY01",
+            "displayInfo": {
+                "default": {
+                    "displayName": "Industry 1 display",
+                    "description": "Potential description for industry"
+                },
+                "fi": {
+                    "displayName": "Tuote 1",
+                    "description": "Mahdollinen kuvaus"
+                },
+                "it": {
+                    "displayName": "Industria 1",
+                    "description": "Descrizione per l'industria"
+                }
+            }
+        },
+        {
+            "id": "INDUSTRY02",
+            "displayInfo": {
+                "default": {
+                    "displayName": "Industry 2 display",
+                    "description": "Potential description for industry"
+                },
+                "fi": {
+                    "displayName": "Tuote 2",
+                    "description": "Mahdollinen kuvaus"
+                },
+                "it": {
+                    "displayName": "Industria 2",
+                    "description": "Descrizione per l'industria"
+                }
+            }
+        },
+        {
+            "id": "INDUSTRY03",
+            "displayInfo": {
+                "default": {
+                    "displayName": "Industry 3 display",
+                    "description": "Potential description for industry"
+                },
+                "fi": {
+                    "displayName": "Tuote 3",
+                    "description": "Mahdollinen kuvaus"
+                },
+                "it": {
+                    "displayName": "Industria 3",
+                    "description": "Descrizione per l'industria"
+                }
+            }
+        }
+    ]
+}

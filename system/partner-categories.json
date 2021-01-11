@@ -1,0 +1,55 @@
+{
+    "categories": [
+        {
+            "id": "PARTNER-CATEGORY01",
+            "displayInfo": {
+                "default": {
+                    "displayName": "Partner Category 1 display",
+                    "description": "Potential description for category"
+                        },
+                "fi": {
+                    "displayName": "Partner Tuote 1",
+                    "description": "Mahdollinen kuvaus"
+                },
+                "it": {
+                    "displayName": "Partner Categoria 1",
+                    "description": "Descrizione della categoria"
+                }
+            }
+        },
+        {
+            "id": "PARTNER-CATEGORY02",
+            "displayInfo": {
+                "default": {
+                    "displayName": "Partner Category 2 display",
+                    "description": "Potential description for category"
+                        },
+                "fi": {
+                    "displayName": "Partner Tuote 2",
+                    "description": "Mahdollinen kuvaus"
+                },
+                "it": {
+                    "displayName": "Partner Categoria 2",
+                    "description": "Descrizione della categoria"
+                }
+            }
+        },
+        {
+            "id": "PARTNER-CATEGORY03",
+            "displayInfo": {
+                "default": {
+                    "displayName": "Partner Category 3 display",
+                    "description": "Potential description for category"
+                        },
+                "fi": {
+                    "displayName": "Partner Tuote 3",
+                    "description": "Mahdollinen kuvaus"
+                },
+                "it": {
+                    "displayName": "Partner Categoria 3",
+                    "description": "Descrizione della categoria"
+                }
+            }
+        }
+    ]
+}

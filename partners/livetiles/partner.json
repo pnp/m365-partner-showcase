@@ -1,7 +1,10 @@
 {
     "partnerId": "livetiles",
     "categories": [
-      "PLAAAH"
+      "PARTNER-CATEGORY01", "PARTNER-CATEGORY03"
+    ],
+    "industries": [
+      "INDUSTRY01", "INDUSTRY02"
     ],
     "sortOrder": 100,
     "preview": true,

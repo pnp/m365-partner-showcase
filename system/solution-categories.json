@@ -1,0 +1,55 @@
+{
+    "categories": [
+        {
+            "id": "SOLUTION-CATEGORY01",
+            "displayInfo": {
+                "default": {
+                    "displayName": "Solution Category 1 display",
+                    "description": "Potential description for category"
+                        },
+                "fi": {
+                    "displayName": "Solution Tuote 1",
+                    "description": "Mahdollinen kuvaus"
+                },
+                "it": {
+                    "displayName": "Solution Categoria 1",
+                    "description": "Descrizione della categoria"
+                }
+            }
+        },
+        {
+            "id": "SOLUTION-CATEGORY02",
+            "displayInfo": {
+                "default": {
+                    "displayName": "Solution Category 2 display",
+                    "description": "Potential description for category"
+                        },
+                "fi": {
+                    "displayName": "Solution Tuote 2",
+                    "description": "Mahdollinen kuvaus"
+                },
+                "it": {
+                    "displayName": "Solution Categoria 2",
+                    "description": "Descrizione della categoria"
+                }
+            }
+        },
+        {
+            "id": "SOLUTION-CATEGORY03",
+            "displayInfo": {
+                "default": {
+                    "displayName": "Solution Category 3 display",
+                    "description": "Potential description for category"
+                        },
+                "fi": {
+                    "displayName": "Solution Tuote 3",
+                    "description": "Mahdollinen kuvaus"
+                },
+                "it": {
+                    "displayName": "Solution Categoria 3",
+                    "description": "Descrizione della categoria"
+                }
+            }
+        }
+    ]
+}

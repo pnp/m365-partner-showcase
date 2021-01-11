@@ -1,10 +1,10 @@
 {
     "solutionId": "livetiles-reach",
     "categories": [
-        "BUAAH"
+        "SOLUTION-CATEGORY01", "SOLUTION-CATEGORY03"
     ],
     "industries": [
-        "AIRLINE"
+        "INDUSTRY01", "INDUSTRY02", "INDUSTRY03"
     ],
     "sortOrder": 100,
     "preview": true,
