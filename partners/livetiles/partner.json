@@ -6,7 +6,7 @@
     "industries": [
       "INDUSTRY01", "INDUSTRY02"
     ],
-    "sortOrder": 100,
+    "sortOrder": 200,
     "preview": true,
     "visible": false,
     "logoPicture": "/assets/logo.png", 
