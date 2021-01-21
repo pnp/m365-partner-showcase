@@ -1,10 +1,10 @@
 {
-    "solutionId": "livetiles-reach",
+    "solutionId": "valo-teamwork",
     "categories": [
         "SOLUTION-CATEGORY01", "SOLUTION-CATEGORY03"
     ],
     "industries": [
-        "INDUSTRY01", "INDUSTRY02", "INDUSTRY03"
+        "Cross Industry"
     ],
     "sortOrder": 100,
     "preview": true,
@@ -21,22 +21,39 @@
                     {
                         "name": "Short Description",
                         "content": [
-                            "Reach is an internal communications app and pocket intranet that boosts engagement, retention, and connection for all employees regardless of where they work.",
-                            "Can have multiple lines"
+                            "Teamwork is the one place to gather together all the places you need in all your daily work. It is accessible from any device, through browser or any Microsoft application (incl. Microsoft Teams). It provides provisioning, navigation, governance, lifecycle management and search for all your workplaces."
                         ]
                     },
                     {
                         "name": "Business need or problem",
                         "content": [
-                            "LiveTiles Reach is the mobile communication app designed to live up to your vision and goals regarding employee engagement, user adoption, enterprise grade connectivity and security. Engage your employees in an integrated experience by reaching them with company news, connecting them with social posts, providing structured content and knowledge in pages, giving access to skills and colleagues in a people directory and fostering learning and in-person contact on events and trainings.",
-                            "Can have multiple lines"
+                            "The creation of Microsoft Teams, Microsoft 365 groups, Yammer Groups and SharePoint sites (classic and modern) is already possible in Microsoft 365. However, the creation experience is available from different places and in many cases, there is limited or very basic support for creating workspaces based on templates, applying governance rules, and managing the lifecycle. Moreover, there is no area in Microsoft 365 OOTB where customers can search for all workspaces and refine the results by enterprise metadata, different template types and display name."
                         ]
                     },
                     {
                         "name": "Business solution",
                         "content": [
-                            "LiveTiles Reach is the mobile communication app designed to live up to your vision and goals regarding employee engagement, user adoption, enterprise grade connectivity and security. Engage your employees in an integrated experience by reaching them with company news, connecting them with social posts, providing structured content and knowledge in pages, giving access to skills and colleagues in a people directory and fostering learning and in-person contact on events and trainings.",
-                            "Can have multiple lines"
+                            "Valo Teamwork is a collaboration solution that can be used to create Microsoft Teams, Microsoft 365 groups, Yammer Groups and SharePoint sites (classic and modern). The creation process supports customizable templates that power users and administrators can create based on their business needs. All templates support governance, lifecycle management and provisioning features. Here a list of some important functionalities that can be configured at template level:
+•	Governance:
+•	naming policies (different rules for URL and display name. It supports suffix, prefix and banned words), 
+•	membership settings (default owners/members and minimum number of owners/members), 
+•	privacy settings (sensitivity labels, external sharing etc.), 
+•	terms and conditions (creation of teams only supported if user will accept the terms and conditions)
+•	limit access to templates to specific users
+•	Provisioning
+•	PnP support
+•	Site Designs support
+•	Enterprise Metadata
+•	Planner templates (buckets and tasks)
+•	Teams (Icon, Settings, Apps, Channels, Tabs [preconfigured tabs] and chat messages)
+•	Lifecycle
+•	Enable/Disable approval for all templates
+•	Power Automate support (Build complex workflows for approval)
+•	Guided steps to create a team based on a template
+•	Manual archiving after workspace creation
+•	Auto-Archiving (Coming soon)
+End-Users can create workspaces based on pre-defined templates. This is possible through an innovative, self-explanatory, and modern request form. After creation, users can search for their workspaces using a dashboard which supports searching for display name as well as filtering by enterprise metadata and template type. Everything is accessible from Microsoft Teams via a personal app or from SharePoint using a SPFx web part.
+"
                         ]
                     }                                       
                 ],
