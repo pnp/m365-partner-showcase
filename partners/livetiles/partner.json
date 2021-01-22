@@ -12,10 +12,13 @@
     "logoPicture": "/assets/logo.png", 
     "logoPictureAlt": "LiveTiles",
     "partnerName": "LiveTiles",
+    "customerSize": "100 - 5000",
+    "location": "US & Canada",
     "mpnId": "5351859",
     "metadata": {
         "displayInfo": {
           "default": {
+            "shortDescription": "Short description. Etiam omnis semper possimus pretium minus ligula.",
             "descriptionParagraphs": [
               "Conversational bots allow users to interact with your web service through text, interactive cards, and task modules.",
               "Conversational bots can be scoped to handling a few simple commands or complex, artificial intelligence powered and natural language processing virtual assistants.",
@@ -33,6 +36,18 @@
                 "order": 101,
                 "url": "https://youtube.com/embed/3120470",
                 "alt": "Alt text for the video"
+              },
+              {
+                  "type": "slideshow",
+                  "order": 102,
+                  "alt": "Alt text for the image",
+                  "slides": [
+                    { "url": "/assets/slide83.png","order": "10", "alt": "Alt text for a slide"},
+                    { "url": "/assets/slide84.png","order": "20", "alt": "Alt text for a slide"},
+                    { "url": "/assets/slide85.png","order": "30", "alt": "Alt text for a slide"},
+                    { "url": "/assets/slide86.png","order": "40", "alt": "Alt text for a slide"},
+                    { "url": "/assets/slide87.png","order": "50", "alt": "Alt text for a slide"}
+                  ]
               }
             ],
             "detailItemCategories": [

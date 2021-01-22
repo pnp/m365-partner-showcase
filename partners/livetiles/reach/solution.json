@@ -17,16 +17,17 @@
     "metadata": {
         "displayInfo": {
             "default": {
+                "shortDescription": "Short description paragraph isi vehicula facilisi omnis sapien proin, sociis est",
                 "descriptionParagraphs": [
                     {
-                        "name": "Short Description",
+                        "name": "Long Description",
                         "content": [
-                            "Reach is an internal communications app and pocket intranet that boosts engagement, retention, and connection for all employees regardless of where they work.",
-                            "Can have multiple lines"
+                            "First description paragraph. Sequi nostrud praesentium wisi vehicula facilisi.",
+                            "Second description <b>paragraph</b>. Sequi nostrud praesentium wisi vehicula facilisi."
                         ]
                     },
                     {
-                        "name": "Business need or problem",
+                        "name": "Business need/problem",
                         "content": [
                             "LiveTiles Reach is the mobile communication app designed to live up to your vision and goals regarding employee engagement, user adoption, enterprise grade connectivity and security. Engage your employees in an integrated experience by reaching them with company news, connecting them with social posts, providing structured content and knowledge in pages, giving access to skills and colleagues in a people directory and fostering learning and in-person contact on events and trainings.",
                             "Can have multiple lines"
@@ -37,6 +38,49 @@
                         "content": [
                             "LiveTiles Reach is the mobile communication app designed to live up to your vision and goals regarding employee engagement, user adoption, enterprise grade connectivity and security. Engage your employees in an integrated experience by reaching them with company news, connecting them with social posts, providing structured content and knowledge in pages, giving access to skills and colleagues in a people directory and fostering learning and in-person contact on events and trainings.",
                             "Can have multiple lines"
+                        ]
+                    },
+                    {
+                        "name": "Business value",
+                        "content": [
+                            "LiveTiles Reach is the mobile communication app designed to live up to your vision and goals regarding employee engagement, user adoption, enterprise grade connectivity and security. Engage your employees in an integrated experience by reaching them with company news, connecting them with social posts, providing structured content and knowledge in pages, giving access to skills and colleagues in a people directory and fostering learning and in-person contact on events and trainings.",
+                            "There can be a list of items in HTML",
+                            "<ul>",
+                            "<li>Never leave MS Teams to read corporate news & alerts or to contribute with stories, comments, and inputs.</li>",
+                            "<li>Read important updates in your language with on-the-fly translation.</li>",
+                            "<li>Stay connected on mobile even without MS Teams/M365 access or credential.</li>",
+                            "</ul>"
+                        ]
+                    },
+                    {
+                        "name": "Success factors",
+                        "content": [
+                            "LiveTiles Reach is the mobile communication app designed to live up to your vision and goals regarding employee engagement, user adoption, enterprise grade connectivity and security. Engage your employees in an integrated experience by reaching them with company news, connecting them with social posts, providing structured content and knowledge in pages, giving access to skills and colleagues in a people directory and fostering learning and in-person contact on events and trainings.",
+                            "Can have multiple lines"
+                        ]
+                    },
+                    {
+                        "name": "Services used",
+                        "content": [
+                            "Azure AD Application, App Service, Azure SQL, App Insights, Azure Blog Storage, Azure Front Door"
+                        ]
+                    },
+                    {
+                        "name": "Solution availability",
+                        "content": [
+                            "Partner has Envisioned and Developed this solution with support from Microsoft. The solution is deployed and available as a Partner Solution for 5 different customers worldwide."
+                        ]
+                    },
+                    {
+                        "name": "Target business functions",
+                        "content": [
+                            "Governance, Adoption, and Change Management"
+                        ]
+                    },
+                    {
+                        "name": "Personas",
+                        "content": [
+                            "IT Admins, Developers, and Users"
                         ]
                     }                                       
                 ],
@@ -52,6 +96,18 @@
                         "order": 101,
                         "url": "https://youtube.com/embed/3120470",
                         "alt": "Alt text for the video"
+                    },
+                    {
+                        "type": "slideshow",
+                        "order": 102,
+                        "alt": "Alt text for the image",
+                        "slides": [
+                          { "url": "/assets/slide83.png","order": "10", "alt": "Alt text for a slide"},
+                          { "url": "/assets/slide84.png","order": "20", "alt": "Alt text for a slide"},
+                          { "url": "/assets/slide85.png","order": "30", "alt": "Alt text for a slide"},
+                          { "url": "/assets/slide86.png","order": "40", "alt": "Alt text for a slide"},
+                          { "url": "/assets/slide87.png","order": "50", "alt": "Alt text for a slide"}
+                        ]
                     }
                 ],
                 "detailItemCategories": [
@@ -74,14 +130,15 @@
                         "description": "Possible html supported text shown just above the list of links",
                         "items": [
                             {
-                                "name": "Here are some additional references"
-                            },
-                            {
-                                "name": "Additional link",
+                                "name": "Resource #1",
                                 "url": "http://aka.ms/m365pnp"
                             },
                             {
-                                "name": "Second additional link",
+                                "name": "Resource #2",
+                                "url": "http://aka.ms/m365pnp"
+                            },
+                            {
+                                "name": "Resource #3",
                                 "url": "http://aka.ms/m365pnp"
                             }
                         ]
