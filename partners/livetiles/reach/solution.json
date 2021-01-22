@@ -17,70 +17,102 @@
     "metadata": {
         "displayInfo": {
             "default": {
-                "shortDescription": "Short description paragraph isi vehicula facilisi omnis sapien proin, sociis est",
+                "shortDescription": "Reach is an internal communications app and pocket intranet that boosts engagement, retention, and connection for all employees regardless of where they work.",
                 "descriptionParagraphs": [
                     {
                         "name": "Long Description",
                         "content": [
-                            "First description paragraph. Sequi nostrud praesentium wisi vehicula facilisi.",
-                            "Second description <b>paragraph</b>. Sequi nostrud praesentium wisi vehicula facilisi."
+                            "LiveTiles Reach is the mobile communication app designed to live up to your vision and goals regarding employee engagement, user adoption, enterprise grade connectivity and security. Engage your employees in an integrated experience by reaching them with company news, connecting them with social posts, providing structured content and knowledge in pages, giving access to skills and colleagues in a people directory and fostering learning and in-person contact on events and trainings.",
                         ]
                     },
                     {
                         "name": "Business need/problem",
                         "content": [
-                            "LiveTiles Reach is the mobile communication app designed to live up to your vision and goals regarding employee engagement, user adoption, enterprise grade connectivity and security. Engage your employees in an integrated experience by reaching them with company news, connecting them with social posts, providing structured content and knowledge in pages, giving access to skills and colleagues in a people directory and fostering learning and in-person contact on events and trainings.",
-                            "Can have multiple lines"
+                            "More than 66% of all media is consumed through a mobile device. The workforce is made up of 80% non-desk workers. Employee communication and work has gone mobile."
+                            "Many non-desk workers do not have a corporate identity and do not have access to company news delivered on the intranet or via email. This means, Corporate Communications and HR miss a tool to reach this group."
+                            "This situation and the new mobile frontier present a unique challenge with how to reach, align, enable, and engage your entire workforce for employee advocacy and retention. As well as how to provide all employees with important information, training, and tools.",
                         ]
                     },
                     {
                         "name": "Business solution",
                         "content": [
-                            "LiveTiles Reach is the mobile communication app designed to live up to your vision and goals regarding employee engagement, user adoption, enterprise grade connectivity and security. Engage your employees in an integrated experience by reaching them with company news, connecting them with social posts, providing structured content and knowledge in pages, giving access to skills and colleagues in a people directory and fostering learning and in-person contact on events and trainings.",
-                            "Can have multiple lines"
+                            "LiveTiles Reach aims to alleviate these challenges. Through an optimized mobile experience, the app in MS Teams, and unique capabilities, Reach informs and connects the entire workforce. LiveTiles Reach enables firstline workers, who are constantly serving customers or assisting patients, to quickly retrieve and consume news and information. Audience targeted and channel-based communications will ensure mission-critical information is efficiently delivered to your people."
+                            "LiveTile Reach features include:"
+                            "<ul>",
+                            "<li>News:  Easily publish visually appealing articles to reach all employees with targeted news on their preferred device with Reach business communication software.</li>"
+                            "<li>Posts:  Give all employees a voice with our communications app. The corporate messaging board in Reach enables swift employee knowledge sharing via links, images, and videos. Share organization-wide, or tag groups for targeted messages.</li>"
+                            "<li>Pages:  Make employee manuals, safety guidelines, and product information available to non-desk workers right where they need it. Reach pages enable you to deliver knowledge sharing in a structured way to staff on the go.</li>"
+                            "<li>Analytics:  Understand how your users are interacting with Reach and optimize news and communications for optimal engagement with analytics.</li>"
+                            "<li>Events:  Provide a clear overview of company training, briefings, and townhalls. Including events management, registration tracking, and conferencing tool integration. Reach enables you to easily engage employees in company events.</li>"
+                            "<li>People:  Quickly find contact information for all your co-workers and external users with this powerful people finder app. Connect with a single click via phone, chat, Microsoft Teams, or email.</li>"
+                            "<li>Branding & integrations: Tailor the Reach app with unique branding and integration options into the applications your users leverage the most.</li>"
+                            "</ul>",
+                            "Reach comes with a responsive web app, an app for iOS & Android, and an app for MS Teams as well as a SharePoint Online Integration based on React components,",
                         ]
                     },
                     {
                         "name": "Business value",
                         "content": [
-                            "LiveTiles Reach is the mobile communication app designed to live up to your vision and goals regarding employee engagement, user adoption, enterprise grade connectivity and security. Engage your employees in an integrated experience by reaching them with company news, connecting them with social posts, providing structured content and knowledge in pages, giving access to skills and colleagues in a people directory and fostering learning and in-person contact on events and trainings.",
-                            "There can be a list of items in HTML",
+                            "LiveTiles Reach for MS Teams adds value to corporate communications in MS Teams and leads to an average ACR of USD 1 per user per year.",
                             "<ul>",
-                            "<li>Never leave MS Teams to read corporate news & alerts or to contribute with stories, comments, and inputs.</li>",
-                            "<li>Read important updates in your language with on-the-fly translation.</li>",
-                            "<li>Stay connected on mobile even without MS Teams/M365 access or credential.</li>",
-                            "</ul>"
+                            "<li>For employees:</li>",
+                                "<ul>",
+                                "<li>Never leave MS Teams to read corporate news & alerts or to contribute with stories, comments, and inputs.</li>",
+                                "<li>Read important updates in your language with on-the-fly translation.</li>",
+                                "<li>Stay connected on mobile even without MS Teams/M365 access or credential</li>",
+                                "</ul>",
+                            "<li>For corporate communications:</li>",
+                                "<ul>",
+                                "<li>Precise audience targeting of news and messages based on groups, roles, channels, location, and the alike.</li>",
+                                "<li>Create more engagement through beautiful (Instagram like) content with Reach articles that offers editors to create compelling news with images, video, and the option to enable comments and likes. Integrations with “Unsplash” and “Canva” enables editors to employ engaging pictures and banners.</li>",
+                                "<li>Ensure users don’t get lost in the noise of emails and MS Teams chat silos. </li>",
+                                "<li>Reach knowledge- and firstline-workers alike and engage external audiences.</li>",
+                                "<li>Understand and ensure impact of comms. with analytics, read receipts, alerts and push notifications.</li>",
+                                "</ul>",
+                            "<li>Accelerate Teams deployment and drive adoption – shorten MS Teams decision cycles:</li>",
+                                "<ul>",
+                                "<li>Integrate corporate comms. use-case to the MS Teams based workplace instead of fencing it in a separate single purpose app.</li>",
+                                "<li>Move faster with MS Teams adoption by adding Corporate Comms. to MS Teams as a turn-key App.</li>",
+                                "<li>No IT footprint required – fulfilling the corporate comms. need does not delay MS Teams deployment (might even accelerate MS Teams Deployment where Comms / Marketing Leads are Decision makers.</li>",
+                                "</ul>",
+                            "</ul>",
                         ]
                     },
                     {
                         "name": "Success factors",
                         "content": [
-                            "LiveTiles Reach is the mobile communication app designed to live up to your vision and goals regarding employee engagement, user adoption, enterprise grade connectivity and security. Engage your employees in an integrated experience by reaching them with company news, connecting them with social posts, providing structured content and knowledge in pages, giving access to skills and colleagues in a people directory and fostering learning and in-person contact on events and trainings.",
-                            "Can have multiple lines"
+                            "<ul>",
+                            "<li>Post COVID-19, communications and employee engagement are top priorities of HR and Leadership -> Reach extends MS Teams capability to drive those 2 major priorities.</li>",
+                            "<li>Adding Corporate comms. alerts and notifications to the MS Teams workplace -> reducing noise and channels to make the MS Teams workplace the canvas of choice.</li>",
+                            "<li>Using MS Teams to reach first-line workers and extend beyond organizations boundaries with Azure B2C.</li>",
+                            "<li>Integrate unified comms. to multiple MS Teams tenants (important for membership organizations like the UN and Red Cross or in M&A situations).</li>",
+                            "<li>Adding extranet functionality to MS Teams as an MS Teams app that allows multiple user directories per tenant.</li>",
+                            "<li>Multi-/geo-redundant Azure infrastructure to optimize performance and data-residency requirements.</li>",
+                            "</ul>",
                         ]
                     },
                     {
-                        "name": "Services used",
+                        "name": "M365 Services used",
                         "content": [
-                            "Azure AD Application, App Service, Azure SQL, App Insights, Azure Blog Storage, Azure Front Door"
+                            "Azure AD, Azure AD B2C, Azure Web App Service, Azure Cosmos DB and Azure Translation Services"
                         ]
                     },
                     {
                         "name": "Solution availability",
                         "content": [
-                            "Partner has Envisioned and Developed this solution with support from Microsoft. The solution is deployed and available as a Partner Solution for 5 different customers worldwide."
+                            "<a href="" target="_blank"></a>"
                         ]
                     },
                     {
                         "name": "Target business functions",
                         "content": [
-                            "Governance, Adoption, and Change Management"
+                            "Adoption and User Engagement"
                         ]
                     },
                     {
                         "name": "Personas",
                         "content": [
-                            "IT Admins, Developers, and Users"
+                            "First-line Workers, Internal Comms and Human Resources"
                         ]
                     }                                       
                 ],
