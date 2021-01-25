@@ -69,12 +69,12 @@
                   ]
                 }
               ]
-            }
-        },
-        "fi": {
+            },
+          "fi": {
             "descriptionParagraphs": [
                 "Jotain todella outoa Suomeksi mitä käytetään testissä. Paolo on hieno mies."
               ]
         }
+      }
     }    
 }

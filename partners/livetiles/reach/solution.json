@@ -144,12 +144,12 @@
                         ]
                     }
                 ]
+            },
+            "fi": {
+                "descriptionParagraphs": [
+                    "Tää on tosi kova tuote mitä kaikkien pitäisi käyttää!"
+                ]
             }
-        },
-        "fi": {
-            "descriptionParagraphs": [
-                "Tää on tosi kova tuote mitä kaikkien pitäisi käyttää!"
-            ]
         }
     }
 }
