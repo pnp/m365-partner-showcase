@@ -4,16 +4,16 @@
         "SOLUTION-CATEGORY01", "SOLUTION-CATEGORY03"
     ],
     "industries": [
-        "INDUSTRY01", "INDUSTRY02", "INDUSTRY03"
+        "Cross Industry"
     ],
     "sortOrder": 100,
     "preview": true,
     "visible": false,
     "solutionLogoPicture": "/assets/reach-logo.png",
     "solutionLogoPictureAlt": "Reach",
-    "solutionName": "Reach",
-    "solutionUrl": "https://livetilesglobal.com/products/livetiles-reach/",
-    "solutionUrlTitle": "LiveTiles Reach",
+    "solutionName": "TeamsHub",
+    "solutionUrl": "https://teamshub.io/",
+    "solutionUrlTitle": "Cyclotron TeamsHub",
     "metadata": {
         "displayInfo": {
             "default": {
@@ -21,24 +21,78 @@
                     {
                         "name": "Short Description",
                         "content": [
-                            "Reach is an internal communications app and pocket intranet that boosts engagement, retention, and connection for all employees regardless of where they work.",
-                            "Can have multiple lines"
+                            "TeamsHub is a Governance, Adoption and Employee engagement platform built on MS Teams",
                         ]
                     },
                     {
                         "name": "Business need or problem",
                         "content": [
-                            "LiveTiles Reach is the mobile communication app designed to live up to your vision and goals regarding employee engagement, user adoption, enterprise grade connectivity and security. Engage your employees in an integrated experience by reaching them with company news, connecting them with social posts, providing structured content and knowledge in pages, giving access to skills and colleagues in a people directory and fostering learning and in-person contact on events and trainings.",
-                            "Can have multiple lines"
+                            "In a world where customers need to be agile and innovative, they are struggling to provide rich contextual experiences to their users.  Customers are looking for innovative solutions, which feature seamless integrations into Teams, such as:",
+                            "<ul>",
+                            "<li>An automated, simple interface to apply governance for Teams creation, approval, lifecycle management and enforcement of security/standards</li>",
+                            "<li>Enforcement of data protection and governance policies based on digital assets</li>",
+                            "<li>Tracking and monitoring of teams, automated archival and deletion policies, compliance reporting and actions (i.e. year end auditing) and an owner notification system</li>",
+                            "<li>Mobile first approach to consume org wide news, access resources like benefits, HR, travel reimbursements etc. within Teams</li>",
+                            "<li>Integrated learning and training systems for users to become ‘power users’ and leverage more functionality in the M365 ecosystem</li>",
+                            "</ul>",
+                            "TeamsHub.io features a set of experiences that provide an organization the ability to quickly and easily configure their users’ Teams client to access this information and drive high business value and rich user experiences – increasing adoption and ROI.",
                         ]
                     },
                     {
                         "name": "Business solution",
                         "content": [
-                            "LiveTiles Reach is the mobile communication app designed to live up to your vision and goals regarding employee engagement, user adoption, enterprise grade connectivity and security. Engage your employees in an integrated experience by reaching them with company news, connecting them with social posts, providing structured content and knowledge in pages, giving access to skills and colleagues in a people directory and fostering learning and in-person contact on events and trainings.",
-                            "Can have multiple lines"
+                            "Cyclotron has developed a solution capable of helping organizations define and execute the rules for Microsoft Teams governance, increase employee engagement and improve productivity and drive adoption of M365 – increasing human efficiency.",
+                            "<ul>",
+                            "<li>Automate team requests and creation using templates, approval workflows and dynamic forms using custom metadata columns</li>",
+                            "<li>Manage how Teams are named using a managed blocked words list and custom policies</li>",
+                            "<li>Control the expiry, retention and disposal of Teams based on usage and activity</li>",
+                            "<li>Provide users with personalized content and pages – ensuring they feel connected and are productive</li>",
+                            "<li>Quickly setup a self-service learning portal – enabling users to enjoy learning and feel informed</li>",
+                            "<li>Capture feedback, gauge sentiment and understand where users are struggling or need more clarity to be successful</li>",
                         ]
-                    }                                       
+                    }                                
+                    },
+                    {
+                        "name": "Business Value",
+                        "content": [
+                            "TeamsHub has provided a streamlined experience to both IT and users within organizations around the globe, including:",
+                            "<ul>",
+                            "<li>Increased engagement from users in Teams</li>",
+                            "<li>Higher quality insights into operations and governance within the organization</li>",
+                            "<li>Greater visibility into M365 as a whole and the progress towards digital transformationCyclotron has developed a solution capable of helping organizations define and execute the rules for Microsoft Teams governance, increase employee engagement and improve productivity and drive adoption of M365 – increasing human efficiency.</li>",
+                            "<ul>",
+                    ]
+                    }  
+            },
+                    {
+                        "name": "Succss Factors",
+                        "content": [
+                            "Organizations around the globe, in various industries can benefit from TeamsHub.io, which provide critical automation of key tasks, enhanced reporting capabilities and increased user engagement through rich, contextual experiences.",
+                            "<ul>",
+                            "<li>Automate and manage provisioning, operations and information lifecycle integrated with Microsoft Teams</li>",
+                            "<li>Ensure Internal, External and Regulatory Compliance</li>",
+                            "<li>Ease Adoption, Usage and Governance</li>",
+                            "<li>Increase administrator efficiency</li>",
+                            "<li>Implement reliable governance tools to enable consistent processes and controls, and mitigate risks for Microsoft Teams</li>",
+                            "</ul>",
+                            "TeamsHub.io can transform your organization with the insights provided and effective tools for employee engagement",
+                        ]
+                    }  
+            },
+                    {
+                        "name": "Solution Architecture",
+                        "content": [
+                            "TeamsHub components are packaged as a single web application and can be hosted on Microsoft Azure cloud platform. TeamsHub uses Microsoft Azure App services, Key Vault services and Microsoft graph API.",
+                            "The TeamsHub application utilizes following Azure services:",
+                            "<ol>",
+                            "<li>Resource group - A resource group is a logical container for Azure resources.</li>",
+                            "<li>App Service app - Azure App Service is a fully managed platform for creating and deploying cloud applications.</li>",
+                            "<li>App Service plan - An App Service plan provides the managed virtual machines (VMs) that host your app. All apps associated with a plan run on the same VM instances.</li>",
+                            "<li>Azure Active Directory (Azure AD) - Azure Active Directory (Azure AD) is Microsoft’s cloud-based identity and access management service, which helps your employees sign in and access resources</li>",
+                            "<li>Azure Key Vault - Azure Key Vault is a tool for securely storing and accessing secrets. A secret is anything that you want to tightly control access to, such as API keys, passwords, or certificates.</li>",
+                            "<li>Service principal - An Azure service principal is a security identity that user-created apps, services, and automation tools use to access specific Azure resources.</li>",
+                        ]
+                    }                                            
                 ],
                 "mediaAssets": [
                     {
