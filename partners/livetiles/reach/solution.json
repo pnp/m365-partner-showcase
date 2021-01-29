@@ -26,7 +26,7 @@
                         ]
                     },
                     {
-                        "name": "Business need/problem",
+                        "name": "Business needs/problem",
                         "content": [
                             "More than 66% of all media is consumed through a mobile device. The workforce is made up of 80% non-desk workers. Employee communication and work has gone mobile.",
                             "Many non-desk workers do not have a corporate identity and do not have access to company news delivered on the intranet or via email. This means, Corporate Communications and HR miss a tool to reach this group.",
@@ -79,7 +79,7 @@
                         ]
                     },
                     {
-                        "name": "Success factors",
+                        "name": "Success Highlights",
                         "content": [
                             "<ul>",
                             "<li>Post COVID-19, communications and employee engagement are top priorities of HR and Leadership -> Reach extends MS Teams capability to drive those 2 major priorities.</li>",
@@ -89,6 +89,12 @@
                             "<li>Adding extranet functionality to MS Teams as an MS Teams app that allows multiple user directories per tenant.</li>",
                             "<li>Multi-/geo-redundant Azure infrastructure to optimize performance and data-residency requirements.</li>",
                             "</ul>"
+                        ]
+                    },
+                    {
+                        "name": "Resources to get started",
+                        "content": [
+                            "Describe resources available for customers to 'get started'",
                         ]
                     },
                     {
