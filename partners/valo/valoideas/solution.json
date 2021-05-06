@@ -1,0 +1,84 @@
+{
+  "solutionId": "valoideas",
+  "partnerId": "valo",
+  "categories": [
+    "teams"
+  ],
+  "industries": [],
+  "sortOrder": 0,
+  "preview": false,
+  "visible": false,
+  "solutionLogoPicture": null,
+  "solutionLogoPictureAlt": "",
+  "solutionName": "Valo Ideas",
+  "solutionUrl": "https://www.valointranet.com/valo-ideas",
+  "solutionUrlTitle": "Valo Ideas",
+  "metadata": {
+    "personas": "All Employees",
+    "solutionTechnologies": "Azure Bot;Custom Tabs;Graph API;Messaging Extension;SharePoint sites;SPFx",
+    "businessFunctions": null,
+    "displayInfo": {
+      "default": {
+        "descriptionParagraphs": [
+          {
+            "name": "Short description",
+            "content": [
+              "\u003Cdiv\u003E\u003Cspan style=\u0022color:rgb(51, 51, 51);font-family:SegoeUI;font-size:20px;display:inline !important;\u0022\u003EValo Ideas delivers an experience that empowers teams across all organizations to ideate and co-innovate to build their dream workplace. It is an app based on the Microsoft Teams platform so that people can start their innovation right where they are working.\u003C/span\u003E\u003Cbr\u003E \u003C/div\u003E"
+            ]
+          },
+          {
+            "name": "Business need or problem",
+            "content": [
+              "\u003Cdiv\u003E\u003Cspan style=\u0022color:rgb(51, 51, 51);font-family:SegoeUI;font-size:16px;text-align:left;display:inline !important;\u0022\u003EFor an organization to successfully innovate, the ideation process needs to be democratized. Ideas need to come from every level in the organization, e.g. from Firstline Workers to the senior management. Lack of proper tools and processes for making the voice of the employees heard is always a challenge in the innovation process. Coupled with the recent pandemic and the need to work from home, employees feel a disconnect from the organization. They might feel that their ideas are not being listened to and as a result the organization might suffer.\u003C/span\u003E\u003Cbr style=\u0022box-sizing:border-box;font-family:SegoeUI;color:rgb(51, 51, 51);font-size:16px;text-align:left;\u0022\u003E\u003Cbr style=\u0022box-sizing:border-box;font-family:SegoeUI;color:rgb(51, 51, 51);font-size:16px;text-align:left;\u0022\u003E\u003Cspan style=\u0022color:rgb(51, 51, 51);font-family:SegoeUI;font-size:16px;text-align:left;display:inline !important;\u0022\u003EAt the same time, the suggestions made by the users need to reach the right decision makers in an organized way. If the decision makers are not able to get an overview of the ideas, process them, and green-light the successful ideas, then the innovation process could be hampered.\u003C/span\u003E\u003Cbr style=\u0022box-sizing:border-box;font-family:SegoeUI;color:rgb(51, 51, 51);font-size:16px;text-align:left;\u0022\u003E\u003Cbr style=\u0022box-sizing:border-box;font-family:SegoeUI;color:rgb(51, 51, 51);font-size:16px;text-align:left;\u0022\u003E\u003Cspan style=\u0022color:rgb(51, 51, 51);font-family:SegoeUI;font-size:16px;text-align:left;display:inline !important;\u0022\u003EFinally, to empower the employees, they need to be kept in the loop about the status of their idea. Whether the idea is rejected or if it\u0027s being green-lighted, the people associated with the idea need to know the current status of the idea in its lifecycle.\u003C/span\u003E\u003Cbr\u003E\u003C/div\u003E"
+            ]
+          },
+          {
+            "name": "Business solution",
+            "content": [
+              "\u003Cdiv\u003E\u003Cspan style=\u0022color:rgb(51, 51, 51);font-family:SegoeUI;font-size:16px;text-align:left;display:inline !important;\u0022\u003EValo Ideas app brings the innovation and ideation process right into Microsoft Teams. We believe that since users are already working day-to-day in Microsoft Teams, they should have minimum friction to suggest an idea. Due to Valo Ideas being fully available on the Microsoft Teams mobile app, users are able to submit their ideas on the go as well. This is particularly helpful to Firstline Workers who always work onsite.\u003C/span\u003E\u003Cbr style=\u0022box-sizing:border-box;font-family:SegoeUI;color:rgb(51, 51, 51);font-size:16px;text-align:left;\u0022\u003E\u003Cbr style=\u0022box-sizing:border-box;font-family:SegoeUI;color:rgb(51, 51, 51);font-size:16px;text-align:left;\u0022\u003E\u003Cspan style=\u0022color:rgb(51, 51, 51);font-family:SegoeUI;font-size:16px;text-align:left;display:inline !important;\u0022\u003ESince Valo Ideas is natively built into the Microsoft Teams platform, we are seamlessly able to integrate into the Microsoft Teams user interface. Ideas are created as SharePoint Online pages in the site associated to the team. This provides security, governance, and compliance to the ideas created for that team.\u003C/span\u003E\u003Cbr style=\u0022box-sizing:border-box;font-family:SegoeUI;color:rgb(51, 51, 51);font-size:16px;text-align:left;\u0022\u003E\u003Cbr style=\u0022box-sizing:border-box;font-family:SegoeUI;color:rgb(51, 51, 51);font-size:16px;text-align:left;\u0022\u003E\u003Cspan style=\u0022color:rgb(51, 51, 51);font-family:SegoeUI;font-size:16px;text-align:left;display:inline !important;\u0022\u003EThe Valo Ideas Dashboard is a custom personal tab which aggregates ideas from all the users joined the team. Users are able to sort, filter, and see the analytics associated to ideas that are trending in their teams. The dashboard is also made available as a tab which allows team members focus on ideas within the team.\u003C/span\u003E\u003Cbr style=\u0022box-sizing:border-box;font-family:SegoeUI;color:rgb(51, 51, 51);font-size:16px;text-align:left;\u0022\u003E\u003Cbr style=\u0022box-sizing:border-box;font-family:SegoeUI;color:rgb(51, 51, 51);font-size:16px;text-align:left;\u0022\u003E\u003Cspan style=\u0022color:rgb(51, 51, 51);font-family:SegoeUI;font-size:16px;text-align:left;display:inline !important;\u0022\u003EThe Valo Ideas Bot is responsible for providing status updates of the idea lifecycle to the team members. Whenever an idea\u0027s lifecycle status is changed, the bot posts a message in the conversation associated to the idea. This notifies the interested members of the idea progress.\u003C/span\u003E\u003Cbr style=\u0022box-sizing:border-box;font-family:SegoeUI;color:rgb(51, 51, 51);font-size:16px;text-align:left;\u0022\u003E\u003Cbr style=\u0022box-sizing:border-box;font-family:SegoeUI;color:rgb(51, 51, 51);font-size:16px;text-align:left;\u0022\u003E\u003Cspan style=\u0022color:rgb(51, 51, 51);font-family:SegoeUI;font-size:16px;text-align:left;display:inline !important;\u0022\u003EThe \u0026quot;Promote a Teams message as an Idea\u0026quot; feature allows an existing messages posted in Microsoft Teams to be turned into ideas with metadata using messaging extensions. This is so that users don\u0027t always have to start from scratch when submitting a new idea.\u003C/span\u003E\u003Cbr\u003E\u003C/div\u003E"
+            ]
+          }
+        ],
+        "mediaAssets": [
+          {
+            "type": "image",
+            "order": 0,
+            "url": "assets/Valo Ideas.png",
+            "alt": ""
+          },
+          {
+            "type": "image",
+            "order": 1,
+            "url": "assets/Valo Ideas - New idea.png",
+            "alt": ""
+          },
+          {
+            "type": "image",
+            "order": 2,
+            "url": "assets/Valo Ideas - Analytics.png",
+            "alt": ""
+          },
+          {
+            "type": "image",
+            "order": 3,
+            "url": "assets/Valo Ideas - Idea lifecycle updates.png",
+            "alt": ""
+          },
+          {
+            "type": "image",
+            "order": 4,
+            "url": "assets/Valo Ideas - Campaign lifecycle management.png",
+            "alt": ""
+          }
+        ],
+        "detailItemCategories": [
+          {
+            "name": "Resources",
+            "description": "Possible html supported text shown just above the list of links",
+            "items": []
+          }
+        ]
+      }
+    }
+  }
+}

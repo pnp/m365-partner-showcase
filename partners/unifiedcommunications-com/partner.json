@@ -1,0 +1,30 @@
+{
+  "partnerId": "unifiedcommunications-com",
+  "categories": [],
+  "industries": [],
+  "solutions": null,
+  "sortOrder": 0,
+  "preview": false,
+  "visible": false,
+  "logoPicture": null,
+  "logoPictureAlt": "",
+  "partnerName": "UnifiedCommunications.com",
+  "mpnId": "0",
+  "metadata": {
+    "displayInfo": {
+      "default": {
+        "shortDescription": "\u003Cdiv\u003E\u003Cspan style=\u0022font-size:12.0pt;font-family:\u0026quot;Calibri\u0026quot;,sans-serif;\u0022\u003EUnifiedCommunications.com\u0026nbsp;is a globally\nrecognized leader in Microsoft Teams, Meetings, and Live Events with a focus on\nstrategy, device configuration, adoption, and video production.\u003C/span\u003E\u003Cbr\u003E\u003C/div\u003E",
+        "descriptionParagraphs": [],
+        "mediaAssets": [
+          {
+            "type": "image",
+            "order": 0,
+            "url": "assets/UnifiedCommunications-Hero-Image.jpg",
+            "alt": ""
+          }
+        ],
+        "detailItemCategories": []
+      }
+    }
+  }
+}

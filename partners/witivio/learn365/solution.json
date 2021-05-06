@@ -1,0 +1,93 @@
+{
+  "solutionId": "learn365",
+  "partnerId": "witivio",
+  "categories": [
+    "teams"
+  ],
+  "industries": [],
+  "sortOrder": 0,
+  "preview": false,
+  "visible": false,
+  "solutionLogoPicture": null,
+  "solutionLogoPictureAlt": "",
+  "solutionName": "Learn365",
+  "solutionUrl": "https://www.witivio.com/en/office-365-adoption/",
+  "solutionUrlTitle": "Learn365",
+  "metadata": {
+    "personas": "All Employees;Corporate Communications;HR;IT",
+    "solutionTechnologies": "Azure;Azure Bot",
+    "businessFunctions": null,
+    "displayInfo": {
+      "default": {
+        "descriptionParagraphs": [
+          {
+            "name": "Short description",
+            "content": [
+              "\u003Cdiv\u003E\u003Cp style=\u0022margin:0in 0in 8pt;font-size:11pt;font-family:Calibri, sans-serif;\u0022\u003E\u003Cb\u003E\u003Cspan style=\u0022font-size:14.0pt;\u0022\u003ELearn3\u003C/span\u003E\u003C/b\u003E\u003Cb\u003E\u003Cspan style=\u0022font-size:14.0pt;\u0022\u003E65\u003C/span\u003E\u003C/b\u003E\u003Cb\u003E\u003Cspan style=\u0022font-size:14.0pt;\u0022\u003E is a multilingual virtual assistant 100% integrated with\nMicrosoft Teams. It supports employees to improve their Office 365 skills by\nanswering all their questions 24/7.\u003C/span\u003E\u003C/b\u003E\u003C/p\u003E\u003Cbr\u003E\u003C/div\u003E"
+            ]
+          },
+          {
+            "name": "Business need or problem",
+            "content": [
+              "\u003Cdiv\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:Calibri, sans-serif;\u0022\u003E\u003Cb\u003E\u003Cspan lang=EN-GB style=\u0022font-size:10.0pt;color:#0E101A;\u0022\u003ELearning new\nworking tools can be challenging for everybody\u003C/span\u003E\u003C/b\u003E\u003Cspan lang=EN-GB style=\u0022font-size:10.0pt;color:#0E101A;\u0022\u003E\u2014both for the team who deployed them and the\nemployees who use them.\u0026nbsp;\u003C/span\u003E\u003C/p\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:Calibri, sans-serif;\u0022\u003E\u003Cspan lang=EN-GB style=\u0022font-size:10.0pt;color:#0E101A;\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003C/p\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:Calibri, sans-serif;\u0022\u003E\u003Cspan lang=EN-GB style=\u0022font-size:10.0pt;color:#0E101A;\u0022\u003ETo-do\u2019s,\ndeadlines, and responsibilities clutter our working hours, leaving almost no\ntime for extras. Let alone having to figure out how the new tool works.\u003C/span\u003E\u003C/p\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:Calibri, sans-serif;\u0022\u003E\u003Cspan lang=EN-GB style=\u0022font-size:10.0pt;color:#0E101A;\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003C/p\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:Calibri, sans-serif;\u0022\u003E\u003Cb\u003E\u003Cspan lang=EN-GB style=\u0022font-size:10.0pt;color:#0E101A;\u0022\u003EWhen\ndeploying Office 365 and Microsoft Teams, it\u2019s crucial to support employees.\u003C/span\u003E\u003C/b\u003E\u003Cspan lang=EN-GB style=\u0022font-size:10.0pt;color:#0E101A;\u0022\u003E The proper support will\nhelp them become self-sufficient users and increase Office 365 adoption while\nrelieving the IT Helpdesk workload.\u0026nbsp;\u003C/span\u003E\u003C/p\u003E\u003C/div\u003E\u003Cdiv\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:Calibri, sans-serif;\u0022\u003E\u003Cb\u003E\u003Cspan lang=EN-GB style=\u0022font-size:10.0pt;color:#0E101A;\u0022\u003E\u003Cbr\u003EThe incorrect\nor inexistent support can bring negative and long-lasting repercussions such\nas:\u003C/span\u003E\u003C/b\u003E\u003C/p\u003E\u003Cul style=\u0022margin-bottom:0in;margin-top:0in;\u0022\u003E\n \u003Cli style=\u0022margin:0in;font-size:12pt;font-family:Calibri, sans-serif;color:#0E101A;\u0022\u003E\u003Cb\u003E\u003Cspan lang=EN-GB style=\u0022font-size:10.0pt;\u0022\u003ELimited ROI,\u0026nbsp;\u003C/span\u003E\u003C/b\u003E\u003Cspan lang=EN-GB style=\u0022font-size:10.0pt;\u0022\u003Epreventing the organization from\n     achieving the targeted return on the investment for Office 365.\u003C/span\u003E\u003C/li\u003E\n \u003Cli style=\u0022margin:0in;font-size:12pt;font-family:Calibri, sans-serif;color:#0E101A;\u0022\u003E\u003Cb\u003E\u003Cspan lang=EN-GB style=\u0022font-size:10.0pt;\u0022\u003EAn overloaded Helpdesk\n     IT Team\u003C/span\u003E\u003C/b\u003E\u003Cspan lang=EN-GB style=\u0022font-size:10.0pt;\u0022\u003E. A high number of\n     tickets from employees needing assistance with basic operations.\u003C/span\u003E\u003C/li\u003E\n \u003Cli style=\u0022margin:0in;font-size:12pt;font-family:Calibri, sans-serif;color:#0E101A;\u0022\u003E\u003Cb\u003E\u003Cspan lang=EN-GB style=\u0022font-size:10.0pt;\u0022\u003EUnhappy\n     workforce.\u0026nbsp;\u003C/span\u003E\u003C/b\u003E\u003Cspan lang=EN-GB style=\u0022font-size:10.0pt;\u0022\u003EFrustrated employees with low confidence in their skills and who\n     look down on the tools the company provides.\u003C/span\u003E\u003C/li\u003E\u003C/ul\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:Calibri, sans-serif;\u0022\u003E\u003Cspan lang=EN-GB style=\u0022font-size:10.0pt;font-family:\u0026quot;Times New Roman\u0026quot;,serif;color:#0E101A;\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003C/p\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:Calibri, sans-serif;\u0022\u003E\u003Cspan lang=EN-GB style=\u0022font-size:10.0pt;color:#0E101A;\u0022\u003EAn Office 365\nVirtual assistant like Learn365 can be an ideal solution to support Office 365\ndeployment.\u003C/span\u003E\u003C/p\u003E\u003C/div\u003E"
+            ]
+          },
+          {
+            "name": "Business solution",
+            "content": [
+              "\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:Calibri, sans-serif;\u0022\u003E\u003Cb\u003E\u003Cspan style=\u0022font-size:10.0pt;color:#0E101A;\u0022\u003ELearn365 is a multilingual chatbot\n100% integrated with Microsoft Teams. It supports employees to improve their\nOffice 365 skills by answering all their questions 24/7.\u003C/span\u003E\u003C/b\u003E\u003C/p\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:Calibri, sans-serif;\u0022\u003E\u003Cspan style=\u0022font-size:10.0pt;color:#0E101A;\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003C/p\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:Calibri, sans-serif;\u0022\u003E\u003Cspan style=\u0022font-size:10.0pt;color:#0E101A;\u0022\u003EUpon installing Learn365 in your Microsoft Teams, employees\nwill:\u003C/span\u003E\u003C/p\u003E\u003Cul style=\u0022margin-bottom:0in;margin-top:0in;\u0022\u003E\n \u003Cli style=\u0022margin:0in;font-size:12pt;font-family:Calibri, sans-serif;color:#0E101A;\u0022\u003E\u003Cb\u003E\u003Cspan style=\u0022font-size:10.0pt;\u0022\u003EDiscover Office 365 tools\u003C/span\u003E\u003C/b\u003E\u003Cspan style=\u0022font-size:10.0pt;\u0022\u003E: OneDrive,\n     OneNote, Yammer, Teams, and Outlook.\u003C/span\u003E\u003C/li\u003E\n \u003Cli style=\u0022margin:0in;font-size:12pt;font-family:Calibri, sans-serif;color:#0E101A;\u0022\u003E\u003Cb\u003E\u003Cspan style=\u0022font-size:10.0pt;\u0022\u003EUnderstand which tools to use and how to use them.\u003C/span\u003E\u003C/b\u003E\u003Cspan style=\u0022font-size:10.0pt;\u0022\u003E It contains four learning paths and HD videos.\u003C/span\u003E\u003C/li\u003E\n \u003Cli style=\u0022margin:0in;font-size:12pt;font-family:Calibri, sans-serif;color:#0E101A;\u0022\u003E\u003Cb\u003E\u003Cspan style=\u0022font-size:10.0pt;\u0022\u003EFind best practices, tips, and tricks\u003C/span\u003E\u003C/b\u003E\u003Cspan style=\u0022font-size:10.0pt;\u0022\u003E based on their roles.\u003C/span\u003E\u003C/li\u003E\u003C/ul\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:Calibri, sans-serif;\u0022\u003E\u003Cspan style=\u0022font-size:10.0pt;color:#0E101A;\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003C/p\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:Calibri, sans-serif;\u0022\u003E\u003Cb\u003E\u003Cspan style=\u0022font-size:10.0pt;color:#0E101A;\u0022\u003ELearn can answer questions in four\nlanguages: English, French, Spanish and Italian.\u003C/span\u003E\u003C/b\u003E\u003Cspan style=\u0022font-size:10.0pt;color:#0E101A;\u0022\u003E When possible, it will show the HQ video related to the question to\nhelp visualize the solution.\u0026nbsp;\u003C/span\u003E\u003C/p\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:Calibri, sans-serif;\u0022\u003E\u003Cspan style=\u0022font-size:10.0pt;color:#0E101A;\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003C/p\u003E\u003Cspan style=\u0022font-size:10.0pt;font-family:\u0026quot;Calibri\u0026quot;,sans-serif;color:#0E101A;\u0022\u003EWhen the chatbot\ndoesn\u0027t have the correct answer, it will \u003Cb\u003Eescalate it to human support\u003C/b\u003E.\nEvery question escalated is an\u0026nbsp;\u003C/span\u003E\u003Cspan style=\u0022color:rgb(14, 16, 26);font-size:10pt;font-family:Calibri, sans-serif;\u0022\u003Eopportunity to improve Learn365 knowledge base and\ncapabilities.\u003C/span\u003E\u003Cspan style=\u0022font-size:10.0pt;font-family:\u0026quot;Calibri\u0026quot;,sans-serif;color:#0E101A;\u0022\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:Calibri, sans-serif;\u0022\u003E\u003Cspan style=\u0022font-size:10.0pt;color:#0E101A;\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003C/p\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:Calibri, sans-serif;\u0022\u003E\u003Cspan style=\u0022font-size:10.0pt;color:#0E101A;\u0022\u003EMoreover, Learn365 can send \u003Cb\u003Epush notifications\nto users making its adoption easier\u003C/b\u003E. Receiving notifications guarantees\nthat employees remember the chatbot is always ready to help. \u003C/span\u003E\u003C/p\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:Calibri, sans-serif;\u0022\u003E\u003Cspan style=\u0022font-size:10.0pt;color:#0E101A;\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003C/p\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:Calibri, sans-serif;\u0022\u003E\u003Cspan style=\u0022font-size:10.0pt;color:#0E101A;\u0022\u003ELearn365 is a suitable application for any\nemployee, regardless of their experience level.\u003C/span\u003E\u003C/p\u003E\u003C/span\u003E\u003Cbr\u003E\u003Cbr\u003E"
+            ]
+          }
+        ],
+        "mediaAssets": [
+          {
+            "type": "image",
+            "order": 0,
+            "url": "assets/Learn365-image1.png",
+            "alt": ""
+          },
+          {
+            "type": "image",
+            "order": 1,
+            "url": "assets/Learn365-image4.png",
+            "alt": ""
+          },
+          {
+            "type": "image",
+            "order": 2,
+            "url": "assets/Learn365-image2.png",
+            "alt": ""
+          },
+          {
+            "type": "image",
+            "order": 3,
+            "url": "assets/Learn365-image5.png",
+            "alt": ""
+          },
+          {
+            "type": "image",
+            "order": 4,
+            "url": "assets/Learn365-image3.png",
+            "alt": ""
+          }
+        ],
+        "detailItemCategories": [
+          {
+            "name": "Resources",
+            "description": "Possible html supported text shown just above the list of links",
+            "items": [
+              {
+                "url": "https://appsource.microsoft.com/en-us/product/office/WA200001308",
+                "name": "Download the free version of Learn365 from Appsource"
+              },
+              {
+                "url": "https://www.witivio.com/en/office-365-adoption/",
+                "name": "https://www.witivio.com/en/office-365-adoption/"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

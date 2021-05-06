@@ -1,0 +1,40 @@
+{
+  "partnerId": "storyals",
+  "categories": [],
+  "industries": [],
+  "solutions": null,
+  "sortOrder": 0,
+  "preview": false,
+  "visible": false,
+  "logoPicture": null,
+  "logoPictureAlt": "",
+  "partnerName": "Storyals",
+  "mpnId": "0",
+  "metadata": {
+    "displayInfo": {
+      "default": {
+        "shortDescription": "\u003Cdiv\u003E\u003Cp style=\u0022margin-right:0in;margin-left:0in;font-size:12pt;font-family:\u0026quot;Times New Roman\u0026quot;, serif;margin:0in;\u0022\u003E\u003Cspan style=\u0022font-size:11.0pt;font-family:\u0026quot;Calibri\u0026quot;,sans-serif;color:black;\u0022\u003EStoryals provides story-based learning\nsolutions and high-quality adoption services to build digital skills for the\nmodern workplace. With Storyals solutions you can inspire, motivate and educate\nyour users to achieve more - one story at a time.\u003C/span\u003E\u003C/p\u003E\u003C/div\u003E",
+        "descriptionParagraphs": [
+          "\u003Cdiv\u003E\u003Cspan style=\u0022font-family:Lato, sans-serif;font-size:13.3333px;display:inline !important;\u0022\u003EAccelerate digital workplace adoption and build digital skills with Storyals. We provide unique story-based learning solutions to continuously encourage new ways of working to achieve more. Learn from experts and improve the way you work with digital tools in Microsoft 365.\u003C/span\u003E\u003Cbr\u003E \u003C/div\u003E",
+          "\u003Cdiv\u003E\u003Cspan style=\u0022font-family:Calibri, sans-serif;font-size:13.3333px;display:inline !important;\u0022\u003EStoryals learning solutions provide users with a blended program, combining self-paced and instructor-led training, leveraging storytelling to maximize learning. All learning topics highlight digital workplace best practices and feature real-world scenarios. Not everyone welcomes change. With Storyals, users are made aware of the benefits of modern tools and get inspired and motivated to try new ways of working.\u003C/span\u003E\u003Cbr\u003E \u003C/div\u003E",
+          "\u003Cdiv\u003E\u003Cp style=\u0022box-sizing:border-box;margin:0in;font-size:12pt;font-family:Calibri, sans-serif;\u0022\u003E\u003Cspan style=\u0022box-sizing:border-box;font-size:10pt;\u0022\u003EAdd an \u201CAdoption Workshop\u201D and let our experts help you form an adoption plan, join our \u201CDigital Community Gym\u201D to kick-start the new routine and build champions by putting them through a \u201CDigital Champions Bootcamp\u201D where they get 1-1 coaching.\u003C/span\u003E \u003C/p\u003E\u003Cp style=\u0022box-sizing:border-box;margin:0in;font-size:12pt;font-family:Calibri, sans-serif;\u0022\u003E\u003Cspan style=\u0022box-sizing:border-box;font-size:10pt;\u0022\u003E\u0026nbsp;\u003C/span\u003E \u003C/p\u003E\u003Cp style=\u0022box-sizing:border-box;margin:0in;font-size:12pt;font-family:Calibri, sans-serif;\u0022\u003E\u003Cspan style=\u0022box-sizing:border-box;font-size:10pt;\u0022\u003EWe love helping our customers simply work smarter!\u003C/span\u003E \u003C/p\u003E \u003C/div\u003E"
+        ],
+        "mediaAssets": [
+          {
+            "type": "image",
+            "order": 0,
+            "url": "assets/Storyals secondary image.png",
+            "alt": ""
+          },
+          {
+            "type": "image",
+            "order": 1,
+            "url": "assets/Storyals Hero image.png",
+            "alt": ""
+          }
+        ],
+        "detailItemCategories": []
+      }
+    }
+  }
+}

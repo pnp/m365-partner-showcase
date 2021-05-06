@@ -1,0 +1,93 @@
+{
+  "solutionId": "orchestry",
+  "partnerId": "orchestry-software",
+  "categories": [
+    "teams"
+  ],
+  "industries": [],
+  "sortOrder": 0,
+  "preview": false,
+  "visible": false,
+  "solutionLogoPicture": null,
+  "solutionLogoPictureAlt": "",
+  "solutionName": "Orchestry",
+  "solutionUrl": "https://orchestry.com/",
+  "solutionUrlTitle": "Orchestry",
+  "metadata": {
+    "personas": "Developer;End-user;IT Admin",
+    "solutionTechnologies": "Azure;Custom Tabs;Graph API;PnP Framework;SharePoint API;SharePoint sites;SPFx",
+    "businessFunctions": "Adoption;Change Managemenet;Governance",
+    "displayInfo": {
+      "default": {
+        "descriptionParagraphs": [
+          {
+            "name": "Short description",
+            "content": [
+              "\u003Cdiv\u003E\u003Cspan\u003EOrchestry is your governance, adoption, provisioning, and enablement tool for Microsoft Teams.\u003C/span\u003E\u003C/div\u003E"
+            ]
+          },
+          {
+            "name": "Business need or problem",
+            "content": [
+              "\u003Cdiv\u003E\u003Cspan\u003EAs more organizations standardize on Microsoft Teams as their primary method of communication and collaboration, challenges have begun to surface around:\u003C/span\u003E\u003Cdiv\u003E\u003Col\u003E\u003Cli\u003ESetting up a new project, knowing what to use when, do I set up a Teams team, SharePoint site, Yammer Community \u2013 the list goes on.\u003C/li\u003E\u003Cli\u003ECreating a team is either too tightly controlled, creating bottlenecks in productivity, OR far too enabled, which creates duplication and sprawl\u003C/li\u003E\u003Cli\u003ECustomizing a workspace is too time consuming and challenging for a user \u2013 what permissions need to be set, what apps are enabled, etc.\u003C/li\u003E\u003C/ol\u003E\u003C/div\u003E\u003Cspan\u003EOrchestry is a balanced platform, which simplifies the process of creating a collaboration workspace in Microsoft Teams, empowering users to \u2018self-serve\u2019 (driving usage and adoption of Microsoft 365) and enabling admins to provide valuable insights into how their user base is leveraging Microsoft 365 to transform the way their organization works.\u003C/span\u003E\u003Cbr\u003E\u003C/div\u003E"
+            ]
+          },
+          {
+            "name": "Business solution",
+            "content": [
+              "\u003Cdiv\u003E\u003Cp style=\u0022box-sizing:border-box;font-family:SegoeUI;margin:0px 0px 10px;font-size:16px;color:rgb(51, 51, 51);text-align:left;\u0022\u003EOrchestry is a comprehensive governance, adoption, and enablement solution used to simplify the Microsoft 365 experience through a balance of adoption tools, engaging pre-built templates, controlled provisioning, transparent governance and manicured self-service for administrators all the way through end users, natively built within Microsoft Teams. Orchestry\u2019s core capabilities include:\u003Cbr style=\u0022box-sizing:border-box;\u0022\u003E\u003Cbr style=\u0022box-sizing:border-box;\u0022\u003ETransparent governance:\u003C/p\u003E\u003Cul style=\u0022box-sizing:border-box;font-family:SegoeUI;margin:0px 0px 20px 20px;list-style:disc;font-size:16px;color:rgb(51, 51, 51);text-align:left;\u0022\u003E\u003Cli style=\u0022box-sizing:border-box;margin-left:20px;margin-bottom:15px;\u0022\u003EManage the creation of Microsoft Teams teams, Outlook Groups, SharePoint communication sites, and SharePoint sites.\u003C/li\u003E\u003Cli style=\u0022box-sizing:border-box;margin-left:20px;margin-bottom:15px;\u0022\u003EGovern teams and sites through end-to-end provisioning lifecycle management.\u003C/li\u003E\u003Cli style=\u0022box-sizing:border-box;margin-left:20px;margin-bottom:15px;\u0022\u003EControl naming policies while surfacing existing teams and sites with the informative Workspace Directory.\u003C/li\u003E\u003Cli style=\u0022box-sizing:border-box;margin-left:20px;margin-bottom:15px;\u0022\u003EDefine default owner/member settings with set minimums.\u003C/li\u003E\u003Cli style=\u0022box-sizing:border-box;margin-left:20px;margin-bottom:15px;\u0022\u003EStreamline workspace requests with automated workflows and approvals.\u003C/li\u003E\u003C/ul\u003E\u003Cspan style=\u0022color:rgb(51, 51, 51);font-family:SegoeUI;font-size:16px;text-align:left;display:inline !important;\u0022\u003ESelf-service provisioning:\u003C/span\u003E\u003Cul style=\u0022box-sizing:border-box;font-family:SegoeUI;margin:0px 0px 20px 20px;list-style:disc;font-size:16px;color:rgb(51, 51, 51);text-align:left;\u0022\u003E\u003Cli style=\u0022box-sizing:border-box;margin-left:20px;margin-bottom:15px;\u0022\u003EIntuitive, beautifully-designed and interactive Workspace request wizard.\u003C/li\u003E\u003Cli style=\u0022box-sizing:border-box;margin-left:20px;margin-bottom:15px;\u0022\u003ERequest new workspace in minutes with automated approval workflows.\u003C/li\u003E\u003Cli style=\u0022box-sizing:border-box;margin-left:20px;margin-bottom:15px;\u0022\u003ELog Workspace request history, default owners and members.\u003C/li\u003E\u003Cli style=\u0022box-sizing:border-box;margin-left:20px;margin-bottom:15px;\u0022\u003EAdd Workspace features and document templates both standard and custom.\u003C/li\u003E\u003Cli style=\u0022box-sizing:border-box;margin-left:20px;margin-bottom:15px;\u0022\u003EEnforce naming conventions and unveil existing Workspace with like names.\u003C/li\u003E\u003Cli style=\u0022box-sizing:border-box;margin-left:20px;margin-bottom:15px;\u0022\u003EDefine and control metadata inputs as required.\u003C/li\u003E\u003C/ul\u003E\u003Cspan style=\u0022color:rgb(51, 51, 51);font-family:SegoeUI;font-size:16px;text-align:left;display:inline !important;\u0022\u003EPre-built Workspace Templates:\u003C/span\u003E\u003Cul style=\u0022box-sizing:border-box;font-family:SegoeUI;margin:0px 0px 20px 20px;list-style:disc;font-size:16px;color:rgb(51, 51, 51);text-align:left;\u0022\u003E\u003Cli style=\u0022box-sizing:border-box;margin-left:20px;margin-bottom:15px;\u0022\u003EPre-built Workspace Templates in Orchestry to save you time and money.\u003C/li\u003E\u003Cli style=\u0022box-sizing:border-box;margin-left:20px;margin-bottom:15px;\u0022\u003ECreate custom Workspace Templates with PnP templates, Site Design, and more.\u003C/li\u003E\u003Cli style=\u0022box-sizing:border-box;margin-left:20px;margin-bottom:15px;\u0022\u003EPre-configure Microsoft Teams tabs, channels, settings, team information, etc.\u003C/li\u003E\u003Cli style=\u0022box-sizing:border-box;margin-left:20px;margin-bottom:15px;\u0022\u003EAdd standard Features and Document Templates to templates.\u003C/li\u003E\u003Cli style=\u0022box-sizing:border-box;margin-left:20px;margin-bottom:15px;\u0022\u003EBuilt-in Planner templates, SharePoint libraries, Yammer conversations, etc.\u003C/li\u003E\u003C/ul\u003E\u003Cspan style=\u0022color:rgb(51, 51, 51);font-family:SegoeUI;font-size:16px;text-align:left;display:inline !important;\u0022\u003EInformative Workspace Directory:\u003C/span\u003E\u003Cul style=\u0022box-sizing:border-box;font-family:SegoeUI;margin:0px 0px 20px 20px;list-style:disc;font-size:16px;color:rgb(51, 51, 51);text-align:left;\u0022\u003E\u003Cli style=\u0022box-sizing:border-box;margin-left:20px;margin-bottom:15px;\u0022\u003EMitigate teams and site sprawl with the informative Directory for all Workspaces.\u003C/li\u003E\u003Cli style=\u0022box-sizing:border-box;margin-left:20px;margin-bottom:15px;\u0022\u003EFilter and sort by Workspace type, teams, sites or groups.\u003C/li\u003E\u003Cli style=\u0022box-sizing:border-box;margin-left:20px;margin-bottom:15px;\u0022\u003EFavorite frequently used workspaces for instant access to teams/sites.\u003C/li\u003E\u003Cli style=\u0022box-sizing:border-box;margin-left:20px;margin-bottom:15px;\u0022\u003ELook up any existing Workspace before new Workspace Request\u003C/li\u003E\u003Cli style=\u0022box-sizing:border-box;margin-left:20px;margin-bottom:15px;\u0022\u003EAdd custom metadata for further filtering and finding.\u003C/li\u003E\u003C/ul\u003E\u003Cspan style=\u0022color:rgb(51, 51, 51);font-family:SegoeUI;font-size:16px;text-align:left;display:inline !important;\u0022\u003EOrchestry enables end users to request Workspaces with pre-built and/or pre-defined Workspace Templates, which includes Orchestry\u2019s popular pre-built Workspace Templates loaded with full-developed custom web parts. Once approved, Workspaces are provisioned in just minutes with transparent governance through to the end-user. Orchestry\u2019s intuitively-designed but extremely powerful interface makes the complex simple and the impossible plausible in Microsoft 365.\u003C/span\u003E\u003Cbr\u003E\u003C/div\u003E"
+            ]
+          }
+        ],
+        "mediaAssets": [
+          {
+            "type": "image",
+            "order": 0,
+            "url": "assets/Orchestry Solution - 1.png",
+            "alt": ""
+          },
+          {
+            "type": "image",
+            "order": 1,
+            "url": "assets/Orchestry Solution - 3.png",
+            "alt": ""
+          },
+          {
+            "type": "image",
+            "order": 2,
+            "url": "assets/Orchestry Solution - 2.png",
+            "alt": ""
+          }
+        ],
+        "detailItemCategories": [
+          {
+            "name": "Resources",
+            "description": "Possible html supported text shown just above the list of links",
+            "items": [
+              {
+                "url": "https://www.orchestry.com/?utm_source=microsoft_adoption_catalog",
+                "name": "Orchestry application - work made simple in Microsoft Teams"
+              },
+              {
+                "url": "https://vimeo.com/510930153",
+                "name": "Orchestry video - product overview"
+              },
+              {
+                "url": "https://www.orchestry.com/resource/maine-source-homes-streamlines-project-management-microsoft-365",
+                "name": "Orchestry customer story - Maine Source Homes project management Microsoft 365"
+              },
+              {
+                "url": "https://www.orchestry.com/event/orchestry-live-demo-work-made-simple-in-microsoft-365-ms-teams-and-sharepoint-sites/",
+                "name": "Orchestry demo - product walk-through demonstration"
+              },
+              {
+                "url": "https://www.orchestry.com/insight/innovation/the-future-of-work/get-more-from-microsoft-365-with-orchestry/",
+                "name": "Orchestry article - what Microsoft 365 challenges does Orchestry solve?"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

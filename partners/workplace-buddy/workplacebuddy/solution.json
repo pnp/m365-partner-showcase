@@ -1,0 +1,90 @@
+{
+  "solutionId": "workplacebuddy",
+  "partnerId": "workplace-buddy",
+  "categories": [
+    "learningpathways"
+  ],
+  "industries": [],
+  "sortOrder": 0,
+  "preview": false,
+  "visible": false,
+  "solutionLogoPicture": null,
+  "solutionLogoPictureAlt": "",
+  "solutionName": "WorkplaceBuddy",
+  "solutionUrl": "https://www.workplacebuddy.com",
+  "solutionUrlTitle": "WorkplaceBuddy",
+  "metadata": {
+    "personas": "C-level;HR;IT",
+    "solutionTechnologies": "Azure;Graph API;SPFx",
+    "businessFunctions": null,
+    "displayInfo": {
+      "default": {
+        "descriptionParagraphs": [
+          {
+            "name": "Short description",
+            "content": [
+              "\u003Cdiv\u003E\u0026#129433; Hey, let us be your tour guide to digital success! WorkplaceBuddy helps employees personally to become digitally skilled with a proactive chatbot and e-learning... with lots of fun!\u003Cbr\u003E\u003C/div\u003E"
+            ]
+          },
+          {
+            "name": "Business need or problem",
+            "content": [
+              "\u003Cdiv\u003E\u003Cspan style=\u0022font-size:11.0pt;font-family:\u0026quot;Calibri\u0026quot;,sans-serif;\u0022\u003EWorkplaceBuddy is there for all organizations\nwho want their colleagues to get the most out of their digital tools.\nOrganizations who are struggling with too many service / support tickets, who\nlost confidence in getting return on investment on their digital tools, who are\nuncertain if their colleagues will be motivated to work with digital tools, who\nwant to change ways of working, who want to easily reach out to all colleagues\nand create a positive engagement - WorkplaceBuddy will help you.\u0026nbsp;\u003C/span\u003E\u003Cbr\u003E\u003C/div\u003E"
+            ]
+          },
+          {
+            "name": "Business solution",
+            "content": [
+              "\u003Cdiv\u003E\u003Cspan style=\u0022font-size:11.0pt;font-family:\u0026quot;Calibri\u0026quot;,sans-serif;\u0022\u003EWith our Teams app colleagues can chat (and be\nreached out to), find learnings and keep track of their learning journey. After\ntaking the interview with the chatbot, we build a personal and relevant\nlearning journey - sending you e-learnings through the chatbot and relevant\ntips. You can earn badges and track your progress. As an admin you can view\ndashboards for your organization, see where skills are lacking and what\nsoftware needs\u0026nbsp;to\u0026nbsp;be explained better to colleagues. You can also\nextend the chatbot and learning content with your own relevant content, such as\nonboarding paths and specific software training\u003C/span\u003E\u003Cbr\u003E\u003C/div\u003E"
+            ]
+          }
+        ],
+        "mediaAssets": [
+          {
+            "type": "image",
+            "order": 0,
+            "url": "assets/solution-page-1.jpg",
+            "alt": ""
+          },
+          {
+            "type": "image",
+            "order": 1,
+            "url": "assets/solution-page-5.jpg",
+            "alt": ""
+          },
+          {
+            "type": "image",
+            "order": 2,
+            "url": "assets/solution-page-6.jpg",
+            "alt": ""
+          },
+          {
+            "type": "image",
+            "order": 3,
+            "url": "assets/solution-page-3.jpg",
+            "alt": ""
+          },
+          {
+            "type": "image",
+            "order": 4,
+            "url": "assets/solution-page-4.jpg",
+            "alt": ""
+          },
+          {
+            "type": "image",
+            "order": 5,
+            "url": "assets/solution-page-2.jpg",
+            "alt": ""
+          }
+        ],
+        "detailItemCategories": [
+          {
+            "name": "Resources",
+            "description": "Possible html supported text shown just above the list of links",
+            "items": []
+          }
+        ]
+      }
+    }
+  }
+}

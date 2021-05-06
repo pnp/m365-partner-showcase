@@ -1,0 +1,60 @@
+{
+  "solutionId": "lightningconductor",
+  "partnerId": "lightning-tools",
+  "categories": [
+    "teams"
+  ],
+  "industries": [],
+  "sortOrder": 0,
+  "preview": false,
+  "visible": false,
+  "solutionLogoPicture": null,
+  "solutionLogoPictureAlt": "",
+  "solutionName": "Lightning Conductor for Microsoft Teams",
+  "solutionUrl": "https://lightningtools.com/contact-us",
+  "solutionUrlTitle": "Lightning Conductor for Microsoft Teams",
+  "metadata": {
+    "personas": "Business Users;Developer",
+    "solutionTechnologies": "Graph API;Search;SPFx",
+    "businessFunctions": null,
+    "displayInfo": {
+      "default": {
+        "descriptionParagraphs": [
+          {
+            "name": "Short description",
+            "content": [
+              "\u003Cdiv\u003EContent Aggregation for Microsoft Teams. Create stylish views of content from aggregated SharePoint lists and libraries, Search results, and Microsoft Graph entities such as Planner tasks, OneDrive items, and messages.\u003Cbr\u003E\u003C/div\u003E"
+            ]
+          },
+          {
+            "name": "Business need or problem",
+            "content": [
+              "\u003Cdiv\u003EThroughout Microsoft 365, business users work with content. The content may reside within SharePoint lists and libraries, Microsoft Planner, OneDrive, Outlook, and many more repositories. The Lightning Conductor enables business users to make the content available within Microsoft Teams, where the user is spending the majority of their time. For example, you could build aggregated Task list reports highlighting overdue tasks, or bring your documents from multiple SharePoint document libraries into Microsoft Teams\u003Cbr\u003E\u003C/div\u003E"
+            ]
+          },
+          {
+            "name": "Business solution",
+            "content": [
+              "\u003Cdiv\u003EThe Lightning Conductor provides a tool that Microsoft Teams owners can configure to report on content from Microsoft 365. Using a powerful but simple to use configuration dialog, content can be queried from throughout SharePoint, Search, or Microsoft Graph entities. Columns can be selected, re-organized, grouped, conditionally formatted, and styled. All of the configuration can be achieved without complexity allowing team owners to build reports that business users can use to be within easy reach of their content.\u003Cbr\u003E\u003C/div\u003E"
+            ]
+          }
+        ],
+        "mediaAssets": [
+          {
+            "type": "image",
+            "order": 0,
+            "url": "assets/Lightning Conductor.png",
+            "alt": ""
+          }
+        ],
+        "detailItemCategories": [
+          {
+            "name": "Resources",
+            "description": "Possible html supported text shown just above the list of links",
+            "items": []
+          }
+        ]
+      }
+    }
+  }
+}

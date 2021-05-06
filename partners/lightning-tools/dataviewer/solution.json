@@ -1,0 +1,60 @@
+{
+  "solutionId": "dataviewer",
+  "partnerId": "lightning-tools",
+  "categories": [
+    "teams"
+  ],
+  "industries": [],
+  "sortOrder": 0,
+  "preview": false,
+  "visible": false,
+  "solutionLogoPicture": null,
+  "solutionLogoPictureAlt": "",
+  "solutionName": "Data Viewer for Microsoft Teams",
+  "solutionUrl": "https://lightningtools.com/contact-us",
+  "solutionUrlTitle": "Data Viewer for Microsoft Teams",
+  "metadata": {
+    "personas": "Business Users",
+    "solutionTechnologies": "Graph API;SPFx",
+    "businessFunctions": null,
+    "displayInfo": {
+      "default": {
+        "descriptionParagraphs": [
+          {
+            "name": "Short description",
+            "content": [
+              "\u003Cdiv\u003EData Viewer for Microsoft Teams provides business users with the ability to easily report on data in the form of Table views or Charts.\u003Cbr\u003E\u003C/div\u003E"
+            ]
+          },
+          {
+            "name": "Business need or problem",
+            "content": [
+              "\u003Cdiv\u003EBusiness users need access to reports on business data within Microsoft Teams in order to make better determined and informed business decisions. Charts, or Tables with key performance indicators, are fast and simple to create for business users to enable information to be built and shared with team members quickly using the Data Viewer in Microsoft Teams tabs.\u003Cbr\u003E\u003C/div\u003E"
+            ]
+          },
+          {
+            "name": "Business solution",
+            "content": [
+              "\u003Cdiv\u003EThe Data Viewer is a simple to configure tool for Microsoft Teams and SharePoint that enables Table view reports or Charts to be built on external or internal data quickly. Reports can be established on Excel Files, SQL Azure Databases, OData services, SharePoint Lists, and Business Connectivity Services External Content Types. Within the Data Viewer, Tables can be defined where the user can determine which columns to display, set data formatting, grouping, and conditional formatting all without code. Alternatively, Charts such as column, line, surface area, pie, donut, and bar charts can be created and styled on the same underlying data sources.\u003Cbr\u003E\u003C/div\u003E"
+            ]
+          }
+        ],
+        "mediaAssets": [
+          {
+            "type": "image",
+            "order": 0,
+            "url": "assets/DataViewer.png",
+            "alt": ""
+          }
+        ],
+        "detailItemCategories": [
+          {
+            "name": "Resources",
+            "description": "Possible html supported text shown just above the list of links",
+            "items": []
+          }
+        ]
+      }
+    }
+  }
+}

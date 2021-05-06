@@ -1,0 +1,27 @@
+{
+  "partnerId": "Aamir-partner-ID",
+  "categories": [],
+  "industries": [],
+  "solutions": null,
+  "sortOrder": 0,
+  "preview": false,
+  "visible": false,
+  "logoPicture": null,
+  "logoPictureAlt": "",
+  "partnerName": "Amir-partner-name",
+  "mpnId": "0",
+  "metadata": {
+    "displayInfo": {
+      "default": {
+        "shortDescription": "Short Description for Partner!.",
+        "descriptionParagraphs": [
+          "Feature Description Para 1",
+          "Feature Description Para 2",
+          "Feature Description Para 3"
+        ],
+        "mediaAssets": [],
+        "detailItemCategories": []
+      }
+    }
+  }
+}
