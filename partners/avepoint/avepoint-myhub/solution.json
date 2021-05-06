@@ -1,0 +1,97 @@
+{
+  "solutionId": "avepoint-myhub",
+  "partnerId": "avepoint",
+  "categories": [
+    "teams"
+  ],
+  "industries": [],
+  "sortOrder": 0,
+  "preview": false,
+  "visible": false,
+  "solutionLogoPicture": null,
+  "solutionLogoPictureAlt": "",
+  "solutionName": "AvePoint MyHub",
+  "solutionUrl": "https://www.avepoint.com/products/cloud/myhub",
+  "solutionUrlTitle": "AvePoint MyHub",
+  "metadata": {
+    "personas": "Business Admin;IT;Knowledge Worker",
+    "solutionTechnologies": "Azure AD;Microsoft 365;Microsoft Teams;SharePoint sites;Yammer",
+    "businessFunctions": null,
+    "displayInfo": {
+      "default": {
+        "descriptionParagraphs": [
+          {
+            "name": "Short description",
+            "content": [
+              "\u003Cdiv\u003E\u003Cb\u003E\u003Cspan style=\u0022font-size:14.0pt;font-family:\u0026quot;Calibri\u0026quot;,sans-serif;\u0022\u003EEasily organize and keep track of your Teams,\nSites, Groups and Communities in Microsoft 365.\u003C/span\u003E\u003C/b\u003E\u003Cbr\u003E\u003C/div\u003E"
+            ]
+          },
+          {
+            "name": "Business need or problem",
+            "content": [
+              "\u003Cdiv\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:Calibri, sans-serif;margin-bottom:6.0pt;\u0022\u003E\u003Cspan style=\u0022font-size:10.0pt;\u0022\u003EIncreased\ncollaboration across various Microsoft 365 services like Microsoft Teams,\nSharePoint and Yammer \u003Cspan style=\u0022\u0022\u003E\u0026nbsp;\u003C/span\u003Eas adoption of\nMicrosoft 365 continues to grow at a rapid pace.\u003C/span\u003E\u003C/p\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:Calibri, sans-serif;margin-bottom:6.0pt;\u0022\u003E\u003Cspan style=\u0022font-size:10.0pt;\u0022\u003EIn\naddition to rapid adoption of these services, membership to multiple Teams,\nGroups, or access to various SharePoint sites are overwhelming Microsoft 365\nusers.\u003C/span\u003E\u003C/p\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:Calibri, sans-serif;margin-bottom:6.0pt;\u0022\u003E\u003Cspan style=\u0022font-size:10.0pt;\u0022\u003EWith\nthis challenge, how can you easily organize, centralize, and manage your\nMicrosoft 365 workspaces? How can you have a one stop shop and have a single\nview into all the workspaces they collaborate?\u003Cspan style=\u0022\u0022\u003E\u0026nbsp;\n\u003C/span\u003EHow can you organize these collaboration workspaces based on importance\nor purpose?\u003Cspan style=\u0022\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003C/span\u003E\u003C/p\u003E\u003C/div\u003E"
+            ]
+          },
+          {
+            "name": "Business solution",
+            "content": [
+              "\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:Calibri, sans-serif;margin-bottom:6.0pt;\u0022\u003E\u003Cspan style=\u0022font-size:10.0pt;\u0022\u003EAvePoint\nMyHub is a Microsoft 365 certified Microsoft Teams app that provides a central\nlocation for users to manage their existing Microsoft 365 workspaces (Microsoft\nTeams, Microsoft 365 Groups, Yammer communities, and SharePoint sites) and\ncreate new ones.\u003Cspan style=\u0022\u0022\u003E\u0026nbsp; \u003C/span\u003E\u003C/span\u003E\u003C/p\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:Calibri, sans-serif;margin-bottom:6.0pt;\u0022\u003E\u003Cspan style=\u0022font-size:10.0pt;\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003Cspan style=\u0022font-size:10pt;\u0022\u003EUsers\nare able to create \u201Cpersonal tags\u201D to filter organize and filter workspaces\nacross hubs.\u003C/span\u003E\u003Cspan style=\u0022font-size:10pt;\u0022\u003E\u0026nbsp; \u003C/span\u003E\u003Cspan style=\u0022font-size:10pt;\u0022\u003EFor example, a user can\napply a \u201CProject\u201D tag to all project-related workspaces across Microsoft Teams,\nYammer and SharePoint.\u003C/span\u003E\u003C/p\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:Calibri, sans-serif;margin-bottom:6.0pt;\u0022\u003E\u003Cspan style=\u0022font-size:10.0pt;\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003Cspan style=\u0022font-size:10pt;\u0022\u003EMyHub\nallows users to easily find and organize the workspaces of interest, while\nhaving the ability to quickly navigate to the files, tasks, calendars, or\ncontent they need from a single location.\u003C/span\u003E\u003Cspan style=\u0022font-size:10pt;\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003C/p\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:Calibri, sans-serif;margin-bottom:6.0pt;\u0022\u003E\u003Cspan style=\u0022font-size:10pt;\u0022\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:Calibri, sans-serif;margin-bottom:6.0pt;\u0022\u003E\u003Cspan style=\u0022font-size:10.0pt;\u0022\u003EMicrosoft\n365 offers powerful collaboration workspaces, and MyHub aims to reduce time\nspent looking for information and gives users direct access to workspaces they\ncare the most about.\u003C/span\u003E\u003C/p\u003E\u003C/span\u003E\u003C/p\u003E"
+            ]
+          }
+        ],
+        "mediaAssets": [
+          {
+            "type": "image",
+            "order": 0,
+            "url": "assets/MyHub_image1.png",
+            "alt": ""
+          },
+          {
+            "type": "image",
+            "order": 1,
+            "url": "assets/MyHub_image5.PNG",
+            "alt": ""
+          },
+          {
+            "type": "image",
+            "order": 2,
+            "url": "assets/MyHub_image2.PNG",
+            "alt": ""
+          },
+          {
+            "type": "image",
+            "order": 3,
+            "url": "assets/MyHub_image4.PNG",
+            "alt": ""
+          },
+          {
+            "type": "image",
+            "order": 4,
+            "url": "assets/MyHub_image3.png",
+            "alt": ""
+          }
+        ],
+        "detailItemCategories": [
+          {
+            "name": "Resources",
+            "description": "Possible html supported text shown just above the list of links",
+            "items": [
+              {
+                "url": "https://avepointcrm-my.sharepoint.com/personal/dux_sy_avepoint_com/Documents/Microsoft%20Teams%20Chat%20Files/Interactive%20guided%20walkthroughs%20provide%20immediate%20return%20on%20investment%20of%20your%20initiatives.%20The%20key%20performance%20indicators%20for%20walkthroughs%20include:",
+                "name": "AvePoint MyHub\nproduct information"
+              },
+              {
+                "url": "https://www.avepoint.com/case-studies/city-of-port-st-lucie-fixes-thousands-of-over-permissioned-sharing-links-improves-guest-access-oversight-with-policies-and-insights",
+                "name": "How City of PortSt. Lucie, Florida leverages AvePoint\nMyHub"
+              },
+              {
+                "url": "https://docs.microsoft.com/en-us/microsoft-365-app-certification/teams/avepoint-inc-myhub?pivots=general",
+                "name": "AvePoint MyHub is Microsoft 365 certified"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,65 +1,40 @@
 {
-    "partnerId": "valo",
-    "categories": [
-      "PARTNER-CATEGORY01", "PARTNER-CATEGORY03"
-    ],
-    "industries": [
-      "INDUSTRY01", "INDUSTRY02"
-    ],
-    "sortOrder": 200,
-    "preview": true,
-    "visible": false,
-    "logoPicture": "/assets/logo.png", 
-    "logoPictureAlt": "LiveTiles",
-    "partnerName": "LiveTiles",
-    "mpnId": "5351859",
-    "metadata": {
-        "displayInfo": {
-          "default": {
-            "descriptionParagraphs": [
-              "Conversational bots allow users to interact with your web service through text, interactive cards, and task modules.",
-              "Conversational bots can be scoped to handling a few simple commands or complex, artificial intelligence powered and natural language processing virtual assistants.",
-              "They can be one aspect of a larger application, or completely stand alone."
-            ],
-            "mediaAssets": [
-              {
-                "type": "image",
-                "order": 100,
-                "url": "/assets/promo-bot.png",
-                "alt": "Alt text for the image"
-              },
-              {
-                "type": "video",
-                "order": 101,
-                "url": "https://youtube.com/embed/3120470",
-                "alt": "Alt text for the video"
-              }
-            ],
-            "detailItemCategories": [
-                {
-                  "name": "Resources",
-                  "description": "Possible html supported text shown just above the list of links",
-                  "items": [
-                    {
-                      "name": "Here are some additional references"
-                    },
-                    {
-                      "name": "Additional link",
-                      "url": "http://aka.ms/m365pnp"
-                    },
-                    {
-                      "name": "Second additional link",
-                      "url": "http://aka.ms/m365pnp"
-                    }
-                  ]
-                }
-              ]
-            }
-        },
-        "fi": {
-            "descriptionParagraphs": [
-                "Jotain todella outoa Suomeksi mitä käytetään testissä. Paolo on hieno mies."
-              ]
-        }
-    }    
+  "partnerId": "valo",
+  "categories": [],
+  "industries": [],
+  "solutions": null,
+  "sortOrder": 0,
+  "preview": false,
+  "visible": false,
+  "logoPicture": null,
+  "logoPictureAlt": "",
+  "partnerName": "Valo Solutions",
+  "mpnId": "1136673",
+  "metadata": {
+    "displayInfo": {
+      "default": {
+        "shortDescription": "\u003Cdiv\u003EValo are a pioneering Digital Workplace product provider which is home to many talented and influential Microsoft 365 professionals. Our solutions have been awarded with the coveted Microsoft \u201CPartner of the Year\u201D honor. #ValoCheers to great achievements!\u003Cbr\u003E\u003C/div\u003E",
+        "descriptionParagraphs": [
+          "\u003Cdiv\u003E\u003Cp style=\u0022box-sizing:border-box;font-family:SegoeUI;margin:0px 0px 10px;font-size:16px;color:rgb(51, 51, 51);\u0022\u003EDrive innovation with\u003Cspan style=\u0022box-sizing:border-box;\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003Cstrong style=\u0022box-sizing:border-box;font-weight:bold;font-family:\u0026quot;SegoeUI Semibold\u0026quot;  !important;\u0022\u003EValo Ideas\u003C/strong\u003E. Co-create and drive innovation while having fun. With Valo Ideas your workers can present new ideas, discuss and react on them from Microsoft Teams! \u003C/p\u003E\u003Cp style=\u0022box-sizing:border-box;font-family:SegoeUI;margin:0px 0px 10px;font-size:16px;color:rgb(51, 51, 51);\u0022\u003EBuild a custom enterprise portal with\u003Cspan style=\u0022box-sizing:border-box;\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003Cstrong style=\u0022box-sizing:border-box;font-weight:bold;font-family:\u0026quot;SegoeUI Semibold\u0026quot;  !important;\u0022\u003EValo Connect\u003C/strong\u003E. Unite your team and tools under one roof. With Valo Connect you can communicate, collaborate and co-innovate without leaving the comfort of Microsoft Teams. \u003C/p\u003E \u003C/div\u003E",
+          "\u003Cdiv\u003E\u003Cp style=\u0022box-sizing:border-box;font-family:SegoeUI;margin:0px 0px 10px;font-size:16px;color:rgb(51, 51, 51);\u0022\u003ETake it easy with external stakeholder access management.\u003Cspan style=\u0022box-sizing:border-box;\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003Cstrong style=\u0022box-sizing:border-box;font-weight:bold;font-family:\u0026quot;SegoeUI Semibold\u0026quot;  !important;\u0022\u003EValo Entrance\u003C/strong\u003E\u003Cspan style=\u0022box-sizing:border-box;\u0022\u003E\u0026nbsp;\u003C/span\u003Emakes it easy for you to share your resources by automating and streamlining many time-consuming tasks you would traditionally have when inviting and managing external user rights in your Microsoft 365 environment. \u003C/p\u003E\u003Cp style=\u0022box-sizing:border-box;font-family:SegoeUI;margin:0px 0px 10px;font-size:16px;color:rgb(51, 51, 51);\u0022\u003EAn intranet you\u2019ll fall in love with.\u003Cspan style=\u0022box-sizing:border-box;\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003Cstrong style=\u0022box-sizing:border-box;font-weight:bold;font-family:\u0026quot;SegoeUI Semibold\u0026quot;  !important;\u0022\u003EValo Intranet\u003C/strong\u003E\u003Cspan style=\u0022box-sizing:border-box;\u0022\u003E\u0026nbsp;\u003C/span\u003Eis the center of all internal communication and teamwork on your organization. It offers all the features your team will need \u2013 along with a beautiful user experience. \u003C/p\u003E \u003C/div\u003E",
+          "\u003Cdiv\u003E\u003Cstrong style=\u0022box-sizing:border-box;color:rgb(51, 51, 51);font-size:16px;font-weight:bold;font-family:\u0026quot;SegoeUI Semibold\u0026quot;  !important;\u0022\u003EValo Teamwork\u003C/strong\u003E\u003Cspan style=\u0022box-sizing:border-box;color:rgb(51, 51, 51);font-family:SegoeUI;font-size:16px;\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003Cspan style=\u0022color:rgb(51, 51, 51);font-family:SegoeUI;font-size:16px;display:inline !important;\u0022\u003Ebrings all your collaboration tools together. Managing between multiple workspaces and tools can be exhausting. Teamwork brings everything together in one view and let\u2019s administrators have full control of the group lifecycle.\u003C/span\u003E\u003Cbr\u003E \u003C/div\u003E"
+        ],
+        "mediaAssets": [
+          {
+            "type": "image",
+            "order": 0,
+            "url": "assets/Valo-Fall in love with your digital workplace.jpg",
+            "alt": ""
+          },
+          {
+            "type": "image",
+            "order": 1,
+            "url": "assets/Valo DWP-featured.jpg",
+            "alt": ""
+          }
+        ],
+        "detailItemCategories": []
+      }
+    }
+  }
 }

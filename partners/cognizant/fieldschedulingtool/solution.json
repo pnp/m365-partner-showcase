@@ -1,0 +1,49 @@
+{
+  "solutionId": "fieldschedulingtool",
+  "partnerId": "cognizant",
+  "categories": [],
+  "industries": [],
+  "sortOrder": 0,
+  "preview": false,
+  "visible": false,
+  "solutionLogoPicture": null,
+  "solutionLogoPictureAlt": "",
+  "solutionName": "Field Scheduling Tool",
+  "solutionUrl": null,
+  "solutionUrlTitle": "Field Scheduling Tool",
+  "metadata": {
+    "personas": "Auditor;Front Line Worker",
+    "solutionTechnologies": "Power App;SharePoint sites",
+    "businessFunctions": null,
+    "displayInfo": {
+      "default": {
+        "descriptionParagraphs": [
+          {
+            "name": "Short description",
+            "content": []
+          },
+          {
+            "name": "Business need or problem",
+            "content": [
+              "\u003Cdiv\u003E\u003Cp style=\u0022margin:0in 0in 8pt;font-size:11pt;font-family:\u0026quot;Segoe UI\u0026quot;, sans-serif;\u0022\u003E\u003Cspan lang=EN-GB style=\u0022\u0022\u003EMcDonald\u2019s\nmanaged scheduling field visits of various types on quarterly/annual basis to\nthe restaurants manually. These visits are conducted by McDonald\u2019s operations\nteam to various franchisee restaurants for quality control purposes.\nRestaurants were spread across US and were divided across 10 field offices\nbased in cities that serve as zone of operations. Each field office have\napproximately 1500 restaurants. In addition to that, each field office had a\nnumber of operations lead who have a set number of restaurants under them. They\nhave subordinates to conducts the visits to each restaurants and the scheduling\nof these visits are done by the leads.\u003Cbr style=\u0022\u0022\u003E\u003Cbr style=\u0022\u0022\u003E\u003C/span\u003E\u003C/p\u003E\u003Cp style=\u0022margin:0in 0in 8pt;font-size:11pt;font-family:\u0026quot;Segoe UI\u0026quot;, sans-serif;text-align:justify;\u0022\u003E\u003Cspan lang=EN-GB style=\u0022\u0022\u003EThe manual scheduling process was carried\nover emails and other channels of communication which often led to conflicts.\nFor example, say, there is a type of visit that has to happen quarterly for a\nrestaurant. Since scheduling was done manually, it often led to scheduling the\nsame type of visit to the same restaurant in same quarter. There are 10 types\nof visit that have different frequencies and have different business\nrequirements.\u003C/span\u003E\u003C/p\u003E\u003C/div\u003E"
+            ]
+          },
+          {
+            "name": "Business solution",
+            "content": [
+              "\u003Cdiv\u003E\u003Cp style=\u0022margin:0in 0in 8pt;font-size:11pt;font-family:\u0026quot;Segoe UI\u0026quot;, sans-serif;text-align:justify;\u0022\u003E\u003Cspan lang=EN-GB style=\u0022\u0022\u003EThis solution automates scheduling visits to\nrestaurants by operations team. It is smart to consider various business logic\nand provide appropriate alerts, suggestions, alternatives (when possibly visit\ncan be scheduled or when there is a conflict). The solution also considers existing\ndatabase that contains historic data of all visits and incorporates in business\nlogic.\u003C/span\u003E\u003C/p\u003E\u003Cp style=\u0022margin:0in 0in 8pt;font-size:11pt;font-family:\u0026quot;Segoe UI\u0026quot;, sans-serif;text-align:justify;\u0022\u003E\u003Cspan lang=EN-GB style=\u0022\u0022\u003EThe visit scheduling app is responsive and\navailable across all mobile devices and modern desktop browsers.\u003C/span\u003E\u003C/p\u003E\u003Cp style=\u0022margin:0in 0in 8pt;font-size:11pt;font-family:\u0026quot;Segoe UI\u0026quot;, sans-serif;text-align:justify;\u0022\u003E\u003Cspan lang=EN-GB style=\u0022\u0022\u003EThe solution also provides a reporting app\nthat shows visit status for all restaurant for field office.\u003C/span\u003E\u003C/p\u003E\u003Cbr\u003E\u003C/div\u003E"
+            ]
+          }
+        ],
+        "mediaAssets": [],
+        "detailItemCategories": [
+          {
+            "name": "Resources",
+            "description": "Possible html supported text shown just above the list of links",
+            "items": []
+          }
+        ]
+      }
+    }
+  }
+}

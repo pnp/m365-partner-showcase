@@ -1,0 +1,83 @@
+{
+  "solutionId": "yourknowhow",
+  "partnerId": "365tribe-ltd",
+  "categories": [
+    "learningpathways"
+  ],
+  "industries": [],
+  "sortOrder": 0,
+  "preview": false,
+  "visible": false,
+  "solutionLogoPicture": null,
+  "solutionLogoPictureAlt": "",
+  "solutionName": "YourKnowHow",
+  "solutionUrl": "https://www.365tribe.co.uk/your-know-how/",
+  "solutionUrlTitle": "YourKnowHow",
+  "metadata": {
+    "personas": "Digital Champions;End-user",
+    "solutionTechnologies": "Microsoft Teams;SharePoint sites;Stream",
+    "businessFunctions": null,
+    "displayInfo": {
+      "default": {
+        "descriptionParagraphs": [
+          {
+            "name": "Short description",
+            "content": [
+              "\u003Cdiv\u003E\u003Cspan style=\u0022font-size:11.0pt;font-family:\u0026quot;Calibri\u0026quot;,sans-serif;\u0022\u003EComplement\nyour Learning Pathways content with live expert sessions and bitesize video!\u003C/span\u003E\u003Cbr\u003E\u003C/div\u003E"
+            ]
+          },
+          {
+            "name": "Business need or problem",
+            "content": [
+              "\u003Cdiv\u003E\u003Cspan style=\u0022font-size:11.0pt;font-family:\u0026quot;Calibri\u0026quot;,sans-serif;\u0022\u003EIn\nmany organisations, Microsoft 365 adoption can be hampered by misunderstandings\nand a lack of support for users. The first step in the correct use of Microsoft\n365 is to gain a healthy understanding of the \u2018why\u2019 and how it will benefit\nyou. Only then can you begin to understand the \u2018how\u2019.\u003C/span\u003E\u003Cbr\u003E\u003C/div\u003E"
+            ]
+          },
+          {
+            "name": "Business solution",
+            "content": [
+              "\u003Cdiv\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:Calibri, sans-serif;margin-bottom:6.0pt;\u0022\u003E\u003Cspan style=\u0022font-size:11.0pt;\u0022\u003EDesigned and\ndeveloped by our team of experts, the YourKnowHow video portfolio contains over\n250 videos covering all the day to day topics users need to understand to\neffectively use Microsoft 365. What\u2019s even better is that our library is\nupdated on a monthly basis, ensuring users learn the most up to date content in\nan environment they are familiar with. \u003C/span\u003E\u003C/p\u003E\u003Cul style=\u0022margin-bottom:0in;\u0022\u003E\n \u003Cli style=\u0022margin:0in;font-size:12pt;font-family:Calibri, sans-serif;color:#333333;margin-bottom:11.25pt;background:white;\u0022\u003E\u003Cb\u003E\u003Cspan lang=EN-GB style=\u0022font-size:11.0pt;\u0022\u003EOver 250 Microsoft 365 Videos\u003C/span\u003E\u003C/b\u003E\u003C/li\u003E\n \u003Cli style=\u0022margin:0in;font-size:12pt;font-family:Calibri, sans-serif;color:#333333;margin-bottom:11.25pt;background:white;\u0022\u003E\u003Cb\u003E\u003Cspan lang=EN-GB style=\u0022font-size:11.0pt;\u0022\u003EDeveloped by our Team of Experts\u003C/span\u003E\u003C/b\u003E\u003C/li\u003E\u003C/ul\u003E\u003Cul style=\u0022margin-bottom:0in;\u0022\u003E\n \u003Cli style=\u0022margin:0in;font-size:12pt;font-family:Calibri, sans-serif;color:#333333;margin-bottom:11.25pt;background:white;\u0022\u003E\u003Cb\u003E\u003Cspan lang=EN-GB style=\u0022font-size:11.0pt;\u0022\u003E2-4 Minute easy to consume bite-sized\n     content\u003C/span\u003E\u003C/b\u003E\u003C/li\u003E\n \u003Cli style=\u0022margin:0in;font-size:12pt;font-family:Calibri, sans-serif;color:#333333;background:white;\u0022\u003E\u003Cb\u003E\u003Cspan lang=EN-GB style=\u0022font-size:11.0pt;\u0022\u003EFully narrated\u003C/span\u003E\u003C/b\u003E\u003C/li\u003E\u003C/ul\u003E\u003Cul style=\u0022margin-bottom:0in;\u0022\u003E\n \u003Cli style=\u0022margin:0in;font-size:12pt;font-family:Calibri, sans-serif;color:#333333;margin-bottom:11.25pt;background:white;\u0022\u003E\u003Cb\u003E\u003Cspan lang=EN-GB style=\u0022font-size:11.0pt;\u0022\u003EFull HD with Captions\u003C/span\u003E\u003C/b\u003E\u003C/li\u003E\n \u003Cli style=\u0022margin:0in;font-size:12pt;font-family:Calibri, sans-serif;color:#333333;margin-bottom:11.25pt;background:white;\u0022\u003E\u003Cb\u003E\u003Cspan lang=EN-GB style=\u0022font-size:11.0pt;\u0022\u003ESimple deployment, Azure, Stream, SCORM\n     Compliant\u003C/span\u003E\u003C/b\u003E\u003C/li\u003E\n \u003Cli style=\u0022margin:0in;font-size:12pt;font-family:Calibri, sans-serif;color:#333333;margin-bottom:11.25pt;background:white;\u0022\u003E\u003Cb\u003E\u003Cspan lang=EN-GB style=\u0022font-size:11.0pt;\u0022\u003EMonthly content updates in line with\n     Microsoft 365\u003C/span\u003E\u003C/b\u003E\u003C/li\u003E\n \u003Cli style=\u0022margin:0in;font-size:12pt;font-family:Calibri, sans-serif;color:#333333;background:white;\u0022\u003E\u003Cb\u003E\u003Cspan lang=EN-GB style=\u0022font-size:11.0pt;\u0022\u003ECustom video development available\u003C/span\u003E\u003C/b\u003E\u003C/li\u003E\u003C/ul\u003E\u003Cbr\u003E\u003C/div\u003E"
+            ]
+          }
+        ],
+        "mediaAssets": [
+          {
+            "type": "image",
+            "order": 0,
+            "url": "assets/YKH-image1.png",
+            "alt": ""
+          },
+          {
+            "type": "image",
+            "order": 1,
+            "url": "assets/YKH-image4.png",
+            "alt": ""
+          },
+          {
+            "type": "image",
+            "order": 2,
+            "url": "assets/YKH-image3.png",
+            "alt": ""
+          },
+          {
+            "type": "image",
+            "order": 3,
+            "url": "assets/YKH-image2.png",
+            "alt": ""
+          }
+        ],
+        "detailItemCategories": [
+          {
+            "name": "Resources",
+            "description": "Possible html supported text shown just above the list of links",
+            "items": [
+              {
+                "url": "https://www.365tribe.co.uk/your-know-how/",
+                "name": "https://www.365tribe.co.uk/your-know-how/"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

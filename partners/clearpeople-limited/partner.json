@@ -1,0 +1,40 @@
+{
+  "partnerId": "clearpeople-limited",
+  "categories": [],
+  "industries": [],
+  "solutions": null,
+  "sortOrder": 0,
+  "preview": false,
+  "visible": false,
+  "logoPicture": null,
+  "logoPictureAlt": "",
+  "partnerName": "ClearPeople Limited",
+  "mpnId": "0",
+  "metadata": {
+    "displayInfo": {
+      "default": {
+        "shortDescription": "\u003Cdiv\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:Calibri, sans-serif;\u0022\u003E\u003Cspan style=\u0022font-size:10.0pt;\u0022\u003EClearPeople is the creator of\nAtlas, an award-winning digital workspace solution for Microsoft 365.\nKnowledge, communication and collaboration are brought together beautifully to\nengage and empower your team, wherever they may be. \u003C/span\u003E\u003C/p\u003E\u003Cbr\u003E\u003C/div\u003E",
+        "descriptionParagraphs": [
+          "\u003Cdiv\u003E\u003Cspan style=\u0022font-size:10.0pt;font-family:\u0026quot;Calibri\u0026quot;,sans-serif;\u0022\u003EDo more with Microsoft 365. Often promised,\nrarely delivered \u2013 until now. Everyone is being asked to do more with less and\nAtlas is the way to achieve this. Atlas connects knowledge to people quickly,\nimproving productivity and measurably saving time. Quantifiable efficiency,\nimproved outcomes. Every time.\u003C/span\u003E\u003Cbr\u003E\u003C/div\u003E",
+          "\u003Cdiv\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:Calibri, sans-serif;\u0022\u003E\u003Cspan style=\u0022font-size:10.0pt;\u0022\u003ESell more with Atlas. Your\ncustomers need accurate information, quickly. Informed customers mean faster\nsales cycles. Atlas quickly connects your employees and trusted partners to the\ninformation your customers need to make informed buying decisions faster. Every\ntime.\u003C/span\u003E\u003C/p\u003E\u003C/div\u003E",
+          "\u003Cdiv\u003E\u003Cspan style=\u0022font-size:10.0pt;font-family:\u0026quot;Calibri\u0026quot;,sans-serif;\u0022\u003EAchieve more. With Atlas your digital\ntransformation becomes a more natural process. Open, clear communication\nrapidly becomes the standard. Major change is managed and implemented\neffectively. Every time.\u003C/span\u003E\u003Cbr\u003E\u003C/div\u003E"
+        ],
+        "mediaAssets": [
+          {
+            "type": "image",
+            "order": 0,
+            "url": "assets/Atlas in monitor-Hero image.png",
+            "alt": ""
+          },
+          {
+            "type": "image",
+            "order": 1,
+            "url": "assets/Atlas tablet and mobile-Featured Title.png",
+            "alt": ""
+          }
+        ],
+        "detailItemCategories": []
+      }
+    }
+  }
+}

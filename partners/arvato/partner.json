@@ -1,0 +1,23 @@
+{
+  "partnerId": "arvato",
+  "categories": [],
+  "industries": [],
+  "solutions": null,
+  "sortOrder": 0,
+  "preview": false,
+  "visible": false,
+  "logoPicture": null,
+  "logoPictureAlt": "",
+  "partnerName": "Arvato",
+  "mpnId": "0",
+  "metadata": {
+    "displayInfo": {
+      "default": {
+        "shortDescription": null,
+        "descriptionParagraphs": [],
+        "mediaAssets": [],
+        "detailItemCategories": []
+      }
+    }
+  }
+}

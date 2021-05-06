@@ -1,0 +1,85 @@
+{
+  "solutionId": "avepoints-virtual-assistant-ava",
+  "partnerId": "avepoint",
+  "categories": [
+    "teams"
+  ],
+  "industries": [],
+  "sortOrder": 0,
+  "preview": false,
+  "visible": false,
+  "solutionLogoPicture": null,
+  "solutionLogoPictureAlt": "",
+  "solutionName": "AvePoint\u2019s Virtual Assistant (AVA)",
+  "solutionUrl": "https://www.avepoint.com/products/cloud/backup/microsoft-office-365-backup",
+  "solutionUrlTitle": "AvePoint\u2019s Virtual Assistant (AVA)",
+  "metadata": {
+    "personas": "Business Admin;IT;Knowledge Worker",
+    "solutionTechnologies": "Azure AD;Microsoft 365;Microsoft Teams;OneDrive;SharePoint sites",
+    "businessFunctions": null,
+    "displayInfo": {
+      "default": {
+        "descriptionParagraphs": [
+          {
+            "name": "Short description",
+            "content": [
+              "\u003Cdiv\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:Calibri, sans-serif;margin-bottom:12.0pt;\u0022\u003E\u003Cb\u003E\u003Cspan style=\u0022font-size:14.0pt;\u0022\u003EEasily\nrecover and restore deleted Microsoft 365 emails, documents and SharePoint\nsites.\u003C/span\u003E\u003C/b\u003E\u003C/p\u003E\u003C/div\u003E"
+            ]
+          },
+          {
+            "name": "Business need or problem",
+            "content": [
+              "\u003Cdiv\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:Calibri, sans-serif;margin-bottom:6.0pt;\u0022\u003E\u003Cspan style=\u0022font-size:10.0pt;\u0022\u003EContent\ncreation and consumption across various Microsoft 365 services like Exchange Online,\nMicrosoft Teams, SharePoint and OneDrive is growing at a rapid pace.\u003Cbr style=\u0022\u0022\u003E\u003Cbr style=\u0022\u0022\u003E\u003C/span\u003E\u003C/p\u003E\u003Cspan style=\u0022font-size:10.0pt;font-family:\u0026quot;Calibri\u0026quot;,sans-serif;\u0022\u003EIf emails, documents or SharePoint sites are deleted,\nhow easy is it for a Microsoft 365 user to restore it especially if it\u2019s not in\nthe recycle bin anymore? \u003Cbr\u003E\u003Cbr\u003E\nHow quick can the helpdesk or IT support team recover and restore content\nwhenever help is requested?\u003C/span\u003E\u003Cbr\u003E\u003C/div\u003E"
+            ]
+          },
+          {
+            "name": "Business solution",
+            "content": [
+              "\u003Cdiv\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:Calibri, sans-serif;margin-bottom:6.0pt;\u0022\u003E\u003Cspan style=\u0022font-size:10.0pt;\u0022\u003ESay\nhello to AVA, AvePoint\u2019s Virtual Assistant! AVA automates common restore\nrequests and other tedious tasks that could cause a help desk ticket\nbacklog\u2026basically making email, documents and SharePoint sites recovery and\nrestore a cinch.\u003C/span\u003E\u003C/p\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:Calibri, sans-serif;margin-bottom:6.0pt;\u0022\u003E\u003Cspan style=\u0022font-size:10.0pt;\u0022\u003EAVA\nautomatically responds to Microsoft Teams chats initiated by end users who are\nsearching for lost content. \u003C/span\u003E\u003C/p\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:Calibri, sans-serif;margin-bottom:6.0pt;\u0022\u003E\u003Cspan style=\u0022font-size:10.0pt;\u0022\u003EAVA\ncan locate missing files, recently modified documents, broken URLs to documents\nand files, lost emails in Microsoft 365. \u003C/span\u003E\u003C/p\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:Calibri, sans-serif;margin-bottom:6.0pt;\u0022\u003E\u003Cspan style=\u0022font-size:10.0pt;\u0022\u003EAVA\ngives your help desk team the freedom to focus on more pressing tasks at hand,\nwhile making restore and recovery just another an easy-to-use feature for your\nend users. With security always top of mind, you can bet AVA\u2019s got all the\nright controls in place to enforce permissions and make sure content stays in\nthe right hands. AVA is the helpful little chatbot you forgot you needed.\u003C/span\u003E\u003C/p\u003E\u003C/div\u003E"
+            ]
+          }
+        ],
+        "mediaAssets": [
+          {
+            "type": "image",
+            "order": 0,
+            "url": "assets/AVA_image1.png",
+            "alt": ""
+          },
+          {
+            "type": "image",
+            "order": 1,
+            "url": "assets/AVA_image2.jpg",
+            "alt": ""
+          },
+          {
+            "type": "image",
+            "order": 2,
+            "url": "assets/AVA_image3.jpg",
+            "alt": ""
+          }
+        ],
+        "detailItemCategories": [
+          {
+            "name": "Resources",
+            "description": "Possible html supported text shown just above the list of links",
+            "items": [
+              {
+                "url": "https://www.avepoint.com/blog/backup/ava-bot-office-365/",
+                "name": "Reduce The Burden Of Restoring Office 365 Files with\nOur Free Microsoft Teams Chatbot! "
+              },
+              {
+                "url": "https://appsource.microsoft.com/en-us/product/office/WA104381883",
+                "name": "Microsoft Appsource: AvePoint\u2019s Virtual Assistant"
+              },
+              {
+                "url": "https://www.avepoint.com/case-studies/messukeskus-teams-dynamics-backup",
+                "name": "Messukeskus Backs Up More than 6 TB, Advanced\nWorkloads in Microsoft Teams and Dynamics 365"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

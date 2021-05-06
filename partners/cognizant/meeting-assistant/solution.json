@@ -1,0 +1,49 @@
+{
+  "solutionId": "meeting-assistant",
+  "partnerId": "cognizant",
+  "categories": [],
+  "industries": [],
+  "sortOrder": 0,
+  "preview": false,
+  "visible": false,
+  "solutionLogoPicture": null,
+  "solutionLogoPictureAlt": "",
+  "solutionName": "Meeting Assistant",
+  "solutionUrl": null,
+  "solutionUrlTitle": "Meeting Assistant",
+  "metadata": {
+    "personas": "Business Users",
+    "solutionTechnologies": "Azure;Graph API;SharePoint sites",
+    "businessFunctions": null,
+    "displayInfo": {
+      "default": {
+        "descriptionParagraphs": [
+          {
+            "name": "Short description",
+            "content": []
+          },
+          {
+            "name": "Business need or problem",
+            "content": [
+              "\u003Cdiv\u003E\u003Cp style=\u0022margin:0in 0in 8pt;font-size:11pt;font-family:\u0026quot;Segoe UI\u0026quot;, sans-serif;text-align:justify;\u0022\u003E\u003Cspan lang=EN-GB style=\u0022\u0022\u003EConsidering the volume of daily meetings\nhappening between Novartis associates today, there is an opportunity to be more\nefficient with overall Meeting management Planning, managing and tracking\ninformation across various meetings.\u003C/span\u003E\u003C/p\u003E\u003Cp style=\u0022margin:0in 0in 8pt;font-size:11pt;font-family:\u0026quot;Segoe UI\u0026quot;, sans-serif;text-align:justify;\u0022\u003E\u003Cspan lang=EN-GB style=\u0022\u0022\u003ETeams provides basic note taking\ncapabilities, but it needs to be further extended with utilities to optimize\noverall meeting management by individuals. This solution fills this gap. \u003C/span\u003E\u003C/p\u003E\u003Cp style=\u0022margin:0in 0in 8pt;font-size:11pt;font-family:\u0026quot;Segoe UI\u0026quot;, sans-serif;text-align:justify;\u0022\u003E\u003Cspan lang=EN-GB style=\u0022\u0022\u003EThis cannot only improve productivity but\nalso increases MS Teams adoption\u003C/span\u003E\u003C/p\u003E\u003C/div\u003E"
+            ]
+          },
+          {
+            "name": "Business solution",
+            "content": [
+              "\u003Cdiv\u003E\u003Cp style=\u0022margin:0in 0in 8pt;font-size:11pt;font-family:\u0026quot;Segoe UI\u0026quot;, sans-serif;text-align:justify;\u0022\u003E\u003Cspan lang=EN-GB style=\u0022\u0022\u003EThe proposed solution will leverage SPFx based\nApp hosted on MS Teams tab, which have interactive interface to create and\nmanage meetings in MS teams. \u003C/span\u003E\u003C/p\u003E\u003Cp style=\u0022margin:0in 0in 8pt;font-size:11pt;font-family:\u0026quot;Segoe UI\u0026quot;, sans-serif;text-align:justify;\u0022\u003E\u003Cspan lang=EN-GB style=\u0022\u0022\u003EScheduling a meeting: \u003C/span\u003E\u003C/p\u003E\u003Cul style=\u0022margin-bottom:0in;\u0022\u003E\u003Cli\u003E\u003Cspan lang=EN-GB style=\u0022\u0022\u003EAlong with OOTB meeting scheduling features, there will be option to\ntrack Meeting agenda as metadata. All the relevant notes/action items can be\ntracked against the Agenda.\u003C/span\u003E\u003C/li\u003E\u003Cli\u003E\u003Cspan lang=EN-GB style=\u0022\u0022\u003EAttachments are stored in OneDrive for Business so that large files can\nalso be added as part of meeting invite\u003C/span\u003E\u003C/li\u003E\u003Cli\u003E\u003Cspan lang=EN-GB style=\u0022\u0022\u003EThe tool generates a well-formatted and structured email invite\ncontaining all the meeting details that is sent to the meeting participants.\u003C/span\u003E\u003C/li\u003E\u003C/ul\u003E\u003Cp style=\u0022margin:0in 0in 8pt;font-size:11pt;font-family:\u0026quot;Segoe UI\u0026quot;, sans-serif;text-align:justify;\u0022\u003E\u003Cspan lang=EN-GB style=\u0022\u0022\u003EJoin a Meeting:\u003C/span\u003E\u003C/p\u003E\u003Cul style=\u0022margin-bottom:0in;\u0022\u003E\u003Cli\u003E\u003Cspan lang=EN-GB style=\u0022\u0022\u003EThe meeting participant has a one-stop access to relevant meeting\ninformation like participants, meeting agenda and reference material upfront in\na structured and organized manner for ease of use\u003C/span\u003E\u003C/li\u003E\u003Cli\u003E\u003Cspan lang=EN-GB style=\u0022\u0022\u003EAs a meeting participant, the tool provides an option to co-author\nmeeting notes. The tool also provides user with a voice-assisted feature to\ncapture meeting notes for ease of use. User also has the option to organize\nmeeting minutes by agenda for effective circulation and tracking\u003C/span\u003E\u003C/li\u003E\u003Cli\u003E\u003Cspan lang=EN-GB style=\u0022\u0022\u003EWith an single click host can publishes the meeting minutes to all\nparticipants that receive the minutes in a formatted and structured email\ncontaining all the meeting details\u003C/span\u003E\u003C/li\u003E\u003Cli\u003E\u003Cspan lang=EN-GB style=\u0022\u0022\u003EAll action items and their status get tracked centrally in Planner\u003C/span\u003E\u003C/li\u003E\u003C/ul\u003E\u003C/div\u003E"
+            ]
+          }
+        ],
+        "mediaAssets": [],
+        "detailItemCategories": [
+          {
+            "name": "Resources",
+            "description": "Possible html supported text shown just above the list of links",
+            "items": []
+          }
+        ]
+      }
+    }
+  }
+}

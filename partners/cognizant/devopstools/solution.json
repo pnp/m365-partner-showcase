@@ -1,0 +1,51 @@
+{
+  "solutionId": "devopstools",
+  "partnerId": "cognizant",
+  "categories": [
+    "teams"
+  ],
+  "industries": [],
+  "sortOrder": 0,
+  "preview": false,
+  "visible": false,
+  "solutionLogoPicture": null,
+  "solutionLogoPictureAlt": "",
+  "solutionName": "DevOps Tools Integration with MS Teams",
+  "solutionUrl": null,
+  "solutionUrlTitle": "DevOps Tools Integration with MS Teams",
+  "metadata": {
+    "personas": "Project Manager",
+    "solutionTechnologies": "Azure;Power App;Power Automate;Search",
+    "businessFunctions": null,
+    "displayInfo": {
+      "default": {
+        "descriptionParagraphs": [
+          {
+            "name": "Short description",
+            "content": []
+          },
+          {
+            "name": "Business need or problem",
+            "content": [
+              "\u003Cdiv\u003E\u003Cspan\u003EProject Managers and stakeholders (Developers, Testers, Database administrators, Infrastructure, etc) are not being notified proactively on the CI/CD pipeline failures or errors. Rather, as of today it\u2019s a reactive approach once the entire process is completed. \u0026nbsp;\u003Cbr\u003E\u003C/span\u003E\u003Cdiv\u003EExisting process is to send emails or use other communication medium to inform the project stakeholders about the success or failure of the pipeline. There is no single pane of glass experience or communication when the CI/CD process encounter any issue. \u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003EThis Solution brings in collaboration in to Ci/CD processes using Microsoft Teams and enables the project teams to handle the issues more effectively and efficiently.\u003C/div\u003E\u003C/div\u003E"
+            ]
+          },
+          {
+            "name": "Business solution",
+            "content": [
+              "\u003Cdiv\u003E\u003Cspan\u003EThis solution integrates multiple DevOps tools to Microsoft Teams, in plug and play model and without much changes in existing DevOps tools configurations, to deliver tools messages as notifications on to Microsoft Teams platform. \u003Cbr\u003E\u003C/span\u003E\u003Cdiv\u003EThere are existing solutions for DevOps tools integration using Teams web hook capabilities, but this approach has maintenance overhead, security and customizations concerns. \u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003ESolution is implemented using Power Platform (Power Automate and Power Apps) for self-service project mapping, adaptive cards for notifications (1-way and 2-Way integration) and BOT to handle the communications. \u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003EThis solution is helping in alerting stakeholders in real time and bringing them together to resolve any issue using Teams out of the box communication and collaboration capabilities. Customized information is targeted to specific group of individuals rather than overloading with loads of information which they are not needed.\u003C/div\u003E\u003C/div\u003E"
+            ]
+          }
+        ],
+        "mediaAssets": [],
+        "detailItemCategories": [
+          {
+            "name": "Resources",
+            "description": "Possible html supported text shown just above the list of links",
+            "items": []
+          }
+        ]
+      }
+    }
+  }
+}

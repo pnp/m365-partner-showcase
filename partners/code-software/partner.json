@@ -1,0 +1,38 @@
+{
+  "partnerId": "code-software",
+  "categories": [],
+  "industries": [],
+  "solutions": null,
+  "sortOrder": 0,
+  "preview": false,
+  "visible": false,
+  "logoPicture": null,
+  "logoPictureAlt": "",
+  "partnerName": "Code Software",
+  "mpnId": "0",
+  "metadata": {
+    "displayInfo": {
+      "default": {
+        "shortDescription": "\u003Cdiv\u003E\u003Cspan style=\u0022font-size:10.0pt;font-family:\u0026quot;Calibri\u0026quot;,sans-serif;\u0022\u003ECode Software makes it easy to monitor, analyze,\nrecord and report on the performance of just about any aspect of your Teams\nenvironment. \u003C/span\u003E\u003Cbr\u003E\u003C/div\u003E",
+        "descriptionParagraphs": [
+          "\u003Cdiv\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:Calibri, sans-serif;\u0022\u003E\u003Cspan style=\u0022font-size:10.0pt;\u0022\u003EWe have the tools to analyze and manage call quality and\nservice levels, raise productivity, increase user adoption, and plan with\nconfidence across multiple elements of Teams for the highs and lows of a\nfast-moving business.\u003C/span\u003E\u003C/p\u003E\u003C/div\u003E"
+        ],
+        "mediaAssets": [
+          {
+            "type": "image",
+            "order": 0,
+            "url": "assets/CodeSoftware-Hero-image.png",
+            "alt": ""
+          },
+          {
+            "type": "image",
+            "order": 1,
+            "url": "assets/CodeSoftware-Featured-Title.png",
+            "alt": ""
+          }
+        ],
+        "detailItemCategories": []
+      }
+    }
+  }
+}

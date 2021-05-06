@@ -1,0 +1,70 @@
+{
+  "solutionId": "visualspcustomwalkthrough",
+  "partnerId": "Visualsp",
+  "categories": [
+    "learningpathways"
+  ],
+  "industries": [],
+  "sortOrder": 0,
+  "preview": false,
+  "visible": false,
+  "solutionLogoPicture": null,
+  "solutionLogoPictureAlt": "",
+  "solutionName": "Custom Walkthrough on SharePoint Intranet",
+  "solutionUrl": "https://www.visualsp.com/products/visualsp-walkthroughs/",
+  "solutionUrlTitle": "Custom Walkthrough on SharePoint Intranet",
+  "metadata": {
+    "personas": "End-user;Power User",
+    "solutionTechnologies": "Azure Bot;SharePoint sites;SPFx",
+    "businessFunctions": null,
+    "displayInfo": {
+      "default": {
+        "descriptionParagraphs": [
+          {
+            "name": "Short description",
+            "content": [
+              "\u003Cdiv\u003E\u003Cspan style=\u0022display:inline !important;\u0022\u003EInteractive guided step-by-step walkthroughs on top of your SharePoint based intranet. Guide your users by designing point and click no-code walkthroughs in context of their own environment that are available at their moment of their need.\u003C/span\u003E\u003Cbr\u003E \u003C/div\u003E"
+            ]
+          },
+          {
+            "name": "Business need or problem",
+            "content": [
+              "\u003Cdiv\u003E\u003Cspan\u003EBusiness processes, rules and guidelines are constantly changing. Onboarding users to new interfaces and functionality is a challenge - especially for remote workers. Delays in getting employees to get familiar with new features and functionality can be costly in both losses of productivity and operational expenses.\u003Cbr\u003E\u003C/span\u003E\u003Cdiv\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003EThe traditional training methods require the learners to learn and retain the knowledge of how to do particular tasks way before they need them. Learners can forget up to 70% of the content they are taught within 24 to 48 hours of formal training. \u0026nbsp;These challenges contribute to unsuccessful user onboarding.\u003C/div\u003E\u003C/div\u003E"
+            ]
+          },
+          {
+            "name": "Business solution",
+            "content": [
+              "\u003Cdiv\u003E\u003Cspan\u003EAn interactive guided walkthrough, or guided tour, is a contextual microlearning tutorial that appears as an overlay giving users a step-by-step flow introducing features, guidelines and capabilities. The walkthrough explains how to complete tasks or simply provide helpful tips and tricks the user needs. \u003Cbr\u003E\u003C/span\u003E\u003Cdiv\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003EThese walkthroughs are designed and created in a matter of minutes by business analysts using point and click no code technology provided by VisualSP.\u003Cbr\u003E\u003C/div\u003E\u003Cspan\u003E\u003C/span\u003E\u003Cbr\u003E\u003C/div\u003E"
+            ]
+          }
+        ],
+        "mediaAssets": [],
+        "detailItemCategories": [
+          {
+            "name": "Resources",
+            "description": "Possible html supported text shown just above the list of links",
+            "items": [
+              {
+                "url": "https://cdn2.hubspot.net/hubfs/471467/WhitePaper-Walkthroughs.pdf",
+                "name": "https://cdn2.hubspot.net/hubfs/471467/WhitePaper-Walkthroughs.pdf"
+              },
+              {
+                "url": "https://www.youtube.com/watch?v=mx3YwdSDtDU\u0026amp;list=PLttl1DUT50iMKrwzKy1Fp8KmcpLz1iXqb",
+                "name": "https://www.youtube.com/watch?v=mx3YwdSDtDU\u0026amp;list=PLttl1DUT50iMKrwzKy1Fp8KmcpLz1iXqb"
+              },
+              {
+                "url": "https://www.visualsp.com/case-studies/case-study-how-the-ncba-used-visualsp-to-re-energize-microsoft-cloud-adoption/",
+                "name": "https://www.visualsp.com/case-studies/case-study-how-the-ncba-used-visualsp-to-re-energize-microsoft-cloud-adoption/"
+              },
+              {
+                "url": "https://www.visualsp.com/visualsp-product-demo/",
+                "name": "https://www.visualsp.com/visualsp-product-demo/"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

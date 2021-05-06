@@ -1,0 +1,60 @@
+{
+  "solutionId": "deliverpoint",
+  "partnerId": "lightning-tools",
+  "categories": [
+    "teams"
+  ],
+  "industries": [],
+  "sortOrder": 0,
+  "preview": false,
+  "visible": false,
+  "solutionLogoPicture": null,
+  "solutionLogoPictureAlt": "",
+  "solutionName": "DeliverPoint for Microsoft Teams",
+  "solutionUrl": "https://lightningtools.com/contact-us",
+  "solutionUrlTitle": "DeliverPoint for Microsoft Teams",
+  "metadata": {
+    "personas": "Administrators;End-user",
+    "solutionTechnologies": "Graph API;SPFx",
+    "businessFunctions": null,
+    "displayInfo": {
+      "default": {
+        "descriptionParagraphs": [
+          {
+            "name": "Short description",
+            "content": [
+              "\u003Cdiv\u003EDeliverPoint Permission Reporting and Management tool for Microsoft Teams, SharePoint, and OneDrive. Run reports to discover who is permissioned across the content of one or many teams. Manage the permissions across large scopes as user roles change.\u003Cbr\u003E\u003C/div\u003E"
+            ]
+          },
+          {
+            "name": "Business need or problem",
+            "content": [
+              "\u003Cspan style=\u0022\u0022\u003EMany organizations have many teams and channels where users have been assigned permissions through group memberships and sharing links. Reporting across multiple teams can be time consuming, let alone the removal of users as team membership needs change.\u003C/span\u003E\u003Cbr\u003E"
+            ]
+          },
+          {
+            "name": "Business solution",
+            "content": [
+              "\u003Cdiv\u003EDeliverPoint is a tool that provides contextual permissions reporting and management for SharePoint and Microsoft Teams owners, as well as centralized permissions management for IT workers. DeliverPoint provides many reports that can be run against large scopes to determine the users that are permissioned. Permissions can be reassigned using the transfer permissions operation, or added and removed depending on the business need. DeliverPoint ensures that there is no doubt as to who has access to the content within your Microsoft Teams.\u003Cbr\u003E\u003C/div\u003E"
+            ]
+          }
+        ],
+        "mediaAssets": [
+          {
+            "type": "image",
+            "order": 0,
+            "url": "assets/DeliverPoint.png",
+            "alt": ""
+          }
+        ],
+        "detailItemCategories": [
+          {
+            "name": "Resources",
+            "description": "Possible html supported text shown just above the list of links",
+            "items": []
+          }
+        ]
+      }
+    }
+  }
+}
