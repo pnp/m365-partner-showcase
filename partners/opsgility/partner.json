@@ -1,0 +1,32 @@
+{
+  "partnerId": "opsgility",
+  "categories": [],
+  "industries": [],
+  "solutions": null,
+  "sortOrder": 0,
+  "preview": false,
+  "visible": false,
+  "logoPicture": null,
+  "logoPictureAlt": "",
+  "partnerName": "Opsgility",
+  "mpnId": "0",
+  "metadata": {
+    "displayInfo": {
+      "default": {
+        "shortDescription": "\u003Cdiv\u003E\u003Cspan style=\u0022font-size:10.0pt;font-family:\u0026quot;Calibri\u0026quot;,sans-serif;\u0022\u003EOpsgility enables organizations to realize the\nfull potential of the Microsoft cloud through a comprehensive set of services\nand software as a service (SaaS) offerings. \u003C/span\u003E\u003Cbr\u003E\u003C/div\u003E",
+        "descriptionParagraphs": [
+          "\u003Cdiv\u003E\u003Cdiv style=\u0022margin:0px 0in;font-size:12pt;font-family:Calibri, sans-serif;\u0022\u003E\u003Cp style=\u0022margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\u0022\u003EAudience engagement is a core driver of any conference.\nDon\u2019t settle for a mundane webinar or recorded video. Deliver engaging digital\nevents to thousands of attendees worldwide, with the security and usability of\nMicrosoft Teams!\u003C/p\u003E\u003Cp style=\u0022margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\u0022\u003E\u0026nbsp;\u003C/p\u003E\u003Cp style=\u0022margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\u0022\u003EOur platform builds on Teams to automate the creation and\norganization of Teams Live Events, Teams Meetings, and the 3rd party app\necosystem to create an authentic conference experience. Captivate audiences\nwith a full suite of interactive activities, including an expo hall with\nsponsored booths, speed networking, mixers, and breakout sessions.\u003C/p\u003E\u003Cp style=\u0022margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\u0022\u003E\u0026nbsp;\u003C/p\u003E\u003Cp style=\u0022margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\u0022\u003EVirtual Conference Manager is more than a meeting platform.\nIt is an end-to-end virtual event solution! Virtual Conference Manager makes it\neasy for event producers to manage the event from start to finish so that organizers\ncan focus on creating an engaging and memorable experience.\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E"
+        ],
+        "mediaAssets": [
+          {
+            "type": "image",
+            "order": 0,
+            "url": "assets/Opsgility-Hero-Image.png",
+            "alt": ""
+          }
+        ],
+        "detailItemCategories": []
+      }
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "solutionId": "365akademie-microsoft365champions",
+  "partnerId": "365-akademie",
+  "categories": [
+    "learningpathways"
+  ],
+  "industries": [],
+  "sortOrder": 0,
+  "preview": false,
+  "visible": false,
+  "solutionLogoPicture": null,
+  "solutionLogoPictureAlt": "",
+  "solutionName": "Microsoft 365 Champions \u2013 Modern Workplace Community ",
+  "solutionUrl": "https://www.365akademie.de/champions-community/",
+  "solutionUrlTitle": "Microsoft 365 Champions \u2013 Modern Workplace Community ",
+  "metadata": {
+    "personas": "Microsoft 365 User",
+    "solutionTechnologies": "Microsoft Teams;SharePoint sites;Stream",
+    "businessFunctions": null,
+    "displayInfo": {
+      "default": {
+        "descriptionParagraphs": [
+          {
+            "name": "Short description",
+            "content": [
+              "\u003Cdiv\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:Calibri, sans-serif;margin-bottom:12.0pt;\u0022\u003E\u003Cspan lang=EN-US style=\u0022margin:0px;text-align:left;font-size:12pt;font-family:Calibri, Calibri_EmbeddedFont, Calibri_MSFontService, sans-serif;\u0022\u003E\u003Cspan style=\u0022margin:0px;\u0022\u003ECreate an organization wide Microsoft 365 Champions \u2013 Modern Workplace Community and keep\u003Cspan\u003E\u0026nbsp;\u003C/span\u003E\u003C/span\u003E\u003Cspan style=\u0022margin:0px;background-repeat:repeat-x;background-position:left bottom;border-bottom:1px solid transparent;\u0022\u003Eall of\u003C/span\u003E\u003Cspan style=\u0022margin:0px;\u0022\u003E\u003Cspan\u003E\u0026nbsp;\u003C/span\u003Eyour employees informed.\u003C/span\u003E\u003C/span\u003E\u003Cspan style=\u0022margin:0px;text-align:left;font-size:12pt;font-family:Calibri, Calibri_EmbeddedFont, Calibri_MSFontService, sans-serif;\u0022\u003E\u0026nbsp;\u003C/span\u003E  \u003C/p\u003E \u003C/div\u003E"
+            ]
+          },
+          {
+            "name": "Business need or problem",
+            "content": [
+              "\u003Cdiv\u003E\u003Cfont face=\u0022Calibri, sans-serif\u0022\u003E\u003Cspan style=\u0022font-size:10pt;\u0022\u003E\u003C/span\u003E\u003Cdiv style=\u0022margin:0px;cursor:text;clear:both;font-family:\u0026quot;Segoe UI\u0026quot;, \u0026quot;Segoe UI Web\u0026quot;, Arial, Verdana, sans-serif;font-size:12px;\u0022\u003E\u003Cp style=\u0022margin:0px;font-weight:normal;color:windowtext;text-align:left;\u0022\u003E\u003Cspan lang=EN-US style=\u0022margin:0px;font-size:10pt;font-family:Calibri, Calibri_EmbeddedFont, Calibri_MSFontService, sans-serif;\u0022\u003E\u003Cspan style=\u0022margin:0px;\u0022\u003EThere are a lot of sources\u003Cspan\u003E\u0026nbsp;\u003C/span\u003E\u003C/span\u003E\u003Cspan style=\u0022margin:0px;background-repeat:repeat-x;background-position:left bottom;border-bottom:1px solid transparent;\u0022\u003Efor\u003C/span\u003E\u003Cspan style=\u0022margin:0px;\u0022\u003E\u003Cspan\u003E\u0026nbsp;\u003C/span\u003Einformation regarding Microsoft 365. But how do the users know about the right ones for their specific job and the Microsoft 365 environment at your\u003Cspan\u003E\u0026nbsp;\u003C/span\u003E\u003C/span\u003E\u003Cspan style=\u0022margin:0px;transition:background-color 0.1s linear 0s;background-repeat:repeat-x;background-position:left bottom;border-bottom:1px solid transparent;\u0022\u003Eorganization.\u003C/span\u003E\u003Cspan style=\u0022margin:0px;\u0022\u003E\u003Cspan\u003E\u0026nbsp;\u003C/span\u003EMicrosoft 365 looks different in different organizations.\u0026nbsp;\u003C/span\u003E\u003C/span\u003E\u003Cspan style=\u0022margin:0px;font-size:10pt;font-family:Calibri, Calibri_EmbeddedFont, Calibri_MSFontService, sans-serif;\u0022\u003E\u0026nbsp;\u003C/span\u003E \u003C/p\u003E\u003Cp style=\u0022margin:0px;font-weight:normal;color:windowtext;text-align:left;\u0022\u003E\u003Cspan style=\u0022margin:0px;font-size:10pt;font-family:Calibri, Calibri_EmbeddedFont, Calibri_MSFontService, sans-serif;\u0022\u003E\u003Cbr\u003E\u003C/span\u003E \u003C/p\u003E \u003C/div\u003E\u003Cdiv style=\u0022margin:0px;cursor:text;clear:both;font-family:\u0026quot;Segoe UI\u0026quot;, \u0026quot;Segoe UI Web\u0026quot;, Arial, Verdana, sans-serif;font-size:12px;\u0022\u003E\u003Cp style=\u0022margin:0px;font-weight:normal;color:windowtext;text-align:left;\u0022\u003E\u003Cspan lang=EN-US style=\u0022margin:0px;font-size:10pt;font-family:Calibri, Calibri_EmbeddedFont, Calibri_MSFontService, sans-serif;\u0022\u003E\u003Cspan style=\u0022margin:0px;\u0022\u003EUsers are overwhelmed with all the digital tools and features Microsoft 365 provides. They do not welcome change and stick to their \u201Cbusiness as usual\u201D. The users\u003Cspan\u003E\u0026nbsp;\u003C/span\u003E\u003C/span\u003E\u003Cspan style=\u0022margin:0px;\u0022\u003Emust\u003C/span\u003E\u003Cspan style=\u0022margin:0px;\u0022\u003E\u003Cspan\u003E\u0026nbsp;\u003C/span\u003Ebe informed of the changes, new features and the benefits.\u003C/span\u003E\u003C/span\u003E\u003Cspan style=\u0022margin:0px;font-size:10pt;font-family:Calibri, Calibri_EmbeddedFont, Calibri_MSFontService, sans-serif;\u0022\u003E\u0026nbsp;\u003C/span\u003E \u003C/p\u003E \u003C/div\u003E\u003Cdiv style=\u0022margin:0px;cursor:text;clear:both;font-family:\u0026quot;Segoe UI\u0026quot;, \u0026quot;Segoe UI Web\u0026quot;, Arial, Verdana, sans-serif;font-size:12px;\u0022\u003E\u003Cp style=\u0022margin:0px;font-weight:normal;color:windowtext;text-align:left;\u0022\u003E\u003Cspan lang=EN-US style=\u0022margin:0px;font-size:10pt;font-family:Calibri, Calibri_EmbeddedFont, Calibri_MSFontService, sans-serif;\u0022\u003E\u003Cspan style=\u0022margin:0px;\u0022\u003E\u003Cbr\u003E\u003C/span\u003E\u003C/span\u003E \u003C/p\u003E\u003Cp style=\u0022margin:0px;font-weight:normal;color:windowtext;text-align:left;\u0022\u003E\u003Cspan lang=EN-US style=\u0022margin:0px;font-size:10pt;font-family:Calibri, Calibri_EmbeddedFont, Calibri_MSFontService, sans-serif;\u0022\u003E\u003Cspan style=\u0022margin:0px;\u0022\u003EThe users do not like to ask how you use the digital tools or on the other hand overrun the technical support with the same questions.\u003C/span\u003E\u003C/span\u003E\u003Cspan style=\u0022margin:0px;font-size:10pt;font-family:Calibri, Calibri_EmbeddedFont, Calibri_MSFontService, sans-serif;\u0022\u003E\u0026nbsp;\u003C/span\u003E \u003C/p\u003E \u003C/div\u003E\u003Cspan style=\u0022font-size:10pt;\u0022\u003E\u003C/span\u003E\u003C/font\u003E\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E"
+            ]
+          },
+          {
+            "name": "Business solution",
+            "content": [
+              "\u003Cdiv\u003E\u003Cfont face=\u0022Calibri, sans-serif\u0022\u003E\u003Cspan style=\u0022font-size:10pt;\u0022\u003E\u003C/span\u003E\u003Cspan lang=EN-US style=\u0022margin:0px;text-align:left;font-size:10pt;font-family:Calibri, Calibri_EmbeddedFont, Calibri_MSFontService, sans-serif;\u0022\u003E\u003Cspan style=\u0022margin:0px;\u0022\u003EThe 365 Akademie helps you create a\u003Cspan\u003E\u0026nbsp;\u003C/span\u003E\u003C/span\u003E\u003Cspan style=\u0022margin:0px;\u0022\u003Eplace for\u003Cspan\u003E\u0026nbsp;\u003C/span\u003E\u003C/span\u003E\u003Cspan style=\u0022margin:0px;\u0022\u003Esocial learning in Microsoft Teams and supports your Microsoft 365 Champions \u2013 Modern Workplace Community with insights and impulses on how to use the new features. The short and easy to follow videos are perfect for Teams posts and drive\u003Cspan\u003E\u0026nbsp;\u003C/span\u003E\u003C/span\u003E\u003Cspan style=\u0022margin:0px;background-repeat:repeat-x;background-position:left bottom;border-bottom:1px solid transparent;\u0022\u003Ethe\u003Cspan\u003E\u0026nbsp;\u003C/span\u003E\u003C/span\u003E\u003Cspan style=\u0022margin:0px;background-repeat:repeat-x;background-position:left bottom;border-bottom:1px solid transparent;\u0022\u003Ecommunication\u003C/span\u003E\u003Cspan style=\u0022margin:0px;\u0022\u003E.\u003C/span\u003E\u003C/span\u003E\u003Cspan style=\u0022margin:0px;text-align:left;font-size:10pt;font-family:Calibri, Calibri_EmbeddedFont, Calibri_MSFontService, sans-serif;\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003Cspan style=\u0022font-size:10pt;\u0022\u003E\u003C/span\u003E\u003C/font\u003E\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E"
+            ]
+          }
+        ],
+        "mediaAssets": [
+          {
+            "type": "image",
+            "order": 0,
+            "url": "assets/Microsoft 365 Champions 2.png",
+            "alt": ""
+          },
+          {
+            "type": "image",
+            "order": 1,
+            "url": "assets/Microsoft 365 Champions 1.png",
+            "alt": ""
+          }
+        ],
+        "detailItemCategories": [
+          {
+            "name": "Resources",
+            "description": "Possible html supported text shown just above the list of links",
+            "items": [
+              {
+                "url": "https://www.365akademie.de/",
+                "name": "Office 365\nAkademie - Produktiver Arbeiten mit Office 365"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

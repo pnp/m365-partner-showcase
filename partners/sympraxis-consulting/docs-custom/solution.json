@@ -1,0 +1,60 @@
+{
+  "solutionId": "docs-custom",
+  "partnerId": "sympraxis-consulting",
+  "categories": [
+    "learningpathways"
+  ],
+  "industries": [],
+  "sortOrder": 0,
+  "preview": false,
+  "visible": false,
+  "solutionLogoPicture": null,
+  "solutionLogoPictureAlt": "",
+  "solutionName": "Documentation for Custom Solutions",
+  "solutionUrl": "https://www.sympraxisconsulting.com",
+  "solutionUrlTitle": "Documentation for Custom Solutions",
+  "metadata": {
+    "personas": "Business Analysts;Content Owners;Developer;End-user;IT Admin;Leadership;Training \u0026 Development",
+    "solutionTechnologies": "Microsoft Teams;SharePoint sites;Stream",
+    "businessFunctions": null,
+    "displayInfo": {
+      "default": {
+        "descriptionParagraphs": [
+          {
+            "name": "Short description",
+            "content": [
+              "\u003Cdiv\u003E\u003Cspan style=\u0022display:inline !important;\u0022\u003EMicrosoft 365 offers many opportunities for customizations to your environment. These custom solutions may have specific steps to follow and likely need training documentation to support their usage.\u0026nbsp;\u0026nbsp;\u003Cspan style=\u0022display:inline !important;\u0022\u003EDocumenting and adding this training content to Learning Pathways for all user types helps ensure the solutions\u2019 viability long-term, reduces technical debt, reduces support and maintenance costs, and supports end users\u2019 ability to use the solution effectively.\u003C/span\u003E\u003C/span\u003E\u003Cbr\u003E \u003C/div\u003E"
+            ]
+          },
+          {
+            "name": "Business need or problem",
+            "content": [
+              "\u003Cdiv\u003E\u003Cspan\u003E\u003Cspan style=\u0022font-size:12.0pt;font-family:\u0026quot;Segoe UI\u0026quot;,sans-serif;\u0022\u003EYour company has a\ncustom solution, for example a project management tracking app, that users in\nvarious roles interact with to complete different tasks. You need to provide\nunique guidance for each of these roles at the point of interaction. There is\nno documentation on your intranet to support this solution, so it requires\ninstitutional knowledge to use it effectively. End users need the ability to\nlearn without leaving the context of the solution.\u003C/span\u003E\u003C/span\u003E \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E"
+            ]
+          },
+          {
+            "name": "Business solution",
+            "content": [
+              "\u003Cp style=\u0022margin:0in 0in 6pt;\u0022\u003E\u003Cfont face=\u0022Segoe UI, sans-serif\u0022 style=\u0022font-size:12pt;\u0022\u003EBy\nidentifying the different personas and creating customized documentation for\neach we can bring the knowledge to the worker right when they need it, limiting\nthe friction to accomplish their tasks and remain productive. A solution would:\u0026nbsp;\u003Cbr\u003E\u003C/font\u003E \u003C/p\u003E\u003Cul\u003E\u003Cli\u003E\u003Cfont face=\u0022Segoe UI, sans-serif\u0022 style=\u0022font-size:12pt;\u0022\u003E\u003Cspan style=\u0022font-family:\u0026quot;Segoe UI\u0026quot;, sans-serif;\u0022\u003EIdentify\nthe different personas interacting with the custom solution\u003C/span\u003E\u003C/font\u003E \u003C/li\u003E\u003Cli\u003E\u003Cfont face=\u0022Segoe UI, sans-serif\u0022 style=\u0022font-size:12pt;\u0022\u003E\u003Cspan\u003ECreate\ndocumentation supporting the unique needs of each persona\u003Cbr\u003E\u003C/span\u003E\u003C/font\u003E \u003C/li\u003E\u003Cli\u003E\u003Cfont face=\u0022Segoe UI, sans-serif\u0022 style=\u0022font-size:12pt;\u0022\u003E\u003Cspan style=\u0022font-size:14px;\u0022\u003EDefine\nintuitive information architecture to support each persona and their top tasks\u003C/span\u003E\u003C/font\u003E \u003C/li\u003E\u003Cli\u003E\u003Cfont face=\u0022Segoe UI, sans-serif\u0022 style=\u0022font-size:12pt;\u0022\u003E\u003Cspan style=\u0022font-size:14px;\u0022\u003E\u003Cspan style=\u0022font-size:12pt;\u0022\u003EDevelop\non-demand playlists surfacing training documentation\u003C/span\u003E\u003Cbr\u003E\u003C/span\u003E\u003C/font\u003E \u003C/li\u003E\u003Cli\u003E\u003Cfont face=\u0022Segoe UI, sans-serif\u0022 style=\u0022font-size:12pt;\u0022\u003E\u003Cspan\u003ESurface playlists\nin-context of the custom solution (removing friction from end users\u2019 ability to\nlocate training)\u003C/span\u003E\u003C/font\u003E \u003C/li\u003E \u003C/ul\u003E\u003Cp\u003E \u003C/p\u003E\u003Cbr\u003E"
+            ]
+          }
+        ],
+        "mediaAssets": [
+          {
+            "type": "image",
+            "order": 0,
+            "url": "assets/Custom Documentation.png",
+            "alt": ""
+          }
+        ],
+        "detailItemCategories": [
+          {
+            "name": "Resources",
+            "description": "Possible html supported text shown just above the list of links",
+            "items": []
+          }
+        ]
+      }
+    }
+  }
+}

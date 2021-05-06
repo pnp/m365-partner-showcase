@@ -1,0 +1,32 @@
+{
+  "partnerId": "avepoint",
+  "categories": [],
+  "industries": [],
+  "solutions": null,
+  "sortOrder": 0,
+  "preview": false,
+  "visible": false,
+  "logoPicture": null,
+  "logoPictureAlt": "",
+  "partnerName": "AvePoint",
+  "mpnId": "0",
+  "metadata": {
+    "displayInfo": {
+      "default": {
+        "shortDescription": "\u003Cdiv\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:Calibri, sans-serif;\u0022\u003E\u003Cspan style=\u0022font-family:\u0026quot;Segoe UI\u0026quot;,sans-serif;color:black;\u0022\u003EAvePoint\nenables organizations to collaborate with confidence as the largest provider of\nMicrosoft 365 data migration, management and protection solutions.\u003C/span\u003E\u003C/p\u003E\u003C/div\u003E",
+        "descriptionParagraphs": [
+          "\u003Cdiv\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:Calibri, sans-serif;\u0022\u003E\u003Cspan style=\u0022font-size:10.0pt;\u0022\u003ECan\u2019t keep track of your Teams, Sites, Groups and Communities\nin Microsoft \u003Cspan style=\u0022\u0022\u003E\u0026nbsp;\u003C/span\u003E365? We get it. Time spent\nsearching means less time being productive.\u0026nbsp;\u003Cspan style=\u0022font-size:10.0pt;font-family:\u0026quot;Calibri\u0026quot;,sans-serif;\u0022\u003EMeet AvePoint MyHub, your one-stop-shop for organizing\nexisting Microsoft 365 workspaces and creating new ones.\u003C/span\u003E\u003C/span\u003E\u003C/p\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:Calibri, sans-serif;\u0022\u003E\u003Cspan style=\u0022font-size:10.0pt;\u0022\u003E\u003Cspan style=\u0022font-size:10.0pt;font-family:\u0026quot;Calibri\u0026quot;,sans-serif;\u0022\u003E\u003Cbr\u003E\u003C/span\u003E\u003C/span\u003E\u003C/p\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:Calibri, sans-serif;\u0022\u003E\u003Cspan style=\u0022font-size:10.0pt;\u0022\u003E\u003Cspan style=\u0022font-size:10.0pt;font-family:\u0026quot;Calibri\u0026quot;,sans-serif;\u0022\u003E\u003Cbr\u003E\u003C/span\u003E\u003C/span\u003E\u003C/p\u003E\u003Cbr\u003E\u003C/div\u003E"
+        ],
+        "mediaAssets": [
+          {
+            "type": "image",
+            "order": 0,
+            "url": "assets/AvePoint_HERO.png",
+            "alt": ""
+          }
+        ],
+        "detailItemCategories": []
+      }
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "solutionId": "live-events-production-and-broadcast",
+  "partnerId": "unifiedcommunications-com",
+  "categories": [
+    "virtual events"
+  ],
+  "industries": [],
+  "sortOrder": 0,
+  "preview": false,
+  "visible": false,
+  "solutionLogoPicture": null,
+  "solutionLogoPictureAlt": "",
+  "solutionName": "Live Events: Production and Broadcast",
+  "solutionUrl": "https://www.unifiedcommunications.com/t-Microsoft-Teams-Live-Event-Services.aspx",
+  "solutionUrlTitle": "Live Events: Production and Broadcast",
+  "metadata": {
+    "personas": "Leadership",
+    "solutionTechnologies": "Teams Live Events",
+    "businessFunctions": null,
+    "displayInfo": {
+      "default": {
+        "descriptionParagraphs": [
+          {
+            "name": "Short description",
+            "content": [
+              "\u003Cdiv\u003E\u003Cb\u003ECustom production and broadcast services for Microsoft Live Events\u003C/b\u003E\u003Cbr\u003E\u003C/div\u003E"
+            ]
+          },
+          {
+            "name": "Business need or problem",
+            "content": [
+              "\u003Cdiv\u003E\u003Cspan style=\u0022font-size:10.0pt;font-family:\u0026quot;Calibri\u0026quot;,sans-serif;\u0022\u003EOrganizations are struggling to communicate\neffectively both with their own workforce and with external partners and industry\ndue to remote working and time/technology constraints.\u003Cspan style=\u0022\u0022\u003E\u0026nbsp; \u003C/span\u003EThey need an easy way to get their message\nout whether through Town Halls, Webinars, or as a live remote conference.\u003C/span\u003E\u003Cbr\u003E\u003C/div\u003E"
+            ]
+          },
+          {
+            "name": "Business solution",
+            "content": [
+              "\u003Cdiv\u003E\u003Cspan style=\u0022font-size:10.0pt;font-family:\u0026quot;Calibri\u0026quot;,sans-serif;\u0022\u003EWe provide a customizable solution that meets\nthe needs of organizations looking to stream content to a large audience.\u003Cspan style=\u0022\u0022\u003E\u0026nbsp; \u003C/span\u003EOur team of experts are experienced in all\nformats and work with each customer to develop the perfect solution.\u003C/span\u003E\u003Cbr\u003E\u003C/div\u003E"
+            ]
+          }
+        ],
+        "mediaAssets": [
+          {
+            "type": "image",
+            "order": 0,
+            "url": "assets/UC-LiveEvents-Production.png",
+            "alt": ""
+          }
+        ],
+        "detailItemCategories": [
+          {
+            "name": "Resources",
+            "description": "Possible html supported text shown just above the list of links",
+            "items": [
+              {
+                "url": "https://www.unifiedcommunications.com/t-Microsoft-Teams-Live-Event-Services.aspx",
+                "name": "Microsoft Teams Live Event Services"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

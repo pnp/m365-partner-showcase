@@ -1,0 +1,23 @@
+{
+  "partnerId": "dxc",
+  "categories": [],
+  "industries": [],
+  "solutions": null,
+  "sortOrder": 0,
+  "preview": false,
+  "visible": false,
+  "logoPicture": null,
+  "logoPictureAlt": "",
+  "partnerName": "DXC",
+  "mpnId": "0",
+  "metadata": {
+    "displayInfo": {
+      "default": {
+        "shortDescription": null,
+        "descriptionParagraphs": [],
+        "mediaAssets": [],
+        "detailItemCategories": []
+      }
+    }
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "solutionId": "storyalslite",
+  "partnerId": "storyals",
+  "categories": [
+    "learningpathways"
+  ],
+  "industries": [],
+  "sortOrder": 0,
+  "preview": false,
+  "visible": false,
+  "solutionLogoPicture": null,
+  "solutionLogoPictureAlt": "",
+  "solutionName": "Storyals Lite",
+  "solutionUrl": "https://storyals.com/storyalslite",
+  "solutionUrlTitle": "Storyals Lite",
+  "metadata": {
+    "personas": "Information Workers",
+    "solutionTechnologies": "SharePoint API;SharePoint sites;SPFx",
+    "businessFunctions": null,
+    "displayInfo": {
+      "default": {
+        "descriptionParagraphs": [
+          {
+            "name": "Short description",
+            "content": [
+              "\u003Cdiv\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:Calibri, sans-serif;margin-bottom:12.0pt;\u0022\u003E\u003Cspan style=\u0022font-family:Calibri, sans-serif;\u0022\u003EAn\nout-of-the box adoption site with story-based learning to build digital skills.\u003C/span\u003E\u003C/p\u003E\u003C/div\u003E"
+            ]
+          },
+          {
+            "name": "Business need or problem",
+            "content": [
+              "\u003Cdiv\u003E\u003Cspan\u003EUsers today are overwhelmed with the many modern tools that Microsoft 365 provides. It\u2019s difficult for organizations to provide their employees with the necessary learning required for users to use these tools in an effective manner. Classroom based training, carried out a couple of times a year, is no longer sufficient to keep users trained with the constant changes and updates of today\u0027s modern tools. \u003Cbr\u003E\u003C/span\u003E\u003Cdiv\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003EMany users are stuck in traditional ways of working and don\u2019t always welcome change. They need to be made aware of the benefits and understand why they should change their behavior, in addition to how to use the tools to do it. \u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003EAn added organizational complexity is that training users on better ways of working using technology often falls between chairs of HR and IT.\u003C/div\u003E\u003C/div\u003E"
+            ]
+          },
+          {
+            "name": "Business solution",
+            "content": [
+              "\u003Cdiv\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:Calibri, sans-serif;margin-bottom:6.0pt;\u0022\u003E\u003Cspan style=\u0022font-size:10.0pt;font-family:\u0026quot;Lato\u0026quot;,sans-serif;\u0022\u003EStoryals Lite is designed for departments and organizations of all sizes\nthat quickly want to provide their users with engaging digital learning, to\ninspire, motivate and educate their users to work smarter with Microsoft 365.\u003C/span\u003E\u003C/p\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:Calibri, sans-serif;margin-bottom:6.0pt;\u0022\u003E\u003Cspan style=\u0022font-size:10.0pt;font-family:\u0026quot;Lato\u0026quot;,sans-serif;color:#4D4D4F;\u0022\u003EWith Storyals Lite, users are provided with a learning site\nwith self-paced, high-quality training videos and story-based tutorials. \u003C/span\u003E\u003C/p\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:Calibri, sans-serif;margin-bottom:6.0pt;\u0022\u003E\u003Cspan style=\u0022font-size:10.0pt;font-family:\u0026quot;Lato\u0026quot;,sans-serif;color:#4D4D4F;\u0022\u003EThe on-demand videos from Storyals focus on \u201Cwhat you need\nto know\u201D to work effectively using modern digital tools. \u003C/span\u003E\u003C/p\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:Calibri, sans-serif;margin-bottom:6.0pt;\u0022\u003E\u003Cspan style=\u0022font-size:10.0pt;font-family:\u0026quot;Lato\u0026quot;,sans-serif;color:#4D4D4F;\u0022\u003EUsers have access to a selected number of learning \u003C/span\u003E\u003Cspan style=\u0022font-size:10.0pt;font-family:\u0026quot;Lato\u0026quot;,sans-serif;\u0022\u003Etopics,\u003Cspan style=\u0022color:#4D4D4F;\u0022\u003E each covering\nvarious apps and features. All learning topics highlight digital workplace best\npractices and feature real-world scenarios. To further strengthen\nunderstanding, each topic includes a quiz with situational-based questions. The\nsolution also includes \u201Chow-to\u201D videos from Microsoft. \u003C/span\u003E\u003C/span\u003E\u003C/p\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:Calibri, sans-serif;margin-bottom:6.0pt;\u0022\u003E\u003Cspan style=\u0022font-size:10.0pt;font-family:\u0026quot;Lato\u0026quot;,sans-serif;color:#4D4D4F;\u0022\u003EThe learning solution is installed in your own Microsoft\n365 environment for users to have easy access, and the content is continuously updated\nand maintained by Storyals. \u003C/span\u003E\u003C/p\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:Calibri, sans-serif;margin-bottom:6.0pt;\u0022\u003E\u003Cspan style=\u0022font-size:10.0pt;font-family:\u0026quot;Lato\u0026quot;,sans-serif;color:#4D4D4F;\u0022\u003EStoryals Lite provides an easy way of building digital\nskills and drive adoption in the workplace.\u003C/span\u003E\u003C/p\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:Calibri, sans-serif;margin-bottom:6.0pt;\u0022\u003E\u003Cb\u003E\u003Cspan style=\u0022font-size:10.0pt;font-family:\u0026quot;Lato\u0026quot;,sans-serif;color:#4D4D4F;\u0022\u003EWith Storyals Lite you get a: \u003C/span\u003E\u003C/b\u003E\u003Cb\u003E\u003Cspan style=\u0022font-family:\u0026quot;Lato\u0026quot;,sans-serif;color:#4D4D4F;\u0022\u003E\u003C/span\u003E\u003C/b\u003E\u003C/p\u003E\u003Cul style=\u0022margin-bottom:0in;\u0022\u003E\u003Cli\u003E\u003Cspan style=\u0022font-size:10.0pt;font-family:\u0026quot;Lato\u0026quot;,sans-serif;color:#4D4D4F;\u0022\u003EA great looking SharePoint site\u003C/span\u003E\u003C/li\u003E\u003Cli\u003E\u003Cspan style=\u0022font-size:10.0pt;font-family:\u0026quot;Lato\u0026quot;,sans-serif;color:#4D4D4F;\u0022\u003EAccess to all Storyals topics\u003C/span\u003E\u003C/li\u003E\u003Cli\u003E\u003Cspan style=\u0022font-size:10.0pt;font-family:\u0026quot;Lato\u0026quot;,sans-serif;color:#4D4D4F;\u0022\u003EContinuous video updates\u003C/span\u003E\u003C/li\u003E\u003Cli\u003E\u003Cspan style=\u0022font-size:10.0pt;font-family:\u0026quot;Lato\u0026quot;,sans-serif;color:#4D4D4F;\u0022\u003EQuizzes to strengthen understanding\u003C/span\u003E\u003C/li\u003E\u003Cli\u003E\u003Cspan style=\u0022font-size:10.0pt;font-family:\u0026quot;Lato\u0026quot;,sans-serif;color:#4D4D4F;\u0022\u003ECertificates to recognize\ncompletion\u003C/span\u003E\u003C/li\u003E\u003Cli\u003E\u003Cspan style=\u0022font-size:10.0pt;font-family:\u0026quot;Lato\u0026quot;,sans-serif;color:#4D4D4F;\u0022\u003EMicrosoft 365 Learning Pathways\u003C/span\u003E\u003C/li\u003E\u003Cli\u003E\u003Cspan style=\u0022font-size:10.0pt;font-family:\u0026quot;Lato\u0026quot;,sans-serif;color:#4D4D4F;\u0022\u003EProfessional support and\nmaintenance\u003C/span\u003E\u003C/li\u003E\u003C/ul\u003E\u003C/div\u003E"
+            ]
+          }
+        ],
+        "mediaAssets": [
+          {
+            "type": "image",
+            "order": 0,
+            "url": "assets/2. Storyals Lite in M365.jpg",
+            "alt": ""
+          },
+          {
+            "type": "image",
+            "order": 1,
+            "url": "assets/5. Storyals Lite instructional videos.jpg",
+            "alt": ""
+          },
+          {
+            "type": "image",
+            "order": 2,
+            "url": "assets/4. Storyals lite intro video Enhance teamwork.png",
+            "alt": ""
+          },
+          {
+            "type": "image",
+            "order": 3,
+            "url": "assets/6. Storyals Lite rich learning content.png",
+            "alt": ""
+          },
+          {
+            "type": "image",
+            "order": 4,
+            "url": "assets/7. Storyals Lite real world examples.png",
+            "alt": ""
+          },
+          {
+            "type": "image",
+            "order": 5,
+            "url": "assets/3. Storyals Lite video learning topic.png",
+            "alt": ""
+          },
+          {
+            "type": "image",
+            "order": 6,
+            "url": "assets/1. Storyals Lite featured image.png",
+            "alt": ""
+          }
+        ],
+        "detailItemCategories": [
+          {
+            "name": "Resources",
+            "description": "Possible html supported text shown just above the list of links",
+            "items": [
+              {
+                "url": "https://storyals.com/storyalslite",
+                "name": "https://storyals.com/storyalslite"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

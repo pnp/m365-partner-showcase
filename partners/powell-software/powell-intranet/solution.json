@@ -1,0 +1,93 @@
+{
+  "solutionId": "powell-intranet",
+  "partnerId": "powell-software",
+  "categories": [
+    "teams"
+  ],
+  "industries": [],
+  "sortOrder": 0,
+  "preview": false,
+  "visible": false,
+  "solutionLogoPicture": null,
+  "solutionLogoPictureAlt": "",
+  "solutionName": "Powell Intranet",
+  "solutionUrl": "https://powell-software.com/en/intranet-in-a-box/",
+  "solutionUrlTitle": "Powell Intranet",
+  "metadata": {
+    "personas": "All Employees;Corporate Communications;HR;IT",
+    "solutionTechnologies": "Azure;Graph API;Microsoft 365;Power Automate",
+    "businessFunctions": null,
+    "displayInfo": {
+      "default": {
+        "descriptionParagraphs": [
+          {
+            "name": "Short description",
+            "content": [
+              "\u003Cdiv\u003E\u003Cspan style=\u0022font-size:12pt;font-family:Calibri, sans-serif;\u0022\u003EA modern corporate Intranet designed for\ncommunication success and to drive employee engagement\u003C/span\u003E\u003Cspan style=\u0022font-size:12pt;font-family:Calibri, sans-serif;\u0022\u003E.\u003C/span\u003E\u003Cbr\u003E\u003C/div\u003E"
+            ]
+          },
+          {
+            "name": "Business need or problem",
+            "content": []
+          },
+          {
+            "name": "Business solution",
+            "content": [
+              "\u003Ch2 style=\u0022box-sizing:border-box;font-weight:600;margin:2pt 0in 0in;font-size:13pt;font-family:\u0026quot;Calibri Light\u0026quot;, sans-serif;color:rgb(47, 84, 150);\u0022\u003E\u003Cspan style=\u0022box-sizing:border-box;font-size:10pt;font-family:Calibri, sans-serif;color:windowtext;\u0022\u003EFor Employees\u003C/span\u003E \u003C/h2\u003E\u003Cp style=\u0022box-sizing:border-box;margin:0in;font-size:11pt;font-family:Calibri, sans-serif;text-align:justify;\u0022\u003E\u003Cspan style=\u0022box-sizing:border-box;font-size:10pt;\u0022\u003EPowell Intranet is a corporate Intranet accessible from a browser, a mobile phone with an optional dedicated app and directly in Teams. It allows an attractive and easy access to corporate information, resources, and business application to improve the way people work. Powell Intranet is inclusive as it ensures that non-technical savvy people are engaged in the company culture, no matter they are Information Workers or Firstline workers.\u003Cbr\u003E\u003C/span\u003E\u003C/p\u003E\u003Cp style=\u0022box-sizing:border-box;margin:0in;font-size:11pt;font-family:Calibri, sans-serif;text-align:justify;\u0022\u003E\u003Cb style=\u0022font-size:10pt;\u0022\u003E\u003Cbr\u003E\u003C/b\u003E\u003C/p\u003E\u003Cp style=\u0022box-sizing:border-box;margin:0in;font-size:11pt;font-family:Calibri, sans-serif;text-align:justify;\u0022\u003E\u003Cspan style=\u0022font-size:10pt;\u0022\u003E\u003Cspan style=\u0022font-weight:bold;\u0022\u003EFor Intranet Contributors\u003Cbr\u003E\u003C/span\u003EPortal owners from HR and Communications can benefit for a rich catalog of templates for day to day activities: onboarding employees, company news, desk booking, Services portal, Department portal. These reports can be customized with a no-code approach.\u003Cbr\u003E\u003C/span\u003E\u003C/p\u003E\u003Cp style=\u0022box-sizing:border-box;margin:0in;font-size:11pt;font-family:Calibri, sans-serif;text-align:justify;\u0022\u003E\u003Cb style=\u0022font-size:10pt;\u0022\u003E\u003Cbr\u003E\u003C/b\u003E\u003C/p\u003E\u003Cdiv style=\u0022box-sizing:border-box;margin:0px 0in;font-size:11pt;font-family:Calibri, sans-serif;text-align:justify;\u0022\u003E\u003Cb style=\u0022font-size:10pt;\u0022\u003EFor IT\u003Cbr\u003E\u003C/b\u003E\u003Cspan\u003EIT teams need to strike the right balance between adopting Microsoft 365 to the business context, making it easy for employees to use, and complying with the rules of security, compliance, and good IT management.\u0026nbsp;\u003C/span\u003E\u003Cspan\u003EPowell Intranet is secured by design: all data remain in the customer Microsoft 365 tenant and Identity is managed in Azure Active Directory.\u003C/span\u003E\u003C/div\u003E\u003Cdiv style=\u0022box-sizing:border-box;margin:0px 0in;font-size:11pt;font-family:Calibri, sans-serif;text-align:justify;\u0022\u003E\u003Cspan\u003E\u003Cbr\u003E\u003C/span\u003E\u003C/div\u003E\u003Cdiv style=\u0022box-sizing:border-box;margin:0px 0in;font-size:11pt;font-family:Calibri, sans-serif;text-align:justify;\u0022\u003E\u003Cspan\u003E\u003Cspan\u003EPowell Intranet is powered by a real SharePoint pages factory that allows IT teams to industrialize how the deploy, manage, and govern up to thousands of SharePoint sites with a patented low code management tool.\u003C/span\u003E\u003C/span\u003E\u003C/div\u003E\u003Cp style=\u0022box-sizing:border-box;margin:0in;font-size:12pt;font-family:Calibri, sans-serif;\u0022\u003E \u003C/p\u003E"
+            ]
+          }
+        ],
+        "mediaAssets": [
+          {
+            "type": "video",
+            "order": 0,
+            "url": "https://www.youtube.com/embed/3hcA59uuA0g",
+            "alt": ""
+          },
+          {
+            "type": "image",
+            "order": 1,
+            "url": "assets/powell-intranet-sol-image-2.png",
+            "alt": ""
+          },
+          {
+            "type": "image",
+            "order": 2,
+            "url": "assets/powell-intranet-sol-image-4.png",
+            "alt": ""
+          },
+          {
+            "type": "image",
+            "order": 3,
+            "url": "assets/powell-intranet-sol-image-1.png",
+            "alt": ""
+          },
+          {
+            "type": "image",
+            "order": 4,
+            "url": "assets/powell-intranet-sol-image-5.png",
+            "alt": ""
+          },
+          {
+            "type": "image",
+            "order": 5,
+            "url": "assets/powell-intranet-sol-image-3.png",
+            "alt": ""
+          }
+        ],
+        "detailItemCategories": [
+          {
+            "name": "Resources",
+            "description": "Possible html supported text shown just above the list of links",
+            "items": [
+              {
+                "url": "https://powell-software.com/en/intranet-in-a-box/",
+                "name": "Powell Intranet: The\nBest Digital Workplace Communication Software (powell-software.com)"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}
