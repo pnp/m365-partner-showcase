@@ -8,6 +8,8 @@
   "visible": false,
   "logoPicture": null,
   "logoPictureAlt": "",
+  "heroPicture": "assets/hero.png",
+  "featuredPicture": null,
   "partnerName": "LiveTiles",
   "mpnId": "5351859",
   "metadata": {
@@ -21,13 +23,13 @@
           {
             "type": "image",
             "order": 0,
-            "url": "assets/LiveTiles HERO.png",
+            "url": "assets/Featured.jpg",
             "alt": ""
           },
           {
             "type": "image",
             "order": 1,
-            "url": "assets/LiveTiles Featured Title.jpg",
+            "url": "assets/Hero.png",
             "alt": ""
           }
         ],

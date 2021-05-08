@@ -8,6 +8,8 @@
   "visible": false,
   "logoPicture": null,
   "logoPictureAlt": "",
+  "heroPicture": "assets/hero.png",
+  "featuredPicture": "assets/featured.png",
   "partnerName": "Lightning Tools",
   "mpnId": "2164053",
   "metadata": {
@@ -23,13 +25,13 @@
           {
             "type": "image",
             "order": 0,
-            "url": "assets/LTOverview.png",
+            "url": "assets/Hero.png",
             "alt": ""
           },
           {
             "type": "image",
             "order": 1,
-            "url": "assets/LTHero.png",
+            "url": "assets/Featured.png",
             "alt": ""
           }
         ],

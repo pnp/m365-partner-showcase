@@ -8,6 +8,8 @@
   "visible": false,
   "logoPicture": null,
   "logoPictureAlt": "",
+  "heroPicture": null,
+  "featuredPicture": null,
   "partnerName": "VisualSP",
   "mpnId": "4768963",
   "metadata": {
@@ -19,7 +21,14 @@
           "\u003Cdiv\u003E\u003Cspan style=\u0022display:inline !important;\u0022\u003EVisualSP (Visual Support Platform) ships with over a thousand pre-built and configured Microsoft training items. The system is also fully customizable and configurable to match your business needs with your own custom training content as well. VisualSP is available as an overlay on top of all your enterprise web applications so the information is delivered to your users without leaving their work environment.\u003C/span\u003E\u003Cbr\u003E \u003C/div\u003E",
           "\u003Cdiv\u003E\u003Cspan style=\u0022display:inline !important;\u0022\u003EWhatever app your employee is using, they are able to quickly access on-page training and guidance that shows how they can use the tool most effectively to do their job. For example, whether users are confused about how to set permissions in SharePoint, want to share a Word Online document with peers or cannot remember how to user your company\u2019s leave request application to apply for a leave, VisualSP is always available to help provide them with guidance and training at their moment of their need.\u003C/span\u003E\u003Cbr\u003E \u003C/div\u003E"
         ],
-        "mediaAssets": [],
+        "mediaAssets": [
+          {
+            "type": "image",
+            "order": 0,
+            "url": "assets/Hero.jpg",
+            "alt": ""
+          }
+        ],
         "detailItemCategories": []
       }
     }

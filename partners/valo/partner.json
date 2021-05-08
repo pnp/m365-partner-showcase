@@ -8,6 +8,8 @@
   "visible": false,
   "logoPicture": null,
   "logoPictureAlt": "",
+  "heroPicture": null,
+  "featuredPicture": null,
   "partnerName": "Valo Solutions",
   "mpnId": "1136673",
   "metadata": {
@@ -23,13 +25,13 @@
           {
             "type": "image",
             "order": 0,
-            "url": "assets/Valo-Fall in love with your digital workplace.jpg",
+            "url": "assets/Featured.jpg",
             "alt": ""
           },
           {
             "type": "image",
             "order": 1,
-            "url": "assets/Valo DWP-featured.jpg",
+            "url": "assets/Hero.jpg",
             "alt": ""
           }
         ],

@@ -8,6 +8,8 @@
   "visible": false,
   "logoPicture": null,
   "logoPictureAlt": "",
+  "heroPicture": null,
+  "featuredPicture": null,
   "partnerName": "Sympraxis Consulting",
   "mpnId": "0",
   "metadata": {
@@ -28,7 +30,7 @@
           {
             "type": "image",
             "order": 1,
-            "url": "assets/Sympraxis Consulting_Logo.jpg",
+            "url": "assets/Hero.jpg",
             "alt": ""
           }
         ],
