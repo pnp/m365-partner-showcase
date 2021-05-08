@@ -8,6 +8,8 @@
   "visible": false,
   "logoPicture": null,
   "logoPictureAlt": "",
+  "heroPicture": "assets/hero.png",
+  "featuredPicture": "assets/featured.png",
   "partnerName": "ClearPeople Limited",
   "mpnId": "0",
   "metadata": {
@@ -23,13 +25,13 @@
           {
             "type": "image",
             "order": 0,
-            "url": "assets/Atlas in monitor-Hero image.png",
+            "url": "assets/Featured.png",
             "alt": ""
           },
           {
             "type": "image",
             "order": 1,
-            "url": "assets/Atlas tablet and mobile-Featured Title.png",
+            "url": "assets/Hero.png",
             "alt": ""
           }
         ],

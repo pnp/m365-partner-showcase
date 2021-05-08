@@ -8,6 +8,8 @@
   "visible": false,
   "logoPicture": null,
   "logoPictureAlt": "",
+  "heroPicture": "assets/hero.png",
+  "featuredPicture": "assets/featured.png",
   "partnerName": "AvePoint",
   "mpnId": "0",
   "metadata": {
@@ -21,7 +23,13 @@
           {
             "type": "image",
             "order": 0,
-            "url": "assets/AvePoint_HERO.png",
+            "url": "assets/Hero.png",
+            "alt": ""
+          },
+          {
+            "type": "image",
+            "order": 1,
+            "url": "assets/Featured.png",
             "alt": ""
           }
         ],

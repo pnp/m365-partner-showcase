@@ -8,6 +8,8 @@
   "visible": false,
   "logoPicture": null,
   "logoPictureAlt": "",
+  "heroPicture": "assets/hero.png",
+  "featuredPicture": "assets/featured.png",
   "partnerName": "Cyclotron",
   "mpnId": "4480074",
   "metadata": {
@@ -21,13 +23,13 @@
           {
             "type": "image",
             "order": 0,
-            "url": "assets/Cyclotron Featured Image.png",
+            "url": "assets/Hero.png",
             "alt": ""
           },
           {
             "type": "image",
             "order": 1,
-            "url": "assets/Cyclotron Hero Image.png",
+            "url": "assets/Featured.png",
             "alt": ""
           }
         ],

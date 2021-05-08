@@ -8,6 +8,8 @@
   "visible": false,
   "logoPicture": null,
   "logoPictureAlt": "",
+  "heroPicture": "assets/hero.png",
+  "featuredPicture": null,
   "partnerName": "Orchestry Software",
   "mpnId": "6209704",
   "metadata": {
@@ -23,7 +25,7 @@
           {
             "type": "image",
             "order": 0,
-            "url": "assets/Orchestry - Partner Profile Listing - Header.png",
+            "url": "assets/Hero.png",
             "alt": ""
           }
         ],
