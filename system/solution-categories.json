@@ -1,53 +1,41 @@
 {
     "categories": [
         {
-            "id": "SOLUTION-CATEGORY01",
+            "id": "teams",
             "displayInfo": {
                 "default": {
-                    "displayName": "Solution Category 1 display",
-                    "description": "Potential description for category"
+                    "displayName": "Microsoft Teams",
+                    "description": "Solutions for Microsoft Teams"
                         },
-                "fi": {
-                    "displayName": "Solution Tuote 1",
-                    "description": "Mahdollinen kuvaus"
-                },
                 "it": {
-                    "displayName": "Solution Categoria 1",
-                    "description": "Descrizione della categoria"
+                    "displayName": "Microsoft Teams",
+                    "description": "Soluzioni per Microsoft Teams"
                 }
             }
         },
         {
-            "id": "SOLUTION-CATEGORY02",
+            "id": "learningpathways",
             "displayInfo": {
                 "default": {
-                    "displayName": "Solution Category 2 display",
-                    "description": "Potential description for category"
+                    "displayName": "Learning Pathways",
+                    "description": "Solutions for employees learning pathways"
                         },
-                "fi": {
-                    "displayName": "Solution Tuote 2",
-                    "description": "Mahdollinen kuvaus"
-                },
                 "it": {
-                    "displayName": "Solution Categoria 2",
-                    "description": "Descrizione della categoria"
+                    "displayName": "Learning Pathways",
+                    "description": "Soluzioni per la formazione aziendale"
                 }
             }
         },
         {
-            "id": "SOLUTION-CATEGORY03",
+            "id": "virtualevents",
             "displayInfo": {
                 "default": {
-                    "displayName": "Solution Category 3 display",
-                    "description": "Potential description for category"
+                    "displayName": "Virtual Events",
+                    "description": "Solutions for Virtual Events"
                         },
-                "fi": {
-                    "displayName": "Solution Tuote 3",
-                    "description": "Mahdollinen kuvaus"
-                },
                 "it": {
-                    "displayName": "Solution Categoria 3",
-                    "description": "Descrizione della categoria"
+                    "displayName": "Virtual Events",
+                    "description": "Soluzioni per gestire eventi virtuali"
                 }
             }
         }
