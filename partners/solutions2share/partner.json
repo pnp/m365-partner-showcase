@@ -5,9 +5,11 @@
   "solutions": null,
   "sortOrder": 0,
   "preview": false,
-  "visible": false,
+  "visible": true,
   "logoPicture": null,
   "logoPictureAlt": "",
+  "heroPicture": "assets/hero.png",
+  "featuredPicture": null,
   "partnerName": "Solutions2Share",
   "mpnId": "0",
   "metadata": {
@@ -27,7 +29,7 @@
           {
             "type": "image",
             "order": 1,
-            "url": "assets/solutions2hare-Hero image.png",
+            "url": "assets/Hero.png",
             "alt": ""
           }
         ],

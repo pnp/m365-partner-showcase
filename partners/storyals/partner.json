@@ -5,9 +5,11 @@
   "solutions": null,
   "sortOrder": 0,
   "preview": false,
-  "visible": false,
+  "visible": true,
   "logoPicture": null,
   "logoPictureAlt": "",
+  "heroPicture": "assets/hero.png",
+  "featuredPicture": null,
   "partnerName": "Storyals",
   "mpnId": "0",
   "metadata": {
@@ -23,13 +25,7 @@
           {
             "type": "image",
             "order": 0,
-            "url": "assets/Storyals secondary image.png",
-            "alt": ""
-          },
-          {
-            "type": "image",
-            "order": 1,
-            "url": "assets/Storyals Hero image.png",
+            "url": "assets/Hero.png",
             "alt": ""
           }
         ],
