@@ -16,11 +16,17 @@
     "displayInfo": {
       "default": {
         "shortDescription": "\u003Cdiv\u003E\u0026#129433; Hey, let us be your tour guide to digital success! WorkplaceBuddy helps employees personally to become digitally skilled with a proactive chatbot and e-learning... with lots of fun!\u003Cbr\u003E\u003C/div\u003E",
-        "descriptionParagraphs": [
+        "featuredTitle": "\uD83D\uDE80 Working with digital tools should not feel like a struggle, alpacas come to your rescue!",
+        "featuredParagraphs": [
           "\u003Cdiv\u003E\u003Cspan style=\u0022font-family:Calibri, sans-serif;font-size:14.6667px;display:inline !important;\u0022\u003EUnderstanding the needs of each person is very important for us, we help employees to make the change they are looking for: from someone who has never seen Microsoft 365 to advanced users. That\u0027s why we start with an interview, to get to know you better. This gives us the insights to automatically create a relevant, personal learning journey. The interview also returns general company insights, so you can find out the exact digital skill gap in your company and take appropriate action.\u003C/span\u003E\u003Cbr\u003E \u003C/div\u003E",
           "\u003Cdiv\u003E\u003Cspan style=\u0022font-family:Calibri, sans-serif;font-size:14.6667px;display:inline !important;\u0022\u003EWorkplaceBuddy creates relevant Microsoft 365 content (besides that we are a Microsoft Learning Pathways Partner). As we continuously monitor (anonimously) conversations and e-learnings and thereby the trends in interests of users, we build relevant content. Our content motivates, inspires and is fun. We deliver this content in campaigns, where the chatbot will proactively reach out to persons who need this content.\u003C/span\u003E\u003Cbr\u003E \u003C/div\u003E",
           "\u003Cdiv\u003E\u003Cspan style=\u0022font-family:Calibri, sans-serif;font-size:14.6667px;display:inline !important;\u0022\u003EWhat happens to all colleagues who feel they can\u0027t keep up with your digital developments? If wou want to make impact with your organization, you have to enable your colleagues to become digital winners. Of course, each organization is different and that\u0027s why we\u0027ve build an administrator side where you can monitor, add your own specific content (be it chatbot conversations or e-learnings) and create your own badges (motivating colleagues to go for your organization\u0027s goals).\u003C/span\u003E\u003Cbr\u003E \u003C/div\u003E"
         ],
+        "callToAction": {
+          "title": "\uD83C\uDF89 We\u0027d love to hear from you!",
+          "description": "For organizations that want to get the most out of their digital tools and want to take care of their colleagues, we are here to help! In a call we can demo our product and discuss your challenges.",
+          "url": "https://outlook.office365.com/owa/calendar/WorkplaceBuddyDemoviaMicrosoft@workplacebuddy.com/bookings/"
+        },
         "mediaAssets": [
           {
             "type": "image",

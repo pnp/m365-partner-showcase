@@ -16,7 +16,13 @@
     "displayInfo": {
       "default": {
         "shortDescription": null,
-        "descriptionParagraphs": [],
+        "featuredTitle": null,
+        "featuredParagraphs": [],
+        "callToAction": {
+          "title": null,
+          "description": null,
+          "url": "https://www.cognizant.com/"
+        },
         "mediaAssets": [],
         "detailItemCategories": []
       }
