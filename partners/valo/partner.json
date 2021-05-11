@@ -5,11 +5,11 @@
   "solutions": null,
   "sortOrder": 0,
   "preview": false,
-  "visible": false,
+  "visible": true,
   "logoPicture": null,
   "logoPictureAlt": "",
-  "heroPicture": null,
-  "featuredPicture": null,
+  "heroPicture": "assets/hero.png",
+  "featuredPicture": "assets/featured.png",
   "partnerName": "Valo Solutions",
   "mpnId": "1136673",
   "metadata": {
@@ -25,13 +25,13 @@
           {
             "type": "image",
             "order": 0,
-            "url": "assets/Featured.jpg",
+            "url": "assets/Featured.png",
             "alt": ""
           },
           {
             "type": "image",
             "order": 1,
-            "url": "assets/Hero.jpg",
+            "url": "assets/Hero.png",
             "alt": ""
           }
         ],
