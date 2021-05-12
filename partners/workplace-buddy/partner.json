@@ -8,8 +8,8 @@
   "visible": true,
   "logoPicture": null,
   "logoPictureAlt": "",
-  "heroPicture": null,
-  "featuredPicture": null,
+  "heroPicture": "assets/hero.png",
+  "featuredPicture": "assets/featured.png",
   "partnerName": "WorkplaceBuddy",
   "mpnId": "0",
   "metadata": {
@@ -31,13 +31,13 @@
           {
             "type": "image",
             "order": 0,
-            "url": "assets/Featured.jpg",
+            "url": "assets/Featured.png",
             "alt": ""
           },
           {
             "type": "image",
             "order": 1,
-            "url": "assets/Hero.jpg",
+            "url": "assets/Hero.png",
             "alt": ""
           }
         ],
