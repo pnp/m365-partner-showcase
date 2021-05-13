@@ -8,7 +8,7 @@
   "visible": true,
   "logoPicture": null,
   "logoPictureAlt": "",
-  "heroPicture": null,
+  "heroPicture": "assets/hero.png",
   "featuredPicture": "assets/featured.png",
   "partnerName": "Planet Technologies",
   "mpnId": "0",
@@ -31,7 +31,7 @@
           {
             "type": "image",
             "order": 0,
-            "url": "assets/Hero.jpg",
+            "url": "assets/Hero.png",
             "alt": ""
           },
           {

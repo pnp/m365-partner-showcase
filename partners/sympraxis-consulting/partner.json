@@ -8,8 +8,8 @@
   "visible": true,
   "logoPicture": null,
   "logoPictureAlt": "",
-  "heroPicture": null,
-  "featuredPicture": null,
+  "heroPicture": "assets/hero.png",
+  "featuredPicture": "https://www.youtube.com/embed/55_OGTi5-MI",
   "partnerName": "Sympraxis Consulting",
   "mpnId": "0",
   "metadata": {
@@ -36,7 +36,7 @@
           {
             "type": "image",
             "order": 1,
-            "url": "assets/Hero.jpg",
+            "url": "assets/Hero.png",
             "alt": ""
           }
         ],
