@@ -17,6 +17,7 @@
     "personas": "Business Admin;IT;Knowledge Worker",
     "solutionTechnologies": "Azure AD;Microsoft 365;Microsoft Teams;OneDrive;SharePoint sites",
     "businessFunctions": null,
+    "appSource": null,
     "displayInfo": {
       "default": {
         "descriptionParagraphs": [

@@ -17,6 +17,7 @@
     "personas": "Business Users;Student",
     "solutionTechnologies": "Custom Tabs;Graph API;SharePoint sites;SPFx",
     "businessFunctions": null,
+    "appSource": null,
     "displayInfo": {
       "default": {
         "descriptionParagraphs": [

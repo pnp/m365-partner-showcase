@@ -17,6 +17,7 @@
     "personas": "HR;IT Admin;Project Manager",
     "solutionTechnologies": "Azure;Graph API;Microsoft Teams;SharePoint sites;SPFx",
     "businessFunctions": "Governance;Human Resources;IT;Project Management Offices;Project Managers",
+    "appSource": null,
     "displayInfo": {
       "default": {
         "descriptionParagraphs": [

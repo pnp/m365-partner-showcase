@@ -17,6 +17,7 @@
     "personas": "Business Users;Developer",
     "solutionTechnologies": "Graph API;Search;SPFx",
     "businessFunctions": null,
+    "appSource": null,
     "displayInfo": {
       "default": {
         "descriptionParagraphs": [
@@ -29,7 +30,7 @@
           {
             "name": "Business need or problem",
             "content": [
-              "\u003Cdiv\u003EThroughout Microsoft 365, business users work with content. The content may reside within SharePoint lists and libraries, Microsoft Planner, OneDrive, Outlook, and many more repositories. The Lightning Conductor enables business users to make the content available within Microsoft Teams, where the user is spending the majority of their time. For example, you could build aggregated Task list reports highlighting overdue tasks, or bring your documents from multiple SharePoint document libraries into Microsoft Teams\u003Cbr\u003E\u003C/div\u003E"
+              "\u003Cdiv\u003EThroughout Microsoft 365, business users work with content. The content may reside within SharePoint lists and libraries, Microsoft Planner, OneDrive, Outlook, and many more repositories. The Lightning Conductor enables business users to make the content available within Microsoft Teams, where the user is spending the majority of their time. For example, you could build aggregated Task list reports highlighting overdue tasks, or bring your documents from multiple SharePoint document libraries into Microsoft Teams.\u003Cbr\u003E\u003C/div\u003E"
             ]
           },
           {

@@ -17,25 +17,26 @@
     "personas": "Business Users;Information Workers",
     "solutionTechnologies": "Azure;Azure Bot;Graph API;SPFx",
     "businessFunctions": null,
+    "appSource": null,
     "displayInfo": {
       "default": {
         "descriptionParagraphs": [
           {
             "name": "Short description",
             "content": [
-              "\u003Cdiv\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:Calibri, sans-serif;margin-bottom:12.0pt;\u0022\u003E\u003Cb\u003E\u003Cspan style=\u0022font-size:14.0pt;\u0022\u003EEvolve\n365 is a Planet Technologies methodology and service that drives learning and\npromotes user adoption. Custom learning solutions that fit your needs and your\nworkforce.\u003C/span\u003E\u003C/b\u003E\u003C/p\u003E\u003C/div\u003E"
+              "\u003Cdiv\u003E\u003Cb\u003EEvolve\n365 is a Planet Technologies methodology and service that drives learning and\npromotes user adoption. Custom learning solutions that fit your needs and your\nworkforce.\u003C/b\u003E\u003C/div\u003E"
             ]
           },
           {
             "name": "Business need or problem",
             "content": [
-              "\u003Cdiv\u003E\u003Cspan style=\u0022font-size:10.0pt;font-family:\u0026quot;Calibri\u0026quot;,sans-serif;\u0022\u003EWhen you look at the overall deployment of any\nnew technology or new way of doing things, it doesn\u2019t take long to see that\nsimply deploying the solution is never all there is to the story. Deployment is\nnot adoption, and, in most cases, the actual implementation of the technology\nis the easiest part of the entire project. If our IT projects were based solely\non the deployment of the technology and could ignore the social, economic, and\ncultural issues \u2013 implementing new solutions would be the easiest task we ever\ntook on!\u003C/span\u003E\u003Cbr\u003E\u003C/div\u003E"
+              "\u003Cdiv\u003EWhen you look at the overall deployment of any\nnew technology or new way of doing things, it doesn\u2019t take long to see that\nsimply deploying the solution is never all there is to the story. Deployment is\nnot adoption, and, in most cases, the actual implementation of the technology\nis the easiest part of the entire project. If our IT projects were based solely\non the deployment of the technology and could ignore the social, economic, and\ncultural issues \u2013 implementing new solutions would be the easiest task we ever\ntook on!\u003Cbr\u003E\u003C/div\u003E"
             ]
           },
           {
             "name": "Business solution",
             "content": [
-              "\u003Cdiv\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:Calibri, sans-serif;margin-bottom:6.0pt;\u0022\u003E\u003Cspan style=\u0022font-size:10.0pt;\u0022\u003EWith\nall these things in mind, Planet Technologies has crafted a complete learning\nsolution \u2013 designed purposefully to bring together all aspects of learning and\nchange management to your Microsoft 365 deployments.\u003Cspan style=\u0022\u0022\u003E\u0026nbsp; \u003C/span\u003ENo matter if you are just getting ready to\nmigrate to Office 365 or if you have been there for years.\u003Cspan style=\u0022\u0022\u003E\u0026nbsp; \u003C/span\u003EEvolve 365 is a flexible solution designed to\nmeet your users where they are, help them understand the technology available\nto them and help them understand how it can help them transform how they work\ntogether.\u003C/span\u003E\u003C/p\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:Calibri, sans-serif;margin-bottom:6.0pt;\u0022\u003E\u003Cspan style=\u0022font-size:10.0pt;\u0022\u003EEvolve\n365 Includes:\u003C/span\u003E\u003C/p\u003E\u003Cul style=\u0022margin-bottom:0in;\u0022\u003E\u003Cli\u003E\u003Cspan style=\u0022font-size:10.0pt;\u0022\u003EDedicated Learning Strategist\u003C/span\u003E\u003C/li\u003E\u003Cli\u003E\u003Cspan style=\u0022font-size:10.0pt;\u0022\u003ECustom Training Playlist\u003C/span\u003E\u003C/li\u003E\u003Cli\u003E\u003Cspan style=\u0022font-size:10.0pt;\u0022\u003EOnline Videos \u0026amp; Training Playlist \u2013 Updated with\nOffice 365 Feature Release Cycles \u003C/span\u003E\u003C/li\u003E\u003Cli\u003E\u003Cspan style=\u0022font-size:10.0pt;\u0022\u003ECustom Training \u2013 including Cyber Security and CMMC\nTraining\u003C/span\u003E\u003C/li\u003E\u003Cli\u003E\u003Cspan style=\u0022font-family:Calibri, sans-serif;font-size:10pt;\u0022\u003EContent Curated for GCC, GCC-H and DoD Cloud\nEnvironments\u003C/span\u003E\u003Cbr\u003E\u003C/li\u003E\u003C/ul\u003E\u003C/div\u003E"
+              "\u003Cdiv\u003EWith\nall these things in mind, Planet Technologies has crafted a complete learning\nsolution \u2013 designed purposefully to bring together all aspects of learning and\nchange management to your Microsoft 365 deployments.\u0026nbsp; No matter if you are just getting ready to\nmigrate to Office 365 or if you have been there for years.\u0026nbsp; Evolve 365 is a flexible solution designed to\nmeet your users where they are, help them understand the technology available\nto them and help them understand how it can help them transform how they work\ntogether.\u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003EEvolve\n365 Includes:\u003C/div\u003E\u003Cdiv\u003E\u003Cul\u003E\u003Cli\u003EDedicated Learning Strategist\u003C/li\u003E\u003Cli\u003ECustom Training Playlist\u003C/li\u003E\u003Cli\u003EOnline Videos \u0026amp; Training Playlist \u2013 Updated with\nOffice 365 Feature Release Cycles \u003C/li\u003E\u003Cli\u003ECustom Training \u2013 including Cyber Security and CMMC\nTraining\u003C/li\u003E\u003Cli\u003EContent Curated for GCC, GCC-H and DoD Cloud\nEnvironments\u003C/li\u003E\u003C/ul\u003E\u003C/div\u003E"
             ]
           }
         ],

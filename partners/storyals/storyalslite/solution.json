@@ -17,6 +17,7 @@
     "personas": "Information Workers",
     "solutionTechnologies": "SharePoint API;SharePoint sites;SPFx",
     "businessFunctions": null,
+    "appSource": null,
     "displayInfo": {
       "default": {
         "descriptionParagraphs": [

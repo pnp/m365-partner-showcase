@@ -15,6 +15,7 @@
     "personas": null,
     "solutionTechnologies": "Azure;Azure Cosmos DB;Azure Web App Service;Power App;Power Automate",
     "businessFunctions": null,
+    "appSource": null,
     "displayInfo": {
       "default": {
         "descriptionParagraphs": [

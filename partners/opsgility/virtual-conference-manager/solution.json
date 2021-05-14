@@ -17,6 +17,7 @@
     "personas": "Administrators;Event Planners",
     "solutionTechnologies": "Azure AD;Azure Application Insights;Azure Functions;Azure KeyVault;Azure SQL DB;Azure Storage Accounts;Graph API;Microsoft 365;Microsoft Teams",
     "businessFunctions": null,
+    "appSource": null,
     "displayInfo": {
       "default": {
         "descriptionParagraphs": [

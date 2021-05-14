@@ -15,6 +15,7 @@
     "personas": "Business Users",
     "solutionTechnologies": "Azure;Graph API;SharePoint sites",
     "businessFunctions": null,
+    "appSource": null,
     "displayInfo": {
       "default": {
         "descriptionParagraphs": [

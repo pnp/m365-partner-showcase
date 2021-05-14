@@ -17,25 +17,26 @@
     "personas": "Internal \u0026 External Attendees;Live Events Producers;Presenters",
     "solutionTechnologies": "Teams Live Events",
     "businessFunctions": null,
+    "appSource": null,
     "displayInfo": {
       "default": {
         "descriptionParagraphs": [
           {
             "name": "Short description",
             "content": [
-              "\u003Cdiv\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:Calibri, sans-serif;margin-bottom:12.0pt;\u0022\u003E\u003Cb\u003E\u003Cspan style=\u0022font-size:14.0pt;\u0022\u003ETeams\nLive Events Support Offering\u003C/span\u003E\u003C/b\u003E\u003C/p\u003E\u003C/div\u003E"
+              "\u003Cdiv\u003E\u003Cb\u003ETeams\nLive Events Support Offering\u003C/b\u003E\u003C/div\u003E"
             ]
           },
           {
             "name": "Business need or problem",
             "content": [
-              "\u003Cdiv\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:Calibri, sans-serif;margin-bottom:6.0pt;\u0022\u003E\u003Cspan style=\u0022font-size:10.0pt;\u0022\u003EAre\nyou looking to host Teams Live Events for your Corporate Enterprise? Do you\nneed to support a Virtual Conference? \u003C/span\u003E\u003C/p\u003E\u003Cspan style=\u0022font-size:10.0pt;font-family:\u0026quot;Calibri\u0026quot;,sans-serif;\u0022\u003ECyclotron has a focused program to train and\nsupport your Production Team to deliver Teams Live Events.\u003C/span\u003E\u003Cbr\u003E\u003C/div\u003E"
+              "\u003Cdiv\u003EAre\nyou looking to host Teams Live Events for your Corporate Enterprise? Do you\nneed to support a Virtual Conference? \u003Cbr\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003ECyclotron has a focused program to train and\nsupport your Production Team to deliver Teams Live Events.\u003Cbr\u003E\u003C/div\u003E"
             ]
           },
           {
             "name": "Business solution",
             "content": [
-              "\u003Cdiv\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:Calibri, sans-serif;margin-bottom:6.0pt;\u0022\u003E\u003Cspan style=\u0022font-size:10.0pt;\u0022\u003ECyclotron has a three session Training Program focused\npreparing your team to run Teams Live Events:\u003C/span\u003E\u003C/p\u003E\u003Cul style=\u0022margin-bottom:0in;\u0022\u003E\u003Cli\u003E\u003Cspan style=\u0022font-size:11.0pt;\u0022\u003EPlanning and\nTraining \u003C/span\u003E\u003C/li\u003E\u003Cli\u003E\u003Cspan style=\u0022font-size:11.0pt;\u0022\u003EHands on\nExperience \u003C/span\u003E\u003C/li\u003E\u003Cli\u003E\u003Cspan style=\u0022font-size:11.0pt;\u0022\u003EReal Time Support\u003C/span\u003E\u003C/li\u003E\u003C/ul\u003E\u003Cbr\u003E\u003C/div\u003E"
+              "\u003Cdiv\u003ECyclotron has a three session Training Program focused\npreparing your team to run Teams Live Events:\u003C/div\u003E\u003Cdiv\u003E\u003Cul\u003E\u003Cli\u003EPlanning and\nTraining \u003C/li\u003E\u003Cli\u003EHands on\nExperience \u003C/li\u003E\u003Cli\u003EReal Time Support\u003C/li\u003E\u003C/ul\u003E\u003C/div\u003E"
             ]
           }
         ],

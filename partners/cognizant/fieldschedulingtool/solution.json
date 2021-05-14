@@ -15,6 +15,7 @@
     "personas": "Auditor;Front Line Worker",
     "solutionTechnologies": "Power App;SharePoint sites",
     "businessFunctions": null,
+    "appSource": null,
     "displayInfo": {
       "default": {
         "descriptionParagraphs": [

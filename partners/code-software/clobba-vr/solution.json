@@ -17,6 +17,7 @@
     "personas": "Leadership;Sales Managers",
     "solutionTechnologies": "Graph API;Microsoft Teams",
     "businessFunctions": null,
+    "appSource": null,
     "displayInfo": {
       "default": {
         "descriptionParagraphs": [

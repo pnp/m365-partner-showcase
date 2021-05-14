@@ -17,6 +17,7 @@
     "personas": "All Employees",
     "solutionTechnologies": "Azure Bot;Custom Tabs;Graph API;Messaging Extension;SharePoint sites;SPFx",
     "businessFunctions": null,
+    "appSource": null,
     "displayInfo": {
       "default": {
         "descriptionParagraphs": [

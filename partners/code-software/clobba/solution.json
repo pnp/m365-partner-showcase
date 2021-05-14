@@ -17,6 +17,7 @@
     "personas": "Finance Managers;Helpdesk Supervisors;IT Admin;Sales Managers",
     "solutionTechnologies": "Azure;Graph API;Microsoft Teams",
     "businessFunctions": null,
+    "appSource": null,
     "displayInfo": {
       "default": {
         "descriptionParagraphs": [

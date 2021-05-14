@@ -17,6 +17,7 @@
     "personas": "Business Users",
     "solutionTechnologies": "Graph API;SPFx",
     "businessFunctions": null,
+    "appSource": null,
     "displayInfo": {
       "default": {
         "descriptionParagraphs": [
