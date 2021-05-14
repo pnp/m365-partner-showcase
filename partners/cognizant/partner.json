@@ -8,13 +8,21 @@
   "visible": false,
   "logoPicture": null,
   "logoPictureAlt": "",
+  "heroPicture": null,
+  "featuredPicture": null,
   "partnerName": "Cognizant",
   "mpnId": "5125084",
   "metadata": {
     "displayInfo": {
       "default": {
         "shortDescription": null,
-        "descriptionParagraphs": [],
+        "featuredTitle": null,
+        "featuredParagraphs": [],
+        "callToAction": {
+          "title": null,
+          "description": null,
+          "url": "https://www.cognizant.com/"
+        },
         "mediaAssets": [],
         "detailItemCategories": []
       }

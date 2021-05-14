@@ -8,17 +8,25 @@
   "visible": false,
   "logoPicture": null,
   "logoPictureAlt": "",
+  "heroPicture": null,
+  "featuredPicture": null,
   "partnerName": "Avanade",
   "mpnId": "4813611",
   "metadata": {
     "displayInfo": {
       "default": {
         "shortDescription": "\u003Cdiv\u003ERecognized as #1 Office 365 partner 11 years consecutively and #1 Teams partner globally, with deep experience, unrivalled expertise and innovation pedigree across the Microsoft technology ecosystem\u003Cbr\u003E \u003C/div\u003E",
-        "descriptionParagraphs": [
+        "featuredTitle": "Unleash frontline worker impact \u2013 and the power of Microsoft Teams \u2013 with Avanade WX Teammate",
+        "featuredParagraphs": [
           "\u003Cdiv\u003ETeammate changes the way organizations engage with their frontline workforce. By enabling consistent communication, protecting health and well-being, and providing a personalized view of tasks, Teammate helps organizations to increase engagement and morale as well as improving the overall employee experience. More than that \u2013 it\u2019s also a platform to enable change, helping an organization capitalize on fast-evolving environments and react to emerging market dynamics quicker and more consistently.\u003Cbr\u003E \u003C/div\u003E",
           "\u003Cdiv\u003ETeammate provides frontline workers with easy access to the information they need to stay safe, productive and engaged. Employees can manage shifts, track tasks, follow corporate communications and social media or connect easily with HR, IT or facilities \u2013 all from one app. Organizations gain a simpler, quicker way to cascade news, updates, tasks, or training requirements. And they benefit from improved visibility over shift and task management as well as insight into performance and compliance.\u003Cbr\u003E \u003C/div\u003E",
           "\u003Cdiv\u003EBuilt on the Microsoft Teams platform, Teammate is an extensible solution that can be customized for any frontline workforce. Organizations can tailor everything from UI and workflow automation through to third party application integrations. Teammate is the product of Avanade\u2019s extensive knowledge across Microsoft Teams, combined with core strengths in UX, application development and global service delivery \u2013 resulting in a Solution as a Service that delights users and scales securely. \u003Cbr\u003E \u003C/div\u003E"
         ],
+        "callToAction": {
+          "title": "Discover how to transform your frontline worker experience with Teammate",
+          "description": "Learn how Avanade is helping organizations across the world to empower their frontline workforce and rethink their business models to thrive in an ever-changing world",
+          "url": null
+        },
         "mediaAssets": [],
         "detailItemCategories": []
       }
