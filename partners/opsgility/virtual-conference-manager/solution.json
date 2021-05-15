@@ -24,63 +24,63 @@
           {
             "name": "Short description",
             "content": [
-              "\u003Cdiv\u003E\u003Cb\u003E\u003Cspan style=\u0022font-size:14.0pt;font-family:\u0026quot;Calibri\u0026quot;,sans-serif;\u0022\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:Calibri, sans-serif;margin-bottom:12.0pt;\u0022\u003E\u003Cb\u003E\u003Cspan style=\u0022font-size:14.0pt;\u0022\u003EDeliver\nengaging digital events to thousands of attendees worldwide!\u003C/span\u003E\u003C/b\u003E\u003C/p\u003E\u003C/span\u003E\u003C/b\u003E\u003Cbr\u003E\u003C/div\u003E"
+              "\u003Cdiv\u003E\u003Cdiv\u003E\u003Cb\u003EDeliver\nengaging digital events to thousands of attendees worldwide!\u003C/b\u003E\u003C/div\u003E\u003C/div\u003E"
             ]
           },
           {
             "name": "Business need or problem",
             "content": [
-              "\u003Cdiv\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:Calibri, sans-serif;margin-bottom:6.0pt;\u0022\u003EAs organizations shift towards a\nremote workforce, employees will grow more accustomed to the convenience of\nvirtual and hybrid events. While some embrace travel, others may be unwilling\nor unable to attend an on-site event safely. \u003Cspan style=\u0022font-size:10.0pt;\u0022\u003E\u003C/span\u003E\u003C/p\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:Calibri, sans-serif;margin-bottom:6.0pt;\u0022\u003EMost organizations are familiar\nwith on-site events but have little to no experience with the challenges\nassociated with virtual delivery. Organizers must juggle registration,\nsecurity, and schedule while maintaining an engaging environment. \u003C/p\u003E\u003Cspan style=\u0022font-size:12.0pt;font-family:\u0026quot;Calibri\u0026quot;,sans-serif;\u0022\u003EMost internal collaboration tools are not\ndesigned to accomplish these tasks at scale for external audiences.\u003C/span\u003E\u003Cbr\u003E\u003C/div\u003E"
+              "\u003Cdiv\u003EAs organizations shift towards a\nremote workforce, employees will grow more accustomed to the convenience of\nvirtual and hybrid events. While some embrace travel, others may be unwilling\nor unable to attend an on-site event safely. \u003Cbr\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003EMost organizations are familiar\nwith on-site events but have little to no experience with the challenges\nassociated with virtual delivery. Organizers must juggle registration,\nsecurity, and schedule while maintaining an engaging environment. \u003Cbr\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003EMost internal collaboration tools are not\ndesigned to accomplish these tasks at scale for external audiences.\u003Cbr\u003E\u003C/div\u003E"
             ]
           },
           {
             "name": "Business solution",
             "content": [
-              "\u003Cdiv\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:Calibri, sans-serif;margin-bottom:6.0pt;\u0022\u003EOur platform automates the\ncreation and organization of Teams Live Events, Teams Meetings, and the 3rd party\napp ecosystem to create an authentic conference experience.\u003Cspan style=\u0022\u0022\u003E\u0026nbsp; \u003C/span\u003E\u003C/p\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:Calibri, sans-serif;margin-bottom:6.0pt;\u0022\u003EAudience engagement is a core\ndriver of any conference. Don\u2019t settle for a mundane webinar or recorded video.\n\u003C/p\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:Calibri, sans-serif;margin-bottom:6.0pt;\u0022\u003EOrganizers can design and run\nthousands of unique, multi-track agendas filled with engaging sessions.\nAttendees can participate in a broad range of interactive activities, including\nspeed networking, mixers, and breakout sessions. \u003C/p\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:Calibri, sans-serif;margin-bottom:6.0pt;\u0022\u003EEach conference is entirely\ncustomizable for a branded design. Organizers can create an interactive lobby,\nshowcase sponsors, and highlight event leaders!\u003C/p\u003E\u003Cbr\u003E\u003C/div\u003E"
+              "\u003Cdiv\u003EOur platform automates the\ncreation and organization of Teams Live Events, Teams Meetings, and the 3rd party\napp ecosystem to create an authentic conference experience.\u003Cbr\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003EAudience engagement is a core\ndriver of any conference. Don\u2019t settle for a mundane webinar or recorded video.\n\u003Cbr\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003EOrganizers can design and run\nthousands of unique, multi-track agendas filled with engaging sessions.\nAttendees can participate in a broad range of interactive activities, including\nspeed networking, mixers, and breakout sessions. \u003Cbr\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003EEach conference is entirely\ncustomizable for a branded design. Organizers can create an interactive lobby,\nshowcase sponsors, and highlight event leaders!\u003C/div\u003E"
             ]
           }
         ],
         "mediaAssets": [
           {
-            "type": "video",
-            "order": 0,
-            "url": "https://www.youtube.com/embed/yhtpUenTIwg",
-            "alt": ""
-          },
-          {
             "type": "image",
-            "order": 1,
+            "order": 0,
             "url": "assets/VCM_Image1.png",
             "alt": ""
           },
           {
             "type": "image",
-            "order": 2,
+            "order": 1,
             "url": "assets/VCM_Image3.png",
             "alt": ""
           },
           {
             "type": "image",
-            "order": 3,
+            "order": 2,
             "url": "assets/VCM_Image5.png",
             "alt": ""
           },
           {
             "type": "image",
-            "order": 4,
+            "order": 3,
             "url": "assets/VCM_Image6.png",
             "alt": ""
           },
           {
             "type": "image",
-            "order": 5,
+            "order": 4,
             "url": "assets/VCM_Image 2.png",
             "alt": ""
           },
           {
             "type": "image",
-            "order": 6,
+            "order": 5,
             "url": "assets/VCM_Image 4.png",
+            "alt": ""
+          },
+          {
+            "type": "video",
+            "order": 6,
+            "url": "https://www.youtube.com/embed/yhtpUenTIwg",
             "alt": ""
           }
         ],
@@ -91,19 +91,19 @@
             "items": [
               {
                 "url": "https://govirtualconference.com/contactus",
-                "name": "Contact us to schedule a free\ndemo!"
+                "name": "Contact us to schedule a free demo!"
               },
               {
                 "url": "https://govirtualconference.com/Casestudies",
-                "name": "Customer\nStories!"
+                "name": "Read a few of our favorite customer stories:"
               },
               {
                 "url": "https://govirtualconference.com/Enterprise",
-                "name": "Microsoft 365 and Microsoft\nAzure Tenant"
+                "name": "Deploy VCM In your Microsoft 365 and Microsoft Azure Tenant"
               },
               {
                 "url": "https://govirtualconference.com/ProfessionalServices",
-                "name": "professional event\nservices"
+                "name": "Need assistance running your digital event? We offer a full spectrum of professional event services."
               }
             ]
           }

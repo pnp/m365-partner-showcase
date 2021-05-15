@@ -28,15 +28,15 @@
         },
         "mediaAssets": [
           {
-            "type": "video",
+            "type": "image",
             "order": 0,
-            "url": "https://www.youtube.com/embed/55_OGTi5-MI",
+            "url": "assets/Hero.png",
             "alt": ""
           },
           {
-            "type": "image",
+            "type": "video",
             "order": 1,
-            "url": "assets/Hero.png",
+            "url": "https://www.youtube.com/embed/55_OGTi5-MI",
             "alt": ""
           }
         ],
