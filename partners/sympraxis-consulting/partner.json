@@ -5,19 +5,27 @@
   "solutions": null,
   "sortOrder": 0,
   "preview": false,
-  "visible": false,
+  "visible": true,
   "logoPicture": null,
   "logoPictureAlt": "",
+  "heroPicture": "assets/hero.png",
+  "featuredPicture": "https://www.youtube.com/embed/55_OGTi5-MI",
   "partnerName": "Sympraxis Consulting",
   "mpnId": "0",
   "metadata": {
     "displayInfo": {
       "default": {
         "shortDescription": "\u003Cdiv\u003ESympraxis works with organizations of all sizes and across all industries to help improve collaboration and communication with Microsoft 365, SharePoint, and Azure. Let us help you work better, together.\u003Cbr\u003E \u003C/div\u003E",
-        "descriptionParagraphs": [
-          "\u003Cdiv\u003ELearning Pathways is a customizable, on-demand learning solution in Microsoft 365. Sympraxis supports our clients by assisting them with their Learning Pathways implementation focusing on extending learning pathways with custom playlists, creating and adding assets, and focusing on structuring the content to best support the end users. Sympraxis leverages Learning Pathways to:\u003Cbr\u003E \u003C/div\u003E",
-          "\u003Cdiv\u003E\u003Cspan\u003E\u2022\tCentralized location for all training content\u003Cbr\u003E\u003C/span\u003E\u003Cdiv\u003E\u2022\tRaise the technical literacy of an organization\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003E\u2022\tDocument custom solutions\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003E\u2022\tSurface training in context to support end users ability to access the right information, in the right place, at the right time\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003E\u2022\tDocument an organization\u2019s governance plan \u003C/div\u003E \u003C/div\u003E"
+        "featuredTitle": "Learning Pathways for Adoption \u0026 Governance",
+        "featuredParagraphs": [
+          "\u003Cdiv\u003ELearning Pathways is a customizable, on-demand learning solution in Microsoft 365. Sympraxis supports our clients by assisting them with their Learning Pathways implementation focusing on extending learning pathways with custom playlists, creating and adding assets, and focusing on structuring the content to best support the end users. Sympraxis leverages Learning Pathways to:\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003E\u003Cul style=\u0022box-sizing:border-box;padding:0px 0px 0px 40px;\u0022\u003E\u003Cli style=\u0022box-sizing:border-box;\u0022\u003ECentralized location for all training content\u003C/li\u003E\u003Cli style=\u0022box-sizing:border-box;\u0022\u003ERaise the technical literacy of an organization\u003C/li\u003E\u003Cli style=\u0022box-sizing:border-box;\u0022\u003EDocument custom solutions\u003C/li\u003E\u003Cli style=\u0022box-sizing:border-box;\u0022\u003ESurface training in context to support end users ability to access the right information, in the right place, at the right time\u003C/li\u003E\u003Cli style=\u0022box-sizing:border-box;\u0022\u003EDocument an organization\u2019s governance plan\u003C/li\u003E\u003C/ul\u003E\u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E",
+          ""
         ],
+        "callToAction": {
+          "title": "Contact us",
+          "description": "Accelerate your success with Microsoft 365, guided by our passionate team of experts",
+          "url": "https://www.sympraxisconsulting.com"
+        },
         "mediaAssets": [
           {
             "type": "video",
@@ -28,7 +36,7 @@
           {
             "type": "image",
             "order": 1,
-            "url": "assets/Sympraxis Consulting_Logo.jpg",
+            "url": "assets/Hero.png",
             "alt": ""
           }
         ],
