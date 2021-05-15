@@ -15,14 +15,16 @@
   "metadata": {
     "displayInfo": {
       "default": {
-        "shortDescription": "\u003Cdiv\u003E\u003Cspan style=\u0022font-size:10.0pt;font-family:\u0026quot;Calibri\u0026quot;,sans-serif;\u0022\u003ECode Software makes it easy to monitor, analyze,\nrecord and report on the performance of just about any aspect of your Teams\nenvironment. \u003C/span\u003E\u003Cbr\u003E\u003C/div\u003E",
+        "shortDescription": "\u003Cdiv\u003ECode Software makes it easy to monitor, analyze,\nrecord and report on the performance of just about any aspect of your Teams\nenvironment. \u003Cbr\u003E\u003C/div\u003E",
         "featuredTitle": "Add a layer of clarity and understanding to your Teams environment.",
         "featuredParagraphs": [
-          "\u003Cdiv\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:Calibri, sans-serif;\u0022\u003E\u003Cspan style=\u0022font-size:10.0pt;\u0022\u003EWe have the tools to analyze and manage call quality and\nservice levels, raise productivity, increase user adoption, and plan with\nconfidence across multiple elements of Teams for the highs and lows of a\nfast-moving business.\u003C/span\u003E\u003C/p\u003E\u003C/div\u003E"
+          "\u003Cdiv\u003EWe have the tools to analyze and manage call quality and service levels, raise productivity, increase user adoption, and plan with confidence across multiple elements of Teams for the highs and lows of a fast-moving business.\u003C/div\u003E\u003Cdiv\u003EWe have the tools to analyze and manage call quality and\nservice levels, raise productivity, increase user adoption, and plan with\nconfidence across multiple elements of Teams for the highs and lows of a\nfast-moving business.\u003C/div\u003E",
+          "\u003Cdiv\u003EIf you don\u2019t know how your Teams environment is performing, you\u2019re working blind. You don\u2019t have the data to show whether customer service levels are up or down. You can\u2019t tell if your problem fixes are working and you\u2019ve no idea how well remote workers are performing. Code will assist you in working smarter together in a world of remote workers and geographically distributed teams.\u003Cbr\u003E\u003C/div\u003E",
+          "\u003Cdiv\u003EThe principles of sharing and connectivity have worked for us. We now operate through a global network of 50\u002B strategic partners, and serve 3,000\u002B customers, from SMEs to the largest global organizations. Like our partners and customers, we work collaboratively and effectively across borders and time zones. Our HQ is in the UK, and we have two other busy offices in the US and Romania.\u003Cspan\u003E\u003C/span\u003E\u003Cbr\u003E\u003C/div\u003E"
         ],
         "callToAction": {
           "title": "The Clobba suite is available on a free 30 day trial ",
-          "description": "Delivered either from the Code Cloud or in customer environments see firsthand the added value that Clobba can bring to a Teams environment .Contact us now on info@codesoftware.net or visit www.codesoftware.net",
+          "description": "Delivered either from the Code Cloud or in customer environments see firsthand the added value that Clobba can bring to a Teams environment. Contact us now on info@codesoftware.net or visit www.codesoftware.net",
           "url": "www.codesoftware.net"
         },
         "mediaAssets": [
