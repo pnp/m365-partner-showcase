@@ -42,51 +42,51 @@
         ],
         "mediaAssets": [
           {
-            "type": "video",
-            "order": 0,
-            "url": "https://www.youtube.com/embed/ZINLZ-_zDgk",
-            "alt": ""
-          },
-          {
             "type": "image",
-            "order": 1,
+            "order": 0,
             "url": "assets/ClobbaRT-image5.png",
             "alt": ""
           },
           {
             "type": "image",
-            "order": 2,
+            "order": 1,
             "url": "assets/ClobbaRT-image3.png",
             "alt": ""
           },
           {
             "type": "image",
-            "order": 3,
+            "order": 2,
             "url": "assets/ClobbaRT-image6.png",
             "alt": ""
           },
           {
             "type": "image",
-            "order": 4,
+            "order": 3,
             "url": "assets/ClobbaRT-image4.png",
             "alt": ""
           },
           {
             "type": "image",
-            "order": 5,
+            "order": 4,
             "url": "assets/ClobbaRT-image2.png",
             "alt": ""
           },
           {
             "type": "image",
-            "order": 6,
+            "order": 5,
             "url": "assets/ClobbaRT-logo.png",
             "alt": ""
           },
           {
             "type": "image",
-            "order": 7,
+            "order": 6,
             "url": "assets/ClobbaRT-image1.png",
+            "alt": ""
+          },
+          {
+            "type": "video",
+            "order": 7,
+            "url": "https://www.youtube.com/embed/ZINLZ-_zDgk",
             "alt": ""
           }
         ],
