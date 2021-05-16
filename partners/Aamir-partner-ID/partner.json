@@ -8,17 +8,25 @@
   "visible": false,
   "logoPicture": null,
   "logoPictureAlt": "",
+  "heroPicture": null,
+  "featuredPicture": null,
   "partnerName": "Amir-partner-name",
   "mpnId": "0",
   "metadata": {
     "displayInfo": {
       "default": {
         "shortDescription": "Short Description for Partner!.",
-        "descriptionParagraphs": [
+        "featuredTitle": "Featured Title",
+        "featuredParagraphs": [
           "Feature Description Para 1",
           "Feature Description Para 2",
           "Feature Description Para 3"
         ],
+        "callToAction": {
+          "title": "Contact Us",
+          "description": "Short Description for Partner!.",
+          "url": "https://aamir.store"
+        },
         "mediaAssets": [],
         "detailItemCategories": []
       }

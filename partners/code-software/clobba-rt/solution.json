@@ -23,19 +23,19 @@
           {
             "name": "Short description",
             "content": [
-              "\u003Cdiv\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:Calibri, sans-serif;margin-bottom:12.0pt;\u0022\u003E\u003Cb\u003E\u003Cspan style=\u0022font-size:14.0pt;\u0022\u003EAdvanced\nreporting, wallboards and monitors specifically for users of Teams Queues and\nAuto Attendants\u003C/span\u003E\u003C/b\u003E\u003C/p\u003E\u003C/div\u003E"
+              "\u003Cdiv\u003E\u003Cb\u003EAdvanced\nreporting, wallboards and monitors specifically for users of Teams Queues and\nAuto Attendants\u003C/b\u003E\u003C/div\u003E"
             ]
           },
           {
             "name": "Business need or problem",
             "content": [
-              "\u003Cdiv\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:Calibri, sans-serif;\u0022\u003E\u003Cspan style=\u0022font-size:10.0pt;\u0022\u003EUsers of Teams Auto\nAttendants and Queues can miss certain elements to give users the contact\ncenter experience they are familiar with. They expect visibility of performance\nstatistics to complete a \u2018lite\u2019 contact center and the ability to view\nwallboards and detailed reports natively is missing from Teams. This is where\nClobbaRT comes in.\u003C/span\u003E\u003C/p\u003E\u003C/div\u003E"
+              "\u003Cdiv\u003EUsers of Teams Auto\nAttendants and Queues can miss certain elements to give users the contact\ncenter experience they are familiar with. They expect visibility of performance\nstatistics to complete a \u2018lite\u2019 contact center and the ability to view\nwallboards and detailed reports natively is missing from Teams. This is where\nClobbaRT comes in.\u003C/div\u003E"
             ]
           },
           {
             "name": "Business solution",
             "content": [
-              "\u003Cdiv\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:Calibri, sans-serif;margin-bottom:6.0pt;\u0022\u003E\u003Cspan style=\u0022font-size:10.0pt;color:black;background:white;\u0022\u003ESimple to use and configurable to individual needs,\u0026nbsp;C\u003C/span\u003E\u003Cspan style=\u0022font-size:10.0pt;\u0022\u003Elobba\u003C/span\u003E\u003Cspan style=\u0022font-size:10.0pt;color:black;background:white;\u0022\u003E\u0026nbsp;RT delivers\nvaluable insights into T\u003C/span\u003E\u003Cspan style=\u0022font-size:10.0pt;\u0022\u003Eeams CQ and AA \u003C/span\u003E\u003Cspan style=\u0022font-size:10.0pt;color:black;background:white;\u0022\u003Eperformance and productivity via its wallboard\nand automated reporting capability.\u003C/span\u003E\u003C/p\u003E\u003Cspan style=\u0022font-size:10.0pt;font-family:\u0026quot;Calibri\u0026quot;,sans-serif;color:black;background:white;\u0022\u003EReal-time presence statistics are mixed with productivity trends over a\ndefined date range. The emphasis is on quick, easy access to relevant\ninformation and the automation of many of the reporting tasks.\u003C/span\u003E\u003Cspan style=\u0022font-size:12.0pt;font-family:\u0026quot;Calibri\u0026quot;,sans-serif;color:black;background:white;\u0022\u003E \u003C/span\u003E\u003Cbr\u003E\u003C/div\u003E"
+              "\u003Cdiv\u003ESimple to use and configurable to individual needs,\u0026nbsp;Clobba\u0026nbsp;RT delivers\nvaluable insights into Teams CQ and AA performance and productivity via its wallboard\nand automated reporting capability.\u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003EReal-time presence statistics are mixed with productivity trends over a\ndefined date range. The emphasis is on quick, easy access to relevant\ninformation and the automation of many of the reporting tasks. \u003Cbr\u003E\u003C/div\u003E"
             ]
           }
         ],
@@ -93,7 +93,12 @@
           {
             "name": "Resources",
             "description": "Possible html supported text shown just above the list of links",
-            "items": []
+            "items": [
+              {
+                "url": "https://www.codesoftware.net/",
+                "name": "Clobba is available on a free 30-day trial and\ncan be delivered from the Code Cloud (Azure) or in customer environments (typically\nAzure but can be on prem servers)"
+              }
+            ]
           }
         ]
       }

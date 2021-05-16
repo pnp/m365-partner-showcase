@@ -5,21 +5,29 @@
   "solutions": null,
   "sortOrder": 0,
   "preview": false,
-  "visible": false,
+  "visible": true,
   "logoPicture": null,
   "logoPictureAlt": "",
+  "heroPicture": "assets/hero.png",
+  "featuredPicture": null,
   "partnerName": "WITIVIO",
   "mpnId": "0",
   "metadata": {
     "displayInfo": {
       "default": {
-        "shortDescription": "\u003Cdiv\u003E\u003Cspan style=\u0022font-size:10.0pt;font-family:\u0026quot;Calibri\u0026quot;,sans-serif;\u0022\u003ESince 2017, Witivio works with organizations of\nall sizes to help improve employee collaboration, communication, and\nproductivity. Microsoft France recognized Witivio as Startup Partner of the\nYear \u201820.\u003C/span\u003E\u003Cbr\u003E\u003C/div\u003E",
-        "descriptionParagraphs": [],
+        "shortDescription": "\u003Cdiv\u003ESince 2017, Witivio works with organizations of\nall sizes to help improve employee collaboration, communication, and\nproductivity. Microsoft France recognized Witivio as Startup Partner of the\nYear \u201820.\u003Cbr\u003E\u003C/div\u003E",
+        "featuredTitle": null,
+        "featuredParagraphs": [],
+        "callToAction": {
+          "title": "Contact us",
+          "description": "Accelerate your success with Microsoft 365, guided by our passionate team of experts. Fill in the contact form and we will get back to you shortly.",
+          "url": "https://www.witivio.com/en/contact-us/"
+        },
         "mediaAssets": [
           {
             "type": "image",
             "order": 0,
-            "url": "assets/Witivio-Hero-Image.png",
+            "url": "assets/Hero.png",
             "alt": ""
           }
         ],
