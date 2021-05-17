@@ -7,7 +7,7 @@
   "industries": [],
   "sortOrder": 0,
   "preview": false,
-  "visible": false,
+  "visible": true,
   "solutionLogoPicture": null,
   "solutionLogoPictureAlt": "",
   "solutionName": "Raising the technical literacy of the organization",
@@ -23,19 +23,19 @@
           {
             "name": "Short description",
             "content": [
-              "\u003Cdiv\u003E\u003Cspan style=\u0022display:inline !important;\u0022\u003E\u003Cspan style=\u0022font-size:12.0pt;font-family:\u0026quot;Segoe UI\u0026quot;,sans-serif;color:#171717;background:white;\u0022\u003EWhether it is training for a brand-new Microsoft 365 launch, supporting\nyour\u0026nbsp;\u003C/span\u003E\u003Cspan style=\u0022font-size:12.0pt;font-family:\u0026quot;Calibri\u0026quot;,sans-serif;\u0022\u003E\u003Cspan style=\u0022font-family:\u0026quot;Segoe UI\u0026quot;,sans-serif;background:white;\u0022\u003ESharePoint Champions\u003C/span\u003E\u003C/span\u003E\u003Cspan style=\u0022font-size:12.0pt;font-family:\u0026quot;Segoe UI\u0026quot;,sans-serif;color:#171717;background:white;\u0022\u003E\u0026nbsp;or\nadvancing the finance department\u2019s Excel skills, Learning Pathways supports\ncreating self-service learning opportunities through curated playlists.\u003C/span\u003E\u003C/span\u003E\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E"
+              "\u003Cdiv\u003EWhether it is training for a brand-new Microsoft 365 launch, supporting\nyour\u0026nbsp;SharePoint Champions\u0026nbsp;or\nadvancing the finance department\u2019s Excel skills, Learning Pathways supports\ncreating self-service learning opportunities through curated playlists.\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E"
             ]
           },
           {
             "name": "Business need or problem",
             "content": [
-              "\u003Cdiv\u003E\u003Cspan\u003E\u003C/span\u003E \u003C/div\u003E\u003Cspan style=\u0022font-size:12.0pt;font-family:\u0026quot;Segoe UI\u0026quot;,sans-serif;\u0022\u003EMicrosoft 365 is a\nlarge platform with many distinct products and supported scenarios that are\ncontinuously updated. Keeping abreast of the latest changes is an enormous\nchallenge. Bigger yet is the challenge of keeping your end users up to date\nwith training which can be time consuming and expensive.\u003C/span\u003E\u003Cdiv\u003E\u003Cdiv\u003E \u003C/div\u003E \u003C/div\u003E"
+              "\u003Cdiv\u003E\u003Cspan\u003E\u003C/span\u003E \u003C/div\u003E\u003Cdiv\u003EMicrosoft 365 is a\nlarge platform with many distinct products and supported scenarios that are\ncontinuously updated. Keeping abreast of the latest changes is an enormous\nchallenge. Bigger yet is the challenge of keeping your end users up to date\nwith training which can be time consuming and expensive.\u003C/div\u003E\u003Cdiv\u003E\u003Cdiv\u003E \u003C/div\u003E \u003C/div\u003E"
             ]
           },
           {
             "name": "Business solution",
             "content": [
-              "\u003Cdiv\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:Calibri, sans-serif;margin-bottom:6.0pt;\u0022\u003E\u003Cspan style=\u0022font-family:\u0026quot;Segoe UI\u0026quot;,sans-serif;\u0022\u003EWe\ncan create a baseline for your organization by helping identify all your\nlearning objectives in a persona-based approach. Once this is accomplished, we will:\u003Cspan style=\u0022color:#2F5496;\u0022\u003E\u003C/span\u003E\u003C/span\u003E \u003C/p\u003E\u003Cp style=\u0022margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\u0022\u003E\u003Cspan style=\u0022font-size:12.0pt;font-family:\u0026quot;Segoe UI\u0026quot;,sans-serif;\u0022\u003E-Create\na roadmap to support learners and their unique needs\u003C/span\u003E \u003C/p\u003E\u003Cp style=\u0022margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\u0022\u003E\u003Cspan style=\u0022font-size:12.0pt;font-family:\u0026quot;Segoe UI\u0026quot;,sans-serif;\u0022\u003E-Define\nintuitive information architecture to support each persona and their top tasks\u003C/span\u003E \u003C/p\u003E\u003Cp style=\u0022margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\u0022\u003E\u003Cspan style=\u0022font-size:12.0pt;font-family:\u0026quot;Segoe UI\u0026quot;,sans-serif;\u0022\u003E-Align\nscenarios and playlists with identified organizational learning objectives\u003C/span\u003E \u003C/p\u003E\u003Cp style=\u0022margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\u0022\u003E\u003Cspan style=\u0022font-size:12.0pt;font-family:\u0026quot;Segoe UI\u0026quot;,sans-serif;\u0022\u003E-Surface\ntraining in-context for each persona\u003C/span\u003E \u003C/p\u003E \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E"
+              "\u003Cdiv\u003EWe\ncan create a baseline for your organization by helping identify all your\nlearning objectives in a persona-based approach. Once this is accomplished, we will: \u003C/div\u003E\u003Cdiv\u003E\u003Cul\u003E\u003Cli\u003ECreate\na roadmap to support learners and their unique needs\u003C/li\u003E\u003Cli\u003EDefine\nintuitive information architecture to support each persona and their top tasks\u003C/li\u003E\u003Cli\u003EAlign\nscenarios and playlists with identified organizational learning objectives\u003C/li\u003E\u003Cli\u003ESurface\ntraining in-context for each persona\u003C/li\u003E\u003C/ul\u003E\u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E"
             ]
           }
         ],
