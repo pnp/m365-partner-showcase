@@ -4,24 +4,30 @@
   "industries": [],
   "solutions": null,
   "sortOrder": 0,
-  "preview": false,
+  "preview": true,
   "visible": false,
   "logoPicture": null,
   "logoPictureAlt": "",
-  "heroPicture": null,
+  "heroPicture": "assets/hero.png",
   "featuredPicture": null,
   "partnerName": "UnifiedCommunications.com",
   "mpnId": "0",
   "metadata": {
     "displayInfo": {
       "default": {
-        "shortDescription": "\u003Cdiv\u003E\u003Cspan style=\u0022font-size:12.0pt;font-family:\u0026quot;Calibri\u0026quot;,sans-serif;\u0022\u003EUnifiedCommunications.com\u0026nbsp;is a globally\nrecognized leader in Microsoft Teams, Meetings, and Live Events with a focus on\nstrategy, device configuration, adoption, and video production.\u003C/span\u003E\u003Cbr\u003E\u003C/div\u003E",
-        "descriptionParagraphs": [],
+        "shortDescription": "\u003Cdiv\u003EUnifiedCommunications.com\u0026nbsp;is a globally\nrecognized leader in Microsoft Teams, Meetings, and Live Events with a focus on\nstrategy, device configuration, adoption, and video production.\u003Cbr\u003E\u003C/div\u003E",
+        "featuredTitle": null,
+        "featuredParagraphs": [],
+        "callToAction": {
+          "title": "Get started today implementing the right strategy for communication!",
+          "description": "Take the stress out of Live Event development and production with tailored services from UnifiedCommunications.com and let us craft the perfect event for you.",
+          "url": "https://www.unifiedcommunications.com/t-Microsoft-Teams-Live-Event-Services.aspx"
+        },
         "mediaAssets": [
           {
             "type": "image",
             "order": 0,
-            "url": "assets/Hero.jpg",
+            "url": "assets/Hero.png",
             "alt": ""
           }
         ],

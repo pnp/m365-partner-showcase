@@ -6,7 +6,7 @@
   ],
   "industries": [],
   "sortOrder": 0,
-  "preview": false,
+  "preview": true,
   "visible": false,
   "solutionLogoPicture": null,
   "solutionLogoPictureAlt": "",
@@ -29,13 +29,13 @@
           {
             "name": "Business need or problem",
             "content": [
-              "\u003Cdiv\u003E\u003Cspan style=\u0022font-size:10.0pt;font-family:\u0026quot;Calibri\u0026quot;,sans-serif;\u0022\u003EOrganizations are struggling to communicate\neffectively both with their own workforce and with external partners and industry\ndue to remote working and time/technology constraints.\u003Cspan style=\u0022\u0022\u003E\u0026nbsp; \u003C/span\u003EThey need an easy way to get their message\nout whether through Town Halls, Webinars, or as a live remote conference.\u003C/span\u003E\u003Cbr\u003E\u003C/div\u003E"
+              "\u003Cdiv\u003EOrganizations are struggling to communicate\neffectively both with their own workforce and with external partners and industry\ndue to remote working and time/technology constraints.\u0026nbsp; They need an easy way to get their message\nout whether through Town Halls, Webinars, or as a live remote conference.\u003Cbr\u003E\u003C/div\u003E"
             ]
           },
           {
             "name": "Business solution",
             "content": [
-              "\u003Cdiv\u003E\u003Cspan style=\u0022font-size:10.0pt;font-family:\u0026quot;Calibri\u0026quot;,sans-serif;\u0022\u003EWe provide a customizable solution that meets\nthe needs of organizations looking to stream content to a large audience.\u003Cspan style=\u0022\u0022\u003E\u0026nbsp; \u003C/span\u003EOur team of experts are experienced in all\nformats and work with each customer to develop the perfect solution.\u003C/span\u003E\u003Cbr\u003E\u003C/div\u003E"
+              "\u003Cdiv\u003EWe provide a customizable solution that meets\nthe needs of organizations looking to stream content to a large audience.\u0026nbsp; Our team of experts are experienced in all\nformats and work with each customer to develop the perfect solution.\u003Cbr\u003E\u003C/div\u003E"
             ]
           }
         ],
