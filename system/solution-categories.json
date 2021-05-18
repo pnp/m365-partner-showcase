@@ -17,11 +17,11 @@
             "id": "learningpathways",
             "displayInfo": {
                 "default": {
-                    "displayName": "Learning Pathways",
+                    "displayName": "Learning pathways",
                     "description": "Solutions for employees learning pathways"
                         },
                 "it": {
-                    "displayName": "Learning Pathways",
+                    "displayName": "Learning pathways",
                     "description": "Soluzioni per la formazione aziendale"
                 }
             }
@@ -30,11 +30,11 @@
             "id": "virtualevents",
             "displayInfo": {
                 "default": {
-                    "displayName": "Virtual Events",
+                    "displayName": "Virtual events",
                     "description": "Solutions for Virtual Events"
                         },
                 "it": {
-                    "displayName": "Virtual Events",
+                    "displayName": "Virtual events",
                     "description": "Soluzioni per gestire eventi virtuali"
                 }
             }
