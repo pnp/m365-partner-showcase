@@ -17,6 +17,7 @@
     "personas": "Business Users;Information Workers",
     "solutionTechnologies": "Azure;Azure Bot;Graph API;SPFx",
     "businessFunctions": null,
+    "appSource": null,
     "displayInfo": {
       "default": {
         "descriptionParagraphs": [
@@ -41,39 +42,39 @@
         ],
         "mediaAssets": [
           {
-            "type": "video",
-            "order": 0,
-            "url": "https://www.youtube.com/embed/3RIN_w_RPE0",
-            "alt": ""
-          },
-          {
             "type": "image",
-            "order": 1,
+            "order": 0,
             "url": "assets/Evolve365-Image5.jpg",
             "alt": ""
           },
           {
             "type": "image",
-            "order": 2,
+            "order": 1,
             "url": "assets/Evolve365-Image4.jpg",
             "alt": ""
           },
           {
             "type": "image",
-            "order": 3,
+            "order": 2,
             "url": "assets/Evolve365-Image3.jpg",
             "alt": ""
           },
           {
             "type": "image",
-            "order": 4,
+            "order": 3,
             "url": "assets/Evolve365-Image1.jpg",
             "alt": ""
           },
           {
             "type": "image",
-            "order": 5,
+            "order": 4,
             "url": "assets/Evolve365-Image2.jpg",
+            "alt": ""
+          },
+          {
+            "type": "video",
+            "order": 5,
+            "url": "https://www.youtube.com/embed/3RIN_w_RPE0",
             "alt": ""
           }
         ],
