@@ -17,6 +17,7 @@
     "personas": "Corporate Communications;Distributed Workforce;Front Line Worker;Office Workers",
     "solutionTechnologies": "Azure Bot;Custom Tabs;Graph API;SharePoint sites;SPFx",
     "businessFunctions": null,
+    "appSource": null,
     "displayInfo": {
       "default": {
         "descriptionParagraphs": [

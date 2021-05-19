@@ -17,6 +17,7 @@
     "personas": "Digital Champions;End-user",
     "solutionTechnologies": "Microsoft Forms;Microsoft Teams;Power App;Power Automate;SharePoint sites",
     "businessFunctions": null,
+    "appSource": null,
     "displayInfo": {
       "default": {
         "descriptionParagraphs": [

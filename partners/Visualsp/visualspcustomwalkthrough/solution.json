@@ -17,6 +17,7 @@
     "personas": "End-user;Power User",
     "solutionTechnologies": "Azure Bot;SharePoint sites;SPFx",
     "businessFunctions": null,
+    "appSource": null,
     "displayInfo": {
       "default": {
         "descriptionParagraphs": [

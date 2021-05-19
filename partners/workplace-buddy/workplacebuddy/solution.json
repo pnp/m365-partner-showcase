@@ -17,6 +17,7 @@
     "personas": "C-level;HR;IT",
     "solutionTechnologies": "Azure;Graph API;SPFx",
     "businessFunctions": null,
+    "appSource": null,
     "displayInfo": {
       "default": {
         "descriptionParagraphs": [

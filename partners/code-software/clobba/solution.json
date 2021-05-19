@@ -17,6 +17,7 @@
     "personas": "Finance Managers;Helpdesk Supervisors;IT Admin;Sales Managers",
     "solutionTechnologies": "Azure;Graph API;Microsoft Teams",
     "businessFunctions": null,
+    "appSource": null,
     "displayInfo": {
       "default": {
         "descriptionParagraphs": [
@@ -41,45 +42,45 @@
         ],
         "mediaAssets": [
           {
-            "type": "video",
-            "order": 0,
-            "url": "https://www.youtube.com/embed/Hub4OAyImo8",
-            "alt": ""
-          },
-          {
             "type": "image",
-            "order": 1,
+            "order": 0,
             "url": "assets/Clobba-image2.png",
             "alt": ""
           },
           {
             "type": "image",
-            "order": 2,
+            "order": 1,
             "url": "assets/Clobba-image1.png",
             "alt": ""
           },
           {
             "type": "image",
-            "order": 3,
+            "order": 2,
             "url": "assets/Clobba-image5.png",
             "alt": ""
           },
           {
             "type": "image",
-            "order": 4,
+            "order": 3,
             "url": "assets/Clobba-image4.png",
             "alt": ""
           },
           {
             "type": "image",
-            "order": 5,
+            "order": 4,
             "url": "assets/Clobba-image6.png",
             "alt": ""
           },
           {
             "type": "image",
-            "order": 6,
+            "order": 5,
             "url": "assets/Clobba-image3.png",
+            "alt": ""
+          },
+          {
+            "type": "video",
+            "order": 6,
+            "url": "https://www.youtube.com/embed/Hub4OAyImo8",
             "alt": ""
           }
         ],
