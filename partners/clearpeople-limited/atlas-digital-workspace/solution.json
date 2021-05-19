@@ -17,6 +17,7 @@
     "personas": "Compliance;Corporate Communications;Front Line Worker;HR;IT;Knowledge Managers;Knowledge Worker",
     "solutionTechnologies": "Azure AD;Azure API Management;Azure Cognitive Search;Azure Functions;Azure SQL DB;Azure Storage Accounts;Azure Web App Service;Graph API;SPFx",
     "businessFunctions": null,
+    "appSource": null,
     "displayInfo": {
       "default": {
         "descriptionParagraphs": [

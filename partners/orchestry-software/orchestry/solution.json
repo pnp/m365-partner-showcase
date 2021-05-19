@@ -17,6 +17,7 @@
     "personas": "Developer;End-user;IT Admin",
     "solutionTechnologies": "Azure;Custom Tabs;Graph API;PnP Framework;SharePoint API;SharePoint sites;SPFx",
     "businessFunctions": "Adoption;Change Managemenet;Governance",
+    "appSource": null,
     "displayInfo": {
       "default": {
         "descriptionParagraphs": [

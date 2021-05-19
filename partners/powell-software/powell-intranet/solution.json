@@ -17,6 +17,7 @@
     "personas": "All Employees;Corporate Communications;HR;IT",
     "solutionTechnologies": "Azure;Graph API;Microsoft 365;Power Automate",
     "businessFunctions": null,
+    "appSource": null,
     "displayInfo": {
       "default": {
         "descriptionParagraphs": [
@@ -39,39 +40,39 @@
         ],
         "mediaAssets": [
           {
-            "type": "video",
-            "order": 0,
-            "url": "https://www.youtube.com/embed/3hcA59uuA0g",
-            "alt": ""
-          },
-          {
             "type": "image",
-            "order": 1,
+            "order": 0,
             "url": "assets/powell-intranet-sol-image-2.png",
             "alt": ""
           },
           {
             "type": "image",
-            "order": 2,
+            "order": 1,
             "url": "assets/powell-intranet-sol-image-4.png",
             "alt": ""
           },
           {
             "type": "image",
-            "order": 3,
+            "order": 2,
             "url": "assets/powell-intranet-sol-image-1.png",
             "alt": ""
           },
           {
             "type": "image",
-            "order": 4,
+            "order": 3,
             "url": "assets/powell-intranet-sol-image-5.png",
             "alt": ""
           },
           {
             "type": "image",
-            "order": 5,
+            "order": 4,
             "url": "assets/powell-intranet-sol-image-3.png",
+            "alt": ""
+          },
+          {
+            "type": "video",
+            "order": 5,
+            "url": "https://www.youtube.com/embed/3hcA59uuA0g",
             "alt": ""
           }
         ],
