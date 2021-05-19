@@ -17,6 +17,7 @@
     "personas": "Administrators;Event Planners",
     "solutionTechnologies": "Azure AD;Azure Application Insights;Azure Functions;Azure KeyVault;Azure SQL DB;Azure Storage Accounts;Graph API;Microsoft 365;Microsoft Teams",
     "businessFunctions": null,
+    "appSource": null,
     "displayInfo": {
       "default": {
         "descriptionParagraphs": [
@@ -41,45 +42,45 @@
         ],
         "mediaAssets": [
           {
-            "type": "video",
-            "order": 0,
-            "url": "https://www.youtube.com/embed/yhtpUenTIwg",
-            "alt": ""
-          },
-          {
             "type": "image",
-            "order": 1,
+            "order": 0,
             "url": "assets/VCM_Image1.png",
             "alt": ""
           },
           {
             "type": "image",
-            "order": 2,
+            "order": 1,
             "url": "assets/VCM_Image3.png",
             "alt": ""
           },
           {
             "type": "image",
-            "order": 3,
+            "order": 2,
             "url": "assets/VCM_Image5.png",
             "alt": ""
           },
           {
             "type": "image",
-            "order": 4,
+            "order": 3,
             "url": "assets/VCM_Image6.png",
             "alt": ""
           },
           {
             "type": "image",
-            "order": 5,
+            "order": 4,
             "url": "assets/VCM_Image 2.png",
             "alt": ""
           },
           {
             "type": "image",
-            "order": 6,
+            "order": 5,
             "url": "assets/VCM_Image 4.png",
+            "alt": ""
+          },
+          {
+            "type": "video",
+            "order": 6,
+            "url": "https://www.youtube.com/embed/yhtpUenTIwg",
             "alt": ""
           }
         ],
