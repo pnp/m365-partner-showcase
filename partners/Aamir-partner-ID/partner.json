@@ -10,21 +10,21 @@
   "logoPictureAlt": "",
   "heroPicture": null,
   "featuredPicture": null,
-  "partnerName": "Solution Gallery Solution",
+  "partnerName": "Amir-partner-name",
   "mpnId": "0",
   "metadata": {
     "displayInfo": {
       "default": {
-        "shortDescription": "short partner description",
+        "shortDescription": "Short Description for Partner!.",
         "featuredTitle": "Featured Title",
         "featuredParagraphs": [
-          "f p 1",
-          "f p 2",
-          "f p 3"
+          "Feature Description Para 1",
+          "Feature Description Para 2",
+          "Feature Description Para 3"
         ],
         "callToAction": {
           "title": "Contact Us",
-          "description": "short partner description",
+          "description": "Short Description for Partner!.",
           "url": "https://aamir.store"
         },
         "mediaAssets": [],
