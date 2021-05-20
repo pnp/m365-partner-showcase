@@ -1,5 +1,5 @@
 {
-  "partnerId": "Aamir-partner-ID",
+  "partnerId": "12345",
   "categories": [],
   "industries": [],
   "solutions": null,
@@ -10,22 +10,22 @@
   "logoPictureAlt": "",
   "heroPicture": null,
   "featuredPicture": null,
-  "partnerName": "Solution Gallery Solution",
+  "partnerName": "Testing partner name",
   "mpnId": "0",
   "metadata": {
     "displayInfo": {
       "default": {
-        "shortDescription": "short partner description",
-        "featuredTitle": "Featured Title",
+        "shortDescription": "Test short description",
+        "featuredTitle": "TEst featured title",
         "featuredParagraphs": [
-          "f p 1",
-          "f p 2",
-          "f p 3"
+          "Test paragraph #1",
+          "Test paragraph #2",
+          "Test paragraph #3"
         ],
         "callToAction": {
           "title": "Contact Us",
-          "description": "short partner description",
-          "url": "https://aamir.store"
+          "description": "Test short description",
+          "url": "https://link.com"
         },
         "mediaAssets": [],
         "detailItemCategories": []
