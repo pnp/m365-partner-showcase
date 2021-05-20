@@ -17,6 +17,7 @@
     "personas": "Content Owners;Corporate Communications;Leadership",
     "solutionTechnologies": "Teams Live Events",
     "businessFunctions": null,
+    "appSource": "https://appsource.microsoft.com/",
     "displayInfo": {
       "default": {
         "descriptionParagraphs": [
