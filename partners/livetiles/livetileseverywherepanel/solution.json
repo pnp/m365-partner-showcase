@@ -17,6 +17,7 @@
     "personas": "Corporate Communications;End-user;HR;IT;Knowledge Worker",
     "solutionTechnologies": "Azure AD;Azure SQL Service;Azure Web App Service;Microsoft Teams;SharePoint API;SPFx",
     "businessFunctions": "Adoption;Engagement",
+    "appSource": null,
     "displayInfo": {
       "default": {
         "descriptionParagraphs": [
