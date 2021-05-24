@@ -17,6 +17,7 @@
     "personas": "Corporate Communications;HR;IT;Security Admin",
     "solutionTechnologies": "Azure",
     "businessFunctions": "Human Resources",
+    "appSource": null,
     "displayInfo": {
       "default": {
         "descriptionParagraphs": [

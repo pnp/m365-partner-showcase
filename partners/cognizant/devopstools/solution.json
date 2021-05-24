@@ -17,6 +17,7 @@
     "personas": "Project Manager",
     "solutionTechnologies": "Azure;Power App;Power Automate;Search",
     "businessFunctions": null,
+    "appSource": null,
     "displayInfo": {
       "default": {
         "descriptionParagraphs": [

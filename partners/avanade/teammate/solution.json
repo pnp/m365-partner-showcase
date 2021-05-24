@@ -17,6 +17,7 @@
     "personas": "Front Line Worker;Manager",
     "solutionTechnologies": null,
     "businessFunctions": "Business Operations;Corporate Communications;Human Resources",
+    "appSource": null,
     "displayInfo": {
       "default": {
         "descriptionParagraphs": [
