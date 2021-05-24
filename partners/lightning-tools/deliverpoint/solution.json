@@ -7,7 +7,7 @@
   "industries": [],
   "sortOrder": 0,
   "preview": false,
-  "visible": false,
+  "visible": true,
   "solutionLogoPicture": null,
   "solutionLogoPictureAlt": "",
   "solutionName": "DeliverPoint for Microsoft Teams",
@@ -17,6 +17,7 @@
     "personas": "Administrators;End-user",
     "solutionTechnologies": "Graph API;SPFx",
     "businessFunctions": null,
+    "appSource": null,
     "displayInfo": {
       "default": {
         "descriptionParagraphs": [
@@ -29,7 +30,7 @@
           {
             "name": "Business need or problem",
             "content": [
-              "\u003Cspan style=\u0022\u0022\u003EMany organizations have many teams and channels where users have been assigned permissions through group memberships and sharing links. Reporting across multiple teams can be time consuming, let alone the removal of users as team membership needs change.\u003C/span\u003E\u003Cbr\u003E"
+              "\u003Cdiv\u003EMany organizations have many teams and channels where users have been assigned permissions through group memberships and sharing links. Reporting across multiple teams can be time consuming, let alone the removal of users as team membership needs change.\u003Cbr\u003E\u003C/div\u003E"
             ]
           },
           {
