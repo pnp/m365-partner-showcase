@@ -1,0 +1,33 @@
+{
+  "partnerId": "evercom",
+  "categories": [],
+  "industries": [],
+  "solutions": null,
+  "sortOrder": 0,
+  "preview": false,
+  "visible": false,
+  "logoPicture": null,
+  "logoPictureAlt": "",
+  "heroPicture": null,
+  "featuredPicture": null,
+  "partnerName": "EVERCOM",
+  "mpnId": "0",
+  "metadata": {
+    "displayInfo": {
+      "default": {
+        "shortDescription": "\u003Cdiv\u003E\u003Cb\u003EEvercom helps any company to monitor, analyze and manage all the comprehensive and varying communications media types available on Teams.\u003C/b\u003E\u003Cbr\u003E\u003C/div\u003E",
+        "featuredTitle": "MoYoBi, Monitor Your Business Intelligence",
+        "featuredParagraphs": [
+          "\u003Cdiv\u003EFounded in 1984 in Brussels, the heart of Europe, Evercom\ndevelops \u0026amp; distributes telecommunication solutions SW for all market\nsegments. We work in partnership with all the major integrator to be able to\ndeliver adequate solutions to companies. \u003C/div\u003E\u003Cdiv\u003E\u0026nbsp;\u003C/div\u003E\u003Cdiv\u003EEvercom delivers its applications in any business model\n(license, SaaS, perpetual, subscription) to enable its customers to choose the\nbest model that fits their needs.\u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E\u003C/div\u003E"
+        ],
+        "callToAction": {
+          "title": "Request a demo to see how easy it is to get relevant answers about your Teams environment usage.",
+          "description": "Do not hesitate to contact us for more information about our solution, fill out the contact form and we will get back to you as soon as possible.",
+          "url": "https://www.evercom.be/contact/"
+        },
+        "mediaAssets": [],
+        "detailItemCategories": []
+      }
+    }
+  }
+}
