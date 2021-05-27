@@ -1,0 +1,59 @@
+{
+  "solutionId": "moyobi",
+  "partnerId": "evercom",
+  "categories": [
+    "teams"
+  ],
+  "industries": [],
+  "sortOrder": 0,
+  "preview": false,
+  "visible": false,
+  "solutionLogoPicture": null,
+  "solutionLogoPictureAlt": "",
+  "solutionName": "MoYoBi",
+  "solutionUrl": null,
+  "solutionUrlTitle": "MoYoBi",
+  "metadata": {
+    "personas": "Administrators;Helpdesk Supervisors;HR;Manager",
+    "solutionTechnologies": "Azure AD;Graph API;Microsoft Teams",
+    "businessFunctions": null,
+    "appSource": null,
+    "displayInfo": {
+      "default": {
+        "descriptionParagraphs": [
+          {
+            "name": "Short description",
+            "content": [
+              "\u003Cdiv\u003E\u003Cb\u003ECloud based Monitoring \u0026amp; Call\nAnalytics solution for Microsoft Teams.\u003C/b\u003E\u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E\u003C/div\u003E"
+            ]
+          },
+          {
+            "name": "Business need or problem",
+            "content": [
+              "\u003Cdiv\u003EOptimizing the return on any\ntechnology investment requires understanding its on-going usage and making\nadjustments consequently. The comprehensive and varying communications media\ntypes available on Teams also require the capability to monitor, analyze and\nmanage all these resources accordingly.\u003Cbr\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003ETeams customers will require a analytics\nand call accounting\u0026nbsp;solution including\nreal-time and historical dashboard, traffic analysis, alerting and fraud\ndetection tools.\u003C/div\u003E"
+            ]
+          },
+          {
+            "name": "Business solution",
+            "content": [
+              "\u003Cdiv\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:\u0026quot;Century Gothic\u0026quot;, sans-serif;color:black;\u0022\u003E\u003Cspan style=\u0022font-family:Calibri, sans-serif;color:windowtext;\u0022\u003EMoYoBi, designed for\nsmall, medium and large companies through a secured access delivers real operational\nbenefits, with powerful features that give the customers visibility and insight\ninto the Teams Communications.\u003Cbr\u003E\u003Cbr\u003E\u003C/span\u003E\u003C/p\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:\u0026quot;Century Gothic\u0026quot;, sans-serif;color:black;\u0022\u003E\u003Cspan style=\u0022font-family:\u0026quot;Calibri\u0026quot;,sans-serif;color:windowtext;\u0022\u003EPaying as you grow with\nonly limited investments to start, MoYoBi supports the customer throughout its\nmigration process to Teams.\u003C/span\u003E\u003C/p\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:\u0026quot;Century Gothic\u0026quot;, sans-serif;color:black;\u0022\u003E\u003Cspan style=\u0022font-family:\u0026quot;Calibri\u0026quot;,sans-serif;color:windowtext;\u0022\u003EMoYoBi is intuitive,\nquick to implement and simplifies the way organizations measure\u0026nbsp;their\nTeams usage.\u003Cbr\u003E\u003Cbr\u003E\u003C/span\u003E\u003C/p\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:\u0026quot;Century Gothic\u0026quot;, sans-serif;color:black;\u0022\u003E\u003Cspan style=\u0022font-family:\u0026quot;Calibri\u0026quot;,sans-serif;color:windowtext;\u0022\u003EMoYoBi fits companies\nfrom all industries like Financing, Education, Consumer Goods, Healthcare,\ngovernment, high-tech, travel and transportation and more.\u003C/span\u003E\u003C/p\u003E\u003C/div\u003E"
+            ]
+          }
+        ],
+        "mediaAssets": [],
+        "detailItemCategories": [
+          {
+            "name": "Resources",
+            "description": "Possible html supported text shown just above the list of links",
+            "items": [
+              {
+                "url": "https://www.evercom.be/services/moyobi/",
+                "name": "https://www.evercom.be/services/moyobi/"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}
