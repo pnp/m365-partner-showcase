@@ -6,15 +6,15 @@
   ],
   "industries": [],
   "sortOrder": 0,
-  "preview": false,
+  "preview": true,
   "visible": false,
   "solutionLogoPicture": null,
   "solutionLogoPictureAlt": "",
   "solutionName": "MoYoBi",
-  "solutionUrl": null,
+  "solutionUrl": "https://www.evercom.be/services/monitoring-analytics-solution/",
   "solutionUrlTitle": "MoYoBi",
   "metadata": {
-    "personas": "Administrators;Helpdesk Supervisors;HR;Manager",
+    "personas": "DPO;Helpdesk Supervisors;HR;IT Admin;Manager",
     "solutionTechnologies": "Azure AD;Graph API;Microsoft Teams",
     "businessFunctions": null,
     "appSource": null,
@@ -36,11 +36,48 @@
           {
             "name": "Business solution",
             "content": [
-              "\u003Cdiv\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:\u0026quot;Century Gothic\u0026quot;, sans-serif;color:black;\u0022\u003E\u003Cspan style=\u0022font-family:Calibri, sans-serif;color:windowtext;\u0022\u003EMoYoBi, designed for\nsmall, medium and large companies through a secured access delivers real operational\nbenefits, with powerful features that give the customers visibility and insight\ninto the Teams Communications.\u003Cbr\u003E\u003Cbr\u003E\u003C/span\u003E\u003C/p\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:\u0026quot;Century Gothic\u0026quot;, sans-serif;color:black;\u0022\u003E\u003Cspan style=\u0022font-family:\u0026quot;Calibri\u0026quot;,sans-serif;color:windowtext;\u0022\u003EPaying as you grow with\nonly limited investments to start, MoYoBi supports the customer throughout its\nmigration process to Teams.\u003C/span\u003E\u003C/p\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:\u0026quot;Century Gothic\u0026quot;, sans-serif;color:black;\u0022\u003E\u003Cspan style=\u0022font-family:\u0026quot;Calibri\u0026quot;,sans-serif;color:windowtext;\u0022\u003EMoYoBi is intuitive,\nquick to implement and simplifies the way organizations measure\u0026nbsp;their\nTeams usage.\u003Cbr\u003E\u003Cbr\u003E\u003C/span\u003E\u003C/p\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:\u0026quot;Century Gothic\u0026quot;, sans-serif;color:black;\u0022\u003E\u003Cspan style=\u0022font-family:\u0026quot;Calibri\u0026quot;,sans-serif;color:windowtext;\u0022\u003EMoYoBi fits companies\nfrom all industries like Financing, Education, Consumer Goods, Healthcare,\ngovernment, high-tech, travel and transportation and more.\u003C/span\u003E\u003C/p\u003E\u003C/div\u003E"
+              "\u003Cdiv\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:\u0026quot;Century Gothic\u0026quot;, sans-serif;color:black;\u0022\u003E\u003Cspan style=\u0022font-family:Calibri, sans-serif;color:windowtext;\u0022\u003EMoYoBi, designed for\nsmall, medium and large companies through a secured access delivers real operational\nbenefits, with powerful features that give the customers visibility and insight\ninto the Teams Communications.\u003Cbr\u003E\u003C/span\u003E\u003C/p\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:\u0026quot;Century Gothic\u0026quot;, sans-serif;color:black;\u0022\u003E\u003Cspan style=\u0022font-family:Calibri, sans-serif;color:windowtext;\u0022\u003E\u003Cbr\u003E\u003C/span\u003E\u003C/p\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:\u0026quot;Century Gothic\u0026quot;, sans-serif;color:black;\u0022\u003E\u003Cspan style=\u0022font-family:\u0026quot;Calibri\u0026quot;,sans-serif;color:windowtext;\u0022\u003EPaying as you grow with\nonly limited investments to start, MoYoBi supports the customer throughout its\nmigration process to Teams.\u003C/span\u003E\u003C/p\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:\u0026quot;Century Gothic\u0026quot;, sans-serif;color:black;\u0022\u003E\u003Cspan style=\u0022font-family:\u0026quot;Calibri\u0026quot;,sans-serif;color:windowtext;\u0022\u003E\u003Cbr\u003E\u003C/span\u003E\u003C/p\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:\u0026quot;Century Gothic\u0026quot;, sans-serif;color:black;\u0022\u003E\u003Cspan style=\u0022font-family:\u0026quot;Calibri\u0026quot;,sans-serif;color:windowtext;\u0022\u003EMoYoBi is intuitive,\nquick to implement and simplifies the way organizations measure\u0026nbsp;their\nTeams usage.\u003Cbr\u003E\u003Cbr\u003E\u003C/span\u003E\u003C/p\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:\u0026quot;Century Gothic\u0026quot;, sans-serif;color:black;\u0022\u003E\u003Cspan style=\u0022font-family:\u0026quot;Calibri\u0026quot;,sans-serif;color:windowtext;\u0022\u003EMoYoBi fits companies\nfrom all industries like Financing, Education, Consumer Goods, Healthcare,\ngovernment, high-tech, travel and transportation and more.\u003C/span\u003E\u003C/p\u003E\u003C/div\u003E"
             ]
           }
         ],
-        "mediaAssets": [],
+        "mediaAssets": [
+          {
+            "type": "image",
+            "order": 0,
+            "url": "assets/MoYoBi-image5.jpg",
+            "alt": ""
+          },
+          {
+            "type": "image",
+            "order": 1,
+            "url": "assets/MoYoBi-image6.jpg",
+            "alt": ""
+          },
+          {
+            "type": "image",
+            "order": 2,
+            "url": "assets/MoYoBi-image1.jpg",
+            "alt": ""
+          },
+          {
+            "type": "image",
+            "order": 3,
+            "url": "assets/MoYoBi-image4.jpg",
+            "alt": ""
+          },
+          {
+            "type": "image",
+            "order": 4,
+            "url": "assets/MoYoBi-image3.jpg",
+            "alt": ""
+          },
+          {
+            "type": "image",
+            "order": 5,
+            "url": "assets/MoYoBi-image2.jpg",
+            "alt": ""
+          }
+        ],
         "detailItemCategories": [
           {
             "name": "Resources",

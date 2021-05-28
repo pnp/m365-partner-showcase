@@ -25,7 +25,20 @@
           "description": "Do not hesitate to contact us for more information about our solution, fill out the contact form and we will get back to you as soon as possible.",
           "url": "https://www.evercom.be/contact/"
         },
-        "mediaAssets": [],
+        "mediaAssets": [
+          {
+            "type": "image",
+            "order": 0,
+            "url": "assets/Featured.jpg",
+            "alt": ""
+          },
+          {
+            "type": "image",
+            "order": 1,
+            "url": "assets/Hero.jpg",
+            "alt": ""
+          }
+        ],
         "detailItemCategories": []
       }
     }
