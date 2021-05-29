@@ -17,6 +17,7 @@
     "personas": "Corporate Communications;Front Line Worker;HR",
     "solutionTechnologies": "Azure AD;Azure AD B2C;Azure Cosmos DB;Azure Translation Services;Azure Web App Service",
     "businessFunctions": "Adoption;Engagement",
+    "appSource": null,
     "displayInfo": {
       "default": {
         "descriptionParagraphs": [
