@@ -1,0 +1,42 @@
+{
+  "partnerId": "12345",
+  "categories": [],
+  "industries": [],
+  "solutions": null,
+  "sortOrder": 0,
+  "preview": false,
+  "visible": false,
+  "logoPicture": null,
+  "logoPictureAlt": "",
+  "heroPicture": "assets/hero.png",
+  "featuredPicture": "https://dev.azure.com/TeamsCaPTBLR/de6d4237-21c9-4551-bae0-9ac3e9bf97c8/_apis/wit/attachments/58c40793-e991-4273-a595-e85f619fc42f",
+  "partnerName": "Partner name",
+  "mpnId": "12345",
+  "metadata": {
+    "displayInfo": {
+      "default": {
+        "shortDescription": "Short descriptionlasldkjasdlkasjdlkjalskdj",
+        "featuredTitle": "Test",
+        "featuredParagraphs": [
+          "Test",
+          "Test",
+          "Test"
+        ],
+        "callToAction": {
+          "title": "Contact Us",
+          "description": "Short descriptionlasldkjasdlkasjdlkjalskdj",
+          "url": "Test"
+        },
+        "mediaAssets": [
+          {
+            "type": "image",
+            "order": 0,
+            "url": "assets/hero.png",
+            "alt": ""
+          }
+        ],
+        "detailItemCategories": []
+      }
+    }
+  }
+}
