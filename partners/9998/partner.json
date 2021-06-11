@@ -1,0 +1,38 @@
+{
+  "partnerId": "9998",
+  "categories": [],
+  "industries": [],
+  "solutions": null,
+  "sortOrder": 0,
+  "preview": false,
+  "visible": false,
+  "logoPicture": null,
+  "logoPictureAlt": "",
+  "heroPicture": null,
+  "featuredPicture": "https://dev.azure.com/TeamsCaPTBLR/de6d4237-21c9-4551-bae0-9ac3e9bf97c8/_apis/wit/attachments/5389f969-3362-4a4f-a9a7-6a9d979006cf",
+  "partnerName": "Aamir-Aaron",
+  "mpnId": "9998",
+  "metadata": {
+    "displayInfo": {
+      "default": {
+        "shortDescription": "Short partner description",
+        "featuredTitle": null,
+        "featuredParagraphs": [],
+        "callToAction": {
+          "title": "Action title",
+          "description": "Action description",
+          "url": "Https://Aamir.store"
+        },
+        "mediaAssets": [
+          {
+            "type": "image",
+            "order": 0,
+            "url": "assets/hero.jpg",
+            "alt": ""
+          }
+        ],
+        "detailItemCategories": []
+      }
+    }
+  }
+}

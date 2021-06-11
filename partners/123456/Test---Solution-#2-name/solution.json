@@ -42,13 +42,13 @@
           {
             "type": "image",
             "order": 0,
-            "url": "assets/Screen-Shot-2021-06-01-at-5.png",
+            "url": "assets/hero.png",
             "alt": ""
           },
           {
             "type": "image",
             "order": 1,
-            "url": "assets/hero.png",
+            "url": "assets/Screen-Shot-2021-06-01-at-5.png",
             "alt": ""
           }
         ],
