@@ -1,5 +1,5 @@
 {
-  "solutionId": "Test---Solution-#2-name",
+  "solutionId": "Test---Solution-#1-name",
   "partnerId": "123456",
   "categories": [],
   "industries": [],
@@ -8,21 +8,21 @@
   "visible": false,
   "solutionLogoPicture": null,
   "solutionLogoPictureAlt": "",
-  "solutionName": "Test - Solution #2 name",
+  "solutionName": "Test - Solution #1 name",
   "solutionUrl": "https://link.com",
-  "solutionUrlTitle": "Test - Solution #2 name",
+  "solutionUrlTitle": "Test - Solution #1 name",
   "metadata": {
-    "personas": "All Employees;Analyst",
-    "solutionTechnologies": "Azure AD;Azure Web App Service",
-    "businessFunctions": "Human Resources;Incident Management IT",
-    "appSource": "https://appsource.com",
+    "personas": "Analyst;Business Analysts;Content Owners;Developer;End-user",
+    "solutionTechnologies": "Azure;Azure AD;Azure API Management;Azure SQL Service;Azure Storage Accounts;Azure Translation Services",
+    "businessFunctions": "Engagement;Governance;Incident Management IT",
+    "appSource": "https://appsourceurl.com",
     "displayInfo": {
       "default": {
         "descriptionParagraphs": [
           {
             "name": "Short description",
             "content": [
-              "Long description test"
+              "Short description test"
             ]
           },
           {

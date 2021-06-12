@@ -1,0 +1,59 @@
+{
+  "solutionId": "365-managed-teams-spaces",
+  "partnerId": "communicativ",
+  "categories": [
+    "teams"
+  ],
+  "industries": [],
+  "sortOrder": 0,
+  "preview": false,
+  "visible": false,
+  "solutionLogoPicture": null,
+  "solutionLogoPictureAlt": "",
+  "solutionName": "365 Managed Teams Spaces",
+  "solutionUrl": null,
+  "solutionUrlTitle": "365 Managed Teams Spaces",
+  "metadata": {
+    "personas": "All Employees",
+    "solutionTechnologies": "Microsoft Azure Monitor;Microsoft Intune;Microsoft Teams;Teams Room devices",
+    "businessFunctions": null,
+    "appSource": null,
+    "displayInfo": {
+      "default": {
+        "descriptionParagraphs": [
+          {
+            "name": "Short description",
+            "content": [
+              "\u003Cdiv\u003E\u003Cb\u003ELean approach to manage and monitor Teams Room devices.\u003C/b\u003E\u003Cbr\u003E\u003C/div\u003E"
+            ]
+          },
+          {
+            "name": "Business need or problem",
+            "content": [
+              "\u003Cdiv\u003EThe responsibility to keep the Meeting Spaces running is a close collaboration between Facilities and IT. Lots of organization struggle with this demarcation and how to address issues efficiently.\u003Cbr\u003E\u003C/div\u003E"
+            ]
+          },
+          {
+            "name": "Business solution",
+            "content": [
+              "\u003Cdiv\u003ECommunicativ will manage and monitor the meeting\nspace equipment to make sure all devices and accessories are running the latest\nsoftware and Teams Room accounts are registered and working correctly.\u003Cbr\u003E\u003C/div\u003E"
+            ]
+          }
+        ],
+        "mediaAssets": [],
+        "detailItemCategories": [
+          {
+            "name": "Resources",
+            "description": "Possible html supported text shown just above the list of links",
+            "items": [
+              {
+                "url": "https://communicativ.nl/teams-meeting-rooms/",
+                "name": "Teams Meeting Rooms |\nCommunicativ - Microsoft specialist"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}
