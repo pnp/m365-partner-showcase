@@ -1,0 +1,48 @@
+{
+  "partnerId": "123456",
+  "categories": [],
+  "industries": [],
+  "solutions": null,
+  "sortOrder": 0,
+  "preview": false,
+  "visible": false,
+  "logoPicture": null,
+  "logoPictureAlt": "",
+  "heroPicture": "assets/hero.png",
+  "featuredPicture": "assets/featured.png",
+  "partnerName": "Test - Partner name",
+  "mpnId": "123456",
+  "metadata": {
+    "displayInfo": {
+      "default": {
+        "shortDescription": "Short description for partner",
+        "featuredTitle": "Featured title test",
+        "featuredParagraphs": [
+          "Featured paragraph #1 test",
+          "Featured paragraph #2 test",
+          "Featured paragraph #3 test"
+        ],
+        "callToAction": {
+          "title": "Call to action title",
+          "description": "Call to action description",
+          "url": "Learn more link"
+        },
+        "mediaAssets": [
+          {
+            "type": "image",
+            "order": 0,
+            "url": "assets/hero.png",
+            "alt": ""
+          },
+          {
+            "type": "image",
+            "order": 1,
+            "url": "assets/featured.png",
+            "alt": ""
+          }
+        ],
+        "detailItemCategories": []
+      }
+    }
+  }
+}
