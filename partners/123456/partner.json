@@ -31,13 +31,13 @@
           {
             "type": "image",
             "order": 0,
-            "url": "assets/hero.png",
+            "url": "assets/featured.png",
             "alt": ""
           },
           {
             "type": "image",
             "order": 1,
-            "url": "assets/featured.png",
+            "url": "assets/hero.png",
             "alt": ""
           }
         ],
