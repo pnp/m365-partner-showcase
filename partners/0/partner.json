@@ -8,22 +8,39 @@
   "visible": false,
   "logoPicture": null,
   "logoPictureAlt": "",
-  "heroPicture": null,
-  "featuredPicture": "https://dev.azure.com/TeamsCaPTBLR/de6d4237-21c9-4551-bae0-9ac3e9bf97c8/_apis/wit/attachments/efd0f9df-c52c-4507-bd3e-4bcf9c22bd1e",
-  "partnerName": "Test partner name",
+  "heroPicture": "assets/hero.png",
+  "featuredPicture": "assets/featured.png",
+  "partnerName": "Test partner",
   "mpnId": "0",
   "metadata": {
     "displayInfo": {
       "default": {
-        "shortDescription": null,
-        "featuredTitle": null,
-        "featuredParagraphs": [],
+        "shortDescription": "test",
+        "featuredTitle": "featured title",
+        "featuredParagraphs": [
+          "test",
+          "test",
+          "test"
+        ],
         "callToAction": {
-          "title": "Contact Us",
-          "description": null,
+          "title": "test",
+          "description": "test",
           "url": "test"
         },
-        "mediaAssets": [],
+        "mediaAssets": [
+          {
+            "type": "image",
+            "order": 0,
+            "url": "assets/Hero.png",
+            "alt": ""
+          },
+          {
+            "type": "image",
+            "order": 1,
+            "url": "assets/Featured.png",
+            "alt": ""
+          }
+        ],
         "detailItemCategories": []
       }
     }
