@@ -30,7 +30,7 @@
           {
             "name": "Business need or problem",
             "content": [
-              "\u003Cdiv\u003EOptimizing the return on any\ntechnology investment requires understanding its on-going usage and making\nadjustments consequently. The comprehensive and varying communications media\ntypes available on Teams also require the capability to monitor, analyze and\nmanage all these resources accordingly.\u003Cbr\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003ETeams customers will require a analytics\nand call accounting\u0026nbsp;solution including\nreal-time and historical dashboard, traffic analysis, alerting and fraud\ndetection tools.\u003C/div\u003E"
+              "\u003Cdiv\u003EOptimizing the return on any\ntechnology investment requires understanding its on-going usage and making\nadjustments consequently. The comprehensive and varying communications media\ntypes available on Teams also require the capability to monitor, analyze and\nmanage all these resources accordingly.\u003Cbr\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003ETeams customers will require an analytics\nand call accounting\u0026nbsp;solution including\nreal-time and historical dashboard, traffic analysis, alerting and fraud\ndetection tools.\u003C/div\u003E"
             ]
           },
           {
@@ -44,37 +44,37 @@
           {
             "type": "image",
             "order": 0,
-            "url": "assets/MoYoBi-image5.jpg",
+            "url": "assets/MoYoBi-image1.png",
             "alt": ""
           },
           {
             "type": "image",
             "order": 1,
-            "url": "assets/MoYoBi-image6.jpg",
+            "url": "assets/MoYoBi-image3.png",
             "alt": ""
           },
           {
             "type": "image",
             "order": 2,
-            "url": "assets/MoYoBi-image1.jpg",
+            "url": "assets/MoYoBi-image4.png",
             "alt": ""
           },
           {
             "type": "image",
             "order": 3,
-            "url": "assets/MoYoBi-image4.jpg",
+            "url": "assets/MoYoBi-image6.png",
             "alt": ""
           },
           {
             "type": "image",
             "order": 4,
-            "url": "assets/MoYoBi-image3.jpg",
+            "url": "assets/MoYoBi-image5.png",
             "alt": ""
           },
           {
             "type": "image",
             "order": 5,
-            "url": "assets/MoYoBi-image2.jpg",
+            "url": "assets/MoYoBi-image2.png",
             "alt": ""
           }
         ],

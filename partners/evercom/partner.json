@@ -8,8 +8,8 @@
   "visible": false,
   "logoPicture": null,
   "logoPictureAlt": "",
-  "heroPicture": null,
-  "featuredPicture": null,
+  "heroPicture": "assets/hero.png",
+  "featuredPicture": "assets/featured.png",
   "partnerName": "EVERCOM",
   "mpnId": "0",
   "metadata": {
@@ -18,7 +18,7 @@
         "shortDescription": "\u003Cdiv\u003E\u003Cb\u003EEvercom helps any company to monitor, analyze and manage all the comprehensive and varying communications media types available on Teams.\u003C/b\u003E\u003Cbr\u003E\u003C/div\u003E",
         "featuredTitle": "MoYoBi, Monitor Your Business Intelligence",
         "featuredParagraphs": [
-          "\u003Cdiv\u003EFounded in 1984 in Brussels, the heart of Europe, Evercom\ndevelops \u0026amp; distributes telecommunication solutions SW for all market\nsegments. We work in partnership with all the major integrator to be able to\ndeliver adequate solutions to companies. \u003C/div\u003E\u003Cdiv\u003E\u0026nbsp;\u003C/div\u003E\u003Cdiv\u003EEvercom delivers its applications in any business model\n(license, SaaS, perpetual, subscription) to enable its customers to choose the\nbest model that fits their needs.\u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E\u003C/div\u003E"
+          "\u003Cdiv\u003EFounded in 1984 in Brussels, the heart of Europe, Evercom\ndevelops \u0026amp; distributes telecommunication solutions SW for all market\nsegments. We work in partnership with all the major integrators to be able to\ndeliver adequate solutions to companies. \u003C/div\u003E\u003Cdiv\u003E\u0026nbsp;\u003C/div\u003E\u003Cdiv\u003EEvercom delivers its applications in any business model\n(license, SaaS, perpetual, subscription) to enable its customers to choose the\nbest model that fits their needs.\u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E\u003C/div\u003E"
         ],
         "callToAction": {
           "title": "Request a demo to see how easy it is to get relevant answers about your Teams environment usage.",
@@ -29,13 +29,13 @@
           {
             "type": "image",
             "order": 0,
-            "url": "assets/Featured.jpg",
+            "url": "assets/Featured.png",
             "alt": ""
           },
           {
             "type": "image",
             "order": 1,
-            "url": "assets/Hero.jpg",
+            "url": "assets/Hero.png",
             "alt": ""
           }
         ],
