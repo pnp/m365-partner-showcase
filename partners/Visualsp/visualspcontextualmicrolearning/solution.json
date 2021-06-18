@@ -40,7 +40,20 @@
             ]
           }
         ],
-        "mediaAssets": [],
+        "mediaAssets": [
+          {
+            "type": "image",
+            "order": 0,
+            "url": "assets/Contextual-Microlearning.png",
+            "alt": ""
+          },
+          {
+            "type": "video",
+            "order": 1,
+            "url": "https://www.youtube.com/embed/Tj9LJSTPlvQ",
+            "alt": ""
+          }
+        ],
         "detailItemCategories": [
           {
             "name": "Resources",

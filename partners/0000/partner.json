@@ -9,22 +9,18 @@
   "logoPicture": null,
   "logoPictureAlt": "",
   "heroPicture": null,
-  "featuredPicture": "https://dev.azure.com/TeamsCaPTBLR/de6d4237-21c9-4551-bae0-9ac3e9bf97c8/_apis/wit/attachments/2d6faddf-0dc1-459c-bae6-c9b48e07f272",
-  "partnerName": "Partner name",
+  "featuredPicture": "https://dev.azure.com/TeamsCaPTBLR/de6d4237-21c9-4551-bae0-9ac3e9bf97c8/_apis/wit/attachments/b0e06aed-954d-4bce-a69b-83d1820dcd1d",
+  "partnerName": "Amirkhatri",
   "mpnId": "0",
   "metadata": {
     "displayInfo": {
       "default": {
-        "shortDescription": "Short",
-        "featuredTitle": "Feature",
-        "featuredParagraphs": [
-          "P1",
-          "P2",
-          "P3"
-        ],
+        "shortDescription": "Shoet",
+        "featuredTitle": null,
+        "featuredParagraphs": [],
         "callToAction": {
-          "title": "T",
-          "description": "D",
+          "title": "Title",
+          "description": "Description",
           "url": "Url"
         },
         "mediaAssets": [
@@ -32,12 +28,6 @@
             "type": "image",
             "order": 0,
             "url": "assets/Hero.jpg",
-            "alt": ""
-          },
-          {
-            "type": "image",
-            "order": 1,
-            "url": "assets/Featured.jpg",
             "alt": ""
           }
         ],
