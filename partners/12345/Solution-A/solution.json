@@ -1,7 +1,9 @@
 {
   "solutionId": "Solution-A",
   "partnerId": "12345",
-  "categories": [],
+  "categories": [
+    "teams"
+  ],
   "industries": [],
   "sortOrder": 0,
   "preview": false,

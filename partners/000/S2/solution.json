@@ -1,0 +1,59 @@
+{
+  "solutionId": "S2",
+  "partnerId": "000",
+  "categories": [],
+  "industries": [],
+  "sortOrder": 0,
+  "preview": false,
+  "visible": false,
+  "solutionLogoPicture": null,
+  "solutionLogoPictureAlt": "",
+  "solutionName": "S2",
+  "solutionUrl": null,
+  "solutionUrlTitle": "S2",
+  "metadata": {
+    "personas": "All Employees",
+    "solutionTechnologies": "Azure AD B2C",
+    "businessFunctions": "Corporate Communications",
+    "appSource": "Url",
+    "displayInfo": {
+      "default": {
+        "descriptionParagraphs": [
+          {
+            "name": "Short description",
+            "content": [
+              "Long"
+            ]
+          },
+          {
+            "name": "Business need or problem",
+            "content": [
+              "Bs"
+            ]
+          },
+          {
+            "name": "Business solution",
+            "content": [
+              "Ba"
+            ]
+          }
+        ],
+        "mediaAssets": [
+          {
+            "type": "image",
+            "order": 0,
+            "url": "assets/Hero.jpg",
+            "alt": ""
+          }
+        ],
+        "detailItemCategories": [
+          {
+            "name": "Resources",
+            "description": "Possible html supported text shown just above the list of links",
+            "items": []
+          }
+        ]
+      }
+    }
+  }
+}

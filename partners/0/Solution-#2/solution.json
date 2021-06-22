@@ -1,0 +1,57 @@
+{
+  "solutionId": "Solution-#2",
+  "partnerId": "0",
+  "categories": [],
+  "industries": [],
+  "sortOrder": 0,
+  "preview": false,
+  "visible": false,
+  "solutionLogoPicture": null,
+  "solutionLogoPictureAlt": "",
+  "solutionName": "Solution #2",
+  "solutionUrl": null,
+  "solutionUrlTitle": "Solution #2",
+  "metadata": {
+    "personas": "Administrators",
+    "solutionTechnologies": "Azure",
+    "businessFunctions": "Adoption",
+    "appSource": "test",
+    "displayInfo": {
+      "default": {
+        "descriptionParagraphs": [
+          {
+            "name": "Short description",
+            "content": []
+          },
+          {
+            "name": "Business need or problem",
+            "content": [
+              "test"
+            ]
+          },
+          {
+            "name": "Business solution",
+            "content": [
+              "test"
+            ]
+          }
+        ],
+        "mediaAssets": [
+          {
+            "type": "image",
+            "order": 0,
+            "url": "assets/Hero.png",
+            "alt": ""
+          }
+        ],
+        "detailItemCategories": [
+          {
+            "name": "Resources",
+            "description": "Possible html supported text shown just above the list of links",
+            "items": []
+          }
+        ]
+      }
+    }
+  }
+}
