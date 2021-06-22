@@ -50,12 +50,6 @@
           {
             "type": "image",
             "order": 1,
-            "url": "assets/ClobbaVR-image3.png",
-            "alt": ""
-          },
-          {
-            "type": "image",
-            "order": 2,
             "url": "assets/ClobbaVR-image1.png",
             "alt": ""
           }
