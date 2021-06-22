@@ -1,0 +1,101 @@
+{
+  "solutionId": "Solution-D",
+  "partnerId": "12345",
+  "categories": [],
+  "industries": [],
+  "sortOrder": 0,
+  "preview": false,
+  "visible": true,
+  "solutionLogoPicture": null,
+  "solutionLogoPictureAlt": "",
+  "solutionName": "Solution D",
+  "solutionUrl": "https://adoption-dev.azurewebsites.net/",
+  "solutionUrlTitle": "Solution D",
+  "metadata": {
+    "personas": "Administrators;All Employees;Business Admin",
+    "solutionTechnologies": "Azure;Azure Cosmos DB;Azure Functions;Azure SQL DB;SharePoint API",
+    "businessFunctions": "Business Operations;Change Management;Corporate Communications",
+    "appSource": "https://appsource.microsoft.com/en-US/",
+    "displayInfo": {
+      "default": {
+        "descriptionParagraphs": [
+          {
+            "name": "Short description",
+            "content": [
+              "Short description Solution. Short description Solution. Short description Solution. Short description Solution. Short description Solution. Short description Solution. Short description Solution. Shor"
+            ]
+          },
+          {
+            "name": "Business need or problem",
+            "content": [
+              "Business Needs for Solution D. Business Needs for Solution D. Business Needs for Solution D. Business Needs for Solution D. Business Needs for Solution D. Business Needs for Solution D. Business Needs for Solution D. Business Needs for Solution D. Business Needs for Solution D. Business Needs for Solution D. Business Needs for Solution D. Business Needs for Solution D. Business Needs for Solution D. Business Needs for Solution D. Business Needs for Solution D. Business Needs for Solution D. Business Needs for Solution D. Business Needs for Solution D. Business Needs for Solution D. Business Needs for Solution D. Business Needs for Solution D. Business Needs for Solution D. Business Needs for Solution D. Business Needs for Solution D. Business Needs for Solution D. Business Needs for Solution D. Business Needs for Solution D. Business Needs for Solution D. Business Needs for Solution D. Business Needs for Solution D. Business Needs for Solution D. Business Needs for Solution D. Business Needs for Solution D. Business Needs for Solution D. Business Needs for Solution D. Business Needs for Solution D. Business Needs for Solution D. Business Needs for Solution D. Business Needs for Solution D. Business Needs for Solution D. Business Needs for Solution D. Business Needs for Solution D. Business Needs for Solution D. Business Needs for Solution D. Business Needs for Solution D. Business Needs for Solution D. Business Needs for Solution D. Business Needs for Solution D. Business Needs for Solution D. Business Needs for Solution D. Business Needs for Solution D. Business Needs for Solution D. Business Needs for Solution D. Business Needs for Solution D. Business Needs for Solution D. Business Needs for Solution D. Business Needs for Solution D. Business Needs for Solution D. Business Needs for Solution D. Business Needs for Solution D. Business Needs for Solution D. Business Needs for Solution D. Business Needs for Solution D. Business Needs for Solution D. Business Needs f"
+            ]
+          },
+          {
+            "name": "Business solution",
+            "content": [
+              "Business solution for Solution D. Business solution for Solution D. Business solution for Solution D. Business solution for Solution D. Business solution for Solution D. Business solution for Solution D. Business solution for Solution D. Business solution for Solution D. Business solution for Solution D. Business solution for Solution D. Business solution for Solution D. Business solution for Solution D. Business solution for Solution D. Business solution for Solution D. Business solution for Solution D. Business solution for Solution D. Business solution for Solution D. Business solution for Solution D. Business solution for Solution D. Business solution for Solution D. Business solution for Solution D. Business solution for Solution D. Business solution for Solution D. Business solution for Solution D. Business solution for Solution D. Business solution for Solution D. Business solution for Solution D. Business solution for Solution D. Business solution for Solution D. Business solution for Solution D. Business solution for Solution D. Business solution for Solution D. Business solution for Solution D. Business solution for Solution D. Business solution for Solution D. Business solution for Solution D. Business solution for Solution D. Business solution for Solution D. Business solution for Solution D. Business solution for Solution D. Business solution for Solution D. Business solution for Solution D. Business solution for Solution D. Business solution for Solution D. Business solution for Solution D. Business solution for Solution D. Business solution for Solution D. Business solution for Solution D. Business solution for Solution D. Business solution for Solution D. Business solution for Solution D. Business solution for Solution D. Business solution for Solution D. Business solution for Solution D. Business solution for Solution D. Business solution for Solution D. Business solution for Solution D. Business solution for Solution D. Business solution for Soluti"
+            ]
+          }
+        ],
+        "mediaAssets": [
+          {
+            "type": "image",
+            "order": 0,
+            "url": "assets/Image6.png",
+            "alt": ""
+          },
+          {
+            "type": "image",
+            "order": 1,
+            "url": "assets/Image3.png",
+            "alt": ""
+          },
+          {
+            "type": "image",
+            "order": 2,
+            "url": "assets/Dummy21.jpg",
+            "alt": ""
+          },
+          {
+            "type": "image",
+            "order": 3,
+            "url": "assets/Image1.png",
+            "alt": ""
+          },
+          {
+            "type": "image",
+            "order": 4,
+            "url": "assets/Hero.png",
+            "alt": ""
+          },
+          {
+            "type": "image",
+            "order": 5,
+            "url": "assets/Image4.png",
+            "alt": ""
+          },
+          {
+            "type": "image",
+            "order": 6,
+            "url": "assets/Image2.png",
+            "alt": ""
+          },
+          {
+            "type": "image",
+            "order": 7,
+            "url": "assets/Image5.png",
+            "alt": ""
+          }
+        ],
+        "detailItemCategories": [
+          {
+            "name": "Resources",
+            "description": "Possible html supported text shown just above the list of links",
+            "items": []
+          }
+        ]
+      }
+    }
+  }
+}
