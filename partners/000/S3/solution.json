@@ -12,29 +12,37 @@
   "solutionUrl": null,
   "solutionUrlTitle": "S3",
   "metadata": {
-    "personas": "Business Admin",
-    "solutionTechnologies": "Azure API Management",
+    "personas": "Content Owners",
+    "solutionTechnologies": "Azure AD B2C",
     "businessFunctions": "Incident Management IT",
-    "appSource": "Url",
+    "successFactors": "Sf",
+    "displayPartner": false,
+    "appSource": "App",
     "displayInfo": {
       "default": {
         "descriptionParagraphs": [
           {
             "name": "Short description",
             "content": [
-              "L"
+              "Long"
+            ]
+          },
+          {
+            "name": "Long description",
+            "content": [
+              "Shoet"
             ]
           },
           {
             "name": "Business need or problem",
             "content": [
-              "Hhh"
+              "Need"
             ]
           },
           {
             "name": "Business solution",
             "content": [
-              "J"
+              "Solution"
             ]
           }
         ],

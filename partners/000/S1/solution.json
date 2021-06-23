@@ -12,9 +12,9 @@
   "solutionUrl": null,
   "solutionUrlTitle": "S1",
   "metadata": {
-    "personas": "Front Line Worker",
-    "solutionTechnologies": "Azure;Azure API Management",
-    "businessFunctions": "Project Management Offices",
+    "personas": "Analyst;Business Analysts",
+    "solutionTechnologies": "Azure AD B2C;Azure Cognitive Search",
+    "businessFunctions": "Project Management Offices;Templates",
     "successFactors": "Sf",
     "displayPartner": false,
     "appSource": "Url",
@@ -24,13 +24,13 @@
           {
             "name": "Short description",
             "content": [
-              "Solution"
+              "Hhh"
             ]
           },
           {
             "name": "Long description",
             "content": [
-              "Lonf"
+              "Long"
             ]
           },
           {
@@ -42,7 +42,7 @@
           {
             "name": "Business solution",
             "content": [
-              "Problem"
+              "Bs"
             ]
           }
         ],

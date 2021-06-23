@@ -9,22 +9,18 @@
   "logoPicture": null,
   "logoPictureAlt": "",
   "heroPicture": null,
-  "featuredPicture": "https://dev.azure.com/TeamsCaPTBLR/de6d4237-21c9-4551-bae0-9ac3e9bf97c8/_apis/wit/attachments/2123ace8-3061-4a47-9367-dc6e289c09c3",
-  "partnerName": "Amirpartner",
+  "featuredPicture": "https://dev.azure.com/TeamsCaPTBLR/de6d4237-21c9-4551-bae0-9ac3e9bf97c8/_apis/wit/attachments/8b700500-0463-444c-b0cc-0d2f6b47f9db",
+  "partnerName": "Partnertest",
   "mpnId": "0",
   "metadata": {
     "displayInfo": {
       "default": {
-        "shortDescription": "Partner",
-        "featuredTitle": "Feature",
-        "featuredParagraphs": [
-          "P1",
-          "P2",
-          "P3"
-        ],
+        "shortDescription": "Short",
+        "featuredTitle": null,
+        "featuredParagraphs": [],
         "callToAction": {
           "title": "Title",
-          "description": "Description",
+          "description": "Call",
           "url": "Url"
         },
         "mediaAssets": [

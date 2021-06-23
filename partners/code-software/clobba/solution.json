@@ -17,6 +17,8 @@
     "personas": "Finance Managers;Helpdesk Supervisors;IT Admin;Sales Managers",
     "solutionTechnologies": "Azure;Graph API;Microsoft Teams",
     "businessFunctions": null,
+    "successFactors": "\u003Cdiv\u003EOur customers have cited an increase in\nproductivity with the performance metrics produced by Clobba. Troubleshooting\ncall quality issues results in an increase in service delivery levels. Call\ncosts can be managed and reduced through internal billing processes and adoption\nof Teams and certified devices ensures a successful return on investment. \u003Cbr\u003E\u003C/div\u003E",
+    "displayPartner": true,
     "appSource": null,
     "displayInfo": {
       "default": {
@@ -25,6 +27,12 @@
             "name": "Short description",
             "content": [
               "\u003Cdiv\u003E\u003Cb\u003EAdvanced\nreporting, analytics, monitoring and dashboards for Teams\u003C/b\u003E\u003C/div\u003E"
+            ]
+          },
+          {
+            "name": "Long description",
+            "content": [
+              "\u003Cdiv\u003EClobba\u0026nbsp;is an easy-to-use\nanalytical and reporting tool which provides\ninsights into user-adoption trends, call quality, employee productivity, call\ncosts and much more.\u0026nbsp;Clobba\u0026nbsp;helps you turn Teams into a powerful\nenvironment for joined-up business-building\u003Cbr\u003E\u003C/div\u003E"
             ]
           },
           {
