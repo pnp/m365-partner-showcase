@@ -17,6 +17,8 @@
     "personas": "DPO;Helpdesk Supervisors;HR;IT Admin;Manager",
     "solutionTechnologies": "Azure AD;Graph API;Microsoft Teams",
     "businessFunctions": null,
+    "successFactors": "\u003Cdiv\u003EWith dashboards and reports on\nTeams usage, MoYoBi has helped our customers to obtain performance metrics and increase\nproductivity.\u003Cbr\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003EThe\nmulti-lingual solution allows global deployment within organizations, offering\ncontrol of the install and operation of Teams infrastructures, easing\nconsolidation strategies for all channels.\u003Cbr\u003E\u003C/div\u003E",
+    "displayPartner": true,
     "appSource": null,
     "displayInfo": {
       "default": {
@@ -25,6 +27,12 @@
             "name": "Short description",
             "content": [
               "\u003Cdiv\u003E\u003Cb\u003ECloud based Monitoring \u0026amp; Call\nAnalytics solution for Microsoft Teams.\u003C/b\u003E\u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E\u003C/div\u003E"
+            ]
+          },
+          {
+            "name": "Long description",
+            "content": [
+              "\u003Cdiv\u003EMoYoBi simplifies the way\norganizations measure Teams usage and savings.\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003EThat is what makes MoYoBi the\nperfect business intelligence tool for companies at any size for optimizing and\nmonitoring their Teams communication environment.\u003C/div\u003E"
             ]
           },
           {

@@ -17,6 +17,8 @@
     "personas": "Administrators;End-user",
     "solutionTechnologies": "Graph API;SPFx",
     "businessFunctions": null,
+    "successFactors": "\u003Cdiv\u003EGovernment, financial, and technology organizations, among others, have found success with DeliverPoint to ensure that the right users have the right level of access to business content. Organizations using DeliverPoint range from small to enterprise organizations, with either centralized or de-centralized permissions models.\u003Cbr\u003E\u003C/div\u003E",
+    "displayPartner": true,
     "appSource": null,
     "displayInfo": {
       "default": {
@@ -26,6 +28,10 @@
             "content": [
               "\u003Cdiv\u003EDeliverPoint Permission Reporting and Management tool for Microsoft Teams, SharePoint, and OneDrive. Run reports to discover who is permissioned across the content of one or many teams. Manage the permissions across large scopes as user roles change.\u003Cbr\u003E\u003C/div\u003E"
             ]
+          },
+          {
+            "name": "Long description",
+            "content": []
           },
           {
             "name": "Business need or problem",

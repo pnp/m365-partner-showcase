@@ -17,6 +17,8 @@
     "personas": "Content Owners;Corporate Communications;Leadership",
     "solutionTechnologies": "Teams Live Events",
     "businessFunctions": null,
+    "successFactors": "\u003Cdiv\u003EWe are only successful when our customers are successful.\u0026nbsp; We help them achieve amazing results by walking\nthem through each step of the process from planning and design, layout and\nflow, to rehearsal and event production.\u003Cbr\u003E\u003C/div\u003E",
+    "displayPartner": true,
     "appSource": null,
     "displayInfo": {
       "default": {
@@ -25,6 +27,12 @@
             "name": "Short description",
             "content": [
               "\u003Cdiv\u003E\u003Cb\u003ECustom\ntraining and implementation support focused on Live Event best practices.\u003C/b\u003E\u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E\u003C/div\u003E"
+            ]
+          },
+          {
+            "name": "Long description",
+            "content": [
+              "\u003Cdiv\u003EThe perfect solution for organizations that want\nto leverage Microsoft Teams Live Events along with engaging dynamic content and\ncompelling presentations.\u0026nbsp; \u003Cbr\u003E\u003C/div\u003E"
             ]
           },
           {

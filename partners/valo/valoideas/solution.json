@@ -17,6 +17,8 @@
     "personas": "All Employees",
     "solutionTechnologies": "Azure Bot;Custom Tabs;Graph API;Messaging Extension;SharePoint sites;SPFx",
     "businessFunctions": null,
+    "successFactors": "\u003Cdiv\u003EBuilding the solution natively into Microsoft Teams has proved a huge benefit for us. It allows the app to be consumed from different clients like the web, desktop, and mobile. This allows the innovation and ideation process to happen in real time without the users having to log in to a separate tool break their flow.\u003Cbr style=\u0022box-sizing:border-box;font-family:SegoeUI;color:rgb(51, 51, 51);font-size:16px;text-align:left;\u0022\u003E\u003C/div\u003E\u003Cdiv\u003E\u003Cbr style=\u0022box-sizing:border-box;font-family:SegoeUI;color:rgb(51, 51, 51);font-size:16px;text-align:left;\u0022\u003E\u003C/div\u003E\u003Cdiv\u003EIT Administrators are also happy with Valo Ideas as the ideas are created as SharePoint pages. This ensures that all best practices related to security, compliance and governance are followed. Any concerns about data residency are removed as the data always resides in the Microsoft 365 tenant itself. Using the Microsoft Teams/SharePoint platform also makes it easy to migrate ideas from legacy innovation tools into Valo Ideas.\u003Cbr\u003E\u003C/div\u003E",
+    "displayPartner": true,
     "appSource": null,
     "displayInfo": {
       "default": {
@@ -25,6 +27,12 @@
             "name": "Short description",
             "content": [
               "\u003Cdiv\u003EValo Ideas delivers an experience that empowers teams across all organizations to ideate and co-innovate to build their dream workplace. It is an app based on the Microsoft Teams platform so that people can start their innovation right where they are working.\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E"
+            ]
+          },
+          {
+            "name": "Long description",
+            "content": [
+              ""
             ]
           },
           {

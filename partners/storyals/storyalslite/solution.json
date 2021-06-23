@@ -17,6 +17,8 @@
     "personas": "Information Workers",
     "solutionTechnologies": "SharePoint API;SharePoint sites;SPFx",
     "businessFunctions": null,
+    "successFactors": "\u003Cdiv\u003ETo\nsucceed with digital workplace adoption using Storyals Lite, your IT department\nor IT-hosting provider needs to be involved. \u0026nbsp;Storyals Lite is installed in your own\nMicrosoft 365 environment as a pre-populated SharePoint Communication site\nleveraging the Microsoft 365 Learning Pathways framework. \u0026nbsp;It offers a visually appealing, out-of-the-box\nadoption site, maintained and updated by Storyals. \u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003EWe know that to be successful in driving\nadoption and building digital skills, it is vital to have the support of\nmanagement and other key stakeholders. We recommend you make a plan for how to\nroll out the adoption program to end-users in order to get everyone on-board.\nStoryals Adoption Experts are happy to help you with this.\u003Cbr\u003E\u003C/div\u003E",
+    "displayPartner": true,
     "appSource": null,
     "displayInfo": {
       "default": {
@@ -25,6 +27,12 @@
             "name": "Short description",
             "content": [
               "\u003Cdiv\u003EAn\nout-of-the box adoption site with story-based learning to build digital skills.\u003C/div\u003E"
+            ]
+          },
+          {
+            "name": "Long description",
+            "content": [
+              "\u003Cdiv\u003EStoryals Lite is a unique learning solution for the modern organization. It provides users with on-demand training and story-based tutorials on how to work smarter with digital tools in Microsoft 365. \u003Cbr\u003E\u003C/div\u003E"
             ]
           },
           {

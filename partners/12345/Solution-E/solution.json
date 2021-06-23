@@ -17,6 +17,8 @@
     "personas": "Administrators;All Employees;Business Admin;Compliance",
     "solutionTechnologies": "Microsoft 365;Microsoft Teams;Power App;Power Automate;SharePoint API",
     "businessFunctions": "Corporate Communications;Human Resources;Project Management",
+    "successFactors": "Success factors for Solution E. SucSuccess factors for Solution E. Success factors for Solution E. Success factors for Solution E. Success factors for Solution E. Success factors for Solution E. Success factors for Solution E. Success factors for Solution E. Success factors for Solution E. Success factors for Solution E. Success factors for Solution E. Success factors for Solution E. Success factors for Solution E. Success factors for Solution E. Success factors for Solution E. Success factors for Solution E. Success factors for Solution E. Success factors for Solution E. Success factors for Solution E. Success factors for Solution E. Success factors for Solution E. Success factors for Solution E. Success factors for Solution E. Success factors for Solution E. Success factors for Solution E. Success factors for Solution E. Success factors for Solution E. Success factors for Solution E. Success factors for Solution E. Success factors for Solution E. Success factors for Solution E. Success factors for Solution E. Success factors for Solution E. Success factors for Solution E. Success factors for Solution E. Success factors for Solution E. Success factors for Solution E. Success factors for Solution E. Success factors for Solution E. Success factors for Solution E. Success factors cess factors for Solution E. Success factors for Solution E. Success factors for Solution E. Success factors for Solution E. Success factors for Solution E. Success factors for Solution E. Success factors for Solution E. Success factors for Solution E. Success factors for Solution E. Success factors for Solution E. Success factors for Solution E. Success factors for Solution E. Success factors for Solution E. Success factors for Solution E. Success factors for Solution E. Success factors for Solution E. Success factors for Solution E. Success factors for Solution E. Success factors for Solution E. Success factors for Solution E. Success factors for Solution E. Success factors for Solution E.",
+    "displayPartner": false,
     "appSource": "https://appsource.microsoft.com/en-US/",
     "displayInfo": {
       "default": {
@@ -25,6 +27,12 @@
             "name": "Short description",
             "content": [
               "Long description for Solution E. Long description for Solution E. Long description for Solution E. Long description for Solution E. Long description for Solution E. Long description for Solution E. Long description for Solution E. Long description for Solution E. Long description for Solution E. Long description for Solution E. Long description for Solution E. Long description for Solution E. Long description for Solution E. Long description for Solution E. Long description for Solution E. Long"
+            ]
+          },
+          {
+            "name": "Long description",
+            "content": [
+              "Short description for Solution E. Short description for Solution E. Short description for Solution E. Short description for Solution E. Short description for Solution E. Short description for Solution"
             ]
           },
           {

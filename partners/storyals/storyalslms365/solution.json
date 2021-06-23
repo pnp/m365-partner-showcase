@@ -17,6 +17,8 @@
     "personas": "Information Workers",
     "solutionTechnologies": "SharePoint API;SharePoint sites;SPFx",
     "businessFunctions": null,
+    "successFactors": "\u003Cdiv\u003ETo\nsucceed with digital workplace adoption and broad digital learning using\nStoryals LMS365, your IT department or IT-hosting provider needs to be\ninvolved.\u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003EWith\nStoryals LMS365 learning content is made available to end users via SharePoint,\nTeams or via a mobile app. Storyals LMS365 leverages the learning management\nsolution LMS365 and Microsoft 365 Learning Pathways to provide \u201Chow-to\u201D videos\nto end users.\u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003EWe know that to be successful in driving\nadoption and broad learning, it is vital to have the support of management and\nother key stakeholders. We recommend you make a plan for how to roll out the learning\nsolution to end-users in order to get everyone on-board. Storyals Adoption\nExperts are happy to help you with this.\u003Cbr\u003E\u003C/div\u003E",
+    "displayPartner": true,
     "appSource": null,
     "displayInfo": {
       "default": {
@@ -25,6 +27,12 @@
             "name": "Short description",
             "content": [
               "\u003Cdiv\u003EA full-fledged digital\nlearning solution filled with engaging content to drive digital transformation.\u003C/div\u003E"
+            ]
+          },
+          {
+            "name": "Long description",
+            "content": [
+              "\u003Cdiv\u003EStoryals\u0026nbsp;LMS365\u0026nbsp;will unlock the full potential or your\ndigital workplace and create a full learning experience for all your employees.\nGet Storyals\u2019 unique learning\ncontent of on-demand\u0026nbsp;training and\u0026nbsp;story-based\u0026nbsp;tutorials\u0026nbsp;on\nhow to work smarter\u0026nbsp;with digital tools in Microsoft 365 and make your\nemployees digital champions. Unleash the creativity of your own\nworkforce and provide them the ability to create their own courses in full\ncapacity of LMS365.\u003C/div\u003E"
             ]
           },
           {

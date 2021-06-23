@@ -17,6 +17,8 @@
     "personas": "Microsoft 365 User",
     "solutionTechnologies": "Microsoft Teams;SharePoint sites;Stream",
     "businessFunctions": null,
+    "successFactors": "\u003Cdiv\u003EThe support of management and other key stakeholders and a communication strategy are the two main aspects of a successful implementation. The 365 Akademie supports you with its expertise and gives insights and impulses.\u0026nbsp; \u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E",
+    "displayPartner": true,
     "appSource": null,
     "displayInfo": {
       "default": {
@@ -25,6 +27,12 @@
             "name": "Short description",
             "content": [
               "\u003Cdiv\u003EStructured learning by using learning pathways, scenarios and \u201Cmini-trainings\u201D.\u0026nbsp;\u003C/div\u003E"
+            ]
+          },
+          {
+            "name": "Long description",
+            "content": [
+              "\u003Cdiv\u003ENext to the monthly video service, the 365 Akademie combines learning videos and creates standard or customized learning pathways, scenarios and \u201Cmini-trainings\u201D.\u0026nbsp;\u0026nbsp;\u0026nbsp;\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E"
             ]
           },
           {

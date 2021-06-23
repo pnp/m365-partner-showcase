@@ -17,6 +17,8 @@
     "personas": "HR;IT Admin;Project Manager",
     "solutionTechnologies": "Azure;Graph API;Microsoft Teams;SharePoint sites;SPFx",
     "businessFunctions": "Governance;Human Resources;IT;Project Management Offices;Project Managers",
+    "successFactors": "\u003Cdiv\u003EValo Teamwork simplifies the governance of Microsoft Teams and other types of workspaces in Microsoft 365. Please find below a list of benefits:\u003C/div\u003E\u003Cdiv\u003E\u003Cul\u003E\u003Cli\u003EComprehensive Microsoft Teams templates allow end users to create ready-to-use Microsoft Teams teams. This allows end-users to focus on other tasks rather than configuring workspaces.\u003C/li\u003E\u003Cli\u003EEnhanced governance and templating features allow administrators to avoid pitfalls and create Microsoft Teams teams and other types of workspaces with pre-defined rules.\u003C/li\u003E\u003Cli\u003EA unified creation process allows end users to create any type of workspace (incl. Microsoft Teams) from one single place with pre-defined configuration and content.\u003C/li\u003E\u003Cli\u003EEnd users can access all the workspaces they need in daily work from an integrated dashboard.\u003C/li\u003E\u003Cli\u003EValo Teamwork can be used directly from Microsoft Teams as a personal app and as a web part in SharePoint.\u003C/li\u003E\u003C/ul\u003E\u003C/div\u003E\u003Cdiv\u003EOur customers have been using Valo Teamwork to automatically create, manage, and control their workspaces in Microsoft 365!\u003Cbr\u003E\u003C/div\u003E\u003Cbr\u003E",
+    "displayPartner": true,
     "appSource": null,
     "displayInfo": {
       "default": {
@@ -25,6 +27,12 @@
             "name": "Short description",
             "content": [
               "\u003Cdiv\u003EValo Teamwork is your automated one-stop-shop for digital collaboration in Microsoft 365.\u003Cbr\u003E\u003C/div\u003E"
+            ]
+          },
+          {
+            "name": "Long description",
+            "content": [
+              "\u003Cdiv\u003EValo Teamwork integrates natively with Microsoft Teams, but can also be accessed from a SharePoint site through browser. Providing navigation, provision, lifecycle management and automated governance Valo Teamwork helps you to take away the exhaustion out of collaboration.\u003Cbr\u003E\u003C/div\u003E"
             ]
           },
           {

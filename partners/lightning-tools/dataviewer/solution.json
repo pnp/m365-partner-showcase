@@ -17,6 +17,8 @@
     "personas": "Business Users",
     "solutionTechnologies": "Graph API;SPFx",
     "businessFunctions": null,
+    "successFactors": "\u003Cdiv\u003EThe Data Viewer has helped organizations build dashboards within SharePoint using connections from other SPFx web parts, such as the Lightning Conductor by Lightning Tools. Reports have also been created and shared through SharePoint and Microsoft Teams for a wide range of verticals including automotive, financial, and healthcare organizations.\u003Cbr\u003E\u003C/div\u003E",
+    "displayPartner": true,
     "appSource": null,
     "displayInfo": {
       "default": {
@@ -26,6 +28,10 @@
             "content": [
               "\u003Cdiv\u003EData Viewer for Microsoft Teams provides business users with the ability to easily report on data in the form of Table views or Charts.\u003Cbr\u003E\u003C/div\u003E"
             ]
+          },
+          {
+            "name": "Long description",
+            "content": []
           },
           {
             "name": "Business need or problem",

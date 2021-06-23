@@ -17,6 +17,8 @@
     "personas": "All Employees;Corporate Communications;HR;IT",
     "solutionTechnologies": "Azure;Graph API;Microsoft 365;Power Automate",
     "businessFunctions": null,
+    "successFactors": "\u003Cdiv\u003EThe success will come from an agile project-management that includes Internal Communication as the main stakeholder, IT professionals for the Governance aspects, Business owner to select which business scenario to start with. While the solution comes with an Out-Of-The-Box configuration, most of our customers will include a Microsoft 365 partner to ensure some level of customization to the enterprise branding and add some specific business scenarios as part of the Intranet pages.\u0026nbsp;\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E",
+    "displayPartner": true,
     "appSource": null,
     "displayInfo": {
       "default": {
@@ -25,6 +27,12 @@
             "name": "Short description",
             "content": [
               "\u003Cdiv\u003EA modern corporate Intranet designed for\ncommunication success and to drive employee engagement.\u003Cbr\u003E\u003C/div\u003E"
+            ]
+          },
+          {
+            "name": "Long description",
+            "content": [
+              "\u003Ch2 style=\u0022margin:2pt 0in 0in;font-size:13pt;font-family:\u0026quot;Calibri Light\u0026quot;, sans-serif;color:rgb(47, 84, 150);font-weight:normal;\u0022\u003E\u003Cspan style=\u0022font-size:10.0pt;font-family:\u0026quot;Calibri\u0026quot;,sans-serif;color:windowtext;\u0022\u003E\u003C/span\u003E\u003C/h2\u003E\u003Cdiv\u003EPowell\u0026nbsp;Intranet is a modern corporate Intranet\ndesigned for communication success and to drive employee engagement in the\nHybrid Work.\u0026nbsp;\u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003EPowell Intranet is the communication \u0026amp;\nengagement pillar of the\u0026nbsp;Powell\u0026nbsp; \u003Ca href=\u0022https://powell-software.com/en/digital-workplace-solution/\u0022\u003E365\u003C/a\u003E Digital Workplace which also includes Powell\nTeams the modern collaboration pillar. It is fully built upon SharePoint and take\nbenefit of all Microsoft 365 services. Powell Intranet value proposition is\naimed at all employees, and business functions, especially HR, internal communications,\nand IT teams.\u003C/div\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:Calibri, sans-serif;\u0022\u003E\u003Cspan style=\u0022font-size:10.0pt;\u0022\u003E\u003C/span\u003E \u003C/p\u003E"
             ]
           },
           {

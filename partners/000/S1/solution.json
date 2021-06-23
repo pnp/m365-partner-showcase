@@ -12,9 +12,11 @@
   "solutionUrl": null,
   "solutionUrlTitle": "S1",
   "metadata": {
-    "personas": "Business Users",
-    "solutionTechnologies": "Messaging Extension",
-    "businessFunctions": "Incident Management IT",
+    "personas": "Front Line Worker",
+    "solutionTechnologies": "Azure;Azure API Management",
+    "businessFunctions": "Project Management Offices",
+    "successFactors": "Sf",
+    "displayPartner": false,
     "appSource": "Url",
     "displayInfo": {
       "default": {
@@ -26,19 +28,32 @@
             ]
           },
           {
+            "name": "Long description",
+            "content": [
+              "Lonf"
+            ]
+          },
+          {
             "name": "Business need or problem",
             "content": [
-              "Business"
+              "Bs"
             ]
           },
           {
             "name": "Business solution",
             "content": [
-              "Sol"
+              "Problem"
             ]
           }
         ],
-        "mediaAssets": [],
+        "mediaAssets": [
+          {
+            "type": "image",
+            "order": 0,
+            "url": "assets/Hero.jpg",
+            "alt": ""
+          }
+        ],
         "detailItemCategories": [
           {
             "name": "Resources",

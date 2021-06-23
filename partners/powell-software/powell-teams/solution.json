@@ -17,6 +17,8 @@
     "personas": "All Employees;Corporate Communications;HR;IT",
     "solutionTechnologies": "Azure;Graph API;Microsoft 365;Power Automate",
     "businessFunctions": null,
+    "successFactors": "\u003Cdiv\u003EThe success will come from an agile project management that includes IT professionals for the Governance aspects and Business owners to select which business scenario to start with.\u0026nbsp;While the solution is technically very easy to deploy, most of our customers will include a Microsoft 365 partner to ensure the best adoption by employees of all the selected scenarios.\u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E",
+    "displayPartner": true,
     "appSource": null,
     "displayInfo": {
       "default": {
@@ -25,6 +27,12 @@
             "name": "Short description",
             "content": [
               "\u003Cdiv\u003EA modern collaboration experience that is\neffortless, organized, easy to manage and governed.\u003Cbr\u003E\u003C/div\u003E"
+            ]
+          },
+          {
+            "name": "Long description",
+            "content": [
+              "\u003Cdiv\u003EPowell Teams is a modern\ncollaboration solution to maximize user experience and take full advantage of\nMicrosoft Teams.\u003C/div\u003E\u003Cdiv\u003E\u0026nbsp; \u003C/div\u003E\u003Cdiv\u003EPowell Teams is the\ncollaboration pillar\u0026nbsp; of the Powell\u0026nbsp; \u003Ca href=\u0022https://powell-software.com/en/digital-workplace-solution/\u0022\u003E365\u003C/a\u003E Digital Workplace which\nalso includes\u0026nbsp; \u003Ca href=\u0022https://powell-software.com/en/intranet-in-a-box/\u0022\u003EPowell Intranet,\u003C/a\u003E the\ncommunication and employee engagement pillar.\u0026nbsp;\u003Cspan style=\u0022\u0022\u003EPowell Teams value\nproposition is aimed at all employees, and business functions, especially HR,\ninternal communications and IT teams.\u003C/span\u003E\u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E"
             ]
           },
           {

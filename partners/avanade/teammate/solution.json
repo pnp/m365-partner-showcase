@@ -17,12 +17,18 @@
     "personas": "Front Line Worker;Manager",
     "solutionTechnologies": null,
     "businessFunctions": "Business Operations;Corporate Communications;Human Resources",
+    "successFactors": "\u003Cp style=\u0022margin:0in 0in 8pt;font-size:11pt;font-family:\u0026quot;Segoe UI\u0026quot;, sans-serif;\u0022\u003E\u003Cspan lang=EN-GB\u003EDeveloped with specific Customers / Use\nCases and updated regularly to respond to constantly evolving FLW situation and\npriorities.\u003C/span\u003E\u003C/p\u003E",
+    "displayPartner": true,
     "appSource": null,
     "displayInfo": {
       "default": {
         "descriptionParagraphs": [
           {
             "name": "Short description",
+            "content": []
+          },
+          {
+            "name": "Long description",
             "content": []
           },
           {

@@ -17,6 +17,8 @@
     "personas": "Administrators;All Employees;Analyst;Other",
     "solutionTechnologies": "Azure AD B2C;Azure API Management;Azure Translation Services;Custom Tabs;Messaging Extension;Microsoft 365;Other",
     "businessFunctions": "Governance;Human Resources;Project Management",
+    "successFactors": "Success factors. Success factors. Success factors. Success factors. Success factors. Success factors. Success factors. Success factors. Success factors. Success factors. Success factors. Success factors. Success factors. Success factors. Success factors. Success factors. Success factors. Success factors. Success factors. Success factors. Success factors. Success factors. Success factors. Success factors. Success factors. Success factors. Success factors. Success factors. Success factors. Success factors. Success factors. Success factors. Success factors. Success factors. Success factors. Success factors. Success factors. Success factors. Success factors. Success factors. Success factors. Success factors. Success factors. Success factors. Success factors. Success factors. Success factors. Success factors. Success factors. Success factors. Success factors. Success factors. Success factors. Success factors. Success factors. Success factors. Success factors. Success factors. Success factors. Success factors. Success factors. Success factors. Success factors. Success factors. Success factors. Success factors. Success factors. Success factors. Success factors. Success factors. Success factors. Success factors. Success factors. Success factors. Success factors. Success factors. Success factors. Success factors. Success factors. Success factors. Success factors. Success factors. Success factors. Success factors. Success factors. Success factors. Success factors. Success factors. Success factors. Success factors. Success factors. Success factors. Success factors. Success factors. Success factors. Success factors. Success factors. Success factors. Success factors. Success factors. Success factors. Success factors. Success factors. Success factors. Success factors. Success factors. Success factors. Success factors. Success factors. Success factors. Success factors. Success factors. Success factors. Success factors. Success factors. Success factors. Success factors. Success fac",
+    "displayPartner": true,
     "appSource": "https://appsource.microsoft.com/",
     "displayInfo": {
       "default": {
@@ -25,6 +27,12 @@
             "name": "Short description",
             "content": [
               "Solution B long description. Solution B long description.Solution B long description.Solution B long description.Solution B long description.Solution B long description.Solution B long description.Solution B long description.Solution B long description.Solution B long description.Solution B long description.Solution B long description.Solution B long description.Solution B long description.Solution B long description.Solution B long description.Solution B long description.Solution B long descrip"
+            ]
+          },
+          {
+            "name": "Long description",
+            "content": [
+              "Solution B short description. Solution B short description.Solution B short description.Solution B short description.Solution B short description.Solution B short description.Solution B short descript"
             ]
           },
           {

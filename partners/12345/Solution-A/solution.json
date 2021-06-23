@@ -17,6 +17,8 @@
     "personas": "Administrators;All Employees;Business Admin",
     "solutionTechnologies": "Azure;Azure Bot;Azure SQL Service;Microsoft 365;Microsoft Teams;SharePoint API",
     "businessFunctions": "Adoption;Change Management;Corporate Communications",
+    "successFactors": "Success factors. Success factors.Success factors.Success factors.Success factors.Success factors.Success factors.Success factors.Success factors.Success factors.Success factors.Success factors.Success factors.Success factors.Success factors.Success factors.Success factors.Success factors.Success factors.Success factors.Success factors.Success factors.Success factors.Success factors.Success factors.Success factors.Success factors.Success factors.Success factors.Success factors.Success factors.Success factors.Success factors.Success factors.Success factors.Success factors.Success factors.Success factors.Success factors.Success factors.Success factors.Success factors.Success factors.Success factors.Success factors.Success factors.Success factors.Success factors.Success factors.Success factors.Success factors.Success factors.Success factors.Success factors.Success factors.Success factors.Success factors.Success factors.Success factors.Success factors.Success factors.Success factors.Success factors.Success factors.Success factors.Success factors.Success factors.Success factors.Success factors.Success factors.Success factors.Success factors.Success factors.Success factors.Success factors.Success factors.Success factors.Success factors.Success factors.Success factors.Success factors.Success factors.Success factors.Success factors.Success factors.Success factors.Success factors.Success factors.Success factors.Success factors.Success factors.Success factors.Success factors.Success factors.Success factors.Success factors.Success factors.Success factors.Success factors.Success factors.Success factors.Success factors.Success factors.Success factors.Success factors.Success factors.Success factors.Success factors.Success factors.Success factors.Success factors.Success factors.Success factors.Success factors.Success factors.Success factors.Success factors.Success factors.Success factors.Success factors.Success factors.Success factors.Success factors.Success factors.Success factors",
+    "displayPartner": true,
     "appSource": "https://appsource.microsoft.com/",
     "displayInfo": {
       "default": {
@@ -25,6 +27,12 @@
             "name": "Short description",
             "content": [
               "Solution A description. Solution A description. Solution A description. Solution A description. Solution A description. Solution A description. Solution A description. Solution A description. Solution"
+            ]
+          },
+          {
+            "name": "Long description",
+            "content": [
+              "Long description of Solution A. Long description of Solution A. Long description of Solution A. Long description of Solution A. Long description of Solution A. Long description of Solution A. Long description of Solution A. Long description of Solution A. Long description of Solution A. Long description of Solution A. Long description of Solution A. Long description of Solution A. Long description of Solution A. Long description of Solution A. Long description of Solution A. Long description of"
             ]
           },
           {

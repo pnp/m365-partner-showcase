@@ -17,6 +17,8 @@
     "personas": "End-user;IT Admin",
     "solutionTechnologies": "Custom Tabs;Graph API;Messaging Extension;Power App;Power Automate;SPFx",
     "businessFunctions": "Adoption;Engagement;Governance",
+    "successFactors": "\u003Cdiv\u003EOrganizations around the globe in various industries can benefit from TeamsHUB, which provide critical automation of key tasks, enhanced reporting capabilities, and increased user engagement through rich, contextual experiences:\u003C/div\u003E\u003Cdiv\u003E\u003Cul\u003E\u003Cli\u003EAutomate and manage provisioning, operations and information lifecycle integrated with Microsoft Teams.\u003C/li\u003E\u003Cli\u003EEnsure internal, external and regulatory compliance.\u003C/li\u003E\u003Cli\u003EEase adoption, usage and governance.\u003C/li\u003E\u003Cli\u003EIncrease administrator efficiency.\u003C/li\u003E\u003Cli\u003EImplement reliable governance tools to enable consistent processes and controls, and mitigate risks for Microsoft Teams.\u003C/li\u003E\u003C/ul\u003E\u003C/div\u003E\u003Cdiv\u003ETeamsHUB can transform your organization with the insights provided and effective tools for employee engagement.\u003Cbr\u003E\u003C/div\u003E",
+    "displayPartner": true,
     "appSource": null,
     "displayInfo": {
       "default": {
@@ -25,6 +27,12 @@
             "name": "Short description",
             "content": [
               "\u003Cdiv\u003ETeamsHUB is a governance, adoption, and employee engagement platform built on Microsoft Teams.\u003Cbr\u003E\u003C/div\u003E"
+            ]
+          },
+          {
+            "name": "Long description",
+            "content": [
+              "\u003Cdiv\u003E\u003Cp style=\u0022box-sizing:border-box;font-family:SegoeUI;margin:0px 0px 10px;font-size:16px;color:rgb(51, 51, 51);text-align:left;\u0022\u003E\u003Cbr\u003E\u003C/p\u003E\u003C/div\u003E"
             ]
           },
           {

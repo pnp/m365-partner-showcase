@@ -17,6 +17,8 @@
     "personas": "Other",
     "solutionTechnologies": "Azure API Management;Azure Bot;Azure Cognitive Search;Azure Cosmos DB;Azure Functions;Azure SQL DB;Other",
     "businessFunctions": "Change Management;Corporate Communications;Engagement;Other",
+    "successFactors": "Success factors Solution C. Success factors Solution C. Success factors Solution C. Success factors Solution C. Success factors Solution C. Success factors Solution C. Success factors Solution C. Success factors Solution C. Success factors Solution C. Success factors Solution C. Success factors Solution C. Success factors Solution C. Success factors Solution C. Success factors Solution C. Success factors Solution C. Success factors Solution C. Success factors Solution C. Success factors Solution C. Success factors Solution C. Success factors Solution C. Success factors Solution C. Success factors Solution C. Success factors Solution C. Success factors Solution C. Success factors Solution C. Success factors Solution C. Success factors Solution C. Success factors Solution C. Success factors Solution C. Success factors Solution C. Success factors Solution C. Success factors Solution C. Success factors Solution C. Success factors Solution C. Success factors Solution C. Success factors Solution C. Success factors Solution C. Success factors Solution C. Success factors Solution C. Success factors Solution C. Success factors Solution C. Success factors Solution C. Success factors Solution C. Success factors Solution C. Success factors Solution C. Success factors Solution C. Success factors Solution C. Success factors Solution C. Success factors Solution C. Success factors Solution C. Success factors Solution C. Success factors Solution C. Success factors Solution C. Success factors Solution C. Success factors Solution C. Success factors Solution C. Success factors Solution C. Success factors Solution C. Success factors Solution C. Success factors Solution C. Success factors Solution C. Success factors Solution C. Success factors Solution C. Success factors Solution C. Success factors Solution C. Success factors Solution C. Success factors Solution C. Success factors Solution C. Success factors Solution C. Success factors Solution C. Success factors Solution C. Success fact",
+    "displayPartner": true,
     "appSource": "https://appsource.microsoft.com/",
     "displayInfo": {
       "default": {
@@ -25,6 +27,12 @@
             "name": "Short description",
             "content": [
               "Solution C long description. Solution C long description. Solution C long description. Solution C long description. Solution C long description. Solution C long description. Solution C long description. Solution C long description. Solution C long description. Solution C long description. Solution C long description. Solution C long description. Solution C long description. Solution C long description. Solution C long description. Solution C long description. Solution C long description. Solutio"
+            ]
+          },
+          {
+            "name": "Long description",
+            "content": [
+              "Solution C short description. Solution C short description. Solution C short description. Solution C short description. Solution C short description. Solution C short description. Solution C short des"
             ]
           },
           {

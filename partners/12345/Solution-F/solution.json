@@ -17,6 +17,8 @@
     "personas": "Administrators;Compliance;Content Owners;Developer;Other",
     "solutionTechnologies": "PnP Framework;Power Automate;React;Search;SharePoint API;Other",
     "businessFunctions": "Corporate Communications;Engagement;Governance;Human Resources;Incident Management IT;Other",
+    "successFactors": "Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors",
+    "displayPartner": false,
     "appSource": "https://appsource.microsoft.com/en-US/",
     "displayInfo": {
       "default": {
@@ -25,6 +27,12 @@
             "name": "Short description",
             "content": [
               "Long description for solution F. Long description for solution F. Long description for solution F. Long description for solution F. Long description for solution F. Long description for solution F. Long description for solution F. Long description for solution F. Long description for solution F. Long description for solution F. Long description for solution F. Long description for solution F. Long description for solution F. Long description for solution F. Long description for solution F. Long"
+            ]
+          },
+          {
+            "name": "Long description",
+            "content": [
+              "Short description for solution F. Short description for solution F. Short description for solution F. Short description for solution F. Short description for solution F. Short description for solution"
             ]
           },
           {

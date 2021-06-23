@@ -9,25 +9,32 @@
   "logoPicture": null,
   "logoPictureAlt": "",
   "heroPicture": null,
-  "featuredPicture": "https://dev.azure.com/TeamsCaPTBLR/de6d4237-21c9-4551-bae0-9ac3e9bf97c8/_apis/wit/attachments/db9aa679-e4b5-4e8d-97df-06b64eda0906",
-  "partnerName": "Partner",
+  "featuredPicture": "https://dev.azure.com/TeamsCaPTBLR/de6d4237-21c9-4551-bae0-9ac3e9bf97c8/_apis/wit/attachments/2123ace8-3061-4a47-9367-dc6e289c09c3",
+  "partnerName": "Amirpartner",
   "mpnId": "0",
   "metadata": {
     "displayInfo": {
       "default": {
-        "shortDescription": "Short",
-        "featuredTitle": "Title",
+        "shortDescription": "Partner",
+        "featuredTitle": "Feature",
         "featuredParagraphs": [
-          "P",
-          "P",
-          "P"
+          "P1",
+          "P2",
+          "P3"
         ],
         "callToAction": {
-          "title": "P",
-          "description": "P",
-          "url": "P"
+          "title": "Title",
+          "description": "Description",
+          "url": "Url"
         },
-        "mediaAssets": [],
+        "mediaAssets": [
+          {
+            "type": "image",
+            "order": 0,
+            "url": "assets/Hero.jpg",
+            "alt": ""
+          }
+        ],
         "detailItemCategories": []
       }
     }

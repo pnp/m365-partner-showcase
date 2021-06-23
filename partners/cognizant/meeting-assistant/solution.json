@@ -15,12 +15,18 @@
     "personas": "Business Users",
     "solutionTechnologies": "Azure;Graph API;SharePoint sites",
     "businessFunctions": null,
+    "successFactors": "\u003Cdiv\u003E\u003Cul style=\u0022margin-bottom:0in;\u0022\u003E\u003Cli\u003E\u003Cspan lang=EN-GB style=\u0022\u0022\u003EThe solution was accepted as a Global tool and it created new initiatives\nin MS Teams development viz. One Conference solution on MS Teams etc.\u003C/span\u003E\u003C/li\u003E\u003Cli\u003E\u003Cspan lang=EN-GB style=\u0022\u0022\u003EThe solution built our capability in MS teams development and usage of\nGraph API, learning form which will help in future solution development\u003C/span\u003E\u003C/li\u003E\u003C/ul\u003E\u003Cbr\u003E\u003C/div\u003E",
+    "displayPartner": false,
     "appSource": null,
     "displayInfo": {
       "default": {
         "descriptionParagraphs": [
           {
             "name": "Short description",
+            "content": []
+          },
+          {
+            "name": "Long description",
             "content": []
           },
           {

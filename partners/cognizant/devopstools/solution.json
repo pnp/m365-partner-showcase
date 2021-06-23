@@ -17,12 +17,18 @@
     "personas": "Project Manager",
     "solutionTechnologies": "Azure;Power App;Power Automate;Search",
     "businessFunctions": null,
+    "successFactors": "\u003Cdiv\u003EMS Teams helped in bringing collaboration in to applications, and provided single pane of glass experience in the entire process. \u003Cbr\u003E\u003C/div\u003E",
+    "displayPartner": false,
     "appSource": null,
     "displayInfo": {
       "default": {
         "descriptionParagraphs": [
           {
             "name": "Short description",
+            "content": []
+          },
+          {
+            "name": "Long description",
             "content": []
           },
           {

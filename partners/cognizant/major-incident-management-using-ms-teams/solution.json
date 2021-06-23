@@ -15,12 +15,18 @@
     "personas": null,
     "solutionTechnologies": "Azure;Azure Cosmos DB;Azure Web App Service;Power App;Power Automate",
     "businessFunctions": null,
+    "successFactors": "\u003Cdiv\u003E\u003Cp style=\u0022margin:0in 0in 8pt;font-size:11pt;font-family:\u0026quot;Segoe UI\u0026quot;, sans-serif;text-align:justify;\u0022\u003E\u003Cspan lang=EN-GB style=\u0022\u0022\u003EIncident\nmanagers and work stream stakeholders can effectively use Microsoft Teams\ncollaboration capabilities like \u201CMeet Now\u201D, Message extensions to search\nincidents, Adaptive cards based notifications, BOTs based on Azure BOT\nframework and Power Platform for process automation. \u003C/span\u003E\u003C/p\u003E\u003Cp style=\u0022margin:0in 0in 8pt;font-size:11pt;font-family:\u0026quot;Segoe UI\u0026quot;, sans-serif;text-align:justify;\u0022\u003E\u003Cspan lang=EN-GB style=\u0022\u0022\u003EUsing\nMicrosoft Teams as application development and delivery platform helped in\nconstruction of this solution and reduced the over application switching during\nthe incident management process.\u003C/span\u003E\u003C/p\u003E\u003C/div\u003E",
+    "displayPartner": false,
     "appSource": null,
     "displayInfo": {
       "default": {
         "descriptionParagraphs": [
           {
             "name": "Short description",
+            "content": []
+          },
+          {
+            "name": "Long description",
             "content": []
           },
           {

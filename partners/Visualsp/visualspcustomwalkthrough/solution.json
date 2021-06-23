@@ -17,6 +17,8 @@
     "personas": "End-user;Power User",
     "solutionTechnologies": "Azure Bot;SharePoint sites;SPFx",
     "businessFunctions": null,
+    "successFactors": "\u003Cdiv\u003E\u003Cspan\u003EThe plug n play nature of the solution facilitates the rapid deployment and impact on user engagement starting on day 1.\u003Cbr\u003E\u003C/span\u003E\u003Cdiv\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003EVisualSP is a complete solution that incorporates product with complementary user adoption services. Ongoing performance reviews are conducted with clients to assess the job VisualSP is doing towards their user engagement and user adoption goals. The continuous feedback and engagement with our customers has shown to produce significant positive impact by realizing their return on investment of their digital applications.\u003C/div\u003E\u003C/div\u003E",
+    "displayPartner": true,
     "appSource": null,
     "displayInfo": {
       "default": {
@@ -25,6 +27,12 @@
             "name": "Short description",
             "content": [
               "\u003Cdiv\u003EInteractive guided step-by-step walkthroughs on top of your SharePoint based intranet. Guide your users by designing point and click no-code walkthroughs in context of their own environment that are available at their moment of their need.\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E"
+            ]
+          },
+          {
+            "name": "Long description",
+            "content": [
+              ""
             ]
           },
           {

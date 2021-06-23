@@ -15,6 +15,8 @@
     "personas": "Business Users",
     "solutionTechnologies": "Azure AD B2C;Azure API Management",
     "businessFunctions": "Corporate Communications",
+    "successFactors": "Sf",
+    "displayPartner": false,
     "appSource": "Appsoirce",
     "displayInfo": {
       "default": {
@@ -23,6 +25,12 @@
             "name": "Short description",
             "content": [
               "Short"
+            ]
+          },
+          {
+            "name": "Long description",
+            "content": [
+              "Long"
             ]
           },
           {

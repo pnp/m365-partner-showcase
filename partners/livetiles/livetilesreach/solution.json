@@ -17,6 +17,8 @@
     "personas": "Corporate Communications;Front Line Worker;HR",
     "solutionTechnologies": "Azure AD;Azure AD B2C;Azure Cosmos DB;Azure Translation Services;Azure Web App Service",
     "businessFunctions": "Adoption;Engagement",
+    "successFactors": "\u003Cdiv\u003E\u003Cul\u003E\u003Cli\u003EPost COVID-19, communications and employee engagement are top priorities of HR and Leadership -\u0026gt; Reach extends MS Teams capability to drive those 2 major priorities.\u003C/li\u003E\u003Cli\u003EAdding Corporate comms. alerts and notifications to the MS Teams workplace -\u0026gt; reducing noise and channels to make the MS Teams workplace the canvas of choice.\u003C/li\u003E\u003Cli\u003EUsing MS Teams to reach first-line workers and extend beyond organizations boundaries with Azure B2C.\u003C/li\u003E\u003Cli\u003EIntegrate unified comms. to multiple MS Teams tenants (important for membership organizations like the UN and Red Cross or in M\u0026amp;A situations).\u003C/li\u003E\u003Cli\u003EAdding extranet functionality to MS Teams as an MS Teams app that allows multiple user directories per tenant.\u003C/li\u003E\u003Cli\u003EMulti-/geo-redundant Azure infrastructure to optimize performance and data-residency requirements.\u003C/li\u003E\u003C/ul\u003E\u003C/div\u003E",
+    "displayPartner": false,
     "appSource": null,
     "displayInfo": {
       "default": {
@@ -26,6 +28,10 @@
             "content": [
               "\u003Cdiv\u003EReach is an internal communications app and pocket intranet that boosts engagement, retention, and connection for all employees regardless of where they work.\u003Cbr\u003E\u003C/div\u003E"
             ]
+          },
+          {
+            "name": "Long description",
+            "content": []
           },
           {
             "name": "Business need or problem",

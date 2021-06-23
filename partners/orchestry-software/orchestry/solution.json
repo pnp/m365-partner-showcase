@@ -17,6 +17,8 @@
     "personas": "Developer;End-user;IT Admin",
     "solutionTechnologies": "Azure;Custom Tabs;Graph API;PnP Framework;SharePoint API;SharePoint sites;SPFx",
     "businessFunctions": "Adoption;Change Managemenet;Governance",
+    "successFactors": "\u003Cdiv\u003EFrom administrators to end users, enterprise customers agree that simplifying the provisioning and governance experience through Microsoft Teams drives standardization, user experience and ultimately, adoption. By adopting Orchestry, customers are now able to:\u003C/div\u003E\u003Cdiv\u003E\u003Cul\u003E\u003Cli\u003ECreate a consistent experience across teams, sites and workspaces.\u003C/li\u003E\u003Cli\u003EDrive a consistent governance, provisioning and enablement experience across Microsoft 365 workspaces (Microsoft Teams, SharePoint Site, etc.).\u003C/li\u003E\u003Cli\u003EManage all workspace requests and provisioning for Microsoft 365 workspaces (teams, sites, etc.) through a single unified interface both for administrators and end users.\u003C/li\u003E\u003Cli\u003EGovern consistent workspace templates, naming policies, metadata, and more across both Microsoft Teams and SharePoint Online.\u003C/li\u003E\u003C/ul\u003E\u003C/div\u003E\u003Cdiv\u003ECustomers have deployed Orchestry for core scenarios like project management, change management (IT), department collaboration workspaces (HR, communications, marketing), and more. Customer feedback has been consistent: Orchestry has become one of the must-have applications for deploying and managing Microsoft Teams.\u003Cbr\u003E\u003C/div\u003E",
+    "displayPartner": true,
     "appSource": null,
     "displayInfo": {
       "default": {
@@ -25,6 +27,12 @@
             "name": "Short description",
             "content": [
               "\u003Cdiv\u003E\u003Cspan\u003EOrchestry is your governance, adoption, provisioning, and enablement tool for Microsoft Teams.\u003C/span\u003E\u003C/div\u003E"
+            ]
+          },
+          {
+            "name": "Long description",
+            "content": [
+              "\u003Cdiv\u003EOrchestry makes work simple in Microsoft Teams, SharePoint Online and across Microsoft 365 providing transparent governance and self-service provisioning to drive usage and adoption all the way through to end users through simplifying the interface and providing a beautiful user experience.\u003Cbr\u003E\u003C/div\u003E"
             ]
           },
           {
