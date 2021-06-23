@@ -15,24 +15,26 @@
     "personas": "Administrators",
     "solutionTechnologies": "Azure",
     "businessFunctions": "Adoption",
-    "appSource": "test",
+    "appSource": "Test",
     "displayInfo": {
       "default": {
         "descriptionParagraphs": [
           {
             "name": "Short description",
-            "content": []
+            "content": [
+              "Test"
+            ]
           },
           {
             "name": "Business need or problem",
             "content": [
-              "test"
+              "Test"
             ]
           },
           {
             "name": "Business solution",
             "content": [
-              "test"
+              "Test"
             ]
           }
         ],
