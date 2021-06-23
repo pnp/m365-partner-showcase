@@ -17,6 +17,8 @@
     "personas": "Digital Champions;End-user",
     "solutionTechnologies": "Microsoft Forms;Microsoft Teams;Power App;Power Automate;SharePoint sites",
     "businessFunctions": null,
+    "successFactors": "\u003Cdiv\u003EDriving your organization forward to achieve true digital transformation, Digital Champions ensure success.\u0026nbsp;\u0026nbsp;\u003Cbr\u003E\u003C/div\u003E",
+    "displayPartner": true,
     "appSource": null,
     "displayInfo": {
       "default": {
@@ -25,6 +27,12 @@
             "name": "Short description",
             "content": [
               "\u003Cdiv\u003EDrive Change with a\u0026nbsp;Fully Managed\u0026nbsp;Digital Champions Network.\u003Cbr\u003E\u003C/div\u003E"
+            ]
+          },
+          {
+            "name": "Long description",
+            "content": [
+              "\u003Cdiv\u003EOur Champions Programmes are designed exclusively to\u0026nbsp;create\u0026nbsp;a\u0026nbsp;sustainable\u0026nbsp;standalone, managed service to\u0026nbsp;identify, engage, educate and\u0026nbsp;grow a network of highly effective\u0026nbsp;Digital Champions.\u200B Using our experience working with 100\u2019s of organisations, we have taken all of the best elements to give you the definitive out of the box Digital Champion Programme.\u0026nbsp;\u003Cbr\u003E\u003C/div\u003E"
             ]
           },
           {

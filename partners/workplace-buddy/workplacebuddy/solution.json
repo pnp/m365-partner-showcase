@@ -17,6 +17,8 @@
     "personas": "C-level;HR;IT",
     "solutionTechnologies": "Azure;Graph API;SPFx",
     "businessFunctions": null,
+    "successFactors": "\u003Cdiv\u003EWorkplaceBuddy\nis\u0026nbsp;proven to be\u0026nbsp;especially\u0026nbsp;successful with these types of\norganizations:\u003C/div\u003E\u003Cdiv\u003E\n \u003C/div\u003E\u003Cdiv\u003E\u003Cul\u003E\u003Cli\u003EWorking with digital positive stakeholders\u003C/li\u003E\u003Cli\u003EAt least 500 employees\u003C/li\u003E\u003Cli\u003ETypically having a desk worker focus\u003C/li\u003E\u003C/ul\u003E\u003C/div\u003E\u003Cdiv\u003E\n \u003C/div\u003E",
+    "displayPartner": true,
     "appSource": null,
     "displayInfo": {
       "default": {
@@ -25,6 +27,12 @@
             "name": "Short description",
             "content": [
               "\u003Cdiv\u003EHey, let us be your tour guide to digital success! WorkplaceBuddy helps employees personally to become digitally skilled with a proactive chatbot and e-learning... with lots of fun!\u003Cbr\u003E\u003C/div\u003E"
+            ]
+          },
+          {
+            "name": "Long description",
+            "content": [
+              "\u003Cdiv\u003EWorking with digital tools should not feel like a\nstruggle, let us help you! From someone who has never seen Microsoft 365 to\nadvanced users, we offer a personal, relevant learning journey! With our fun\ncontent you can motivate and inspire your colleagues to become more digitally\nskilled! This content is proactively delivered to your colleagues with our\nchatbot. Create your own content (be it chatbot conversations, badges and/or\ne-learnings) in our software and easily monitor results.\u003Cbr\u003E\u003C/div\u003E"
             ]
           },
           {

@@ -1,0 +1,75 @@
+{
+  "solutionId": "Solution-F",
+  "partnerId": "12345",
+  "categories": [
+    "virtualevents"
+  ],
+  "industries": [],
+  "sortOrder": 0,
+  "preview": false,
+  "visible": true,
+  "solutionLogoPicture": null,
+  "solutionLogoPictureAlt": "",
+  "solutionName": "Solution F",
+  "solutionUrl": "https://adoption-dev.azurewebsites.net/",
+  "solutionUrlTitle": "Solution F",
+  "metadata": {
+    "personas": "Administrators;Compliance;Content Owners;Developer;Other",
+    "solutionTechnologies": "PnP Framework;Power Automate;React;Search;SharePoint API;Other",
+    "businessFunctions": "Corporate Communications;Engagement;Governance;Human Resources;Incident Management IT;Other",
+    "successFactors": "Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors for Solution F. Success factors",
+    "displayPartner": false,
+    "appSource": "https://appsource.microsoft.com/en-US/",
+    "displayInfo": {
+      "default": {
+        "descriptionParagraphs": [
+          {
+            "name": "Short description",
+            "content": [
+              "Long description for solution F. Long description for solution F. Long description for solution F. Long description for solution F. Long description for solution F. Long description for solution F. Long description for solution F. Long description for solution F. Long description for solution F. Long description for solution F. Long description for solution F. Long description for solution F. Long description for solution F. Long description for solution F. Long description for solution F. Long"
+            ]
+          },
+          {
+            "name": "Long description",
+            "content": [
+              "Short description for solution F. Short description for solution F. Short description for solution F. Short description for solution F. Short description for solution F. Short description for solution"
+            ]
+          },
+          {
+            "name": "Business need or problem",
+            "content": [
+              "Business needs for Solution F. Business needs for Solution F. Business needs for Solution F. Business needs for Solution F. Business needs for Solution F. Business needs for Solution F. Business needs for Solution F. Business needs for Solution F. Business needs for Solution F. Business needs for Solution F. Business needs for Solution F. Business needs for Solution F. Business needs for Solution F. Business needs for Solution F. Business needs for Solution F. Business needs for Solution F. Business needs for Solution F. Business needs for Solution F. Business needs for Solution F. Business needs for Solution F. Business needs for Solution F. Business needs for Solution F. Business needs for Solution F. Business needs for Solution F. Business needs for Solution F. Business needs for Solution F. Business needs for Solution F. Business needs for Solution F. Business needs for Solution F. Business needs for Solution F. Business needs for Solution F. Business needs for Solution F. Business needs for Solution F. Business needs for Solution F. Business needs for Solution F. Business needs for Solution F. Business needs for Solution F. Business needs for Solution F. Business needs for Solution F. Business needs for Solution F. Business needs for Solution F. Business needs for Solution F. Business needs for Solution F. Business needs for Solution F. Business needs for Solution F. Business needs for Solution F. Business needs for Solution F. Business needs for Solution F. Business needs for Solution F. Business needs for Solution F. Business needs for Solution F. Business needs for Solution F. Business needs for Solution F. Business needs for Solution F. Business needs for Solution F. Business needs for Solution F. Business needs for Solution F. Business needs for Solution F. Business needs for Solution F. Business needs for Solution F. Business needs for Solution F. Business needs for Solution F. Business needs for Solution F. Business needs for Solution F. Business needs f"
+            ]
+          },
+          {
+            "name": "Business solution",
+            "content": [
+              "Business solution for Solution F. Business solution for Solution F. Business solution for Solution F. Business solution for Solution F. Business solution for Solution F. Business solution for Solution F. Business solution for Solution F. Business solution for Solution F. Business solution for Solution F. Business solution for Solution F. Business solution for Solution F. Business solution for Solution F. Business solution for Solution F. Business solution for Solution F. Business solution for Solution F. Business solution for Solution F. Business solution for Solution F. Business solution for Solution F. Business solution for Solution F. Business solution for Solution F. Business solution for Solution F. Business solution for Solution F. Business solution for Solution F. Business solution for Solution F. Business solution for Solution F. Business solution for Solution F. Business solution for Solution F. Business solution for Solution F. Business solution for Solution F. Business solution for Solution F. Business solution for Solution F. Business solution for Solution F. Business solution for Solution F. Business solution for Solution F. Business solution for Solution F. Business solution for Solution F. Business solution for Solution F. Business solution for Solution F. Business solution for Solution F. Business solution for Solution F. Business solution for Solution F. Business solution for Solution F. Business solution for Solution F. Business solution for Solution F. Business solution for Solution F. Business solution for Solution F. Business solution for Solution F. Business solution for Solution F. Business solution for Solution F. Business solution for Solution F. Business solution for Solution F. Business solution for Solution F. Business solution for Solution F. Business solution for Solution F. Business solution for Solution F. Business solution for Solution F. Business solution for Solution F. Business solution for Solution F. Business solution for Soluti"
+            ]
+          }
+        ],
+        "mediaAssets": [
+          {
+            "type": "image",
+            "order": 0,
+            "url": "assets/Hero.png",
+            "alt": ""
+          },
+          {
+            "type": "video",
+            "order": 1,
+            "url": "https://www.youtube.com/c/MicrosoftTeamsPlatform",
+            "alt": ""
+          }
+        ],
+        "detailItemCategories": [
+          {
+            "name": "Resources",
+            "description": "Possible html supported text shown just above the list of links",
+            "items": []
+          }
+        ]
+      }
+    }
+  }
+}

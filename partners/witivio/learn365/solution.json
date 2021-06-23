@@ -17,6 +17,8 @@
     "personas": "All Employees;Corporate Communications;HR;IT",
     "solutionTechnologies": "Azure;Azure Bot",
     "businessFunctions": null,
+    "successFactors": "\u003Cdiv\u003EHow\nto make the most of Learn365? Three simple actions can increase the success of\nLearn in your organization:\u003C/div\u003E\u003Cdiv\u003E\u003Col\u003E\u003Cli\u003E\u003Cb\u003EInstall and pin\nLearn365\u003C/b\u003E in all employees\u2019 Microsoft\nTeams menu.\u0026nbsp;\u003C/li\u003E\u003Cli\u003E\u003Cb\u003EUse push\ncommunication to attract employees\u2019 attention\u003C/b\u003E.\u0026nbsp;Trigger a push message when the user opens\nMicrosoft Teams: \u201CHey, I\u2019m here to help!\u201D. Or to communicate the latest\nupdates.\u0026nbsp;\u003C/li\u003E\u003Cli\u003E\u003Cb\u003ETeam up with\nInternal Communications\u003C/b\u003E\u0026nbsp;to ensure\nall employees know that Learn is available on Microsoft Teams.\u003C/li\u003E\u003C/ol\u003E\u003C/div\u003E\u003Cdiv\u003EThese actions will ensure employees know where to go when in doubt with\nOffice 365.\u003Cbr\u003E\u003C/div\u003E",
+    "displayPartner": true,
     "appSource": null,
     "displayInfo": {
       "default": {
@@ -25,6 +27,12 @@
             "name": "Short description",
             "content": [
               "\u003Cdiv\u003E\u003Cb\u003ELearn365 is a multilingual virtual assistant 100% integrated with\nMicrosoft Teams. It supports employees to improve their Office 365 skills by\nanswering all their questions 24/7.\u003C/b\u003E\u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E\u003C/div\u003E"
+            ]
+          },
+          {
+            "name": "Long description",
+            "content": [
+              "\u003Cdiv\u003EUpon installing Learn365 in your Microsoft Teams,\nemployees will:\u003C/div\u003E\u003Cdiv\u003E\n \u003C/div\u003E\u003Cdiv\u003E\u003Cul\u003E\u003Cli\u003E\u003Cb\u003EDiscover Office 365 tools: \u003C/b\u003EOneDrive,\n     OneNote, Yammer, Teams, and Outlook.\u003C/li\u003E\u003Cli\u003E\u003Cb\u003EUnderstand which tools to use and how to use them.\u003C/b\u003E It contains four learning paths and up to 60 HD videos.\u003C/li\u003E\u003Cli\u003E\u003Cb\u003EFind best practices, tips, and tricks\u003C/b\u003E based on their roles.\u0026nbsp;\u003C/li\u003E\u003C/ul\u003E\u003C/div\u003E\u003Cdiv\u003E\n \u003C/div\u003E\u003Cdiv\u003E\n \u003C/div\u003E\u003Cdiv\u003ELearn can answer questions in four languages:\n\u003Cb\u003EEnglish, French, Spanish and Italian.\u003C/b\u003E It has an \u003Cb\u003Eextensive library of HD videos\u003C/b\u003E\nand other content to help you make the most of Office 365.\u003C/div\u003E"
             ]
           },
           {

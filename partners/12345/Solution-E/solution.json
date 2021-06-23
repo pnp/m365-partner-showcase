@@ -1,0 +1,105 @@
+{
+  "solutionId": "Solution-E",
+  "partnerId": "12345",
+  "categories": [
+    "learningpathways"
+  ],
+  "industries": [],
+  "sortOrder": 0,
+  "preview": false,
+  "visible": true,
+  "solutionLogoPicture": null,
+  "solutionLogoPictureAlt": "",
+  "solutionName": "Solution E",
+  "solutionUrl": "https://adoption-dev.azurewebsites.net/",
+  "solutionUrlTitle": "Solution E",
+  "metadata": {
+    "personas": "Administrators;All Employees;Business Admin;Compliance",
+    "solutionTechnologies": "Microsoft 365;Microsoft Teams;Power App;Power Automate;SharePoint API",
+    "businessFunctions": "Corporate Communications;Human Resources;Project Management",
+    "successFactors": "Success factors for Solution E. SucSuccess factors for Solution E. Success factors for Solution E. Success factors for Solution E. Success factors for Solution E. Success factors for Solution E. Success factors for Solution E. Success factors for Solution E. Success factors for Solution E. Success factors for Solution E. Success factors for Solution E. Success factors for Solution E. Success factors for Solution E. Success factors for Solution E. Success factors for Solution E. Success factors for Solution E. Success factors for Solution E. Success factors for Solution E. Success factors for Solution E. Success factors for Solution E. Success factors for Solution E. Success factors for Solution E. Success factors for Solution E. Success factors for Solution E. Success factors for Solution E. Success factors for Solution E. Success factors for Solution E. Success factors for Solution E. Success factors for Solution E. Success factors for Solution E. Success factors for Solution E. Success factors for Solution E. Success factors for Solution E. Success factors for Solution E. Success factors for Solution E. Success factors for Solution E. Success factors for Solution E. Success factors for Solution E. Success factors for Solution E. Success factors for Solution E. Success factors cess factors for Solution E. Success factors for Solution E. Success factors for Solution E. Success factors for Solution E. Success factors for Solution E. Success factors for Solution E. Success factors for Solution E. Success factors for Solution E. Success factors for Solution E. Success factors for Solution E. Success factors for Solution E. Success factors for Solution E. Success factors for Solution E. Success factors for Solution E. Success factors for Solution E. Success factors for Solution E. Success factors for Solution E. Success factors for Solution E. Success factors for Solution E. Success factors for Solution E. Success factors for Solution E. Success factors for Solution E.",
+    "displayPartner": false,
+    "appSource": "https://appsource.microsoft.com/en-US/",
+    "displayInfo": {
+      "default": {
+        "descriptionParagraphs": [
+          {
+            "name": "Short description",
+            "content": [
+              "Long description for Solution E. Long description for Solution E. Long description for Solution E. Long description for Solution E. Long description for Solution E. Long description for Solution E. Long description for Solution E. Long description for Solution E. Long description for Solution E. Long description for Solution E. Long description for Solution E. Long description for Solution E. Long description for Solution E. Long description for Solution E. Long description for Solution E. Long"
+            ]
+          },
+          {
+            "name": "Long description",
+            "content": [
+              "Short description for Solution E. Short description for Solution E. Short description for Solution E. Short description for Solution E. Short description for Solution E. Short description for Solution"
+            ]
+          },
+          {
+            "name": "Business need or problem",
+            "content": [
+              "Business needs for Solution E. Business needs for Solution E. Business needs for Solution E. Business needs for Solution E. Business needs for Solution E. Business needs for Solution E. Business needs for Solution E. Business needs for Solution E. Business needs for Solution E. Business needs for Solution E. Business needs for Solution E. Business needs for Solution E. Business needs for Solution E. Business needs for Solution E. Business needs for Solution E. Business needs for Solution E. Business needs for Solution E. Business needs for Solution E. Business needs for Solution E. Business needs for Solution E. Business needs for Solution E. Business needs for Solution E. Business needs for Solution E. Business needs for Solution E. Business needs for Solution E. Business needs for Solution E. Business needs for Solution E. Business needs for Solution E. Business needs for Solution E. Business needs for Solution E. Business needs for Solution E. Business needs for Solution E. Business needs for Solution E. Business needs for Solution E. Business needs for Solution E. Business needs for Solution E. Business needs for Solution E. Business needs for Solution E. Business needs for Solution E. Business needs for Solution E. Business needs for Solution E. Business needs for Solution E. Business needs for Solution E. Business needs for Solution E. Business needs for Solution E. Business needs for Solution E. Business needs for Solution E. Business needs for Solution E. Business needs for Solution E. Business needs for Solution E. Business needs for Solution E. Business needs for Solution E. Business needs for Solution E. Business needs for Solution E. Business needs for Solution E. Business needs for Solution E. Business needs for Solution E. Business needs for Solution E. Business needs for Solution E. Business needs for Solution E. Business needs for Solution E. Business needs for Solution E. Business needs for Solution E. Business needs for Solution E. Business needs f"
+            ]
+          },
+          {
+            "name": "Business solution",
+            "content": [
+              "Business solution for Solution E. Business solution for Solution E. Business solution for Solution E. Business solution for Solution E. Business solution for Solution E. Business solution for Solution E. Business solution for Solution E. Business solution for Solution E. Business solution for Solution E. Business solution for Solution E. Business solution for Solution E. Business solution for Solution E. Business solution for Solution E. Business solution for Solution E. Business solution for Solution E. Business solution for Solution E. Business solution for Solution E. Business solution for Solution E. Business solution for Solution E. Business solution for Solution E. Business solution for Solution E. Business solution for Solution E. Business solution for Solution E. Business solution for Solution E. Business solution for Solution E. Business solution for Solution E. Business solution for Solution E. Business solution for Solution E. Business solution for Solution E. Business solution for Solution E. Business solution for Solution E. Business solution for Solution E. Business solution for Solution E. Business solution for Solution E. Business solution for Solution E. Business solution for Solution E. Business solution for Solution E. Business solution for Solution E. Business solution for Solution E. Business solution for Solution E. Business solution for Solution E. Business solution for Solution E. Business solution for Solution E. Business solution for Solution E. Business solution for Solution E. Business solution for Solution E. Business solution for Solution E. Business solution for Solution E. Business solution for Solution E. Business solution for Solution E. Business solution for Solution E. Business solution for Solution E. Business solution for Solution E. Business solution for Solution E. Business solution for Solution E. Business solution for Solution E. Business solution for Solution E. Business solution for Solution E. Business solution for Soluti"
+            ]
+          }
+        ],
+        "mediaAssets": [
+          {
+            "type": "image",
+            "order": 0,
+            "url": "assets/Image61.png",
+            "alt": ""
+          },
+          {
+            "type": "image",
+            "order": 1,
+            "url": "assets/Image41.png",
+            "alt": ""
+          },
+          {
+            "type": "image",
+            "order": 2,
+            "url": "assets/Image51.png",
+            "alt": ""
+          },
+          {
+            "type": "image",
+            "order": 3,
+            "url": "assets/Image11.png",
+            "alt": ""
+          },
+          {
+            "type": "image",
+            "order": 4,
+            "url": "assets/Hero.png",
+            "alt": ""
+          },
+          {
+            "type": "image",
+            "order": 5,
+            "url": "assets/Image21.png",
+            "alt": ""
+          },
+          {
+            "type": "image",
+            "order": 6,
+            "url": "assets/Image31.png",
+            "alt": ""
+          }
+        ],
+        "detailItemCategories": [
+          {
+            "name": "Resources",
+            "description": "Possible html supported text shown just above the list of links",
+            "items": []
+          }
+        ]
+      }
+    }
+  }
+}

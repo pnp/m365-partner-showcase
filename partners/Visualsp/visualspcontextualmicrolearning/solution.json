@@ -17,6 +17,8 @@
     "personas": "End-user;Power User",
     "solutionTechnologies": "Azure Bot;SPFx",
     "businessFunctions": null,
+    "successFactors": "\u003Cdiv\u003EThe\nplug n play nature of the solution facilitates the rapid deployment and impact\non user engagement starting on day 1.\u003Cbr\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003EVisualSP is a complete solution that incorporates\nproduct with complementary user adoption services. Ongoing performance reviews\nare conducted with clients to assess the job VisualSP is doing towards their user\nengagement and user adoption goals. The continuous feedback and engagement with\nour customers has shown to produce significant positive impact by realizing their\nreturn on investment of their digital applications. \u003Cbr\u003E\u003C/div\u003E",
+    "displayPartner": true,
     "appSource": null,
     "displayInfo": {
       "default": {
@@ -26,6 +28,10 @@
             "content": [
               "\u003Cdiv\u003EPlug and play context sensitive microlearning available to your users in-context within Microsoft 365 apps.\u003Cbr\u003E\u003C/div\u003E"
             ]
+          },
+          {
+            "name": "Long description",
+            "content": []
           },
           {
             "name": "Business need or problem",

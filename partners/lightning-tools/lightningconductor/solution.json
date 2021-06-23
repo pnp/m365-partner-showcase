@@ -17,6 +17,8 @@
     "personas": "Business Users;Developer",
     "solutionTechnologies": "Graph API;Search;SPFx",
     "businessFunctions": null,
+    "successFactors": "\u003Cdiv\u003EGovernment, financial, and technology organizations, among others, have found success with the Lightning Conductor. Business users haven\u2019t possessed the skills or the time needed to configure reports using code such as JSON. With the Lightning Conductor, business users have found the tool to be flexible and powerful to build reporting solutions through SharePoint and Microsoft Teams.\u003Cbr\u003E\u003C/div\u003E",
+    "displayPartner": true,
     "appSource": null,
     "displayInfo": {
       "default": {
@@ -26,6 +28,10 @@
             "content": [
               "\u003Cdiv\u003EContent Aggregation for Microsoft Teams. Create stylish views of content from aggregated SharePoint lists and libraries, Search results, and Microsoft Graph entities such as Planner tasks, OneDrive items, and messages.\u003Cbr\u003E\u003C/div\u003E"
             ]
+          },
+          {
+            "name": "Long description",
+            "content": []
           },
           {
             "name": "Business need or problem",

@@ -17,6 +17,8 @@
     "personas": "Corporate Communications;Distributed Workforce;Front Line Worker;Office Workers",
     "solutionTechnologies": "Azure Bot;Custom Tabs;Graph API;SharePoint sites;SPFx",
     "businessFunctions": null,
+    "successFactors": "\u003Cdiv\u003E\u003Cspan\u003E\u003C/span\u003E\u003C/div\u003E\u003Cdiv\u003EBy adopting Valo Connect on Microsoft Teams, an organization\u0027s existing communication paths are surfaced to the Teams experience. Customers build an effective communication strategy, with centralized management for org-wide news and content, plus channel-specific content, with targeting that\u0027s configurable per team. \u0026nbsp;SharePoint Online is the collaboration platform for this content, and Valo Connect brings the content to Teams.\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003EPartners are a key ingredient to the success of our products, and not only does Valo Connect offer a compelling experience right out of the box, it also enables partners to build rich workplace solutions designed to meet their specific needs. Once deployed, partners build-out Teams-native experiences, with no code necessary. \u0026nbsp;Working with SharePoint Online authoring capabilities, and a rich set of Valo tools and web parts, the experiences our partners build seamlessly integrate in to the Microsoft Teams interface.\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003EBoth Valo, and our partners, strive to meet our ultimate goal: for our customers to fall in \u2665 with their digital workplace.\u003Cbr\u003E\u003C/div\u003E\u003Cspan\u003E\u003C/span\u003E\u003Cdiv\u003E\u003Cdiv\u003E\u003C/div\u003E\u003C/div\u003E",
+    "displayPartner": true,
     "appSource": null,
     "displayInfo": {
       "default": {
@@ -26,6 +28,10 @@
             "content": [
               "\u003Cdiv\u003EWhere all your teams and digital tools unite. \u0026nbsp;Build a custom enterprise portal inside Microsoft Teams with the digital tools your staff need and love.\u003Cbr\u003E\u003C/div\u003E"
             ]
+          },
+          {
+            "name": "Long description",
+            "content": []
           },
           {
             "name": "Business need or problem",

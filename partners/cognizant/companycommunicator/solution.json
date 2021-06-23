@@ -17,12 +17,18 @@
     "personas": "Corporate Communications;HR;IT;Security Admin",
     "solutionTechnologies": "Azure",
     "businessFunctions": "Human Resources",
+    "successFactors": "\u003Cdiv\u003E\u003Cul style=\u0022margin-bottom:0in;\u0022\u003E\u003Cli\u003E\u003Cspan lang=EN-GB style=\u0022\u0022\u003EHelped organization reach\nemployees more effectively and get their attention using their existing\ninvestment on Microsoft Teams platform. \u003C/span\u003E\u003C/li\u003E\u003Cli\u003E\u003Cspan lang=EN-GB style=\u0022\u0022\u003EEmployees can collaborate\non Teams without switching to different application to get any related\ninformation.\u003C/span\u003E\u003C/li\u003E\u003C/ul\u003E\u003C/div\u003E",
+    "displayPartner": false,
     "appSource": null,
     "displayInfo": {
       "default": {
         "descriptionParagraphs": [
           {
             "name": "Short description",
+            "content": []
+          },
+          {
+            "name": "Long description",
             "content": []
           },
           {

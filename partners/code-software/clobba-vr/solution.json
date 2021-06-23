@@ -17,6 +17,8 @@
     "personas": "Leadership;Sales Managers",
     "solutionTechnologies": "Graph API;Microsoft Teams",
     "businessFunctions": null,
+    "successFactors": "\u003Cdiv\u003EOur\ncustomers have seen an increase in agent performance through the ability to\ntailor employee training. Customer disputes are quickly resolved with the\nrecordings verifying any customer discrepancies.\u003C/div\u003E",
+    "displayPartner": true,
     "appSource": null,
     "displayInfo": {
       "default": {
@@ -25,6 +27,12 @@
             "name": "Short description",
             "content": [
               "\u003Cdiv\u003E\u003Cb\u003EA\nsimple to use and affordable Voice Recording solution specifically built for MS\nTeams\u003C/b\u003E\u003C/div\u003E"
+            ]
+          },
+          {
+            "name": "Long description",
+            "content": [
+              "\u003Cdiv\u003EBuilt for MS Teams, Clobba VR delivers call recording\nfeatures at an acceptable price. It is typically used for training and\nmonitoring, verification and dispute resolution ensuring the highest levels of\ncustomer service are achieved. \u003Cbr\u003E\u003C/div\u003E"
             ]
           },
           {
@@ -50,12 +58,6 @@
           {
             "type": "image",
             "order": 1,
-            "url": "assets/ClobbaVR-image3.png",
-            "alt": ""
-          },
-          {
-            "type": "image",
-            "order": 2,
             "url": "assets/ClobbaVR-image1.png",
             "alt": ""
           }

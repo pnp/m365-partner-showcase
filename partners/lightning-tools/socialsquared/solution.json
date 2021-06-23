@@ -17,6 +17,8 @@
     "personas": "Business Users;Student",
     "solutionTechnologies": "Custom Tabs;Graph API;SharePoint sites;SPFx",
     "businessFunctions": null,
+    "successFactors": "\u003Cdiv\u003ETeam owners (business users) within organizations across the financial, education, government sectors agree that Social Squared has improved communication among all the members within a team and across the organization through the use of the personal app. By adopting Social Squared, users are now able to receive answers to their questions quickly from their peers without interrupting them through email or direct messages. Social Squared has also improved communication for remote users within Microsoft Teams when the corridor conversations cannot take place. Many of our customers have benefitted with Social Squared for years in SharePoint On-Premises and SharePoint Online. Introducing Social Squared to Microsoft Teams has really been of benefit in the remote workplace.\u003Cbr\u003E\u003C/div\u003E",
+    "displayPartner": true,
     "appSource": null,
     "displayInfo": {
       "default": {
@@ -26,6 +28,10 @@
             "content": [
               "\u003Cdiv\u003EDiscussion Board for Microsoft Teams. Create forum groups and forums within a Microsoft Teams tab or as a personal app to bring structured discussion board functionality to Microsoft Teams.\u003Cbr\u003E\u003C/div\u003E"
             ]
+          },
+          {
+            "name": "Long description",
+            "content": []
           },
           {
             "name": "Business need or problem",

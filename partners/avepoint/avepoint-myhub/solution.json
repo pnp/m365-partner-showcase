@@ -17,6 +17,8 @@
     "personas": "Business Admin;IT;Knowledge Worker",
     "solutionTechnologies": "Azure AD;Microsoft 365;Microsoft Teams;SharePoint sites;Yammer",
     "businessFunctions": null,
+    "successFactors": "\u003Cdiv\u003E\u003Cul\u003E\u003Cli\u003EImproved\nproductivity through efficient access to relevant information\u003C/li\u003E\u003Cli\u003EFacilitates\nsustainable Microsoft 365 adoption through easy organization of workspaces\u003C/li\u003E\u003Cli\u003EEnsures collaboration security through better\nvisibility and control of workspace memberships\u003C/li\u003E\u003C/ul\u003E\u003C/div\u003E",
+    "displayPartner": true,
     "appSource": null,
     "displayInfo": {
       "default": {
@@ -25,6 +27,12 @@
             "name": "Short description",
             "content": [
               "\u003Cdiv\u003E\u003Cb\u003EEasily organize and keep track of your Teams,\nSites, Groups and Communities in Microsoft 365.\u003C/b\u003E\u003Cbr\u003E\u003C/div\u003E"
+            ]
+          },
+          {
+            "name": "Long description",
+            "content": [
+              "\u003Cdiv\u003EMeet AvePoint MyHub, your one-stop-shop for\nmanaging existing Microsoft 365 workspaces and creating new ones\u2014all from\nMicrosoft Teams or our handy web app! Organize, centralize, and take control of\nyour Microsoft 365 workspaces. Even curate workspace hubs for easier navigation\nand management. \u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003E\nSimplify your Microsoft 365 collaboration experience with AvePoint MyHub. Make\nit easy to do the right thing and start becoming more productive today!\u003Cbr\u003E\u003C/div\u003E"
             ]
           },
           {

@@ -17,6 +17,8 @@
     "personas": "Business Admin;IT;Knowledge Worker",
     "solutionTechnologies": "Azure AD;Microsoft 365;Microsoft Teams;OneDrive;SharePoint sites",
     "businessFunctions": null,
+    "successFactors": "\u003Cdiv\u003E\u003Cul\u003E\u003Cli\u003EQuick recovery and\nrestoration of Microsoft 365 content for end users \u003C/li\u003E\u003Cli\u003EReduce helpdesk\nand IT team support burden\u003C/li\u003E\u003C/ul\u003E\u003C/div\u003E",
+    "displayPartner": true,
     "appSource": null,
     "displayInfo": {
       "default": {
@@ -25,6 +27,12 @@
             "name": "Short description",
             "content": [
               "\u003Cdiv\u003E\u003Cb\u003EEasily\nrecover and restore deleted Microsoft 365 emails, documents and SharePoint\nsites.\u003C/b\u003E\u003C/div\u003E"
+            ]
+          },
+          {
+            "name": "Long description",
+            "content": [
+              "\u003Cdiv\u003EAvePoint\u2019s Virtual Assistant (AVA) helps users\nfind lost Microsoft 365 content. AVA is a Microsoft Teams chatbot that can help\nyou find lost files or emails, without burdening your help desk or IT teams.\u003Cbr\u003E\u003C/div\u003E"
             ]
           },
           {

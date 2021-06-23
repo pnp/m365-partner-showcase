@@ -17,6 +17,8 @@
     "personas": "Digital Champions;End-user",
     "solutionTechnologies": "Microsoft Teams;SharePoint sites;Stream",
     "businessFunctions": null,
+    "successFactors": "\u003Cdiv\u003EDriving your organization forward to achieve\ntrue digital transformation, providing just in time, up to date help and\nsupport to your users.\u003Cbr\u003E\u003C/div\u003E",
+    "displayPartner": true,
     "appSource": null,
     "displayInfo": {
       "default": {
@@ -25,6 +27,12 @@
             "name": "Short description",
             "content": [
               "\u003Cdiv\u003EComplement\nyour Learning Pathways content with live expert sessions and bitesize video!\u003Cbr\u003E\u003C/div\u003E"
+            ]
+          },
+          {
+            "name": "Long description",
+            "content": [
+              "\u003Cdiv\u003EA\ncomplete suite of complementary digital and in person learning and support for\nMicrosoft 365. Our range of tools can be used to further the reach and efficacy\nof Learning Pathways to ensure adoption and drive productivity.\u003Cbr\u003E\u003C/div\u003E"
             ]
           },
           {

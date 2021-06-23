@@ -17,6 +17,8 @@
     "personas": "Corporate Communications;End-user;HR;IT;Knowledge Worker",
     "solutionTechnologies": "Azure AD;Azure SQL Service;Azure Web App Service;Microsoft Teams;SharePoint API;SPFx",
     "businessFunctions": "Adoption;Engagement",
+    "successFactors": "\u003Cdiv\u003E\u003Cul\u003E\u003Cli\u003ELiveTiles Everywhere offers one corporate dashboard across teams, divisions, and locations. This enables Microsoft Teams to be the hub where people go to, not only to collaborate in teams, but to connect with the whole company and have all resources at their fingertips. This leverages Microsoft Teams as the center of the digital workplace that offers collaboration, access to productivity tools, as well as access to a targeted feed of centrally governed company news and information.\u003C/li\u003E\u003Cli\u003EPost the first wave of the COVID-19 pandemic and with the trends we see with workplaces moving towards hybrid ways of working, enablement and engagement of remote working people has been a priority for businesses. Everywhere helps Microsoft Teams offer a complete platform to inform, enable, and engage employees in any location.\u003C/li\u003E\u003Cli\u003EWe understand the importance of a smooth installation. As a ready-to-run solution that can be customized, Everywhere offers businesses the advantage of instant business value as well as the option of adjusting the solution to unique needs.\u003C/li\u003E\u003C/ul\u003E\u003C/div\u003E",
+    "displayPartner": false,
     "appSource": null,
     "displayInfo": {
       "default": {
@@ -25,6 +27,12 @@
             "name": "Short description",
             "content": [
               "\u003Cdiv\u003ELiveTiles Everywhere is an enterprise intranet with Microsoft Teams, letting you effortlessly slide between core business tools while working on-the-go in Microsoft Teams and SharePoint.\u003Cbr\u003E\u003C/div\u003E"
+            ]
+          },
+          {
+            "name": "Long description",
+            "content": [
+              "\u003Cdiv\u003EEverywhere seamlessly integrates with your SharePoint and Teams environments. Universally available from the left-hand side in SharePoint and the header in Teams, Everywhere unites your intranet with this power-couple of platforms. Presenting an enterprise intranet with MS Teams.\u003Cbr\u003E\u003C/div\u003E"
             ]
           },
           {
