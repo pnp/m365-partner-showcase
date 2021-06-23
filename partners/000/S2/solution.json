@@ -1,0 +1,59 @@
+{
+  "solutionId": "S2",
+  "partnerId": "000",
+  "categories": [],
+  "industries": [],
+  "sortOrder": 0,
+  "preview": false,
+  "visible": false,
+  "solutionLogoPicture": null,
+  "solutionLogoPictureAlt": "",
+  "solutionName": "S2",
+  "solutionUrl": null,
+  "solutionUrlTitle": "S2",
+  "metadata": {
+    "personas": "Distributed Workforce",
+    "solutionTechnologies": "Azure SQL DB",
+    "businessFunctions": "Corporate Communications",
+    "appSource": "Url",
+    "displayInfo": {
+      "default": {
+        "descriptionParagraphs": [
+          {
+            "name": "Short description",
+            "content": [
+              "L"
+            ]
+          },
+          {
+            "name": "Business need or problem",
+            "content": [
+              "P"
+            ]
+          },
+          {
+            "name": "Business solution",
+            "content": [
+              "L"
+            ]
+          }
+        ],
+        "mediaAssets": [
+          {
+            "type": "image",
+            "order": 0,
+            "url": "assets/Hero.jpg",
+            "alt": ""
+          }
+        ],
+        "detailItemCategories": [
+          {
+            "name": "Resources",
+            "description": "Possible html supported text shown just above the list of links",
+            "items": []
+          }
+        ]
+      }
+    }
+  }
+}
