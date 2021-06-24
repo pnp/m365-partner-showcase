@@ -17,6 +17,8 @@
     "personas": "Business Analysts;Content Owners;End-user;IT Admin;Leadership;Training \u0026 Development",
     "solutionTechnologies": "Microsoft Teams;SharePoint sites;Stream",
     "businessFunctions": null,
+    "successFactors": "\u003Cdiv\u003E\u003Cspan\u003E\u003C/span\u003E \u003C/div\u003E\u003Cdiv\u003ELearning\nPathways comes with all Microsoft 365 documentation categorized into\ntechnologies and playlists which is an excellent start for most organizations.\nEven better, this takes the burden off the Information Technology, learning, or\ntraining departments to either create or gather this content. Adding \u003Cb\u003Eorganization-specific training \u003C/b\u003Eto this\nportal to create a one-stop shop of all training information supports\nproductivity at the organization by: \u003C/div\u003E\u003Cdiv\u003E\u003C/div\u003E\u003Cdiv\u003E\u003Cul\u003E\u003Cli\u003EReducing\ntime to information\u003C/li\u003E\u003Cli\u003ECreating\nlinear training paths across cross-functional training content\u003C/li\u003E\u003Cli\u003EDelivering\ntraining to employees in context\u003C/li\u003E\u003Cli\u003EEnabling subject\nmatter experts to maintain training content independently\u003C/li\u003E\u003C/ul\u003E\u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E\u003C/div\u003E \u003Cp\u003E\u003C/p\u003E\u003Cdiv\u003E\u003Cdiv\u003E \u003C/div\u003E \u003C/div\u003E",
+    "displayPartner": true,
     "appSource": null,
     "displayInfo": {
       "default": {
@@ -24,7 +26,13 @@
           {
             "name": "Short description",
             "content": [
-              "\u003Cdiv\u003EAn organization can create their own custom training or add training for other technologies outside Microsoft 365. Adding custom training to Learning Pathways creates a one-stop-shop for all training content across the organization.\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E"
+              "\u003Cdiv\u003E\u003Cdiv\u003EAn organization can create their own custom training or add training for other technologies outside Microsoft 365. Adding custom training to Learning Pathways creates a one-stop-shop for all training content across the organization.\u003Cbr\u003E\u003C/div\u003E\u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E"
+            ]
+          },
+          {
+            "name": "Long description",
+            "content": [
+              "\u003Cdiv\u003E\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E"
             ]
           },
           {

@@ -17,6 +17,8 @@
     "personas": "Microsoft 365 User",
     "solutionTechnologies": "Microsoft Teams;SharePoint sites;Stream",
     "businessFunctions": null,
+    "successFactors": "\u003Cdiv\u003EThe support of management and other key stakeholders and a communication strategy are the two main aspects of a successful implementation. The 365 Akademie supports you with its expertise and gives insights and impulses.\u0026nbsp; \u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E",
+    "displayPartner": true,
     "appSource": null,
     "displayInfo": {
       "default": {
@@ -25,6 +27,12 @@
             "name": "Short description",
             "content": [
               "\u003Cdiv\u003ECreate an organization wide Microsoft 365 Champions \u2013 Modern Workplace Community and keep\u0026nbsp;all of\u0026nbsp;your employees informed.\u0026nbsp;  \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E"
+            ]
+          },
+          {
+            "name": "Long description",
+            "content": [
+              "\u003Cdiv\u003EAll the learning services the 365 Akademie offers fit perfectly into your Microsoft 365 Champions \u2013 Modern Workplace Community. The 365 Akademie helps you to build a\u0026nbsp;place for\u0026nbsp;social learning in Microsoft Teams.\u0026nbsp; \u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E"
             ]
           },
           {

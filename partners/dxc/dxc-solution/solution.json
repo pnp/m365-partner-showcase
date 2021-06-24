@@ -15,12 +15,18 @@
     "personas": null,
     "solutionTechnologies": null,
     "businessFunctions": null,
+    "successFactors": null,
+    "displayPartner": false,
     "appSource": null,
     "displayInfo": {
       "default": {
         "descriptionParagraphs": [
           {
             "name": "Short description",
+            "content": []
+          },
+          {
+            "name": "Long description",
             "content": []
           },
           {
