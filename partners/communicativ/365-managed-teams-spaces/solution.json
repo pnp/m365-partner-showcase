@@ -17,6 +17,8 @@
     "personas": "All Employees",
     "solutionTechnologies": "Microsoft Azure Monitor;Microsoft Intune;Microsoft Teams;Teams Room devices",
     "businessFunctions": null,
+    "successFactors": "\u003Cdiv\u003EBy making sure the equipment is always available\nfor, the Meeting Space solutions are rapidly adopted by the End Users. \u003Cbr\u003E\u003C/div\u003E",
+    "displayPartner": false,
     "appSource": null,
     "displayInfo": {
       "default": {
@@ -25,6 +27,12 @@
             "name": "Short description",
             "content": [
               "\u003Cdiv\u003E\u003Cb\u003ELean approach to manage and monitor Teams Room devices.\u003C/b\u003E\u003Cbr\u003E\u003C/div\u003E"
+            ]
+          },
+          {
+            "name": "Long description",
+            "content": [
+              "\u003Cdiv\u003EMake sure every meeting can start in-time without any issues with equipment or software updates in inconvenient moments. \u003Cbr\u003E\u003C/div\u003E"
             ]
           },
           {

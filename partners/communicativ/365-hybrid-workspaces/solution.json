@@ -17,6 +17,8 @@
     "personas": "All Employees",
     "solutionTechnologies": "Microsoft Teams;Microsoft Teams Rooms;Surface Hubs",
     "businessFunctions": null,
+    "successFactors": "\u003Cdiv\u003EBy focusing on the business needs, the Hybrid Workspace solutions are rapidly adopted by the End Users.\u003Cbr\u003E\u003C/div\u003E",
+    "displayPartner": false,
     "appSource": null,
     "displayInfo": {
       "default": {
@@ -25,6 +27,12 @@
             "name": "Short description",
             "content": [
               "\u003Cdiv\u003E\u003Cb\u003EDefining\nyour Hybrid Work strategy, convert your Hybrid Workspaces and map the Microsoft\nTeams solutions which fit the business processes.\u003C/b\u003E\u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E\u003C/div\u003E"
+            ]
+          },
+          {
+            "name": "Long description",
+            "content": [
+              "\u003Cdiv\u003EHybrid Workspaces will bridge the gap between the\nphysical and digital world and evolving with employee needs. \u003C/div\u003E\u003Cdiv\u003E\u0026nbsp;\u003C/div\u003E\u003Cdiv\u003EWe deliver the Teams\nMeeting space for the new work scenarios!\u003Cbr\u003E\u003C/div\u003E"
             ]
           },
           {
