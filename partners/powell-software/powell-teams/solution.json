@@ -17,7 +17,6 @@
     "personas": "All Employees;Corporate Communications;HR;IT",
     "solutionTechnologies": "Azure;Graph API;Microsoft 365;Power Automate",
     "businessFunctions": null,
-    "successFactors": "\u003Cdiv\u003EThe success will come from an agile project management that includes IT professionals for the Governance aspects and Business owners to select which business scenario to start with.\u0026nbsp;While the solution is technically very easy to deploy, most of our customers will include a Microsoft 365 partner to ensure the best adoption by employees of all the selected scenarios.\u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E",
     "displayPartner": true,
     "appSource": null,
     "displayInfo": {
@@ -43,6 +42,12 @@
             "name": "Business solution",
             "content": [
               "\u003Cdiv\u003E\u003Cb\u003EFor Employees\u003C/b\u003E \u003C/div\u003E\u003Cdiv\u003EPowell Teams enhances the user experience by making it easier for users to access and search for the Microsoft Teams to which they belong. Powell Teams offers\u0026nbsp;\u0026nbsp;an intuitive dashboard to filter Teams based on business criteria.\u0026nbsp;\u0026nbsp;It also helps manage the proliferation of Teams. \u003C/div\u003E\u003Cdiv\u003E\u0026nbsp; \u003C/div\u003E\u003Cdiv\u003EPowell Teams also guides users by offering ready-to-use Teams templates that allow users to create a complete team in 3 clicks. The Team comes loaded with channels, applications and tabs in accordance with the business governance and IT security standards set by the IT team. \u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003E\u003Cb\u003EFor IT \u003C/b\u003E\u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E\u003Cdiv\u003EIT teams need to strike the right balance between adopting Microsoft 365 to the business context, making it easy for employees to use, and complying with the rules of security, compliance and good IT management. Powell Teams allows IT to set up an agile and business-oriented governance, defining criteria for each Team template such as:\u0026nbsp; \u003C/div\u003E\u003Cdiv\u003E\u003Cul\u003E\u003Cli\u003ENaming rule and labels\u003C/li\u003E\u003Cli\u003EExternal or internal, public, or private access rights\u003C/li\u003E\u003Cli\u003ENumber of owners and team members\u003C/li\u003E\u003Cli\u003EExpiration and archiving\u003C/li\u003E\u003Cli\u003EApproval process\u003C/li\u003E\u003C/ul\u003E\u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E\u003Cdiv\u003EPowell Teams also enables the automation of many of Microsoft Teams\u0027 management tasks: reporting and recurrent review of rules, archiving teams,\u0026nbsp;\u0026nbsp;and improving the creation of teams. \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E"
+            ]
+          },
+          {
+            "name": "Success factors",
+            "content": [
+              "\u003Cdiv\u003EThe success will come from an agile project management that includes IT professionals for the Governance aspects and Business owners to select which business scenario to start with.\u0026nbsp;While the solution is technically very easy to deploy, most of our customers will include a Microsoft 365 partner to ensure the best adoption by employees of all the selected scenarios.\u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E"
             ]
           }
         ],

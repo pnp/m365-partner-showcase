@@ -15,7 +15,6 @@
     "personas": "Business Admin",
     "solutionTechnologies": "Azure API Management",
     "businessFunctions": "Incident Management IT",
-    "successFactors": "Hhh",
     "displayPartner": false,
     "appSource": "Url",
     "displayInfo": {
@@ -43,6 +42,12 @@
             "name": "Business solution",
             "content": [
               "J"
+            ]
+          },
+          {
+            "name": "Success factors",
+            "content": [
+              "Hhh"
             ]
           }
         ],

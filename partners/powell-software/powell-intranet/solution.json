@@ -17,7 +17,6 @@
     "personas": "All Employees;Corporate Communications;HR;IT",
     "solutionTechnologies": "Azure;Graph API;Microsoft 365;Power Automate",
     "businessFunctions": null,
-    "successFactors": "\u003Cdiv\u003EThe success will come from an agile project-management that includes Internal Communication as the main stakeholder, IT professionals for the Governance aspects, Business owner to select which business scenario to start with. While the solution comes with an Out-Of-The-Box configuration, most of our customers will include a Microsoft 365 partner to ensure some level of customization to the enterprise branding and add some specific business scenarios as part of the Intranet pages.\u0026nbsp;\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E",
     "displayPartner": true,
     "appSource": null,
     "displayInfo": {
@@ -43,6 +42,12 @@
             "name": "Business solution",
             "content": [
               "\u003Cdiv\u003E\u003Cb\u003EFor Employees \u003C/b\u003E\u003C/div\u003E\u003Cdiv\u003EPowell Intranet is a corporate Intranet accessible from a browser, a mobile phone with an optional dedicated app and directly in Teams. It allows an attractive and easy access to corporate information, resources, and business application to improve the way people work. Powell Intranet is inclusive as it ensures that non-technical savvy people are engaged in the company culture, no matter they are Information Workers or Firstline workers.\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003E\u003Cb\u003EFor Intranet Contributors\u003Cbr\u003E\u003C/b\u003E\u003C/div\u003E\u003Cdiv\u003EPortal owners from HR and Communications can benefit for a rich catalog of templates for day to day activities: onboarding employees, company news, desk booking, Services portal, Department portal. These reports can be customized with a no-code approach.\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003E\u003Cb\u003EFor IT\u003Cbr\u003E\u003C/b\u003E\u003C/div\u003E\u003Cdiv\u003EIT teams need to strike the right balance between adopting Microsoft 365 to the business context, making it easy for employees to use, and complying with the rules of security, compliance, and good IT management.\u0026nbsp;Powell Intranet is secured by design: all data remain in the customer Microsoft 365 tenant and Identity is managed in Azure Active Directory.\u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003EPowell Intranet is powered by a real SharePoint pages factory that allows IT teams to industrialize how the deploy, manage, and govern up to thousands of SharePoint sites with a patented low code management tool.\u003C/div\u003E\u003Cp style=\u0022box-sizing:border-box;margin:0in;font-size:12pt;font-family:Calibri, sans-serif;\u0022\u003E \u003C/p\u003E"
+            ]
+          },
+          {
+            "name": "Success factors",
+            "content": [
+              "\u003Cdiv\u003EThe success will come from an agile project-management that includes Internal Communication as the main stakeholder, IT professionals for the Governance aspects, Business owner to select which business scenario to start with. While the solution comes with an Out-Of-The-Box configuration, most of our customers will include a Microsoft 365 partner to ensure some level of customization to the enterprise branding and add some specific business scenarios as part of the Intranet pages.\u0026nbsp;\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E"
             ]
           }
         ],

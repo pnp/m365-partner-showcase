@@ -15,7 +15,6 @@
     "personas": "C-level",
     "solutionTechnologies": "Azure AD B2C;Graph API",
     "businessFunctions": "Human Resources;Incident Management IT",
-    "successFactors": "Sf",
     "displayPartner": false,
     "appSource": "Appsoure",
     "displayInfo": {
@@ -43,6 +42,12 @@
             "name": "Business solution",
             "content": [
               "Pbs"
+            ]
+          },
+          {
+            "name": "Success factors",
+            "content": [
+              "Sf"
             ]
           }
         ],

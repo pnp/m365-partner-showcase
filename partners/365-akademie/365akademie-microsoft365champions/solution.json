@@ -17,7 +17,6 @@
     "personas": "Microsoft 365 User",
     "solutionTechnologies": "Microsoft Teams;SharePoint sites;Stream",
     "businessFunctions": null,
-    "successFactors": "\u003Cdiv\u003EThe support of management and other key stakeholders and a communication strategy are the two main aspects of a successful implementation. The 365 Akademie supports you with its expertise and gives insights and impulses.\u0026nbsp; \u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E",
     "displayPartner": true,
     "appSource": null,
     "displayInfo": {
@@ -45,6 +44,12 @@
             "name": "Business solution",
             "content": [
               "\u003Cdiv\u003EThe 365 Akademie helps you create a\u0026nbsp;place for\u0026nbsp;social learning in Microsoft Teams and supports your Microsoft 365 Champions \u2013 Modern Workplace Community with insights and impulses on how to use the new features. The short and easy to follow videos are perfect for Teams posts and drive\u0026nbsp;the\u0026nbsp;communication.\u0026nbsp;\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E"
+            ]
+          },
+          {
+            "name": "Success factors",
+            "content": [
+              "\u003Cdiv\u003EThe support of management and other key stakeholders and a communication strategy are the two main aspects of a successful implementation. The 365 Akademie supports you with its expertise and gives insights and impulses.\u0026nbsp; \u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E"
             ]
           }
         ],

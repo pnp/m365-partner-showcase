@@ -15,17 +15,14 @@
     "personas": "Administrators",
     "solutionTechnologies": "Azure",
     "businessFunctions": "Adoption",
-    "successFactors": "test",
     "displayPartner": false,
-    "appSource": null,
+    "appSource": "test",
     "displayInfo": {
       "default": {
         "descriptionParagraphs": [
           {
             "name": "Short description",
-            "content": [
-              "test"
-            ]
+            "content": []
           },
           {
             "name": "Long description",
@@ -41,6 +38,12 @@
           },
           {
             "name": "Business solution",
+            "content": [
+              "test"
+            ]
+          },
+          {
+            "name": "Success factors",
             "content": [
               "test"
             ]

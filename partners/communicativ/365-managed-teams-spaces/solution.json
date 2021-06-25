@@ -17,7 +17,6 @@
     "personas": "All Employees",
     "solutionTechnologies": "Microsoft Azure Monitor;Microsoft Intune;Microsoft Teams;Teams Room devices",
     "businessFunctions": null,
-    "successFactors": "\u003Cdiv\u003EBy making sure the equipment is always available\nfor, the Meeting Space solutions are rapidly adopted by the End Users. \u003Cbr\u003E\u003C/div\u003E",
     "displayPartner": false,
     "appSource": null,
     "displayInfo": {
@@ -45,6 +44,12 @@
             "name": "Business solution",
             "content": [
               "\u003Cdiv\u003ECommunicativ will manage and monitor the meeting\nspace equipment to make sure all devices and accessories are running the latest\nsoftware and Teams Room accounts are registered and working correctly.\u003Cbr\u003E\u003C/div\u003E"
+            ]
+          },
+          {
+            "name": "Success factors",
+            "content": [
+              "\u003Cdiv\u003EBy making sure the equipment is always available\nfor, the Meeting Space solutions are rapidly adopted by the End Users. \u003Cbr\u003E\u003C/div\u003E"
             ]
           }
         ],

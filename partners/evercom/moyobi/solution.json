@@ -17,7 +17,6 @@
     "personas": "DPO;Helpdesk Supervisors;HR;IT Admin;Manager",
     "solutionTechnologies": "Azure AD;Graph API;Microsoft Teams",
     "businessFunctions": null,
-    "successFactors": "\u003Cdiv\u003EWith dashboards and reports on\nTeams usage, MoYoBi has helped our customers to obtain performance metrics and increase\nproductivity.\u003Cbr\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003EThe\nmulti-lingual solution allows global deployment within organizations, offering\ncontrol of the install and operation of Teams infrastructures, easing\nconsolidation strategies for all channels.\u003Cbr\u003E\u003C/div\u003E",
     "displayPartner": true,
     "appSource": null,
     "displayInfo": {
@@ -45,6 +44,12 @@
             "name": "Business solution",
             "content": [
               "\u003Cdiv\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:\u0026quot;Century Gothic\u0026quot;, sans-serif;color:black;\u0022\u003E\u003Cspan style=\u0022font-family:Calibri, sans-serif;color:windowtext;\u0022\u003EMoYoBi, designed for\nsmall, medium and large companies through a secured access delivers real operational\nbenefits, with powerful features that give the customers visibility and insight\ninto the Teams Communications.\u003Cbr\u003E\u003C/span\u003E\u003C/p\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:\u0026quot;Century Gothic\u0026quot;, sans-serif;color:black;\u0022\u003E\u003Cspan style=\u0022font-family:Calibri, sans-serif;color:windowtext;\u0022\u003E\u003Cbr\u003E\u003C/span\u003E\u003C/p\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:\u0026quot;Century Gothic\u0026quot;, sans-serif;color:black;\u0022\u003E\u003Cspan style=\u0022font-family:\u0026quot;Calibri\u0026quot;,sans-serif;color:windowtext;\u0022\u003EPaying as you grow with\nonly limited investments to start, MoYoBi supports the customer throughout its\nmigration process to Teams.\u003C/span\u003E\u003C/p\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:\u0026quot;Century Gothic\u0026quot;, sans-serif;color:black;\u0022\u003E\u003Cspan style=\u0022font-family:\u0026quot;Calibri\u0026quot;,sans-serif;color:windowtext;\u0022\u003E\u003Cbr\u003E\u003C/span\u003E\u003C/p\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:\u0026quot;Century Gothic\u0026quot;, sans-serif;color:black;\u0022\u003E\u003Cspan style=\u0022font-family:\u0026quot;Calibri\u0026quot;,sans-serif;color:windowtext;\u0022\u003EMoYoBi is intuitive,\nquick to implement and simplifies the way organizations measure\u0026nbsp;their\nTeams usage.\u003Cbr\u003E\u003Cbr\u003E\u003C/span\u003E\u003C/p\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:\u0026quot;Century Gothic\u0026quot;, sans-serif;color:black;\u0022\u003E\u003Cspan style=\u0022font-family:\u0026quot;Calibri\u0026quot;,sans-serif;color:windowtext;\u0022\u003EMoYoBi fits companies\nfrom all industries like Financing, Education, Consumer Goods, Healthcare,\ngovernment, high-tech, travel and transportation and more.\u003C/span\u003E\u003C/p\u003E\u003C/div\u003E"
+            ]
+          },
+          {
+            "name": "Success factors",
+            "content": [
+              "\u003Cdiv\u003EWith dashboards and reports on\nTeams usage, MoYoBi has helped our customers to obtain performance metrics and increase\nproductivity.\u003Cbr\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003EThe\nmulti-lingual solution allows global deployment within organizations, offering\ncontrol of the install and operation of Teams infrastructures, easing\nconsolidation strategies for all channels.\u003Cbr\u003E\u003C/div\u003E"
             ]
           }
         ],

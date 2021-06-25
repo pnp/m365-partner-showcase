@@ -17,7 +17,6 @@
     "personas": "Internal \u0026 External Attendees;Live Events Producers;Presenters",
     "solutionTechnologies": "Teams Live Events",
     "businessFunctions": null,
-    "successFactors": "\u003Cdiv\u003ECyclotron has supported multiple multi-national\ncorporations and professional organizations to deliver Teams Live Events. Once\ntrained, these organizations have been able to support the ongoing delivery of\nEvents with ease.\u003Cbr\u003E\u003C/div\u003E",
     "displayPartner": true,
     "appSource": null,
     "displayInfo": {
@@ -45,6 +44,12 @@
             "name": "Business solution",
             "content": [
               "\u003Cdiv\u003ECyclotron has a three session Training Program focused\npreparing your team to run Teams Live Events:\u003C/div\u003E\u003Cdiv\u003E\u003Cul\u003E\u003Cli\u003EPlanning and\nTraining \u003C/li\u003E\u003Cli\u003EHands on\nExperience \u003C/li\u003E\u003Cli\u003EReal Time Support\u003C/li\u003E\u003C/ul\u003E\u003C/div\u003E"
+            ]
+          },
+          {
+            "name": "Success factors",
+            "content": [
+              "\u003Cdiv\u003ECyclotron has supported multiple multi-national\ncorporations and professional organizations to deliver Teams Live Events. Once\ntrained, these organizations have been able to support the ongoing delivery of\nEvents with ease.\u003Cbr\u003E\u003C/div\u003E"
             ]
           }
         ],

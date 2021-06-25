@@ -17,7 +17,6 @@
     "personas": "End-user;Power User",
     "solutionTechnologies": "Azure Bot;SharePoint sites;SPFx",
     "businessFunctions": null,
-    "successFactors": "\u003Cdiv\u003E\u003Cspan\u003EThe plug n play nature of the solution facilitates the rapid deployment and impact on user engagement starting on day 1.\u003Cbr\u003E\u003C/span\u003E\u003Cdiv\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003EVisualSP is a complete solution that incorporates product with complementary user adoption services. Ongoing performance reviews are conducted with clients to assess the job VisualSP is doing towards their user engagement and user adoption goals. The continuous feedback and engagement with our customers has shown to produce significant positive impact by realizing their return on investment of their digital applications.\u003C/div\u003E\u003C/div\u003E",
     "displayPartner": true,
     "appSource": null,
     "displayInfo": {
@@ -45,6 +44,12 @@
             "name": "Business solution",
             "content": [
               "\u003Cdiv\u003EAn interactive guided walkthrough, or guided tour, is a contextual microlearning tutorial that appears as an overlay giving users a step-by-step flow introducing features, guidelines and capabilities. The walkthrough explains how to complete tasks or simply provide helpful tips and tricks the user needs. \u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003EThese walkthroughs are designed and created in a matter of minutes by business analysts using point and click no code technology provided by VisualSP.\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E\u003C/div\u003E"
+            ]
+          },
+          {
+            "name": "Success factors",
+            "content": [
+              "\u003Cdiv\u003E\u003Cspan\u003EThe plug n play nature of the solution facilitates the rapid deployment and impact on user engagement starting on day 1.\u003Cbr\u003E\u003C/span\u003E\u003Cdiv\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003EVisualSP is a complete solution that incorporates product with complementary user adoption services. Ongoing performance reviews are conducted with clients to assess the job VisualSP is doing towards their user engagement and user adoption goals. The continuous feedback and engagement with our customers has shown to produce significant positive impact by realizing their return on investment of their digital applications.\u003C/div\u003E\u003C/div\u003E"
             ]
           }
         ],

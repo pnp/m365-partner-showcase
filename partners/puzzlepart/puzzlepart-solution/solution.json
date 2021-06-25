@@ -15,7 +15,6 @@
     "personas": null,
     "solutionTechnologies": null,
     "businessFunctions": null,
-    "successFactors": null,
     "displayPartner": false,
     "appSource": null,
     "displayInfo": {
@@ -35,6 +34,10 @@
           },
           {
             "name": "Business solution",
+            "content": []
+          },
+          {
+            "name": "Success factors",
             "content": []
           }
         ],

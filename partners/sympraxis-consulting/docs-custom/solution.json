@@ -17,7 +17,6 @@
     "personas": "Business Analysts;Content Owners;Developer;End-user;IT Admin;Leadership;Training \u0026 Development",
     "solutionTechnologies": "Microsoft Teams;SharePoint sites;Stream",
     "businessFunctions": null,
-    "successFactors": "\u003Cdiv\u003EBy\nlimiting the friction to accomplish their tasks and remain productive,\nemployees benefit from:\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E\u003Cdiv\u003E\u003Cul\u003E\u003Cli\u003EA\nreduction in the time to locate information.\u003C/li\u003E\u003Cli\u003EHaving documentation of\nthe solution for their persona at their fingertips at the point of use\u003C/li\u003E\u003C/ul\u003E \u003C/div\u003E\u003Cul\u003E\u003Cfont face=\u0022Segoe UI, sans-serif\u0022\u003E \u003C/font\u003E \u003C/ul\u003E \u003Cp\u003E \u003C/p\u003E",
     "displayPartner": true,
     "appSource": null,
     "displayInfo": {
@@ -45,6 +44,12 @@
             "name": "Business solution",
             "content": [
               "\u003Cdiv\u003EBy\nidentifying the different personas and creating customized documentation for\neach we can bring the knowledge to the worker right when they need it, limiting\nthe friction to accomplish their tasks and remain productive. A solution would:\u0026nbsp;\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E\u003Cdiv\u003E\u003Cul\u003E\u003Cli\u003EIdentify\nthe different personas interacting with the custom solution\u003C/li\u003E\u003Cli\u003ECreate\ndocumentation supporting the unique needs of each persona\u003C/li\u003E\u003Cli\u003EDefine\nintuitive information architecture to support each persona and their top tasks\u003C/li\u003E\u003Cli\u003EDevelop\non-demand playlists surfacing training documentation\u003C/li\u003E\u003Cli\u003ESurface playlists\nin-context of the custom solution (removing friction from end users\u2019 ability to\nlocate training)\u003C/li\u003E\u003C/ul\u003E\u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E\u003C/div\u003E"
+            ]
+          },
+          {
+            "name": "Success factors",
+            "content": [
+              "\u003Cdiv\u003EBy\nlimiting the friction to accomplish their tasks and remain productive,\nemployees benefit from:\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E\u003Cdiv\u003E\u003Cul\u003E\u003Cli\u003EA\nreduction in the time to locate information.\u003C/li\u003E\u003Cli\u003EHaving documentation of\nthe solution for their persona at their fingertips at the point of use\u003C/li\u003E\u003C/ul\u003E \u003C/div\u003E\u003Cul\u003E\u003Cfont face=\u0022Segoe UI, sans-serif\u0022\u003E \u003C/font\u003E \u003C/ul\u003E \u003Cp\u003E \u003C/p\u003E"
             ]
           }
         ],

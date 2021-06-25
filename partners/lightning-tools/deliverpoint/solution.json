@@ -17,7 +17,6 @@
     "personas": "Administrators;End-user",
     "solutionTechnologies": "Graph API;SPFx",
     "businessFunctions": null,
-    "successFactors": "\u003Cdiv\u003EGovernment, financial, and technology organizations, among others, have found success with DeliverPoint to ensure that the right users have the right level of access to business content. Organizations using DeliverPoint range from small to enterprise organizations, with either centralized or de-centralized permissions models.\u003Cbr\u003E\u003C/div\u003E",
     "displayPartner": true,
     "appSource": null,
     "displayInfo": {
@@ -43,6 +42,12 @@
             "name": "Business solution",
             "content": [
               "\u003Cdiv\u003EDeliverPoint is a tool that provides contextual permissions reporting and management for SharePoint and Microsoft Teams owners, as well as centralized permissions management for IT workers. DeliverPoint provides many reports that can be run against large scopes to determine the users that are permissioned. Permissions can be reassigned using the transfer permissions operation, or added and removed depending on the business need. DeliverPoint ensures that there is no doubt as to who has access to the content within your Microsoft Teams.\u003Cbr\u003E\u003C/div\u003E"
+            ]
+          },
+          {
+            "name": "Success factors",
+            "content": [
+              "\u003Cdiv\u003EGovernment, financial, and technology organizations, among others, have found success with DeliverPoint to ensure that the right users have the right level of access to business content. Organizations using DeliverPoint range from small to enterprise organizations, with either centralized or de-centralized permissions models.\u003Cbr\u003E\u003C/div\u003E"
             ]
           }
         ],

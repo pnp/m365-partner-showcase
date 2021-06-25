@@ -17,7 +17,6 @@
     "personas": "Administrators;Event Planners",
     "solutionTechnologies": "Azure AD;Azure Application Insights;Azure Functions;Azure KeyVault;Azure SQL DB;Azure Storage Accounts;Graph API;Microsoft 365;Microsoft Teams",
     "businessFunctions": null,
-    "successFactors": "\u003Cdiv\u003EThe true value of VCM lies in\nour turn-key service. A team of dedicated producers own the event from planning\nto execution and beyond. We manage the logistics, so organizers can focus on connecting\nwith attendees.\u003Cbr\u003E\u003Cspan style=\u0022\u0022\u003E\u003Cbr\u003EKey Event Management Tasks\u003C/span\u003E\u003C/div\u003E\u003Cdiv\u003E\u003Cul\u003E\u003Cli\u003EAgenda planning\u003C/li\u003E\u003Cli\u003ERegistration management\u003C/li\u003E\u003Cli\u003EAttendee communication\u003C/li\u003E\u003Cli\u003EConference set up\u003C/li\u003E\u003Cli\u003EPresenter training\u003C/li\u003E\u003Cli\u003EEvent status reporting\u003C/li\u003E\u003Cli\u003EConference design and asset creation\u003C/li\u003E\u003Cli\u003ETechnical support\u003C/li\u003E\u003C/ul\u003E\u003C/div\u003E",
     "displayPartner": true,
     "appSource": null,
     "displayInfo": {
@@ -45,6 +44,12 @@
             "name": "Business solution",
             "content": [
               "\u003Cdiv\u003EOur platform automates the\ncreation and organization of Teams Live Events, Teams Meetings, and the 3rd party\napp ecosystem to create an authentic conference experience.\u003Cbr\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003EAudience engagement is a core\ndriver of any conference. Don\u2019t settle for a mundane webinar or recorded video.\n\u003Cbr\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003EOrganizers can design and run\nthousands of unique, multi-track agendas filled with engaging sessions.\nAttendees can participate in a broad range of interactive activities, including\nspeed networking, mixers, and breakout sessions. \u003Cbr\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003EEach conference is entirely\ncustomizable for a branded design. Organizers can create an interactive lobby,\nshowcase sponsors, and highlight event leaders!\u003C/div\u003E"
+            ]
+          },
+          {
+            "name": "Success factors",
+            "content": [
+              "\u003Cdiv\u003EThe true value of VCM lies in\nour turn-key service. A team of dedicated producers own the event from planning\nto execution and beyond. We manage the logistics, so organizers can focus on connecting\nwith attendees.\u003Cbr\u003E\u003Cspan style=\u0022\u0022\u003E\u003Cbr\u003EKey Event Management Tasks\u003C/span\u003E\u003C/div\u003E\u003Cdiv\u003E\u003Cul\u003E\u003Cli\u003EAgenda planning\u003C/li\u003E\u003Cli\u003ERegistration management\u003C/li\u003E\u003Cli\u003EAttendee communication\u003C/li\u003E\u003Cli\u003EConference set up\u003C/li\u003E\u003Cli\u003EPresenter training\u003C/li\u003E\u003Cli\u003EEvent status reporting\u003C/li\u003E\u003Cli\u003EConference design and asset creation\u003C/li\u003E\u003Cli\u003ETechnical support\u003C/li\u003E\u003C/ul\u003E\u003C/div\u003E"
             ]
           }
         ],
