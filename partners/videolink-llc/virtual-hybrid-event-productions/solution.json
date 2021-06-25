@@ -1,0 +1,98 @@
+{
+  "solutionId": "virtual-hybrid-event-productions",
+  "partnerId": "videolink-llc",
+  "categories": [
+    "virtualevents"
+  ],
+  "industries": [],
+  "sortOrder": 0,
+  "preview": false,
+  "visible": false,
+  "solutionLogoPicture": null,
+  "solutionLogoPictureAlt": "",
+  "solutionName": "Virtual \u0026 Hybrid Event Productions",
+  "solutionUrl": null,
+  "solutionUrlTitle": "Virtual \u0026 Hybrid Event Productions",
+  "metadata": {
+    "personas": "Event Planners;Leadership;Marketing Executives",
+    "solutionTechnologies": "Microsoft Teams;Teams Live Events",
+    "businessFunctions": null,
+    "successFactors": "\u003Cdiv\u003ENearly\n30 years of remote video production experience with Fortune 1000 and small\nenterprises.\u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E\u003C/div\u003E",
+    "displayPartner": false,
+    "appSource": null,
+    "displayInfo": {
+      "default": {
+        "descriptionParagraphs": [
+          {
+            "name": "Short description",
+            "content": [
+              "\u003Cdiv\u003EYour Partner\nin Building Award-worthy Interactive Events.\u0026nbsp;\u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E\u003C/div\u003E"
+            ]
+          },
+          {
+            "name": "Long description",
+            "content": [
+              "\u003Cdiv\u003E\u003Cdiv style=\u0022box-sizing:border-box;\u0022\u003EYou have a vision for your virtual or hybrid event. As trusted advisors, our creative and production experts help shape your vision into a best-in-class broadcast experience.\u003C/div\u003E\u003Cdiv style=\u0022box-sizing:border-box;\u0022\u003E\u003Cbr style=\u0022box-sizing:border-box;\u0022\u003E\u003C/div\u003E\u003Cdiv style=\u0022box-sizing:border-box;\u0022\u003E\u003Cspan\u003EOur\nteams are renowned for managing and delivering flawless broadcast-quality\nvirtual event productions for big brands and small enterprises from concept to\nbroadcast.\u003C/span\u003E\u003Cbr\u003E\u003C/div\u003E\u003C/div\u003E"
+            ]
+          },
+          {
+            "name": "Business need or problem",
+            "content": [
+              "\u003Cdiv\u003E\u003Cspan style=\u0022font-size:11.0pt;font-family:\u0026quot;Calibri\u0026quot;,sans-serif;\u0022\u003ECreate and deliver best-in-class virtual\nand hybrid event experiences for global audiences.\u003C/span\u003E\u003Cbr\u003E\u003C/div\u003E"
+            ]
+          },
+          {
+            "name": "Business solution",
+            "content": [
+              "\u003Cdiv\u003E\u003Cspan style=\u0022font-size:11.0pt;font-family:\u0026quot;Calibri\u0026quot;,sans-serif;\u0022\u003EVirtual \u0026amp; Hybrid Event Productions\u003C/span\u003E\u003Cbr\u003E\u003C/div\u003E"
+            ]
+          }
+        ],
+        "mediaAssets": [
+          {
+            "type": "image",
+            "order": 0,
+            "url": "assets/virtual-hybrid-event-productions.png",
+            "alt": ""
+          }
+        ],
+        "detailItemCategories": [
+          {
+            "name": "Resources",
+            "description": "Possible html supported text shown just above the list of links",
+            "items": [
+              {
+                "url": "https://www.videolinktv.com/virtualeventproductions/",
+                "name": "https://www.videolinktv.com/virtualeventproductions/"
+              },
+              {
+                "url": "http://www.videolinktv.com",
+                "name": "www.videolinktv.com"
+              },
+              {
+                "url": "https://www.videolinktv.com/video/virtual-event-production-the-team-approach/",
+                "name": "https://www.videolinktv.com/video/virtual-event-production-the-team-approach/"
+              },
+              {
+                "url": "https://www.videolinktv.com/video-production/virtual-events/top-five-strategies-for-a-great-virtual-event/",
+                "name": "https://www.videolinktv.com/video-production/virtual-events/top-five-strategies-for-a-great-virtual-event/"
+              },
+              {
+                "url": "https://www.videolinktv.com/uncategorized/virtual-platforms-production-examining-their-relationship-with-a-wider-lens/",
+                "name": "https://www.videolinktv.com/uncategorized/virtual-platforms-production-examining-their-relationship-with-a-wider-lens/"
+              },
+              {
+                "url": "https://www.videolinktv.com/story-posts/netscout-reimagined-conference-leads-to-300-increase-in-attendance/",
+                "name": "https://www.videolinktv.com/story-posts/netscout-reimagined-conference-leads-to-300-increase-in-attendance/"
+              },
+              {
+                "url": "https://www.videolinktv.com/story-posts/prestigious-graduate-school-reinvents-commencement-experience-for-virtual-attendance/",
+                "name": "https://www.videolinktv.com/story-posts/prestigious-graduate-school-reinvents-commencement-experience-for-virtual-attendance/"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}
