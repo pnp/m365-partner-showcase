@@ -17,7 +17,6 @@
     "personas": "C-level;HR;IT",
     "solutionTechnologies": "Azure;Graph API;SPFx",
     "businessFunctions": null,
-    "successFactors": "\u003Cdiv\u003EWorkplaceBuddy\nis\u0026nbsp;proven to be\u0026nbsp;especially\u0026nbsp;successful with these types of\norganizations:\u003C/div\u003E\u003Cdiv\u003E\n \u003C/div\u003E\u003Cdiv\u003E\u003Cul\u003E\u003Cli\u003EWorking with digital positive stakeholders\u003C/li\u003E\u003Cli\u003EAt least 500 employees\u003C/li\u003E\u003Cli\u003ETypically having a desk worker focus\u003C/li\u003E\u003C/ul\u003E\u003C/div\u003E\u003Cdiv\u003E\n \u003C/div\u003E",
     "displayPartner": true,
     "appSource": null,
     "displayInfo": {
@@ -45,6 +44,12 @@
             "name": "Business solution",
             "content": [
               "\u003Cdiv\u003EWith our Teams app colleagues can chat (and be\nreached out to), find learnings and keep track of their learning journey. After\ntaking the interview with the chatbot, we build a personal and relevant\nlearning journey - sending you e-learnings through the chatbot and relevant\ntips. You can earn badges and track your progress. As an admin you can view\ndashboards for your organization, see where skills are lacking and what\nsoftware needs\u0026nbsp;to\u0026nbsp;be explained better to colleagues. You can also\nextend the chatbot and learning content with your own relevant content, such as\nonboarding paths and specific software training.\u003Cbr\u003E\u003C/div\u003E"
+            ]
+          },
+          {
+            "name": "Success factors",
+            "content": [
+              "\u003Cdiv\u003EWorkplaceBuddy\nis\u0026nbsp;proven to be\u0026nbsp;especially\u0026nbsp;successful with these types of\norganizations:\u003C/div\u003E\u003Cdiv\u003E\n \u003C/div\u003E\u003Cdiv\u003E\u003Cul\u003E\u003Cli\u003EWorking with digital positive stakeholders\u003C/li\u003E\u003Cli\u003EAt least 500 employees\u003C/li\u003E\u003Cli\u003ETypically having a desk worker focus\u003C/li\u003E\u003C/ul\u003E\u003C/div\u003E\u003Cdiv\u003E\n \u003C/div\u003E"
             ]
           }
         ],

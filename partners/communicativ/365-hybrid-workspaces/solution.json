@@ -17,7 +17,6 @@
     "personas": "All Employees",
     "solutionTechnologies": "Microsoft Teams;Microsoft Teams Rooms;Surface Hubs",
     "businessFunctions": null,
-    "successFactors": "\u003Cdiv\u003EBy focusing on the business needs, the Hybrid Workspace solutions are rapidly adopted by the End Users.\u003Cbr\u003E\u003C/div\u003E",
     "displayPartner": false,
     "appSource": null,
     "displayInfo": {
@@ -45,6 +44,12 @@
             "name": "Business solution",
             "content": [
               "\u003Cdiv\u003ECommunicativ will built a Hybrid work Matrix\nwhich will give insights in the Hybrid Work meeting spaces. We convert your business\nneeds and deliver Teams certified devices to support these.\u003Cbr\u003E\u003C/div\u003E"
+            ]
+          },
+          {
+            "name": "Success factors",
+            "content": [
+              "\u003Cdiv\u003EBy focusing on the business needs, the Hybrid Workspace solutions are rapidly adopted by the End Users.\u003Cbr\u003E\u003C/div\u003E"
             ]
           }
         ],

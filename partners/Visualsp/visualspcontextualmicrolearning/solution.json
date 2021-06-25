@@ -17,7 +17,6 @@
     "personas": "End-user;Power User",
     "solutionTechnologies": "Azure Bot;SPFx",
     "businessFunctions": null,
-    "successFactors": "\u003Cdiv\u003EThe\nplug n play nature of the solution facilitates the rapid deployment and impact\non user engagement starting on day 1.\u003Cbr\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003EVisualSP is a complete solution that incorporates\nproduct with complementary user adoption services. Ongoing performance reviews\nare conducted with clients to assess the job VisualSP is doing towards their user\nengagement and user adoption goals. The continuous feedback and engagement with\nour customers has shown to produce significant positive impact by realizing their\nreturn on investment of their digital applications. \u003Cbr\u003E\u003C/div\u003E",
     "displayPartner": true,
     "appSource": null,
     "displayInfo": {
@@ -43,6 +42,12 @@
             "name": "Business solution",
             "content": [
               "\u003Cdiv\u003EVisualSP\u2019s\ncontextual microlearning platform provides an overlay on top of each Microsoft\nOffice 365 application to make it easy for users to get their answers wherever\nthey are. \u003Cbr\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003EThe\nVisualSP help tab follows the users around wherever they go within their web browser.\nThe users can always count on clicking the VisualSP tab to find the answers to their\nquestions and learn what they need to be able to quickly and efficiently\naccomplish their tasks.\u003Cbr\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003EThe\nVisualSP solution comes with over a thousand completely customizable pre-built help\nand learning modules that are always kept updated as the underlying\napplications evolve.\u003Cbr\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003EVisualSP can be extended to your other internal\ncustom and SaaS web applications as well. This provides the users a consistent\nhelp and support experience enabling them to have your policies, guidance and\nlearning always available contextually within their own environment.\u003Cbr\u003E\u003C/div\u003E"
+            ]
+          },
+          {
+            "name": "Success factors",
+            "content": [
+              "\u003Cdiv\u003EThe\nplug n play nature of the solution facilitates the rapid deployment and impact\non user engagement starting on day 1.\u003Cbr\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003EVisualSP is a complete solution that incorporates\nproduct with complementary user adoption services. Ongoing performance reviews\nare conducted with clients to assess the job VisualSP is doing towards their user\nengagement and user adoption goals. The continuous feedback and engagement with\nour customers has shown to produce significant positive impact by realizing their\nreturn on investment of their digital applications. \u003Cbr\u003E\u003C/div\u003E"
             ]
           }
         ],

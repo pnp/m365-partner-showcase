@@ -15,7 +15,6 @@
     "personas": "Business Users",
     "solutionTechnologies": "Messaging Extension",
     "businessFunctions": "Incident Management IT",
-    "successFactors": "From",
     "displayPartner": false,
     "appSource": "Url",
     "displayInfo": {
@@ -43,6 +42,12 @@
             "name": "Business solution",
             "content": [
               "Sol"
+            ]
+          },
+          {
+            "name": "Success factors",
+            "content": [
+              "From"
             ]
           }
         ],

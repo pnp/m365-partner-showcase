@@ -17,7 +17,6 @@
     "personas": "Business Admin;IT;Knowledge Worker",
     "solutionTechnologies": "Azure AD;Microsoft 365;Microsoft Teams;SharePoint sites;Yammer",
     "businessFunctions": null,
-    "successFactors": "\u003Cdiv\u003E\u003Cul\u003E\u003Cli\u003EImproved\nproductivity through efficient access to relevant information\u003C/li\u003E\u003Cli\u003EFacilitates\nsustainable Microsoft 365 adoption through easy organization of workspaces\u003C/li\u003E\u003Cli\u003EEnsures collaboration security through better\nvisibility and control of workspace memberships\u003C/li\u003E\u003C/ul\u003E\u003C/div\u003E",
     "displayPartner": true,
     "appSource": null,
     "displayInfo": {
@@ -45,6 +44,12 @@
             "name": "Business solution",
             "content": [
               "\u003Cdiv\u003EAvePoint\nMyHub is a Microsoft 365 certified Microsoft Teams app that provides a central\nlocation for users to manage their existing Microsoft 365 workspaces (Microsoft\nTeams, Microsoft 365 Groups, Yammer communities, and SharePoint sites) and\ncreate new ones.\u0026nbsp; \u003Cbr\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003E\u0026nbsp;Users\nare able to create \u201Cpersonal tags\u201D to filter organize and filter workspaces\nacross hubs.\u0026nbsp; For example, a user can\napply a \u201CProject\u201D tag to all project-related workspaces across Microsoft Teams,\nYammer and SharePoint.\u003Cbr\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003EMyHub\nallows users to easily find and organize the workspaces of interest, while\nhaving the ability to quickly navigate to the files, tasks, calendars, or\ncontent they need from a single location.\u0026nbsp;\u003Cbr\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003E\u003C/div\u003E\u003Cdiv\u003EMicrosoft\n365 offers powerful collaboration workspaces, and MyHub aims to reduce time\nspent looking for information and gives users direct access to workspaces they\ncare the most about.\u003C/div\u003E\u003Cp\u003E\u003C/p\u003E"
+            ]
+          },
+          {
+            "name": "Success factors",
+            "content": [
+              "\u003Cdiv\u003E\u003Cul\u003E\u003Cli\u003EImproved\nproductivity through efficient access to relevant information\u003C/li\u003E\u003Cli\u003EFacilitates\nsustainable Microsoft 365 adoption through easy organization of workspaces\u003C/li\u003E\u003Cli\u003EEnsures collaboration security through better\nvisibility and control of workspace memberships\u003C/li\u003E\u003C/ul\u003E\u003C/div\u003E"
             ]
           }
         ],

@@ -17,7 +17,6 @@
     "personas": "Live Events Producers;Moderators;Participants;Presenters",
     "solutionTechnologies": "Teams Live Events",
     "businessFunctions": null,
-    "successFactors": "\u003Cdiv\u003EThrough our step-by-step approach we provide\n100% successful Live Events with no surprises during production. With our\nMeeting Space experience, we can facilitate a cost-effective event utilizing\navailable Teams Room solutions or provide temporary Teams Certified equipment\nto mitigate gaps.\u003Cbr\u003E\u003C/div\u003E",
     "displayPartner": false,
     "appSource": null,
     "displayInfo": {
@@ -45,6 +44,12 @@
             "name": "Business solution",
             "content": [
               "\u003Cdiv\u003EOur approach focusses on these steps:\u003C/div\u003E\u003Cdiv\u003E\u003Col\u003E\u003Cli\u003EIT Readiness Assessment\u003C/li\u003E\u003Cli\u003EOrganizational Readiness Assessment\u003C/li\u003E\u003Cli\u003EEvent Scheduling and Production\u003C/li\u003E\u003Cli\u003EOrganizational support\u003C/li\u003E\u003Cli\u003ETemporary Event Equipment\u003C/li\u003E\u003C/ol\u003E\u003C/div\u003E"
+            ]
+          },
+          {
+            "name": "Success factors",
+            "content": [
+              "\u003Cdiv\u003EThrough our step-by-step approach we provide\n100% successful Live Events with no surprises during production. With our\nMeeting Space experience, we can facilitate a cost-effective event utilizing\navailable Teams Room solutions or provide temporary Teams Certified equipment\nto mitigate gaps.\u003Cbr\u003E\u003C/div\u003E"
             ]
           }
         ],

@@ -17,7 +17,6 @@
     "personas": "Leadership",
     "solutionTechnologies": "Teams Live Events",
     "businessFunctions": null,
-    "successFactors": "\u003Cdiv\u003EWe are only successful when our customers are\nsuccessful.\u0026nbsp; We help them achieve amazing\nresults by working closely with them through each step of the process from\nplanning and design, layout and flow, to rehearsal and event production.\u003Cbr\u003E\u003C/div\u003E",
     "displayPartner": true,
     "appSource": null,
     "displayInfo": {
@@ -45,6 +44,12 @@
             "name": "Business solution",
             "content": [
               "\u003Cdiv\u003EWe provide a customizable solution that meets\nthe needs of organizations looking to stream content to a large audience.\u0026nbsp; Our team of experts are experienced in all\nformats and work with each customer to develop the perfect solution.\u003Cbr\u003E\u003C/div\u003E"
+            ]
+          },
+          {
+            "name": "Success factors",
+            "content": [
+              "\u003Cdiv\u003EWe are only successful when our customers are\nsuccessful.\u0026nbsp; We help them achieve amazing\nresults by working closely with them through each step of the process from\nplanning and design, layout and flow, to rehearsal and event production.\u003Cbr\u003E\u003C/div\u003E"
             ]
           }
         ],

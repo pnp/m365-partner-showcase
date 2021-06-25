@@ -15,7 +15,6 @@
     "personas": null,
     "solutionTechnologies": "Azure;Azure Cosmos DB;Azure Web App Service;Power App;Power Automate",
     "businessFunctions": null,
-    "successFactors": "\u003Cdiv\u003E\u003Cp style=\u0022margin:0in 0in 8pt;font-size:11pt;font-family:\u0026quot;Segoe UI\u0026quot;, sans-serif;text-align:justify;\u0022\u003E\u003Cspan lang=EN-GB style=\u0022\u0022\u003EIncident\nmanagers and work stream stakeholders can effectively use Microsoft Teams\ncollaboration capabilities like \u201CMeet Now\u201D, Message extensions to search\nincidents, Adaptive cards based notifications, BOTs based on Azure BOT\nframework and Power Platform for process automation. \u003C/span\u003E\u003C/p\u003E\u003Cp style=\u0022margin:0in 0in 8pt;font-size:11pt;font-family:\u0026quot;Segoe UI\u0026quot;, sans-serif;text-align:justify;\u0022\u003E\u003Cspan lang=EN-GB style=\u0022\u0022\u003EUsing\nMicrosoft Teams as application development and delivery platform helped in\nconstruction of this solution and reduced the over application switching during\nthe incident management process.\u003C/span\u003E\u003C/p\u003E\u003C/div\u003E",
     "displayPartner": false,
     "appSource": null,
     "displayInfo": {
@@ -39,6 +38,12 @@
             "name": "Business solution",
             "content": [
               "\u003Cdiv\u003E\u003Cp style=\u0022margin:0in 0in 8pt;font-size:11pt;font-family:\u0026quot;Segoe UI\u0026quot;, sans-serif;text-align:justify;\u0022\u003E\u003Cspan lang=EN-GB style=\u0022\u0022\u003EThis\nsolution automates Incident notification in MS Teams, provides a unified\nplatform to orchestrate and manage Major incidents on Microsoft Teams platform,\nusing Microsoft Teams platforms out of the box capabilities for Collaboration\nand communication.\u003C/span\u003E\u003C/p\u003E\u003Cp style=\u0022margin:0in 0in 8pt;font-size:11pt;font-family:\u0026quot;Segoe UI\u0026quot;, sans-serif;text-align:justify;\u0022\u003E\u003Cspan lang=EN-GB style=\u0022\u0022\u003EIncident\nmanagers can create work streams, update and close the incidents from Teams.\nSolution takes care of search and syncing the data with incident management\nsystem.\u003C/span\u003E\u003C/p\u003E\u003C/div\u003E"
+            ]
+          },
+          {
+            "name": "Success factors",
+            "content": [
+              "\u003Cdiv\u003E\u003Cp style=\u0022margin:0in 0in 8pt;font-size:11pt;font-family:\u0026quot;Segoe UI\u0026quot;, sans-serif;text-align:justify;\u0022\u003E\u003Cspan lang=EN-GB style=\u0022\u0022\u003EIncident\nmanagers and work stream stakeholders can effectively use Microsoft Teams\ncollaboration capabilities like \u201CMeet Now\u201D, Message extensions to search\nincidents, Adaptive cards based notifications, BOTs based on Azure BOT\nframework and Power Platform for process automation. \u003C/span\u003E\u003C/p\u003E\u003Cp style=\u0022margin:0in 0in 8pt;font-size:11pt;font-family:\u0026quot;Segoe UI\u0026quot;, sans-serif;text-align:justify;\u0022\u003E\u003Cspan lang=EN-GB style=\u0022\u0022\u003EUsing\nMicrosoft Teams as application development and delivery platform helped in\nconstruction of this solution and reduced the over application switching during\nthe incident management process.\u003C/span\u003E\u003C/p\u003E\u003C/div\u003E"
             ]
           }
         ],

@@ -17,7 +17,6 @@
     "personas": "Compliance;Corporate Communications;Front Line Worker;HR;IT;Knowledge Managers;Knowledge Worker",
     "solutionTechnologies": "Azure AD;Azure API Management;Azure Cognitive Search;Azure Functions;Azure SQL DB;Azure Storage Accounts;Azure Web App Service;Graph API;SPFx",
     "businessFunctions": null,
-    "successFactors": "\u003Cul\u003E\u003Cli\u003E\u003Cb\u003EEngaged users = more productive users\u003C/b\u003E\u003Cbr\u003EAtlas\nsimplifies daily tasks, taking the stress out of work life and making tech more\naccessible.\u003C/li\u003E\u003Cli\u003E\u003Cb\u003EKnowledge should flow seamlessly through every organization\u003Cbr\u003E\u003C/b\u003EAtlas makes\nit easy for everyone to contribute, be heard and find the knowledge they\u2019re\nlooking for\u003C/li\u003E\u003Cli\u003E\u003Cb\u003EEasy and improved collaboration\u003Cbr\u003E\u003C/b\u003EAtlas makes\ncollaborating easy, with simple provisioning tools that provide agility and\nenriched, visually engaging areas to produce and consume content. People can\ncollaborate, share stories and just enjoy.\u003C/li\u003E\u003Cli\u003E\u003Cb\u003EMeasure\nsuccess\u003Cbr\u003E\u003C/b\u003EAtlas has advanced\nworkspace provisioning, designed for the end-user but controlled by IT and\ngoverned by the business.\u0026nbsp;Powerful analytics enable the organization to\nmeasure success.\u003C/li\u003E\u003C/ul\u003E",
     "displayPartner": true,
     "appSource": null,
     "displayInfo": {
@@ -45,6 +44,12 @@
             "name": "Business solution",
             "content": [
               "\u003Cul\u003E\u003Cli\u003E\u003Cb\u003EIncrease\nProfits and Returns\u003Cbr\u003E\u003C/b\u003EAtlas lets you sell more, do more and\nachieve more by getting the most out of Microsoft 365.\u003C/li\u003E\u003Cli\u003E\u003Cb\u003EPrevent\nKnowledge Drain\u003C/b\u003E\u003Cbr\u003EThe loss of knowledge is hugely\ndetrimental to any organisation. Atlas makes it easy for everyone to\ncontribute, share and find knowledge.\u003C/li\u003E\u003Cli\u003E\u003Cb\u003EReduce Risk\u003C/b\u003E\u003Cbr\u003EBy making governance and compliance simpler,\nAtlas is a game changer for IT and business users.\u003C/li\u003E\u003Cli\u003E\u003Cb\u003EIncrease\nProductivity\u003C/b\u003E\u003Cbr\u003EOur clever tools truly save time, so employees\ncan focus on tasks that matter.\u003C/li\u003E\u003C/ul\u003E"
+            ]
+          },
+          {
+            "name": "Success factors",
+            "content": [
+              "\u003Cul\u003E\u003Cli\u003E\u003Cb\u003EEngaged users = more productive users\u003C/b\u003E\u003Cbr\u003EAtlas\nsimplifies daily tasks, taking the stress out of work life and making tech more\naccessible.\u003C/li\u003E\u003Cli\u003E\u003Cb\u003EKnowledge should flow seamlessly through every organization\u003Cbr\u003E\u003C/b\u003EAtlas makes\nit easy for everyone to contribute, be heard and find the knowledge they\u2019re\nlooking for\u003C/li\u003E\u003Cli\u003E\u003Cb\u003EEasy and improved collaboration\u003Cbr\u003E\u003C/b\u003EAtlas makes\ncollaborating easy, with simple provisioning tools that provide agility and\nenriched, visually engaging areas to produce and consume content. People can\ncollaborate, share stories and just enjoy.\u003C/li\u003E\u003Cli\u003E\u003Cb\u003EMeasure\nsuccess\u003Cbr\u003E\u003C/b\u003EAtlas has advanced\nworkspace provisioning, designed for the end-user but controlled by IT and\ngoverned by the business.\u0026nbsp;Powerful analytics enable the organization to\nmeasure success.\u003C/li\u003E\u003C/ul\u003E"
             ]
           }
         ],

@@ -15,7 +15,6 @@
     "personas": "Corporate Communications",
     "solutionTechnologies": "Azure AD B2C",
     "businessFunctions": "Corporate Communications",
-    "successFactors": "Sf",
     "displayPartner": false,
     "appSource": "Appsource",
     "displayInfo": {
@@ -43,6 +42,12 @@
             "name": "Business solution",
             "content": [
               "Bs"
+            ]
+          },
+          {
+            "name": "Success factors",
+            "content": [
+              "Sf"
             ]
           }
         ],

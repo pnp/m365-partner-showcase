@@ -15,7 +15,6 @@
     "personas": "Distributed Workforce",
     "solutionTechnologies": "Azure SQL DB",
     "businessFunctions": "Corporate Communications",
-    "successFactors": "F",
     "displayPartner": false,
     "appSource": "Url",
     "displayInfo": {
@@ -43,6 +42,12 @@
             "name": "Business solution",
             "content": [
               "L"
+            ]
+          },
+          {
+            "name": "Success factors",
+            "content": [
+              "F"
             ]
           }
         ],

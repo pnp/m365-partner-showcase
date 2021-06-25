@@ -17,7 +17,6 @@
     "personas": "Content Owners;Corporate Communications;Leadership",
     "solutionTechnologies": "Teams Live Events",
     "businessFunctions": null,
-    "successFactors": "\u003Cdiv\u003EWe are only successful when our customers are\nsuccessful.\u0026nbsp; We help them achieve amazing\nresults by keeping the solution easy to deploy and support remotely. \u0026nbsp;Our best practices include pre-configuration\nof any software and setup along with expertise and experience to make it work.\u003Cbr\u003E\u003C/div\u003E",
     "displayPartner": true,
     "appSource": null,
     "displayInfo": {
@@ -45,6 +44,12 @@
             "name": "Business solution",
             "content": [
               "\u003Cdiv\u003EWe provide an easy solution that includes\neverything a presenter needs to go live while looking and sounding great, along\nwith the support to make sure the technology works as expected.\u003Cbr\u003E\u003C/div\u003E"
+            ]
+          },
+          {
+            "name": "Success factors",
+            "content": [
+              "\u003Cdiv\u003EWe are only successful when our customers are\nsuccessful.\u0026nbsp; We help them achieve amazing\nresults by keeping the solution easy to deploy and support remotely. \u0026nbsp;Our best practices include pre-configuration\nof any software and setup along with expertise and experience to make it work.\u003Cbr\u003E\u003C/div\u003E"
             ]
           }
         ],
