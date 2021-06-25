@@ -17,6 +17,8 @@
     "personas": "Administrators;Corporate Communications;IT Admin",
     "solutionTechnologies": "Azure Bot;Azure Web App Service;Graph API;React;Teams Tabs",
     "businessFunctions": "Adoption;Governance;Project Management;Templates",
+    "successFactors": "\u003Cdiv\u003ETeams\nManager is the right choice for our clients as it enables them to introduce\ngovernance and still keep their users engaged. Naming conventions for Team\nnames, OneNotes and Planners help with sensible names and finding content.\nLifecycle settings automatically archive inactive or obsolete Teams. Templates\nallow admins to create structures with channels, applications, a unique set of\nuser permissions, folder structures and even pre-defined content in Planner and\nOneNote. Users are able to request new Teams, which approvers check first.\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003EOur\nclients\u0027 users save time every day due to a clean, structured Teams\nenvironment. They do not have to search any longer for specific content or\nup-to-date information due to applied naming conventions. The internal IT\ndepartments are now able to maintain their environment with minimum effort and still\nhave a great structure based on their needs and business processes. And most\nimportant of all, the users do not need to take additional steps to create a\nnew Team. Our clients are able to safely use Teams as a powerful collaboration\ntool.\u003C/div\u003E",
+    "displayPartner": true,
     "appSource": null,
     "displayInfo": {
       "default": {
@@ -25,6 +27,12 @@
             "name": "Short description",
             "content": [
               "\u003Cdiv\u003ETeams Manager helps you keep control of your Microsoft Teams environment by providing Teams templates, an approval workflow, lifecycle management and governance options such as naming conventions.\u003C/div\u003E"
+            ]
+          },
+          {
+            "name": "Long description",
+            "content": [
+              "\u003Cdiv\u003EWith Teams Manager, use any Team as a template and add channels, tabs,\nlists or apps like Planner and OneNote. Users can then request new Teams based\non these templates, which a pre-selected group of users can easily review\nthrough an an automated approval workflow.\u003Cbr\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003EFor a better overview in Teams you can create naming\nconventions and let Teams Manager archive inactive Teams. Build a complete\ngovernance automation by combining naming conventions and lifecycle management\nrules.\u003Cbr\u003E\u003C/div\u003E"
             ]
           },
           {
