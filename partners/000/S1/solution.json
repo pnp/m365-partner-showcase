@@ -12,10 +12,10 @@
   "solutionUrl": null,
   "solutionUrlTitle": "S1",
   "metadata": {
-    "personas": "Analyst;Business Analysts",
-    "solutionTechnologies": "Azure AD B2C;Azure Cognitive Search",
-    "businessFunctions": "Project Management Offices;Templates",
-    "successFactors": "Sf",
+    "personas": "Business Users",
+    "solutionTechnologies": "Messaging Extension",
+    "businessFunctions": "Incident Management IT",
+    "successFactors": "From",
     "displayPartner": false,
     "appSource": "Url",
     "displayInfo": {
@@ -24,7 +24,7 @@
           {
             "name": "Short description",
             "content": [
-              "Hhh"
+              "Solution"
             ]
           },
           {
@@ -36,13 +36,13 @@
           {
             "name": "Business need or problem",
             "content": [
-              "Bs"
+              "Business"
             ]
           },
           {
             "name": "Business solution",
             "content": [
-              "Bs"
+              "Sol"
             ]
           }
         ],

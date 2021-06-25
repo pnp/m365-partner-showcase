@@ -9,8 +9,8 @@
   "logoPicture": null,
   "logoPictureAlt": "",
   "heroPicture": "assets/hero.png",
-  "featuredPicture": "https://dev.azure.com/TeamsCaPTBLR/de6d4237-21c9-4551-bae0-9ac3e9bf97c8/_apis/wit/attachments/f2010576-9f00-474b-9cfa-9732a2da6d19",
-  "partnerName": "Test (FULL details)",
+  "featuredPicture": "https://dev.azure.com/TeamsCaPTBLR/de6d4237-21c9-4551-bae0-9ac3e9bf97c8/_apis/wit/attachments/a39a6a24-7eab-48d6-81d9-7d6d541966a2",
+  "partnerName": "Test (full details)",
   "mpnId": "0",
   "metadata": {
     "displayInfo": {
@@ -19,7 +19,7 @@
         "featuredTitle": null,
         "featuredParagraphs": [],
         "callToAction": {
-          "title": null,
+          "title": "test",
           "description": null,
           "url": null
         },

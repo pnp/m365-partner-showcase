@@ -12,10 +12,10 @@
   "solutionUrl": null,
   "solutionUrlTitle": "S2",
   "metadata": {
-    "personas": "All Employees",
-    "solutionTechnologies": "Azure AD B2C",
+    "personas": "Distributed Workforce",
+    "solutionTechnologies": "Azure SQL DB",
     "businessFunctions": "Corporate Communications",
-    "successFactors": "Sf",
+    "successFactors": "F",
     "displayPartner": false,
     "appSource": "Url",
     "displayInfo": {
@@ -24,25 +24,25 @@
           {
             "name": "Short description",
             "content": [
-              "Long"
+              "L"
             ]
           },
           {
             "name": "Long description",
             "content": [
-              "Short"
+              "S"
             ]
           },
           {
             "name": "Business need or problem",
             "content": [
-              "Bs"
+              "P"
             ]
           },
           {
             "name": "Business solution",
             "content": [
-              "Ba"
+              "L"
             ]
           }
         ],
