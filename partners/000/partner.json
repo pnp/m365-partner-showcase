@@ -9,19 +9,23 @@
   "logoPicture": null,
   "logoPictureAlt": "",
   "heroPicture": null,
-  "featuredPicture": "https://dev.azure.com/TeamsCaPTBLR/de6d4237-21c9-4551-bae0-9ac3e9bf97c8/_apis/wit/attachments/8b700500-0463-444c-b0cc-0d2f6b47f9db",
-  "partnerName": "Partnertest",
+  "featuredPicture": "https://dev.azure.com/TeamsCaPTBLR/de6d4237-21c9-4551-bae0-9ac3e9bf97c8/_apis/wit/attachments/790aaf9c-cb1f-41bc-b029-d825f8f18ad8",
+  "partnerName": "Partner",
   "mpnId": "0",
   "metadata": {
     "displayInfo": {
       "default": {
         "shortDescription": "Short",
-        "featuredTitle": null,
-        "featuredParagraphs": [],
+        "featuredTitle": "Title",
+        "featuredParagraphs": [
+          "P",
+          "P",
+          "P"
+        ],
         "callToAction": {
-          "title": "Title",
-          "description": "Call",
-          "url": "Url"
+          "title": "P",
+          "description": "P",
+          "url": "P"
         },
         "mediaAssets": [
           {
