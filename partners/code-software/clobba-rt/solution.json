@@ -17,7 +17,6 @@
     "personas": "Leadership;Sales Managers",
     "solutionTechnologies": "Azure;Graph API;Microsoft Teams",
     "businessFunctions": null,
-    "successFactors": "\u003Cdiv\u003EOur customers have cited an increase in\nproductivity with the performance metrics produced by Clobba RT; in some circumstances,\nproductivity levels have increased by up to 50%. \u003Cbr\u003E\u003C/div\u003E",
     "displayPartner": true,
     "appSource": null,
     "displayInfo": {
@@ -45,6 +44,12 @@
             "name": "Business solution",
             "content": [
               "\u003Cdiv\u003ESimple to use and configurable to individual needs,\u0026nbsp;Clobba\u0026nbsp;RT delivers\nvaluable insights into Teams CQ and AA performance and productivity via its wallboard\nand automated reporting capability.\u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003EReal-time presence statistics are mixed with productivity trends over a\ndefined date range. The emphasis is on quick, easy access to relevant\ninformation and the automation of many of the reporting tasks. \u003Cbr\u003E\u003C/div\u003E"
+            ]
+          },
+          {
+            "name": "Success factors",
+            "content": [
+              "\u003Cdiv\u003EOur customers have cited an increase in\nproductivity with the performance metrics produced by Clobba RT; in some circumstances,\nproductivity levels have increased by up to 50%. \u003Cbr\u003E\u003C/div\u003E"
             ]
           }
         ],

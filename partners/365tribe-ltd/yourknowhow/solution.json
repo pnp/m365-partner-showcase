@@ -17,7 +17,6 @@
     "personas": "Digital Champions;End-user",
     "solutionTechnologies": "Microsoft Teams;SharePoint sites;Stream",
     "businessFunctions": null,
-    "successFactors": "\u003Cdiv\u003EDriving your organization forward to achieve\ntrue digital transformation, providing just in time, up to date help and\nsupport to your users.\u003Cbr\u003E\u003C/div\u003E",
     "displayPartner": true,
     "appSource": null,
     "displayInfo": {
@@ -45,6 +44,12 @@
             "name": "Business solution",
             "content": [
               "\u003Cdiv\u003EDesigned and\ndeveloped by our team of experts, the YourKnowHow video portfolio contains over\n250 videos covering all the day to day topics users need to understand to\neffectively use Microsoft 365. What\u2019s even better is that our library is\nupdated on a monthly basis, ensuring users learn the most up to date content in\nan environment they are familiar with. \u003C/div\u003E\u003Cdiv\u003E\n \u003C/div\u003E\u003Cdiv\u003E\u003Cul\u003E\u003Cli\u003EOver 250 Microsoft 365 Videos\u003C/li\u003E\u003Cli\u003EDeveloped by our Team of Experts\u003C/li\u003E\u003Cli\u003E2-4 Minute easy to consume bite-sized\n     content\u003C/li\u003E\u003Cli\u003EFully narrated\u003C/li\u003E\u003Cli\u003EFull HD with Captions\u003C/li\u003E\u003Cli\u003ESimple deployment, Azure, Stream, SCORM\n     Compliant\u003C/li\u003E\u003Cli\u003EMonthly content updates in line with\n     Microsoft 365\u003C/li\u003E\u003Cli\u003ECustom video development available\u003C/li\u003E\u003C/ul\u003E\u003C/div\u003E\u003Cdiv\u003E\n \u003C/div\u003E\u003Cdiv\u003E\n \u003C/div\u003E\u003Cdiv\u003E\n \u003C/div\u003E\u003Cdiv\u003E\n \u003C/div\u003E\u003Cdiv\u003E\n \u003C/div\u003E\u003Cdiv\u003E\n \u003C/div\u003E\u003Cdiv\u003E\n \u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E\u003C/div\u003E"
+            ]
+          },
+          {
+            "name": "Success factors",
+            "content": [
+              "\u003Cdiv\u003EDriving your organization forward to achieve\ntrue digital transformation, providing just in time, up to date help and\nsupport to your users.\u003Cbr\u003E\u003C/div\u003E"
             ]
           }
         ],
