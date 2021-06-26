@@ -17,7 +17,6 @@
     "personas": "Digital Champions;End-user",
     "solutionTechnologies": "Microsoft Forms;Microsoft Teams;Power App;Power Automate;SharePoint sites",
     "businessFunctions": null,
-    "successFactors": "\u003Cdiv\u003EDriving your organization forward to achieve true digital transformation, Digital Champions ensure success.\u0026nbsp;\u0026nbsp;\u003Cbr\u003E\u003C/div\u003E",
     "displayPartner": true,
     "appSource": null,
     "displayInfo": {
@@ -45,6 +44,12 @@
             "name": "Business solution",
             "content": [
               "\u003Cdiv\u003EThe YourChampions program is designed to engage a community of Champions from the beginning. We have created a structured offering that engages your Champions, delivers real world, up to date learning and assesses their competency.\u0026nbsp;\u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003EChampions are incentivised to learn and share their knowledge and ideas within your\u0026nbsp;organisation\u0026nbsp;through our set of unique Champion Challenges. The Champions community grows and remains engaged and enthused\u0026nbsp;to help and share\u0026nbsp;through our digital badge awards,\u0026nbsp;gamified\u0026nbsp;approach,\u0026nbsp;and social learning techniques.\u0026nbsp;\u0026nbsp;\u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003EAll delivered via your Microsoft 365 platform.\u0026nbsp;\u0026nbsp;\u003C/div\u003E"
+            ]
+          },
+          {
+            "name": "Success factors",
+            "content": [
+              "\u003Cdiv\u003EDriving your organization forward to achieve true digital transformation, Digital Champions ensure success.\u0026nbsp;\u0026nbsp;\u003Cbr\u003E\u003C/div\u003E"
             ]
           }
         ],
