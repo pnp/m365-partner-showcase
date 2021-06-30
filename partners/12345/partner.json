@@ -4,39 +4,29 @@
   "industries": [],
   "solutions": null,
   "sortOrder": 0,
-  "preview": true,
-  "visible": true,
+  "preview": false,
+  "visible": false,
   "logoPicture": null,
   "logoPictureAlt": "",
   "heroPicture": "assets/hero.png",
-  "featuredPicture": "assets/featured.png",
-  "partnerName": "TestA",
+  "featuredPicture": "https://dev.azure.com/TeamsCaPTBLR/de6d4237-21c9-4551-bae0-9ac3e9bf97c8/_apis/wit/attachments/32061777-b235-4a09-9e8e-2b20c5058523",
+  "partnerName": "Test full details",
   "mpnId": "12345",
   "metadata": {
     "displayInfo": {
       "default": {
-        "shortDescription": "Partner A",
-        "featuredTitle": "Partner A Featuring Solution A",
-        "featuredParagraphs": [
-          "Testing featured paragraph of Partner A. Testing featured paragraph of Partner A. Testing featured paragraph of Partner A. Testing featured paragraph of Partner A. .Testing featured paragraph of Partner A. Testing featured paragraph of Partner A. Testing featured paragraph of Partner A. Testing featured paragraph of Partner A. Testing featured paragraph of Partner A. Testing featured paragraph of Partner A. Testing featured paragraph of Partner A. Testing featured paragraph of Partner A. Testing",
-          "Testing second featured paragraph of Partner A. Testing second featured paragraph of Partner A. Testing second featured paragraph of Partner A.Testing second featured paragraph of Partner A.Testing second featured paragraph of Partner A.Testing second featured paragraph of Partner A.Testing second featured paragraph of Partner A.Testing second featured paragraph of Partner A.Testing second featured paragraph of Partner A.Testing second featured paragraph of Partner A.Testing second featured para",
-          "Testing third featured paragraph of Partner A. Testing third featured paragraph of Partner A. Testing third featured paragraph of Partner A. Testing third featured paragraph of Partner A. Testing third featured paragraph of Partner A. Testing third featured paragraph of Partner A. Testing third featured paragraph of Partner A. Testing third featured paragraph of Partner A. Testing third featured paragraph of Partner A. Testing third featured paragraph of Partner A. Testing third featured paragra"
-        ],
+        "shortDescription": "Test",
+        "featuredTitle": null,
+        "featuredParagraphs": [],
         "callToAction": {
-          "title": "Reach out to us to know more about Partner A",
-          "description": "Reach out to us to know more about Partner A. Reach out to us to know more about Partner A .Reach out to us to know more about Partner A .Reach out to us to know more about Partner. Reach out",
-          "url": "https://adoption-dev.azurewebsites.net/"
+          "title": "Test",
+          "description": "Test",
+          "url": "Test"
         },
         "mediaAssets": [
           {
             "type": "image",
             "order": 0,
-            "url": "assets/Featured.png",
-            "alt": ""
-          },
-          {
-            "type": "image",
-            "order": 1,
             "url": "assets/Hero.png",
             "alt": ""
           }
