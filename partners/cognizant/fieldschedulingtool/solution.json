@@ -15,11 +15,17 @@
     "personas": "Auditor;Front Line Worker",
     "solutionTechnologies": "Power App;SharePoint sites",
     "businessFunctions": null,
+    "displayPartner": false,
+    "appSource": null,
     "displayInfo": {
       "default": {
         "descriptionParagraphs": [
           {
             "name": "Short description",
+            "content": []
+          },
+          {
+            "name": "Long description",
             "content": []
           },
           {
@@ -32,6 +38,12 @@
             "name": "Business solution",
             "content": [
               "\u003Cdiv\u003E\u003Cp style=\u0022margin:0in 0in 8pt;font-size:11pt;font-family:\u0026quot;Segoe UI\u0026quot;, sans-serif;text-align:justify;\u0022\u003E\u003Cspan lang=EN-GB style=\u0022\u0022\u003EThis solution automates scheduling visits to\nrestaurants by operations team. It is smart to consider various business logic\nand provide appropriate alerts, suggestions, alternatives (when possibly visit\ncan be scheduled or when there is a conflict). The solution also considers existing\ndatabase that contains historic data of all visits and incorporates in business\nlogic.\u003C/span\u003E\u003C/p\u003E\u003Cp style=\u0022margin:0in 0in 8pt;font-size:11pt;font-family:\u0026quot;Segoe UI\u0026quot;, sans-serif;text-align:justify;\u0022\u003E\u003Cspan lang=EN-GB style=\u0022\u0022\u003EThe visit scheduling app is responsive and\navailable across all mobile devices and modern desktop browsers.\u003C/span\u003E\u003C/p\u003E\u003Cp style=\u0022margin:0in 0in 8pt;font-size:11pt;font-family:\u0026quot;Segoe UI\u0026quot;, sans-serif;text-align:justify;\u0022\u003E\u003Cspan lang=EN-GB style=\u0022\u0022\u003EThe solution also provides a reporting app\nthat shows visit status for all restaurant for field office.\u003C/span\u003E\u003C/p\u003E\u003Cbr\u003E\u003C/div\u003E"
+            ]
+          },
+          {
+            "name": "Success factors",
+            "content": [
+              "\u003Cdiv\u003E\u003Cp style=\u0022margin:0in 0in 8pt;font-size:11pt;font-family:\u0026quot;Segoe UI\u0026quot;, sans-serif;text-align:justify;\u0022\u003E\u003Cspan lang=EN-GB style=\u0022\u0022\u003EThe solution increased the usage of\ncollaboration tools across business functions. It has reduced the amount of\nemails that were sent between the operator leads, operator associates and the business\nassociates. The solution promoted information on-demand and reduced manual\neffort/labour, which was a dedicated personnel taking care of the visits and\nre-schedules. Additionally the solution being part of the productivity suite\nhas increased citizen development due to reduced cost and shorter time to\nmarket solutions.\u003C/span\u003E\u003C/p\u003E\u003Cp style=\u0022margin:0in 0in 8pt;font-size:11pt;font-family:\u0026quot;Segoe UI\u0026quot;, sans-serif;text-align:justify;\u0022\u003E\u003Cspan lang=EN-GB style=\u0022\u0022\u003EKey highlights:\u003C/span\u003E\u003C/p\u003E\u003Cp style=\u0022margin:0in 0in 8pt;font-size:11pt;font-family:\u0026quot;Segoe UI\u0026quot;, sans-serif;text-align:justify;\u0022\u003E\u003Cspan lang=EN-GB style=\u0022\u0022\u003E-\u003Cspan style=\u0022\u0022\u003E\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp; \u003C/span\u003EQuicker\ntime to market: the original custom solution was estimated to be delivered in\n26\u002B weeks, and the MVP (current solution) was delivered in 12 weeks \u2013 production\ngo live.\u003C/span\u003E\u003C/p\u003E\u003Cp style=\u0022margin:0in 0in 8pt;font-size:11pt;font-family:\u0026quot;Segoe UI\u0026quot;, sans-serif;text-align:justify;\u0022\u003E\u003Cspan lang=EN-GB style=\u0022\u0022\u003E-\u003Cspan style=\u0022\u0022\u003E\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp; \u003C/span\u003EDue\nto usage of Power Platform and Teams, a cost reduction of $300k on the IT\nservices was achieved.\u003C/span\u003E\u003C/p\u003E\u003Cp style=\u0022margin:0in 0in 8pt;font-size:11pt;font-family:\u0026quot;Segoe UI\u0026quot;, sans-serif;text-align:justify;\u0022\u003E\u003Cspan lang=EN-GB style=\u0022\u0022\u003E-\u003Cspan style=\u0022\u0022\u003E\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp; \u003C/span\u003EThe\nsolution was implemented in Agile, and the team could accommodate 40% more\nrequirements from the original scope within the same timeline.\u003C/span\u003E\u003C/p\u003E\u003Cp style=\u0022margin:0in 0in 8pt;font-size:11pt;font-family:\u0026quot;Segoe UI\u0026quot;, sans-serif;text-align:justify;\u0022\u003E\u003Cspan lang=EN-GB style=\u0022\u0022\u003E-\u003Cspan style=\u0022\u0022\u003E\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp; \u003C/span\u003EThere\nare multiple integrations like external system (database), custom APIs,\nworkflows/business process automation etc. that were involved, however the low\ncode solution framework helped quick turnaround time.\u003C/span\u003E\u003C/p\u003E\u003Cp style=\u0022margin:0in 0in 8pt;font-size:11pt;font-family:\u0026quot;Segoe UI\u0026quot;, sans-serif;text-align:justify;\u0022\u003E\u003Cspan lang=EN-GB style=\u0022\u0022\u003E-\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp; With\nvarious level of complexities, the solution opened new set of possibilities\nwith low code \u002B Teams solution.\u003C/span\u003E\u003C/p\u003E\u003C/div\u003E"
             ]
           }
         ],

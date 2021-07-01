@@ -5,31 +5,39 @@
   "solutions": null,
   "sortOrder": 0,
   "preview": false,
-  "visible": false,
+  "visible": true,
   "logoPicture": null,
   "logoPictureAlt": "",
+  "heroPicture": "assets/hero.png",
+  "featuredPicture": "assets/featured.png",
   "partnerName": "Lightning Tools",
   "mpnId": "2164053",
   "metadata": {
     "displayInfo": {
       "default": {
-        "shortDescription": "\u003Cdiv\u003ELightning Tools is a global Independent Software Vendor (ISV) that specializes in Software Productivity Tools for Microsoft SharePoint and Microsoft Teams\u003Cbr\u003E\u003C/div\u003E",
-        "descriptionParagraphs": [
-          "\u003Cdiv\u003E\u003Cspan style=\u0022color:rgb(51, 51, 51);font-family:SegoeUI;font-size:16px;display:inline !important;\u0022\u003ELightning Tools is a Microsoft Gold Partner founded in 2007 that creates software tools for Microsoft SharePoint \u0026amp; Microsoft Teams. The Lightning Tools products are created to help business users to be more efficient and productive whilst using the Microsoft SharePoint and Microsoft Teams platforms and are used across organizations worldwide.\u003C/span\u003E\u003Cbr\u003E \u003C/div\u003E",
-          "\u003Cdiv\u003E\u003Cspan style=\u0022color:rgb(51, 51, 51);font-family:SegoeUI;font-size:16px;display:inline !important;\u0022\u003EThe Lightning Tools product range includes a discussion board tool for Microsoft Teams tabs and personal apps, permissions reporting and permissions management, content aggregation from SharePoint lists and Microsoft Graph, and a Data Visualization tool.\u003C/span\u003E\u003Cbr\u003E \u003C/div\u003E",
-          "\u003Cdiv\u003E\u003Cspan style=\u0022color:rgb(51, 51, 51);font-family:SegoeUI;font-size:16px;display:inline !important;\u0022\u003EThe Lightning Tools product range includes a discussion board tool for Microsoft Teams tabs and personal apps, permissions reporting and permissions management, content aggregation from SharePoint lists and Microsoft Graph, and a Data Visualization tool.\u003C/span\u003E\u003Cbr\u003E \u003C/div\u003E"
+        "shortDescription": "\u003Cdiv\u003ELightning Tools is a global Independent Software Vendor (ISV) that specializes in Software Productivity Tools for Microsoft SharePoint and Microsoft Teams.\u003Cbr\u003E\u003C/div\u003E",
+        "featuredTitle": "About Lightning Tools",
+        "featuredParagraphs": [
+          "\u003Cdiv\u003ELightning Tools is a Microsoft Gold Partner founded in 2007 that creates software tools for Microsoft SharePoint \u0026amp; Microsoft Teams. The Lightning Tools products are created to help business users to be more efficient and productive whilst using the Microsoft SharePoint and Microsoft Teams platforms and are used across organizations worldwide.\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E",
+          "\u003Cdiv\u003EThe Lightning Tools product range includes a discussion board tool for Microsoft Teams tabs and personal apps, permissions reporting and permissions management, content aggregation from SharePoint lists and Microsoft Graph, and a Data Visualization tool.\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E",
+          "\u003Cdiv\u003EEach product is developed under the SharePoint Framework\n(SPFx) and works seamlessly across SharePoint and Microsoft Teams.\u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E"
         ],
+        "callToAction": {
+          "title": "Connect With Us",
+          "description": "Connect with us today, so that we can understand your needs around Microsoft SharePoint.",
+          "url": "https://lightningtools.com/contact-us/"
+        },
         "mediaAssets": [
           {
             "type": "image",
             "order": 0,
-            "url": "assets/LTOverview.png",
+            "url": "assets/Hero.png",
             "alt": ""
           },
           {
             "type": "image",
             "order": 1,
-            "url": "assets/LTHero.png",
+            "url": "assets/Featured.png",
             "alt": ""
           }
         ],

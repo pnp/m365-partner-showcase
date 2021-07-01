@@ -15,11 +15,17 @@
     "personas": "Business Users",
     "solutionTechnologies": "Azure;Graph API;SharePoint sites",
     "businessFunctions": null,
+    "displayPartner": false,
+    "appSource": null,
     "displayInfo": {
       "default": {
         "descriptionParagraphs": [
           {
             "name": "Short description",
+            "content": []
+          },
+          {
+            "name": "Long description",
             "content": []
           },
           {
@@ -32,6 +38,12 @@
             "name": "Business solution",
             "content": [
               "\u003Cdiv\u003E\u003Cp style=\u0022margin:0in 0in 8pt;font-size:11pt;font-family:\u0026quot;Segoe UI\u0026quot;, sans-serif;text-align:justify;\u0022\u003E\u003Cspan lang=EN-GB style=\u0022\u0022\u003EThe proposed solution will leverage SPFx based\nApp hosted on MS Teams tab, which have interactive interface to create and\nmanage meetings in MS teams. \u003C/span\u003E\u003C/p\u003E\u003Cp style=\u0022margin:0in 0in 8pt;font-size:11pt;font-family:\u0026quot;Segoe UI\u0026quot;, sans-serif;text-align:justify;\u0022\u003E\u003Cspan lang=EN-GB style=\u0022\u0022\u003EScheduling a meeting: \u003C/span\u003E\u003C/p\u003E\u003Cul style=\u0022margin-bottom:0in;\u0022\u003E\u003Cli\u003E\u003Cspan lang=EN-GB style=\u0022\u0022\u003EAlong with OOTB meeting scheduling features, there will be option to\ntrack Meeting agenda as metadata. All the relevant notes/action items can be\ntracked against the Agenda.\u003C/span\u003E\u003C/li\u003E\u003Cli\u003E\u003Cspan lang=EN-GB style=\u0022\u0022\u003EAttachments are stored in OneDrive for Business so that large files can\nalso be added as part of meeting invite\u003C/span\u003E\u003C/li\u003E\u003Cli\u003E\u003Cspan lang=EN-GB style=\u0022\u0022\u003EThe tool generates a well-formatted and structured email invite\ncontaining all the meeting details that is sent to the meeting participants.\u003C/span\u003E\u003C/li\u003E\u003C/ul\u003E\u003Cp style=\u0022margin:0in 0in 8pt;font-size:11pt;font-family:\u0026quot;Segoe UI\u0026quot;, sans-serif;text-align:justify;\u0022\u003E\u003Cspan lang=EN-GB style=\u0022\u0022\u003EJoin a Meeting:\u003C/span\u003E\u003C/p\u003E\u003Cul style=\u0022margin-bottom:0in;\u0022\u003E\u003Cli\u003E\u003Cspan lang=EN-GB style=\u0022\u0022\u003EThe meeting participant has a one-stop access to relevant meeting\ninformation like participants, meeting agenda and reference material upfront in\na structured and organized manner for ease of use\u003C/span\u003E\u003C/li\u003E\u003Cli\u003E\u003Cspan lang=EN-GB style=\u0022\u0022\u003EAs a meeting participant, the tool provides an option to co-author\nmeeting notes. The tool also provides user with a voice-assisted feature to\ncapture meeting notes for ease of use. User also has the option to organize\nmeeting minutes by agenda for effective circulation and tracking\u003C/span\u003E\u003C/li\u003E\u003Cli\u003E\u003Cspan lang=EN-GB style=\u0022\u0022\u003EWith an single click host can publishes the meeting minutes to all\nparticipants that receive the minutes in a formatted and structured email\ncontaining all the meeting details\u003C/span\u003E\u003C/li\u003E\u003Cli\u003E\u003Cspan lang=EN-GB style=\u0022\u0022\u003EAll action items and their status get tracked centrally in Planner\u003C/span\u003E\u003C/li\u003E\u003C/ul\u003E\u003C/div\u003E"
+            ]
+          },
+          {
+            "name": "Success factors",
+            "content": [
+              "\u003Cdiv\u003E\u003Cul style=\u0022margin-bottom:0in;\u0022\u003E\u003Cli\u003E\u003Cspan lang=EN-GB style=\u0022\u0022\u003EThe solution was accepted as a Global tool and it created new initiatives\nin MS Teams development viz. One Conference solution on MS Teams etc.\u003C/span\u003E\u003C/li\u003E\u003Cli\u003E\u003Cspan lang=EN-GB style=\u0022\u0022\u003EThe solution built our capability in MS teams development and usage of\nGraph API, learning form which will help in future solution development\u003C/span\u003E\u003C/li\u003E\u003C/ul\u003E\u003Cbr\u003E\u003C/div\u003E"
             ]
           }
         ],

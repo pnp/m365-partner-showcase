@@ -4,30 +4,38 @@
   "industries": [],
   "solutions": null,
   "sortOrder": 0,
-  "preview": false,
+  "preview": true,
   "visible": false,
   "logoPicture": null,
   "logoPictureAlt": "",
+  "heroPicture": "assets/hero.png",
+  "featuredPicture": "assets/featured.png",
   "partnerName": "LiveTiles",
   "mpnId": "5351859",
   "metadata": {
     "displayInfo": {
       "default": {
-        "shortDescription": "\u003Cdiv\u003E\u003Cspan style=\u0022font-size:10.0pt;font-family:\u0026quot;Calibri\u0026quot;,sans-serif;\u0022\u003ELiveTiles is a workplace technology company\noffering expertise and software products designed to boost productivity,\ninnovation and connection in your workplace\u003C/span\u003E\u003Cbr\u003E\u003C/div\u003E",
-        "descriptionParagraphs": [
-          "\u003Cdiv\u003E\u003Cspan style=\u0022display:inline !important;\u0022\u003ELiveTiles builds custom workplace solutions combining our Expertise and software Products to fit your unique needs. Learn how we help hundreds of organisations across all industries work better than ever before.\u003C/span\u003E\u003Cbr\u003E \u003C/div\u003E"
+        "shortDescription": "\u003Cdiv\u003ELiveTiles is a workplace technology company\noffering expertise and software products designed to boost productivity,\ninnovation and connection in your workplace.\u003Cbr\u003E\u003C/div\u003E",
+        "featuredTitle": "To productivity and beyond",
+        "featuredParagraphs": [
+          "\u003Cdiv\u003ELiveTiles builds custom workplace solutions combining our Expertise and software Products to fit your unique needs. Learn how we help hundreds of organisations across all industries work better than ever before.\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E"
         ],
+        "callToAction": {
+          "title": "Our Expertise and Products craft the perfect solution.",
+          "description": "Learn more about LiveTiles and the connect with us to start your journey.",
+          "url": "https://livetilesglobal.com/#lvt-journey-start"
+        },
         "mediaAssets": [
           {
             "type": "image",
             "order": 0,
-            "url": "assets/LiveTiles HERO.png",
+            "url": "assets/Hero.png",
             "alt": ""
           },
           {
             "type": "image",
             "order": 1,
-            "url": "assets/LiveTiles Featured Title.jpg",
+            "url": "assets/Featured.png",
             "alt": ""
           }
         ],

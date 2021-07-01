@@ -8,17 +8,25 @@
   "visible": false,
   "logoPicture": null,
   "logoPictureAlt": "",
-  "partnerName": "Amir-partner-name",
+  "heroPicture": null,
+  "featuredPicture": "https://adoption-dev.azurewebsites.net//wp-content/uploads/gravity_forms/2-0c83c6f7ecf5333ec527da92bb0c7568/2021/05/rsz_re1mu3b.png",
+  "partnerName": "M-partner-id",
   "mpnId": "0",
   "metadata": {
     "displayInfo": {
       "default": {
-        "shortDescription": "Short Description for Partner!.",
-        "descriptionParagraphs": [
-          "Feature Description Para 1",
-          "Feature Description Para 2",
-          "Feature Description Para 3"
+        "shortDescription": "p s d",
+        "featuredTitle": "Featured Title",
+        "featuredParagraphs": [
+          "f",
+          "fr",
+          "frr"
         ],
+        "callToAction": {
+          "title": "Contact Us",
+          "description": "p s d",
+          "url": "https://aamir.store1"
+        },
         "mediaAssets": [],
         "detailItemCategories": []
       }

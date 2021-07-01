@@ -7,7 +7,7 @@
   "industries": [],
   "sortOrder": 0,
   "preview": false,
-  "visible": false,
+  "visible": true,
   "solutionLogoPicture": null,
   "solutionLogoPictureAlt": "",
   "solutionName": "Clobba VR",
@@ -17,25 +17,39 @@
     "personas": "Leadership;Sales Managers",
     "solutionTechnologies": "Graph API;Microsoft Teams",
     "businessFunctions": null,
+    "displayPartner": true,
+    "appSource": null,
     "displayInfo": {
       "default": {
         "descriptionParagraphs": [
           {
             "name": "Short description",
             "content": [
-              "\u003Cdiv\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:Calibri, sans-serif;margin-bottom:12.0pt;\u0022\u003E\u003Cb\u003E\u003Cspan style=\u0022font-size:14.0pt;\u0022\u003EA\nsimple to use and affordable Voice Recording solution specifically built for MS\nTeams\u003C/span\u003E\u003C/b\u003E\u003C/p\u003E\u003C/div\u003E"
+              "\u003Cdiv\u003E\u003Cb\u003EA\nsimple to use and affordable Voice Recording solution specifically built for MS\nTeams\u003C/b\u003E\u003C/div\u003E"
+            ]
+          },
+          {
+            "name": "Long description",
+            "content": [
+              "\u003Cdiv\u003EBuilt for MS Teams, Clobba VR delivers call recording\nfeatures at an acceptable price. It is typically used for training and\nmonitoring, verification and dispute resolution ensuring the highest levels of\ncustomer service are achieved. \u003Cbr\u003E\u003C/div\u003E"
             ]
           },
           {
             "name": "Business need or problem",
             "content": [
-              "\u003Cdiv\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:Calibri, sans-serif;\u0022\u003E\u003Cspan style=\u0022font-size:10.0pt;\u0022\u003EMany organizations using\nTeams have basic voice recording requirements where they need to easily locate\na call and play it back. The recorded call can then be used for training and\nmonitoring purposes or to confirm the details of the call. Team leaders may\nneed to access and listen to team members\u2019 calls and Clobba VR allows for this\nvia a simple user interface.\u003C/span\u003E\u003C/p\u003E\u003C/div\u003E"
+              "\u003Cdiv\u003EMany organizations using\nTeams have basic voice recording requirements where they need to easily locate\na call and play it back. The recorded call can then be used for training and\nmonitoring purposes or to confirm the details of the call. Team leaders may\nneed to access and listen to team members\u2019 calls and Clobba VR allows for this\nvia a simple user interface.\u003C/div\u003E"
             ]
           },
           {
             "name": "Business solution",
             "content": [
-              "\u003Cdiv\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:Calibri, sans-serif;margin-bottom:6.0pt;\u0022\u003E\u003Cspan style=\u0022font-size:10.0pt;color:black;background:white;\u0022\u003EInstalled on a customer\u2019s Teams tenant servers means full\nrights of ownership are retained with the recorded calls remaining in a\ncustomer\u2019s environment. Recorded users must have a MS Teams Phone System\nlicence allowing for recording of inbound, outbound, internal, federated and\nconference calls.\u003C/span\u003E\u003C/p\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:Calibri, sans-serif;margin-bottom:6.0pt;\u0022\u003E\u003Cspan style=\u0022font-size:10.0pt;\u0022\u003EThe recorded\ncalls can be played back or downloaded for review and sharing. Live calls can\nbe listened to by employees with the correct user policies through the \u2018silent\nmonitoring\u2019 feature. There is even the ability to manually pause and resume the\nrecording for compliancy situations.\u003C/span\u003E\u003C/p\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:Calibri, sans-serif;margin-bottom:6.0pt;\u0022\u003E\u003Cspan style=\u0022font-size:10.0pt;\u0022\u003E\u003Cspan style=\u0022font-size:10.0pt;font-family:\u0026quot;Calibri\u0026quot;,sans-serif;\u0022\u003EAnd\nas Clobba VR is installed in a customer environment they have full ownership of\nthe recorded calls and can retain the calls for whatever duration is required.\u003C/span\u003E\u003Cbr\u003E\u003C/span\u003E\u003C/p\u003E\u003C/div\u003E"
+              "\u003Cdiv\u003EInstalled on a customer\u2019s Teams tenant servers means full\nrights of ownership are retained with the recorded calls remaining in a\ncustomer\u2019s environment. Recorded users must have a MS Teams Phone System\nlicence allowing for recording of inbound, outbound, internal, federated and\nconference calls.\u003Cbr\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003EThe recorded\ncalls can be played back or downloaded for review and sharing. Live calls can\nbe listened to by employees with the correct user policies through the \u2018silent\nmonitoring\u2019 feature. There is even the ability to manually pause and resume the\nrecording for compliancy situations.\u003Cbr\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003EAnd\nas Clobba VR is installed in a customer environment they have full ownership of\nthe recorded calls and can retain the calls for whatever duration is required.\u003Cbr\u003E\u003C/div\u003E"
+            ]
+          },
+          {
+            "name": "Success factors",
+            "content": [
+              "\u003Cdiv\u003EOur\ncustomers have seen an increase in agent performance through the ability to\ntailor employee training. Customer disputes are quickly resolved with the\nrecordings verifying any customer discrepancies.\u003C/div\u003E"
             ]
           }
         ],
@@ -49,12 +63,6 @@
           {
             "type": "image",
             "order": 1,
-            "url": "assets/ClobbaVR-image3.png",
-            "alt": ""
-          },
-          {
-            "type": "image",
-            "order": 2,
             "url": "assets/ClobbaVR-image1.png",
             "alt": ""
           }
@@ -66,7 +74,7 @@
             "items": [
               {
                 "url": "http://www.codesoftware.net",
-                "name": "www.codesoftware.net"
+                "name": "Clobba VR is available on a free 30-day trial\nand is installed in customer environments."
               }
             ]
           }

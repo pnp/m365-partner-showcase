@@ -5,25 +5,33 @@
   "solutions": null,
   "sortOrder": 0,
   "preview": false,
-  "visible": false,
+  "visible": true,
   "logoPicture": null,
   "logoPictureAlt": "",
+  "heroPicture": "assets/hero.png",
+  "featuredPicture": null,
   "partnerName": "Orchestry Software",
   "mpnId": "6209704",
   "metadata": {
     "displayInfo": {
       "default": {
-        "shortDescription": "\u003Cdiv\u003E\u003Cspan style=\u0022box-sizing:border-box;color:rgb(37, 36, 35);font-family:\u0026quot;Segoe UI\u0026quot;, system-ui, \u0026quot;Apple Color Emoji\u0026quot;, \u0026quot;Segoe UI Emoji\u0026quot;, sans-serif;\u0022\u003E\u003Cspan style=\u0022box-sizing:border-box;font-size:10.5pt;\u0022\u003EOrchestry builds balanced adoption and governance solutions that enable you to leverage your investment in Microsoft 365 through empowering your users with the right tools at the right time for the right purpose. See how Orchestry can Make Work Simple for your organization today!\u003C/span\u003E\u003C/span\u003E\u003Cbr\u003E\u003C/div\u003E",
-        "descriptionParagraphs": [
-          "\u003Cdiv\u003E\u003Cspan style=\u0022color:rgb(51, 51, 51);font-family:SegoeUI;font-size:16px;display:inline !important;\u0022\u003EOrchestry makes work simple in Microsoft Teams, SharePoint Online and across Microsoft 365 with a comprehensive enablement, adoption and standardization platform that empowers IT Administrators and organizations to define a Microsoft 365 adoption and change management strategy.\u003C/span\u003E\u003Cbr\u003E \u003C/div\u003E",
-          "\u003Cdiv\u003E\u003Cspan style=\u0022color:rgb(51, 51, 51);font-family:SegoeUI;font-size:16px;display:inline !important;\u0022\u003EOrchestry is a balanced platform composed of adoption tools, engaging templates, empowering governance and controlled self-service provisioning to drive usage and adoption success in Microsoft Teams and across Microsoft 365.\u003C/span\u003E\u003Cbr\u003E \u003C/div\u003E",
-          "\u003Cdiv\u003E\u003Cspan style=\u0022color:rgb(51, 51, 51);font-family:SegoeUI;font-size:16px;display:inline !important;\u0022\u003EAt Orchestry, we believe that simplifying the Microsoft 365 experience is the best way to improve the user experience for both users and administrators. With Orchestry, every interaction within Microsoft 365 is based on a simple, beautiful but extremely powerful interface that makes the complex simple, and the impossible plausible.\u003C/span\u003E\u003Cbr\u003E \u003C/div\u003E"
+        "shortDescription": "\u003Cdiv\u003EOrchestry builds balanced adoption and governance solutions that enable you to leverage your investment in Microsoft 365 through empowering your users with the right tools at the right time for the right purpose. See how Orchestry can Make Work Simple for your organization today!\u003Cbr\u003E\u003C/div\u003E",
+        "featuredTitle": "Orchestry - Microsoft Teams App for Governance \u0026 Adoption",
+        "featuredParagraphs": [
+          "\u003Cdiv\u003EOrchestry makes work simple in Microsoft Teams, SharePoint Online and across Microsoft 365 with a comprehensive enablement, adoption and standardization platform that empowers IT Administrators and organizations to define a Microsoft 365 adoption and change management strategy.\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E",
+          "\u003Cdiv\u003EOrchestry is a balanced platform composed of adoption tools, engaging templates, empowering governance and controlled self-service provisioning to drive usage and adoption success in Microsoft Teams and across Microsoft 365.\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E",
+          "\u003Cdiv\u003EAt Orchestry, we believe that simplifying the Microsoft 365 experience is the best way to improve the user experience for both users and administrators. With Orchestry, every interaction within Microsoft 365 is based on a simple, beautiful but extremely powerful interface that makes the complex simple, and the impossible plausible.\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E"
         ],
+        "callToAction": {
+          "title": "Discover Work Made Simple in Microsoft Teams, SharePoint and across Microsoft 365",
+          "description": "Get FREE access to Orchestry to discover work made simple for your organization",
+          "url": "https://orchestry.com/"
+        },
         "mediaAssets": [
           {
             "type": "image",
             "order": 0,
-            "url": "assets/Orchestry - Partner Profile Listing - Header.png",
+            "url": "assets/Hero.png",
             "alt": ""
           }
         ],

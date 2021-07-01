@@ -7,7 +7,7 @@
   "industries": [],
   "sortOrder": 0,
   "preview": false,
-  "visible": false,
+  "visible": true,
   "solutionLogoPicture": null,
   "solutionLogoPictureAlt": "",
   "solutionName": "Centralized location for all training content",
@@ -17,25 +17,39 @@
     "personas": "Business Analysts;Content Owners;End-user;IT Admin;Leadership;Training \u0026 Development",
     "solutionTechnologies": "Microsoft Teams;SharePoint sites;Stream",
     "businessFunctions": null,
+    "displayPartner": true,
+    "appSource": null,
     "displayInfo": {
       "default": {
         "descriptionParagraphs": [
           {
             "name": "Short description",
             "content": [
-              "\u003Cdiv\u003E\u003Cspan style=\u0022display:inline !important;\u0022\u003EAn organization can create their own custom training or add training for other technologies outside Microsoft 365. Adding custom training to Learning Pathways creates a one-stop-shop for all training content across the organization.\u003C/span\u003E\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E"
+              "\u003Cdiv\u003E\u003Cdiv\u003EAn organization can create their own custom training or add training for other technologies outside Microsoft 365. Adding custom training to Learning Pathways creates a one-stop-shop for all training content across the organization.\u003Cbr\u003E\u003C/div\u003E\u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E"
+            ]
+          },
+          {
+            "name": "Long description",
+            "content": [
+              "\u003Cdiv\u003E\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E"
             ]
           },
           {
             "name": "Business need or problem",
             "content": [
-              "\u003Cdiv\u003E\u003Cspan\u003E\u003C/span\u003E \u003C/div\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:Calibri, sans-serif;margin-bottom:6.0pt;\u0022\u003E\u003Cspan style=\u0022font-family:\u0026quot;Segoe UI\u0026quot;,sans-serif;\u0022\u003EProductivity\nand collaboration are the heartbeat of any successful organization.\u003Cspan style=\u0022\u0022\u003E\u0026nbsp; \u003C/span\u003ETo ensure your users are productive, they\nmust be trained on the tools provided to them and any subsequent updates to\nthose tools.\u003Cspan style=\u0022\u0022\u003E\u0026nbsp; \u003C/span\u003EThis is where it gets\nchallenging.\u003C/span\u003E \u003C/p\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:Calibri, sans-serif;margin-bottom:6.0pt;\u0022\u003E\u003Cspan style=\u0022font-family:\u0026quot;Segoe UI\u0026quot;,sans-serif;\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003Cspan style=\u0022font-family:\u0026quot;Segoe UI\u0026quot;, sans-serif;font-size:12pt;\u0022\u003ECompany intranets have become an excellent medium\nfor providing internal training for your users.\u003C/span\u003E\u003Cspan style=\u0022font-family:\u0026quot;Segoe UI\u0026quot;, sans-serif;font-size:12pt;\u0022\u003E\u0026nbsp;\n\u003C/span\u003E\u003Cspan style=\u0022font-family:\u0026quot;Segoe UI\u0026quot;, sans-serif;font-size:12pt;\u0022\u003EHowever, decentralized, out-of-date and poorly indexed training content causes\nfriction and frustration with end-users simply trying to get help on the tools\nthey need to do their job.\u003C/span\u003E \u003C/p\u003E\u003Cdiv\u003E\u003Cdiv\u003E \u003C/div\u003E \u003C/div\u003E"
+              "\u003Cdiv\u003E\u003Cspan\u003E\u003C/span\u003E \u003C/div\u003E\u003Cdiv\u003EProductivity\nand collaboration are the heartbeat of any successful organization.\u0026nbsp; To ensure your users are productive, they\nmust be trained on the tools provided to them and any subsequent updates to\nthose tools.\u0026nbsp; This is where it gets\nchallenging. \u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003ECompany intranets have become an excellent medium\nfor providing internal training for your users.\u0026nbsp;\nHowever, decentralized, out-of-date and poorly indexed training content causes\nfriction and frustration with end-users simply trying to get help on the tools\nthey need to do their job. \u003C/div\u003E\u003Cdiv\u003E\u003Cdiv\u003E \u003C/div\u003E \u003C/div\u003E"
             ]
           },
           {
             "name": "Business solution",
             "content": [
-              "\u003Cdiv\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:Calibri, sans-serif;margin-bottom:6.0pt;\u0022\u003E\u003Cspan style=\u0022font-family:\u0026quot;Segoe UI\u0026quot;,sans-serif;\u0022\u003EA\ncentralized and intuitive training portal that supports surfacing the training content\n\u003Cb\u003Ein context\u003C/b\u003E enables end users\u2019\nability to access the right information at the right time. To identify what\ncontent will surface in the training portal, Sympraxis will:\u003C/span\u003E \u003C/p\u003E\u003Cp style=\u0022margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\u0022\u003E\u003Cspan style=\u0022font-size:12.0pt;font-family:\u0026quot;Segoe UI\u0026quot;,sans-serif;\u0022\u003E-Perform\ndiscovery across intranet and external sources for all current training\nmaterials\u003C/span\u003E \u003C/p\u003E\u003Cp style=\u0022margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\u0022\u003E\u003Cspan style=\u0022font-size:12.0pt;font-family:\u0026quot;Segoe UI\u0026quot;,sans-serif;\u0022\u003E-Identify\nsubject matter experts and develop site architecture to support direct access\nto content\u003C/span\u003E \u003C/p\u003E\u003Cp style=\u0022margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\u0022\u003E\u003Cspan style=\u0022font-size:12.0pt;font-family:\u0026quot;Segoe UI\u0026quot;,sans-serif;\u0022\u003E-Develop\npersonas for different learners across the organization\u003C/span\u003E \u003C/p\u003E\u003Cp style=\u0022margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\u0022\u003E\u003Cspan style=\u0022font-size:12.0pt;font-family:\u0026quot;Segoe UI\u0026quot;,sans-serif;\u0022\u003E-Define\nintuitive information architecture to support each persona and their top tasks\u003C/span\u003E \u003C/p\u003E\u003Cp style=\u0022margin:0in;font-size:11pt;font-family:Calibri, sans-serif;\u0022\u003E\u003Cspan style=\u0022font-size:12.0pt;font-family:\u0026quot;Segoe UI\u0026quot;,sans-serif;\u0022\u003E-Align\nscenarios and playlists with organizational learning objectives\u003C/span\u003E \u003C/p\u003E\u003Cspan style=\u0022font-size:12.0pt;font-family:\u0026quot;Segoe UI\u0026quot;,sans-serif;\u0022\u003E-Collaborate with core learning team to\ncustomize Learning Pathways homepage\u003C/span\u003E\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E"
+              "\u003Cdiv\u003EA\ncentralized and intuitive training portal that supports surfacing the training content\n\u003Cb\u003Ein context \u003C/b\u003Eenables end users\u2019\nability to access the right information at the right time. To identify what\ncontent will surface in the training portal, Sympraxis will: \u003C/div\u003E\u003Cdiv\u003E\u003Cul\u003E\u003Cli\u003EPerform\ndiscovery across intranet and external sources for all current training\nmaterials \u003C/li\u003E\u003Cli\u003EIdentify\nsubject matter experts and develop site architecture to support direct access\nto content \u003C/li\u003E\u003Cli\u003EDevelop\npersonas for different learners across the organization \u003C/li\u003E\u003Cli\u003EDefine\nintuitive information architecture to support each persona and their top tasks \u003C/li\u003E\u003Cli\u003EAlign\nscenarios and playlists with organizational learning objectives \u003C/li\u003E\u003Cli\u003ECollaborate with core learning team to\ncustomize Learning Pathways homepage\u003C/li\u003E\u003C/ul\u003E\u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E"
+            ]
+          },
+          {
+            "name": "Success factors",
+            "content": [
+              "\u003Cdiv\u003E\u003Cspan\u003E\u003C/span\u003E \u003C/div\u003E\u003Cdiv\u003ELearning\nPathways comes with all Microsoft 365 documentation categorized into\ntechnologies and playlists which is an excellent start for most organizations.\nEven better, this takes the burden off the Information Technology, learning, or\ntraining departments to either create or gather this content. Adding \u003Cb\u003Eorganization-specific training \u003C/b\u003Eto this\nportal to create a one-stop shop of all training information supports\nproductivity at the organization by: \u003C/div\u003E\u003Cdiv\u003E\u003C/div\u003E\u003Cdiv\u003E\u003Cul\u003E\u003Cli\u003EReducing\ntime to information\u003C/li\u003E\u003Cli\u003ECreating\nlinear training paths across cross-functional training content\u003C/li\u003E\u003Cli\u003EDelivering\ntraining to employees in context\u003C/li\u003E\u003Cli\u003EEnabling subject\nmatter experts to maintain training content independently\u003C/li\u003E\u003C/ul\u003E\u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E\u003C/div\u003E \u003Cp\u003E\u003C/p\u003E\u003Cdiv\u003E\u003Cdiv\u003E \u003C/div\u003E \u003C/div\u003E"
             ]
           }
         ],

@@ -1,0 +1,79 @@
+{
+  "solutionId": "365-hybrid-workspaces",
+  "partnerId": "communicativ",
+  "categories": [
+    "teams"
+  ],
+  "industries": [],
+  "sortOrder": 0,
+  "preview": false,
+  "visible": false,
+  "solutionLogoPicture": null,
+  "solutionLogoPictureAlt": "",
+  "solutionName": "365 Hybrid Workspaces",
+  "solutionUrl": null,
+  "solutionUrlTitle": "365 Hybrid Workspaces",
+  "metadata": {
+    "personas": "All Employees",
+    "solutionTechnologies": "Microsoft Teams;Microsoft Teams Rooms;Surface Hubs",
+    "businessFunctions": null,
+    "displayPartner": false,
+    "appSource": null,
+    "displayInfo": {
+      "default": {
+        "descriptionParagraphs": [
+          {
+            "name": "Short description",
+            "content": [
+              "\u003Cdiv\u003E\u003Cb\u003EDefining\nyour Hybrid Work strategy, convert your Hybrid Workspaces and map the Microsoft\nTeams solutions which fit the business processes.\u003C/b\u003E\u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E\u003C/div\u003E"
+            ]
+          },
+          {
+            "name": "Long description",
+            "content": [
+              "\u003Cdiv\u003EHybrid Workspaces will bridge the gap between the\nphysical and digital world and evolving with employee needs. \u003C/div\u003E\u003Cdiv\u003E\u0026nbsp;\u003C/div\u003E\u003Cdiv\u003EWe deliver the Teams\nMeeting space for the new work scenarios!\u003Cbr\u003E\u003C/div\u003E"
+            ]
+          },
+          {
+            "name": "Business need or problem",
+            "content": [
+              "\u003Cdiv\u003EEvery organization needs a plan and policies for\nthe path to extreme flexibility regarding the Work Spaces.\u003Cbr\u003E\u003C/div\u003E"
+            ]
+          },
+          {
+            "name": "Business solution",
+            "content": [
+              "\u003Cdiv\u003ECommunicativ will built a Hybrid work Matrix\nwhich will give insights in the Hybrid Work meeting spaces. We convert your business\nneeds and deliver Teams certified devices to support these.\u003Cbr\u003E\u003C/div\u003E"
+            ]
+          },
+          {
+            "name": "Success factors",
+            "content": [
+              "\u003Cdiv\u003EBy focusing on the business needs, the Hybrid Workspace solutions are rapidly adopted by the End Users.\u003Cbr\u003E\u003C/div\u003E"
+            ]
+          }
+        ],
+        "mediaAssets": [
+          {
+            "type": "image",
+            "order": 0,
+            "url": "assets/Solution-365 Hybrid Workspaces.png",
+            "alt": ""
+          }
+        ],
+        "detailItemCategories": [
+          {
+            "name": "Resources",
+            "description": "Possible html supported text shown just above the list of links",
+            "items": [
+              {
+                "url": "https://communicativ.nl/teams-meeting-rooms/",
+                "name": "Teams Meeting Rooms |\nCommunicativ - Microsoft specialist"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

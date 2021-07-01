@@ -8,13 +8,21 @@
   "visible": false,
   "logoPicture": null,
   "logoPictureAlt": "",
+  "heroPicture": null,
+  "featuredPicture": null,
   "partnerName": "Arvato",
   "mpnId": "0",
   "metadata": {
     "displayInfo": {
       "default": {
         "shortDescription": null,
-        "descriptionParagraphs": [],
+        "featuredTitle": null,
+        "featuredParagraphs": [],
+        "callToAction": {
+          "title": null,
+          "description": null,
+          "url": null
+        },
         "mediaAssets": [],
         "detailItemCategories": []
       }

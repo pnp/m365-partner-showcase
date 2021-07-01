@@ -1,0 +1,59 @@
+{
+  "solutionId": "S1",
+  "partnerId": "M-part-id",
+  "categories": [],
+  "industries": [],
+  "sortOrder": 0,
+  "preview": false,
+  "visible": false,
+  "solutionLogoPicture": null,
+  "solutionLogoPictureAlt": "",
+  "solutionName": "S1",
+  "solutionUrl": "https://aamir.store1",
+  "solutionUrlTitle": "S1",
+  "metadata": {
+    "personas": "All Employees",
+    "solutionTechnologies": "Azure Bot",
+    "businessFunctions": "Adoption",
+    "appSource": "https://aamir.store1/app",
+    "displayInfo": {
+      "default": {
+        "descriptionParagraphs": [
+          {
+            "name": "Short description",
+            "content": [
+              "s2"
+            ]
+          },
+          {
+            "name": "Business need or problem",
+            "content": [
+              "bes"
+            ]
+          },
+          {
+            "name": "Business solution",
+            "content": [
+              "sol"
+            ]
+          }
+        ],
+        "mediaAssets": [
+          {
+            "type": "image",
+            "order": 0,
+            "url": "assets/header-ssg11.png",
+            "alt": ""
+          }
+        ],
+        "detailItemCategories": [
+          {
+            "name": "Resources",
+            "description": "Possible html supported text shown just above the list of links",
+            "items": []
+          }
+        ]
+      }
+    }
+  }
+}

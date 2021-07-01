@@ -1,0 +1,95 @@
+{
+  "solutionId": "atlas-hoverpoint",
+  "partnerId": "clearpeople-limited",
+  "categories": [],
+  "industries": [],
+  "sortOrder": 0,
+  "preview": false,
+  "visible": false,
+  "solutionLogoPicture": null,
+  "solutionLogoPictureAlt": "",
+  "solutionName": "Atlas HoverPoint",
+  "solutionUrl": "https://www.clearpeople.com/hoverpoint ",
+  "solutionUrlTitle": "Atlas HoverPoint",
+  "metadata": {
+    "personas": "Compliance;Corporate Communications;Front Line Worker;HR;IT;Knowledge Managers;Knowledge Worker",
+    "solutionTechnologies": "Azure API Management;Azure Cognitive Search;Azure Functions;Azure SQL DB;Azure Storage Accounts;Graph API;SPFx",
+    "businessFunctions": null,
+    "displayPartner": false,
+    "appSource": null,
+    "displayInfo": {
+      "default": {
+        "descriptionParagraphs": [
+          {
+            "name": "Short description",
+            "content": [
+              "\u003Cdiv\u003E\u003Cb\u003EAtlas\nHoverPoint - Make Your Point With Interactive Imagery\u003C/b\u003E\u003C/div\u003E\u003Cdiv\u003E\u003Cb\u003E\u003Cbr\u003E\u003C/b\u003E\u003C/div\u003E\u003Cdiv\u003E\u003Cb\u003EAtlas\nHoverPoint is a powerful yet easy-to-use Atlas tool for creating interactive\nimages in Microsoft 365. HoverPoint makes learning and sharing knowledge so\nmuch simpler and more effective.\u003C/b\u003E\u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E\u003C/div\u003E"
+            ]
+          },
+          {
+            "name": "Long description",
+            "content": [
+              "\u003Cdiv\u003EDriven\norganisations are always looking at how to improve employee engagement and\nspread knowledge. Our work with hundreds of companies has led us to a clear,\nconcise answer: focus on learning.\u003Cbr\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003EFor\ntoo long an organisation\u2019s knowledge, if it\u2019s captured at all, is wrapped up in\nlong, tough-to-digest documents heavy on text and light on engagement. We all\nknow a picture paints a thousand words, so why don\u2019t we apply that?\u003Cbr\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003EWith Atlas HoverPoint anyone can create\neye-catching and interactive images with clickable regions to super charge\nengagement and add life to your digital workspace.\u003Cbr\u003E\u003C/div\u003E"
+            ]
+          },
+          {
+            "name": "Business need or problem",
+            "content": [
+              "\u003Cul\u003E\u003Cli\u003E\u003Cdiv\u003E\u003Cb\u003EData sprawl\u003C/b\u003E\u003Cbr\u003E\u003C/div\u003EKnowledge sharing becomes more difficult as new data silos proliferate and\ncreate end-user confusion.\u003C/li\u003E\u003Cli\u003E\u003Cb\u003EI can\u2019t find stuff\u003C/b\u003E\u003Cbr\u003EEmployees can spend 1.8 hours per day\nsearching for and gathering information (McKinsey).\u003C/li\u003E\u003Cli\u003EThe QR code on the gate of a construction site\nentrance provides all the necessary Health and Safety information about the\nsite. \u003C/li\u003E\u003Cli\u003EA QR code on a piece of equipment links to a visual\nguide detailing the maintenance activities to be performed, keeping expensive\nmachinery in top working order and minimising down time. \u003C/li\u003E\u003Cli\u003EUsing Atlas Search to find the error code from a\nmachine display, workers can then access a graphic with all the information\nneeded to resolve the problem. \u003C/li\u003E\u003Cli\u003EQR codes at strategic points provide maintenance or\ncleaning staff with interactive floor plans.\u0026nbsp;\n\u003C/li\u003E\u003Cli\u003EEmployees unfamiliar with the audio-visual\ntechnology in the room can scan the QR code and get immediate visual guides for\nsetting up.\u003Cbr\u003E\u003C/li\u003E\u003C/ul\u003E"
+            ]
+          },
+          {
+            "name": "Business solution",
+            "content": [
+              "\u003Cdiv\u003E\u003Cul\u003E\u003Cli\u003EA simple user interface to create and edit, click and\npoint, add your text and save. \u003C/li\u003E\u003Cli\u003EHover with a mouse, click or tap to display rich text\nguides and links to further content (with video coming soon).\u0026nbsp; \u003C/li\u003E\u003Cli\u003EUse icons to add visual cues to content (e.g; power,\nentry/exit points, hazards etc.) \u003C/li\u003E\u003Cli\u003EEmbed within Atlas knowledge pages or MS Teams tabs. \u003C/li\u003E\u003Cli\u003EOptimised for mobile and other devices. \u003C/li\u003E\u003Cli\u003EStore as many images with as many HoverPoints as you\nneed.\u003C/li\u003E\u003C/ul\u003E\u003C/div\u003E"
+            ]
+          },
+          {
+            "name": "Success factors",
+            "content": [
+              "\u003Cul\u003E\u003Cli\u003E\u003Cb\u003EEngaged users = more productive users\u003Cbr\u003E\u003C/b\u003EAtlas\nsimplifies daily tasks, taking the stress out of work life and making tech more\naccessible.\u003C/li\u003E\u003Cli\u003E\u003Cb\u003EKnowledge should flow seamlessly through every\norganisation\u003Cbr\u003E\u003C/b\u003EAtlas makes\nit easy for everyone to contribute, be heard and find the knowledge they\u2019re\nlooking for\u003C/li\u003E\u003Cli\u003E\u003Cb\u003EEasy and improved collaboration\u003Cbr\u003E\u003C/b\u003EAtlas makes\ncollaborating easy, with simple provisioning tools that provide agility and\nenriched, visually engaging areas to produce and consume content. People can\ncollaborate, share stories and just enjoy.\u003C/li\u003E\u003Cli\u003E\u003Cb\u003EMeasure\nsuccess\u003Cbr\u003E\u003C/b\u003EAtlas has advanced\nworkspace provisioning, designed for the end-user but controlled by IT and\ngoverned by the business.Powerful analytics enable the organisation to\nmeasure success.\u003C/li\u003E\u003C/ul\u003E"
+            ]
+          }
+        ],
+        "mediaAssets": [
+          {
+            "type": "image",
+            "order": 0,
+            "url": "assets/AtlasHoverPoint-1.png",
+            "alt": ""
+          },
+          {
+            "type": "image",
+            "order": 1,
+            "url": "assets/AtlasHoverPoint-2.png",
+            "alt": ""
+          }
+        ],
+        "detailItemCategories": [
+          {
+            "name": "Resources",
+            "description": "Possible html supported text shown just above the list of links",
+            "items": [
+              {
+                "url": "https://www.clearpeople.com/products/atlas/demo",
+                "name": "Atlas Book a Demo"
+              },
+              {
+                "url": "https://www.clearpeople.com/atlas-features",
+                "name": "Atlas\nFeatures"
+              },
+              {
+                "url": "https://www.clearpeople.com/success-stories",
+                "name": "Atlas\nCase Study Series"
+              },
+              {
+                "url": "https://www.clearpeople.com/pricing",
+                "name": "Atlas\nPricing"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

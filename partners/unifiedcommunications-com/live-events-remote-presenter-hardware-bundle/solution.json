@@ -2,11 +2,11 @@
   "solutionId": "live-events-remote-presenter-hardware-bundle",
   "partnerId": "unifiedcommunications-com",
   "categories": [
-    "virtual events"
+    "virtualevents"
   ],
   "industries": [],
   "sortOrder": 0,
-  "preview": false,
+  "preview": true,
   "visible": false,
   "solutionLogoPicture": null,
   "solutionLogoPictureAlt": "",
@@ -17,25 +17,39 @@
     "personas": "Content Owners;Corporate Communications;Leadership",
     "solutionTechnologies": "Teams Live Events",
     "businessFunctions": null,
+    "displayPartner": true,
+    "appSource": null,
     "displayInfo": {
       "default": {
         "descriptionParagraphs": [
           {
             "name": "Short description",
             "content": [
-              "\u003Cdiv\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:Calibri, sans-serif;margin-bottom:12.0pt;\u0022\u003E\u003Cb\u003E\u003Cspan style=\u0022font-size:14.0pt;\u0022\u003EPlug\nand play hardware solution that includes support for remote presenters to look\nand sound their best.\u003C/span\u003E\u003C/b\u003E\u003C/p\u003E\u003C/div\u003E"
+              "\u003Cdiv\u003E\u003Cb\u003EPlug\nand play hardware solution that includes support for remote presenters to look\nand sound their best.\u003C/b\u003E\u003C/div\u003E"
+            ]
+          },
+          {
+            "name": "Long description",
+            "content": [
+              "\u003Cdiv\u003EThe perfect solution for remote presenters\nincludes everything they need to setup and record or present live from\nanywhere.\u0026nbsp; Includes a camera, microphone,\nlighting, cabling, and setup support.\u0026nbsp; Presenters\ncan upgrade this bundle to include a pre-configured PC for broadcasting.\u003Cbr\u003E\u003C/div\u003E"
             ]
           },
           {
             "name": "Business need or problem",
             "content": [
-              "\u003Cdiv\u003E\u003Cspan style=\u0022font-size:10.0pt;font-family:\u0026quot;Calibri\u0026quot;,sans-serif;\u0022\u003EMany organizations lack the resources to provide\nthe right audio/video tools to remote live presenters and content\nproducers.\u003Cspan style=\u0022\u0022\u003E\u0026nbsp; \u003C/span\u003EThey also need assistance\nwith supporting that technology once deployed.\u003C/span\u003E\u003Cbr\u003E\u003C/div\u003E"
+              "\u003Cdiv\u003EMany organizations lack the resources to provide\nthe right audio/video tools to remote live presenters and content\nproducers.\u0026nbsp; They also need assistance\nwith supporting that technology once deployed.\u003Cbr\u003E\u003C/div\u003E"
             ]
           },
           {
             "name": "Business solution",
             "content": [
-              "\u003Cdiv\u003E\u003Cspan style=\u0022font-size:10.0pt;font-family:\u0026quot;Calibri\u0026quot;,sans-serif;\u0022\u003EWe provide an easy solution that includes\neverything a presenter needs to go live while looking and sounding great, along\nwith the support to make sure the technology works as expected.\u003C/span\u003E\u003Cbr\u003E\u003C/div\u003E"
+              "\u003Cdiv\u003EWe provide an easy solution that includes\neverything a presenter needs to go live while looking and sounding great, along\nwith the support to make sure the technology works as expected.\u003Cbr\u003E\u003C/div\u003E"
+            ]
+          },
+          {
+            "name": "Success factors",
+            "content": [
+              "\u003Cdiv\u003EWe are only successful when our customers are\nsuccessful.\u0026nbsp; We help them achieve amazing\nresults by keeping the solution easy to deploy and support remotely. \u0026nbsp;Our best practices include pre-configuration\nof any software and setup along with expertise and experience to make it work.\u003Cbr\u003E\u003C/div\u003E"
             ]
           }
         ],

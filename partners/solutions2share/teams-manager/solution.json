@@ -7,7 +7,7 @@
   "industries": [],
   "sortOrder": 0,
   "preview": false,
-  "visible": false,
+  "visible": true,
   "solutionLogoPicture": null,
   "solutionLogoPictureAlt": "",
   "solutionName": "Teams Manager",
@@ -17,69 +17,83 @@
     "personas": "Administrators;Corporate Communications;IT Admin",
     "solutionTechnologies": "Azure Bot;Azure Web App Service;Graph API;React;Teams Tabs",
     "businessFunctions": "Adoption;Governance;Project Management;Templates",
+    "displayPartner": true,
+    "appSource": null,
     "displayInfo": {
       "default": {
         "descriptionParagraphs": [
           {
             "name": "Short description",
             "content": [
-              "\u003Cdiv\u003E\u003Cdiv style=\u0022margin:0px 0in 16px;font-size:12pt;font-family:Calibri, sans-serif;\u0022\u003E\u003Cspan\u003ETeams Manager helps you keep control of your Microsoft Teams environment by providing Teams templates, an approval workflow, lifecycle management and governance options such as naming conventions.\u003C/span\u003E\u003C/div\u003E\u003C/div\u003E"
+              "\u003Cdiv\u003ETeams Manager helps you keep control of your Microsoft Teams environment by providing Teams templates, an approval workflow, lifecycle management and governance options such as naming conventions.\u003C/div\u003E"
+            ]
+          },
+          {
+            "name": "Long description",
+            "content": [
+              "\u003Cdiv\u003EWith Teams Manager, use any Team as a template and add channels, tabs,\nlists or apps like Planner and OneNote. Users can then request new Teams based\non these templates, which a pre-selected group of users can easily review\nthrough an an automated approval workflow.\u003Cbr\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003EFor a better overview in Teams you can create naming\nconventions and let Teams Manager archive inactive Teams. Build a complete\ngovernance automation by combining naming conventions and lifecycle management\nrules.\u003Cbr\u003E\u003C/div\u003E"
             ]
           },
           {
             "name": "Business need or problem",
             "content": [
-              "\u003Cdiv\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:Calibri, sans-serif;\u0022\u003E\u003Cspan style=\u0022font-size:10.0pt;color:black;\u0022\u003EWith Microsoft Teams, one of the main points of praise and criticism\nboth is the possibility for every user to create new Teams. While this makes it\neasy for employees to engage with the tool and raises the adoption rate, it is\nalso the source of Teams\u2019 main problem: uncontrolled growth. For each seemingly\nimportant topic, users can and will create new Teams. \u003C/span\u003E\u003C/p\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:Calibri, sans-serif;\u0022\u003E\u003Cspan style=\u0022font-size:10.0pt;color:black;\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003C/p\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:Calibri, sans-serif;\u0022\u003E\u003Cspan style=\u0022font-size:10.0pt;color:black;\u0022\u003EThe alternative is to disable the \u201CCreate New Team\u201D option for everyone\nbut the highest-level admins. This setting, however, has serious drawbacks: Users\nwill be more frustrated with the process, and the adoption rate of Teams as a\nwhole will be reduced accordingly.\u003C/span\u003E\u003C/p\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:Calibri, sans-serif;\u0022\u003E\u003Cspan style=\u0022font-size:10.0pt;color:black;\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003C/p\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:Calibri, sans-serif;\u0022\u003E\u003Cspan style=\u0022font-size:10.0pt;color:black;\u0022\u003EAfter several months of using Teams, even a small company of 10 to 20\nemployees will notice that there are a lot of channels that are used rarely, if\never. A global player with tens of thousands of employees, each of whom can\ncreate new Teams at will, will quickly lose control over the Teams creation\nprocess. The result is uncontrolled growth and loss of structure.\u003C/span\u003E\u003C/p\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:Calibri, sans-serif;\u0022\u003E\u003Cspan style=\u0022font-size:10.0pt;color:black;\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003C/p\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:Calibri, sans-serif;\u0022\u003E\u003Cspan style=\u0022font-size:10.0pt;color:black;\u0022\u003ESolutions2Share\u2019s governance tool Teams Manager aims to allow companies\nto keep control over their internal structures, while still enabling users to\nkeep the freedom of creating new Teams according to their needs.\u003C/span\u003E\u003C/p\u003E\u003C/div\u003E"
+              "\u003Cdiv\u003EWith Microsoft Teams, one of the main points of praise and criticism\nboth is the possibility for every user to create new Teams. While this makes it\neasy for employees to engage with the tool and raises the adoption rate, it is\nalso the source of Teams\u2019 main problem: uncontrolled growth. For each seemingly\nimportant topic, users can and will create new Teams. \u003C/div\u003E\u003Cdiv\u003E\u0026nbsp;\u003C/div\u003E\u003Cdiv\u003EThe alternative is to disable the \u201CCreate New Team\u201D option for everyone\nbut the highest-level admins. This setting, however, has serious drawbacks: Users\nwill be more frustrated with the process, and the adoption rate of Teams as a\nwhole will be reduced accordingly.\u003C/div\u003E\u003Cdiv\u003E\u0026nbsp;\u003C/div\u003E\u003Cdiv\u003EAfter several months of using Teams, even a small company of 10 to 20\nemployees will notice that there are a lot of channels that are used rarely, if\never. A global player with tens of thousands of employees, each of whom can\ncreate new Teams at will, will quickly lose control over the Teams creation\nprocess. The result is uncontrolled growth and loss of structure.\u003C/div\u003E\u003Cdiv\u003E\u0026nbsp;\u003C/div\u003E\u003Cdiv\u003ESolutions2Share\u2019s governance tool Teams Manager aims to allow companies\nto keep control over their internal structures, while still enabling users to\nkeep the freedom of creating new Teams according to their needs.\u003C/div\u003E"
             ]
           },
           {
             "name": "Business solution",
             "content": [
-              "\u003Cdiv\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:Calibri, sans-serif;\u0022\u003E\u003Cspan style=\u0022font-size:10.0pt;color:black;\u0022\u003ESolutions2Share developed Teams Manager as the easiest governance tool\nfor Microsoft Teams.\u003C/span\u003E\u003C/p\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:Calibri, sans-serif;\u0022\u003E\u003Cspan style=\u0022font-size:10.0pt;color:black;\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003C/p\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:Calibri, sans-serif;\u0022\u003E\u003Cspan style=\u0022font-size:10.0pt;color:black;\u0022\u003ETeams Manager helps companies keep control of their Microsoft Teams\nenvironment and stop uncontrolled growth, while still enabling users to request\nnew teams based on templates. Any team can be used as a template, with\nchannels, tabs, lists or apps like Planner and OneNote. Permissions and\nsettings can also be pre-configured for each template. \u003C/span\u003E\u003C/p\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:Calibri, sans-serif;\u0022\u003E\u003Cspan style=\u0022font-size:10.0pt;color:black;\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003C/p\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:Calibri, sans-serif;\u0022\u003E\u003Cspan style=\u0022font-size:10.0pt;color:black;\u0022\u003ETeams Manager offers an automated request and approval workflow that\nallows all users to request new teams (based on templates), while a\npre-selected group of users can easily review and approve the requests. For\neach new team request, Teams Manager offers the possibility to ask for\ncustomizable metadata, e.g. the department or cost center. Based on this\ninformation, assigned governance policies can then be executed automatically.\u003C/span\u003E\u003C/p\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:Calibri, sans-serif;\u0022\u003E\u003Cspan style=\u0022font-size:10.0pt;color:black;\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003C/p\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:Calibri, sans-serif;\u0022\u003E\u003Cspan style=\u0022font-size:10.0pt;color:black;\u0022\u003EWith lifecycle management, outdated or inactive teams can be archived or\ndeleted, according to specified expiration dates. The integrated Teams Manager\nbot keeps team owners informed with automated notifications.\u003C/span\u003E\u003C/p\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:Calibri, sans-serif;\u0022\u003E\u003Cspan style=\u0022font-size:10.0pt;color:black;\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003C/p\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:Calibri, sans-serif;\u0022\u003E\u003Cspan style=\u0022font-size:10.0pt;color:black;\u0022\u003EFor a better overview and structure, Teams Manager allows companies to\ncreate naming conventions, i.e. predefined words as prefixes or suffixes that\nare added to team names, OneNotes or Planners. \u003C/span\u003E\u003C/p\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:Calibri, sans-serif;\u0022\u003E\u003Cspan style=\u0022font-size:10.0pt;color:black;\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003C/p\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:Calibri, sans-serif;\u0022\u003E\u003Cspan style=\u0022font-size:10.0pt;color:black;\u0022\u003ELifecycles and naming conventions can be combined into full governance\nautomation with different policies for different templates. \u003C/span\u003E\u003C/p\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:Calibri, sans-serif;\u0022\u003E\u003Cspan style=\u0022font-size:10.0pt;color:black;\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003C/p\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:Calibri, sans-serif;\u0022\u003E\u003Cspan style=\u0022font-size:10.0pt;color:black;\u0022\u003ETeams Manager can be installed directly from the Microsoft Teams app store\nand is ready to go in just a few minutes.\u003C/span\u003E\u003C/p\u003E\u003C/div\u003E"
+              "\u003Cdiv\u003ESolutions2Share developed Teams Manager as the easiest governance tool\nfor Microsoft Teams.\u003C/div\u003E\u003Cdiv\u003E\u0026nbsp;\u003C/div\u003E\u003Cdiv\u003ETeams Manager helps companies keep control of their Microsoft Teams\nenvironment and stop uncontrolled growth, while still enabling users to request\nnew teams based on templates. Any team can be used as a template, with\nchannels, tabs, lists or apps like Planner and OneNote. Permissions and\nsettings can also be pre-configured for each template. \u003C/div\u003E\u003Cdiv\u003E\u0026nbsp;\u003C/div\u003E\u003Cdiv\u003ETeams Manager offers an automated request and approval workflow that\nallows all users to request new teams (based on templates), while a\npre-selected group of users can easily review and approve the requests. For\neach new team request, Teams Manager offers the possibility to ask for\ncustomizable metadata, e.g. the department or cost center. Based on this\ninformation, assigned governance policies can then be executed automatically.\u003C/div\u003E\u003Cdiv\u003E\u0026nbsp;\u003C/div\u003E\u003Cdiv\u003EWith lifecycle management, outdated or inactive teams can be archived or\ndeleted, according to specified expiration dates. The integrated Teams Manager\nbot keeps team owners informed with automated notifications.\u003C/div\u003E\u003Cdiv\u003E\u0026nbsp;\u003C/div\u003E\u003Cdiv\u003EFor a better overview and structure, Teams Manager allows companies to\ncreate naming conventions, i.e. predefined words as prefixes or suffixes that\nare added to team names, OneNotes or Planners. \u003C/div\u003E\u003Cdiv\u003E\u0026nbsp;\u003C/div\u003E\u003Cdiv\u003ELifecycles and naming conventions can be combined into full governance\nautomation with different policies for different templates. \u003C/div\u003E\u003Cdiv\u003E\u0026nbsp;\u003C/div\u003E\u003Cdiv\u003ETeams Manager can be installed directly from the Microsoft Teams app store\nand is ready to go in just a few minutes.\u003C/div\u003E"
+            ]
+          },
+          {
+            "name": "Success factors",
+            "content": [
+              "\u003Cdiv\u003ETeams\nManager is the right choice for our clients as it enables them to introduce\ngovernance and still keep their users engaged. Naming conventions for Team\nnames, OneNotes and Planners help with sensible names and finding content.\nLifecycle settings automatically archive inactive or obsolete Teams. Templates\nallow admins to create structures with channels, applications, a unique set of\nuser permissions, folder structures and even pre-defined content in Planner and\nOneNote. Users are able to request new Teams, which approvers check first.\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003EOur\nclients\u0027 users save time every day due to a clean, structured Teams\nenvironment. They do not have to search any longer for specific content or\nup-to-date information due to applied naming conventions. The internal IT\ndepartments are now able to maintain their environment with minimum effort and still\nhave a great structure based on their needs and business processes. And most\nimportant of all, the users do not need to take additional steps to create a\nnew Team. Our clients are able to safely use Teams as a powerful collaboration\ntool.\u003C/div\u003E"
             ]
           }
         ],
         "mediaAssets": [
           {
-            "type": "video",
-            "order": 0,
-            "url": "https://www.youtube.com/embed/EmvGa7JDJr4",
-            "alt": ""
-          },
-          {
             "type": "image",
-            "order": 1,
+            "order": 0,
             "url": "assets/solutions2share-teams-manager-02-lifecycles.png",
             "alt": ""
           },
           {
             "type": "image",
-            "order": 2,
+            "order": 1,
             "url": "assets/solutions2share-teams-manager-04-governance-policies.png",
             "alt": ""
           },
           {
             "type": "image",
-            "order": 3,
+            "order": 2,
             "url": "assets/solutions2share-teams-manager-03-naming-conventions.png",
             "alt": ""
           },
           {
             "type": "image",
-            "order": 4,
+            "order": 3,
             "url": "assets/solutions2share-teams-manager-05-create-templates.png",
             "alt": ""
           },
           {
             "type": "image",
-            "order": 5,
+            "order": 4,
             "url": "assets/solutions2share-teams-manager-06-requests.png",
             "alt": ""
           },
           {
             "type": "image",
-            "order": 6,
+            "order": 5,
             "url": "assets/solutions2share-teams-manager-01-templates.png",
+            "alt": ""
+          },
+          {
+            "type": "video",
+            "order": 6,
+            "url": "https://www.youtube.com/embed/EmvGa7JDJr4",
             "alt": ""
           }
         ],
