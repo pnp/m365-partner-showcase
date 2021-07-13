@@ -1,0 +1,82 @@
+{
+  "solutionId": "atlas-hoverpoint",
+  "partnerId": "clearpeople-limited",
+  "categories": [],
+  "industries": [],
+  "sortOrder": 0,
+  "preview": false,
+  "visible": false,
+  "solutionLogoPicture": null,
+  "solutionLogoPictureAlt": "",
+  "solutionName": "Atlas HoverPoint",
+  "solutionUrl": "https://www.clearpeople.com/hoverpoint ",
+  "solutionUrlTitle": "Atlas HoverPoint",
+  "metadata": {
+    "personas": "Compliance;Corporate Communications;Front Line Worker;HR;IT;Knowledge Managers;Knowledge Worker",
+    "solutionTechnologies": "SPFx",
+    "businessFunctions": null,
+    "appSource": null,
+    "displayInfo": {
+      "default": {
+        "descriptionParagraphs": [
+          {
+            "name": "Short description",
+            "content": [
+              "\u003Cdiv\u003E\u003Cb\u003EAtlas\nHoverPoint - Make Your Point With Interactive Imagery\u003C/b\u003E\u003C/div\u003E\u003Cdiv\u003E\u003Cb\u003E\u003Cbr\u003E\u003C/b\u003E\u003C/div\u003E\u003Cdiv\u003E\u003Cb\u003EAtlas\nHoverPoint is a powerful yet easy-to-use Atlas tool for creating interactive\nimages in Microsoft 365. HoverPoint makes learning and sharing knowledge so\nmuch simpler and more effective.\u003C/b\u003E\u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E\u003C/div\u003E"
+            ]
+          },
+          {
+            "name": "Business need or problem",
+            "content": [
+              "\u003Cdiv style=\u0022\u0022\u003E\u003Cul style=\u0022\u0022\u003E\u003Cli style=\u0022\u0022\u003E\u003Cspan style=\u0022text-align:start;display:inline !important;\u0022\u003E\u003Cb\u003EThe onboarding process\u003C/b\u003E\u003Cspan style=\u0022font-weight:inherit;\u0022\u003E as a new starter or stand-in worker may not always be effective.\u003C/span\u003E\u003C/span\u003E\u003C/li\u003E\u003Cli style=\u0022\u0022\u003E\u003Cb\u003ELearning and education\u003C/b\u003E\u003Cspan style=\u0022font-weight:inherit;\u0022\u003E of workers is tricky while working remotely or on the frontline, especially if it is not provided in the person\u2019s first language.\u003C/span\u003E\u003C/li\u003E\u003Cli style=\u0022\u0022\u003E\u003Cb\u003EHealth \u0026amp; Safety compliance\u003C/b\u003E\u003Cspan style=\u0022font-weight:inherit;\u0022\u003E is critical for some sectors - working on a construction site is hazardous and the site changes regularly. \u003C/span\u003E\u003C/li\u003E\u003Cli style=\u0022\u0022\u003E\u003Cb\u003ECostly mistakes or delays\u003C/b\u003E\u003Cspan style=\u0022font-weight:inherit;\u0022\u003E due to construction or maintenance workers not always having the necessary information.\u003C/span\u003E\u003C/li\u003E\u003C/ul\u003E\u003C/div\u003E\u003Cspan style=\u0022font-weight:inherit;\u0022\u003E\u003C/span\u003E"
+            ]
+          },
+          {
+            "name": "Business solution",
+            "content": [
+              "\u003Cdiv\u003E\u003Cul\u003E\u003Cli\u003EA simple user interface to create and edit, click and\npoint, add your text and save. \u003C/li\u003E\u003Cli\u003EHover with a mouse, click or tap to display rich text\nguides and links to further content (with video coming soon).\u0026nbsp; \u003C/li\u003E\u003Cli\u003EUse icons to add visual cues to content (e.g; power,\nentry/exit points, hazards etc.) \u003C/li\u003E\u003Cli\u003EEmbed within Atlas knowledge pages or MS Teams tabs. \u003C/li\u003E\u003Cli\u003EOptimised for mobile and other devices. \u003C/li\u003E\u003Cli\u003EStore as many images with as many HoverPoints as you\nneed.\u003C/li\u003E\u003C/ul\u003E\u003C/div\u003E"
+            ]
+          }
+        ],
+        "mediaAssets": [
+          {
+            "type": "image",
+            "order": 0,
+            "url": "assets/AtlasHoverPoint-1.png",
+            "alt": ""
+          },
+          {
+            "type": "image",
+            "order": 1,
+            "url": "assets/AtlasHoverPoint-2.png",
+            "alt": ""
+          }
+        ],
+        "detailItemCategories": [
+          {
+            "name": "Resources",
+            "description": "Possible html supported text shown just above the list of links",
+            "items": [
+              {
+                "url": "https://www.clearpeople.com/products/atlas/demo",
+                "name": "Atlas Book a Demo"
+              },
+              {
+                "url": "https://www.clearpeople.com/atlas-features",
+                "name": "Atlas\nFeatures"
+              },
+              {
+                "url": "https://www.clearpeople.com/success-stories",
+                "name": "Atlas\nCase Study Series"
+              },
+              {
+                "url": "https://www.clearpeople.com/pricing",
+                "name": "Atlas\nPricing"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

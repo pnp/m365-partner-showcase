@@ -1,5 +1,5 @@
 {
-  "partnerId": "avepoint",
+  "partnerId": "test123",
   "categories": [],
   "industries": [],
   "solutions": null,
@@ -8,14 +8,14 @@
   "visible": false,
   "logoPicture": null,
   "logoPictureAlt": "",
-  "heroPicture": null,
+  "heroPicture": "assets/hero.png",
   "featuredPicture": null,
-  "partnerName": "AvePoint",
+  "partnerName": "Test full partner",
   "mpnId": "0",
   "metadata": {
     "displayInfo": {
       "default": {
-        "shortDescription": null,
+        "shortDescription": "Test",
         "featuredTitle": null,
         "featuredParagraphs": [],
         "callToAction": {
@@ -23,7 +23,14 @@
           "description": null,
           "url": null
         },
-        "mediaAssets": [],
+        "mediaAssets": [
+          {
+            "type": "image",
+            "order": 0,
+            "url": "assets/Hero.png",
+            "alt": ""
+          }
+        ],
         "detailItemCategories": []
       }
     }
