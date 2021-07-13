@@ -1,0 +1,70 @@
+{
+  "solutionId": "Full---solution-3",
+  "partnerId": "test123",
+  "categories": [],
+  "industries": [],
+  "sortOrder": 0,
+  "preview": false,
+  "visible": false,
+  "solutionLogoPicture": null,
+  "solutionLogoPictureAlt": "",
+  "solutionName": "Full - solution 3",
+  "solutionUrl": null,
+  "solutionUrlTitle": "Full - solution 3",
+  "metadata": {
+    "personas": "Administrators",
+    "solutionTechnologies": "Azure",
+    "businessFunctions": "Adoption",
+    "displayPartner": false,
+    "appSource": null,
+    "displayInfo": {
+      "default": {
+        "descriptionParagraphs": [
+          {
+            "name": "Short description",
+            "content": []
+          },
+          {
+            "name": "Long description",
+            "content": [
+              "Test"
+            ]
+          },
+          {
+            "name": "Business need or problem",
+            "content": [
+              "Test"
+            ]
+          },
+          {
+            "name": "Business solution",
+            "content": [
+              "Test"
+            ]
+          },
+          {
+            "name": "Success factors",
+            "content": [
+              "Test"
+            ]
+          }
+        ],
+        "mediaAssets": [
+          {
+            "type": "image",
+            "order": 0,
+            "url": "assets/Hero.png",
+            "alt": ""
+          }
+        ],
+        "detailItemCategories": [
+          {
+            "name": "Resources",
+            "description": "Possible html supported text shown just above the list of links",
+            "items": []
+          }
+        ]
+      }
+    }
+  }
+}
