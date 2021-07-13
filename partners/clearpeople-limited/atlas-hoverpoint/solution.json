@@ -13,7 +13,7 @@
   "solutionUrlTitle": "Atlas HoverPoint",
   "metadata": {
     "personas": "Compliance;Corporate Communications;Front Line Worker;HR;IT;Knowledge Managers;Knowledge Worker",
-    "solutionTechnologies": "Azure API Management;Azure Cognitive Search;Azure Functions;Azure SQL DB;Azure Storage Accounts;Graph API;SPFx",
+    "solutionTechnologies": "SPFx",
     "businessFunctions": null,
     "displayPartner": false,
     "appSource": null,
@@ -35,7 +35,7 @@
           {
             "name": "Business need or problem",
             "content": [
-              "\u003Cul\u003E\u003Cli\u003E\u003Cdiv\u003E\u003Cb\u003EData sprawl\u003C/b\u003E\u003Cbr\u003E\u003C/div\u003EKnowledge sharing becomes more difficult as new data silos proliferate and\ncreate end-user confusion.\u003C/li\u003E\u003Cli\u003E\u003Cb\u003EI can\u2019t find stuff\u003C/b\u003E\u003Cbr\u003EEmployees can spend 1.8 hours per day\nsearching for and gathering information (McKinsey).\u003C/li\u003E\u003Cli\u003EThe QR code on the gate of a construction site\nentrance provides all the necessary Health and Safety information about the\nsite. \u003C/li\u003E\u003Cli\u003EA QR code on a piece of equipment links to a visual\nguide detailing the maintenance activities to be performed, keeping expensive\nmachinery in top working order and minimising down time. \u003C/li\u003E\u003Cli\u003EUsing Atlas Search to find the error code from a\nmachine display, workers can then access a graphic with all the information\nneeded to resolve the problem. \u003C/li\u003E\u003Cli\u003EQR codes at strategic points provide maintenance or\ncleaning staff with interactive floor plans.\u0026nbsp;\n\u003C/li\u003E\u003Cli\u003EEmployees unfamiliar with the audio-visual\ntechnology in the room can scan the QR code and get immediate visual guides for\nsetting up.\u003Cbr\u003E\u003C/li\u003E\u003C/ul\u003E"
+              "\u003Cdiv style=\u0022\u0022\u003E\u003Cul style=\u0022\u0022\u003E\u003Cli style=\u0022\u0022\u003E\u003Cspan style=\u0022text-align:start;display:inline !important;\u0022\u003E\u003Cb\u003EThe onboarding process\u003C/b\u003E\u003Cspan style=\u0022font-weight:inherit;\u0022\u003E as a new starter or stand-in worker may not always be effective.\u003C/span\u003E\u003C/span\u003E\u003C/li\u003E\u003Cli style=\u0022\u0022\u003E\u003Cb\u003ELearning and education\u003C/b\u003E\u003Cspan style=\u0022font-weight:inherit;\u0022\u003E of workers is tricky while working remotely or on the frontline, especially if it is not provided in the person\u2019s first language.\u003C/span\u003E\u003C/li\u003E\u003Cli style=\u0022\u0022\u003E\u003Cb\u003EHealth \u0026amp; Safety compliance\u003C/b\u003E\u003Cspan style=\u0022font-weight:inherit;\u0022\u003E is critical for some sectors - working on a construction site is hazardous and the site changes regularly. \u003C/span\u003E\u003C/li\u003E\u003Cli style=\u0022\u0022\u003E\u003Cb\u003ECostly mistakes or delays\u003C/b\u003E\u003Cspan style=\u0022font-weight:inherit;\u0022\u003E due to construction or maintenance workers not always having the necessary information.\u003C/span\u003E\u003C/li\u003E\u003C/ul\u003E\u003C/div\u003E\u003Cspan style=\u0022font-weight:inherit;\u0022\u003E\u003C/span\u003E"
             ]
           },
           {
@@ -47,7 +47,7 @@
           {
             "name": "Success factors",
             "content": [
-              "\u003Cul\u003E\u003Cli\u003E\u003Cb\u003EEngaged users = more productive users\u003Cbr\u003E\u003C/b\u003EAtlas\nsimplifies daily tasks, taking the stress out of work life and making tech more\naccessible.\u003C/li\u003E\u003Cli\u003E\u003Cb\u003EKnowledge should flow seamlessly through every\norganisation\u003Cbr\u003E\u003C/b\u003EAtlas makes\nit easy for everyone to contribute, be heard and find the knowledge they\u2019re\nlooking for\u003C/li\u003E\u003Cli\u003E\u003Cb\u003EEasy and improved collaboration\u003Cbr\u003E\u003C/b\u003EAtlas makes\ncollaborating easy, with simple provisioning tools that provide agility and\nenriched, visually engaging areas to produce and consume content. People can\ncollaborate, share stories and just enjoy.\u003C/li\u003E\u003Cli\u003E\u003Cb\u003EMeasure\nsuccess\u003Cbr\u003E\u003C/b\u003EAtlas has advanced\nworkspace provisioning, designed for the end-user but controlled by IT and\ngoverned by the business.Powerful analytics enable the organisation to\nmeasure success.\u003C/li\u003E\u003C/ul\u003E"
+              "\u003Cul\u003E\u003Cli\u003E\u003Cspan\u003EInformation is more understandable and accessible to all workers\u003C/span\u003E\u003C/li\u003E\u003Cli\u003E\u003Cspan\u003ELess time and resources are wasted by getting the right information to the right people\u003Cbr\u003E\u003C/span\u003E\u003Cspan\u003E\u003C/span\u003E\u003Cbr\u003E\u003C/li\u003E\u003C/ul\u003E"
             ]
           }
         ],
