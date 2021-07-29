@@ -1,0 +1,35 @@
+{
+  "partnerId": "Test7890",
+  "categories": [],
+  "industries": [],
+  "solutions": null,
+  "sortOrder": 0,
+  "preview": true,
+  "visible": false,
+  "logoPicture": null,
+  "logoPictureAlt": "",
+  "heroPicture": null,
+  "featuredPicture": null,
+  "partnerName": "MT Test Partner",
+  "mpnId": "12345",
+  "metadata": {
+    "displayInfo": {
+      "default": {
+        "shortDescription": "\u003Cdiv\u003EThis is to validate the PSG from ADO\u003C/div\u003E",
+        "featuredTitle": "Test Featured Title",
+        "featuredParagraphs": [
+          "\u003Cdiv\u003ETest Featured Title Description1\u003Cbr\u003E\u003C/div\u003E",
+          "\u003Cdiv\u003E\u003Cspan style=\u0022display:inline !important;\u0022\u003ETest Featured Title Description2\u003C/span\u003E\u003Cbr\u003E\u003C/div\u003E",
+          "\u003Cdiv\u003E\u003Cspan style=\u0022display:inline !important;\u0022\u003ETest Featured Title Description3\u003C/span\u003E\u003Cbr\u003E\u003C/div\u003E"
+        ],
+        "callToAction": {
+          "title": null,
+          "description": null,
+          "url": null
+        },
+        "mediaAssets": [],
+        "detailItemCategories": []
+      }
+    }
+  }
+}
