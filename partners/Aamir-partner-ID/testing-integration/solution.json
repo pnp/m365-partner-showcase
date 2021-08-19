@@ -1,0 +1,59 @@
+{
+  "solutionId": "testing-integration",
+  "partnerId": "Aamir-partner-ID",
+  "categories": [],
+  "industries": [],
+  "sortOrder": 0,
+  "preview": false,
+  "visible": false,
+  "solutionLogoPicture": null,
+  "solutionLogoPictureAlt": "",
+  "solutionName": "testing integration",
+  "solutionUrl": "https://aamir.store",
+  "solutionUrlTitle": "testing integration",
+  "metadata": {
+    "personas": "Distributed Workforce",
+    "solutionTechnologies": "Azure AD",
+    "businessFunctions": "Change Management",
+    "appSource": "https://aamir.store",
+    "displayInfo": {
+      "default": {
+        "descriptionParagraphs": [
+          {
+            "name": "Short description",
+            "content": [
+              "3333"
+            ]
+          },
+          {
+            "name": "Business need or problem",
+            "content": [
+              "eee"
+            ]
+          },
+          {
+            "name": "Business solution",
+            "content": [
+              "ee"
+            ]
+          }
+        ],
+        "mediaAssets": [
+          {
+            "type": "image",
+            "order": 0,
+            "url": "assets/Hero.png",
+            "alt": ""
+          }
+        ],
+        "detailItemCategories": [
+          {
+            "name": "Resources",
+            "description": "Possible html supported text shown just above the list of links",
+            "items": []
+          }
+        ]
+      }
+    }
+  }
+}
