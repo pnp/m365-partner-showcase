@@ -8,26 +8,29 @@
   "visible": false,
   "logoPicture": null,
   "logoPictureAlt": "",
-  "heroPicture": null,
-  "featuredPicture": "https://adoption-dev.azurewebsites.net//wp-content/uploads/gravity_forms/2-0c83c6f7ecf5333ec527da92bb0c7568/2021/05/rsz_re1mu3b.png",
-  "partnerName": "M-partner-id",
+  "heroPicture": "assets/hero.png",
+  "featuredPicture": null,
+  "partnerName": "Solution Gallery Solution",
   "mpnId": "0",
   "metadata": {
     "displayInfo": {
       "default": {
-        "shortDescription": "p s d",
-        "featuredTitle": "Featured Title",
-        "featuredParagraphs": [
-          "f",
-          "fr",
-          "frr"
-        ],
+        "shortDescription": "123",
+        "featuredTitle": null,
+        "featuredParagraphs": [],
         "callToAction": {
-          "title": "Contact Us",
-          "description": "p s d",
-          "url": "https://aamir.store1"
+          "title": "eeeee",
+          "description": "eeee",
+          "url": "eee"
         },
-        "mediaAssets": [],
+        "mediaAssets": [
+          {
+            "type": "image",
+            "order": 0,
+            "url": "assets/Hero.png",
+            "alt": ""
+          }
+        ],
         "detailItemCategories": []
       }
     }
