@@ -15,7 +15,7 @@
     "personas": "All Employees",
     "solutionTechnologies": "Azure;Azure Bot",
     "businessFunctions": "Adoption;IT",
-    "displayPartner": true,
+    "displayPartner": false,
     "appSource": null,
     "displayInfo": {
       "default": {
