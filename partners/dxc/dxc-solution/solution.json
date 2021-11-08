@@ -13,8 +13,8 @@
   "solutionUrlTitle": "DXC Solution",
   "metadata": {
     "personas": null,
-    "solutionTechnologies": null,
     "businessFunctions": null,
+    "displayPartner": false,
     "appSource": null,
     "displayInfo": {
       "default": {
@@ -24,11 +24,19 @@
             "content": []
           },
           {
+            "name": "Long description",
+            "content": []
+          },
+          {
             "name": "Business need or problem",
             "content": []
           },
           {
             "name": "Business solution",
+            "content": []
+          },
+          {
+            "name": "Success factors",
             "content": []
           }
         ],

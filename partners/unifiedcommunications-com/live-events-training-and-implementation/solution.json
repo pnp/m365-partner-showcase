@@ -6,7 +6,7 @@
   ],
   "industries": [],
   "sortOrder": 0,
-  "preview": true,
+  "preview": false,
   "visible": false,
   "solutionLogoPicture": null,
   "solutionLogoPictureAlt": "",
@@ -15,8 +15,8 @@
   "solutionUrlTitle": "Live Events: Training and Implementation",
   "metadata": {
     "personas": "Content Owners;Corporate Communications;Leadership",
-    "solutionTechnologies": "Teams Live Events",
     "businessFunctions": null,
+    "displayPartner": true,
     "appSource": null,
     "displayInfo": {
       "default": {
@@ -24,19 +24,29 @@
           {
             "name": "Short description",
             "content": [
-              "\u003Cdiv\u003E\u003Cb\u003ECustom\ntraining and implementation support focused on Live Event best practices.\u003C/b\u003E\u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E\u003C/div\u003E"
+              "Customtraining and implementation support focused on Live Event best practices."
             ]
+          },
+          {
+            "name": "Long description",
+            "content": []
           },
           {
             "name": "Business need or problem",
             "content": [
-              "\u003Cdiv\u003EThere are many options and methods for\ndeveloping and producing Live Events. It is often overwhelming for\norganizations to learn how to take advantage of all the tools and technology\navailable to produce high quality content.\u003Cbr\u003E\u003C/div\u003E"
+              "There are many options and methods fordeveloping and producing Live Events. It is often overwhelming fororganizations to learn how to take advantage of all the tools and technologyavailable to produce high quality content."
             ]
           },
           {
             "name": "Business solution",
             "content": [
-              "\u003Cdiv\u003EWe provide an easy solution that focuses on a\ncustom approach for each organization that accelerates the adoption and\nimplementation of Live Event production and streaming to large audiences.\u003Cbr\u003E\u003C/div\u003E"
+              "We provide an easy solution that focuses on acustom approach for each organization that accelerates the adoption andimplementation of Live Event production and streaming to large audiences."
+            ]
+          },
+          {
+            "name": "Success factors",
+            "content": [
+              "We are only successful when our customers are successful. \u0026nbsp;We help them achieve amazing results by walkingthem through each step of the process from planning and design, layout andflow, to rehearsal and event production."
             ]
           }
         ],

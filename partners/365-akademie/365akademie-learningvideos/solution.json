@@ -7,7 +7,7 @@
   "industries": [],
   "sortOrder": 0,
   "preview": false,
-  "visible": true,
+  "visible": false,
   "solutionLogoPicture": null,
   "solutionLogoPictureAlt": "",
   "solutionName": "Learning Videos \u2013 Microsoft 365, Windows, Security Fundamentals and Devices",
@@ -15,8 +15,8 @@
   "solutionUrlTitle": "Learning Videos \u2013 Microsoft 365, Windows, Security Fundamentals and Devices",
   "metadata": {
     "personas": "Microsoft 365 User",
-    "solutionTechnologies": "Microsoft Teams;SharePoint sites;Stream",
     "businessFunctions": null,
+    "displayPartner": true,
     "appSource": null,
     "displayInfo": {
       "default": {
@@ -24,19 +24,29 @@
           {
             "name": "Short description",
             "content": [
-              "\u003Cdiv\u003ELearning content\u0026nbsp;for all Microsoft 365\u0026nbsp;apps, Windows\u0026nbsp;\u0026amp; Edge, Security Fundamentals and Devices.\u0026nbsp;\u003C/div\u003E"
+              "Learning content for all Microsoft 365 apps, Windows \u0026amp; Edge, Security Fundamentals and Devices."
             ]
+          },
+          {
+            "name": "Long description",
+            "content": []
           },
           {
             "name": "Business need or problem",
             "content": [
-              "\u003Cdiv\u003EUsers are overwhelmed with all the digital tools and features Microsoft 365 provides. They do not welcome change and stick to their\u0026nbsp;\u201Cbusiness as usual\u201D. The users\u0026nbsp;must\u0026nbsp;be informed of the changes, new\u0026nbsp;features\u0026nbsp;and the benefits. On the other\u0026nbsp;hand\u0026nbsp;it is important to provide the user only with the information he needs. It is not sufficient to have Classroom based training every two to three years to train users in a specific tool set.\u0026nbsp;\u0026nbsp;\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E"
+              "Users are overwhelmed with all the digital tools and features Microsoft 365 provides. They do not welcome change and stick to their \u201Cbusiness as usual\u201D. The users must be informed of the changes, new features and the benefits. On the other hand it is important to provide the user only with the information he needs. It is not sufficient to have Classroom based training every two to three years to train users in a specific tool set."
             ]
           },
           {
             "name": "Business solution",
             "content": [
-              "\u003Cdiv\u003EThe 365 Akademie provides learning videos for\u0026nbsp; \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E\u003Cdiv\u003E\u003Cul\u003E\u003Cli\u003EAll Microsoft 365 Apps\u003C/li\u003E\u003Cli\u003EWindows \u0026amp; Edge\u003C/li\u003E\u003Cli\u003ESecurity Fundamentals\u003C/li\u003E\u003Cli\u003EDevices\u003C/li\u003E\u003C/ul\u003E\u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E\u003Cdiv\u003EThe videos are short, simple to follow\u0026nbsp;and based on use cases.\u0026nbsp;\u0026nbsp; \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E\u003Cdiv\u003EIntegrated in your Microsoft 365 and customized to fit the needs of your organization.\u0026nbsp; \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E\u003Cdiv\u003EHave Stream channels for a specific field of activity like internal collaboration and office work or sort the videos by important apps. Target groups like project\u0026nbsp;manager or\u0026nbsp;assistance are also a way to sort the videos.\u0026nbsp; \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E\u003Cdiv\u003EThe user is free to choose which information and videos he wants to look at and stay informed, and which videos are not relevant for his daily work.\u0026nbsp; \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E\u003Cdiv\u003ESearch for a video you are looking for. This is possible because all the videos are\u0026nbsp;transcribed.\u0026nbsp; \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E\u003Cdiv\u003EThe videos are available in German and English. More languages are available as subtitles.\u0026nbsp; \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E\u003Cdiv\u003EThe learning content can be implemented into:\u0026nbsp; \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E\u003Cdiv\u003E\u003Cul\u003E\u003Cli\u003ETeam in Teams\u0026nbsp;\u003C/li\u003E\u003Cli\u003EIntranet\u0026nbsp;\u003C/li\u003E\u003Cli\u003ESharePoint site\u0026nbsp;\u003C/li\u003E\u003Cli\u003ELMS\u0026nbsp;\u003C/li\u003E\u003Cli\u003EMicrosoft Learning Pathways\u0026nbsp;\u003C/li\u003E\u003Cli\u003EMicrosoft Viva Learning\u0026nbsp;\u003C/li\u003E\u003C/ul\u003E\u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E\u003Cdiv\u003EThe 365 Akademie is your learning partner with professional support.\u0026nbsp; \u003C/div\u003E\u003Cdiv style=\u0022margin:0px;cursor:text;clear:both;font-family:\u0026quot;Segoe UI\u0026quot;, \u0026quot;Segoe UI Web\u0026quot;, Arial, Verdana, sans-serif;font-size:12px;\u0022\u003E \u003C/div\u003E"
+              "The 365 Akademie provides learning videos for \u0026nbsp;\n\u003Cbr\u003E \n\u003Cbr\u003E\n\u003Cbr\u003E * \u0026nbsp;All Microsoft 365 Apps\n\u003Cbr\u003E * \u0026nbsp;Windows \u0026amp; Edge\n\u003Cbr\u003E * \u0026nbsp;Security Fundamentals\n\u003Cbr\u003E * \u0026nbsp;Devices\n\u003Cbr\u003E\n\u003Cbr\u003E \n\u003Cbr\u003E \n\u003Cbr\u003E \n\u003Cbr\u003E \n\u003Cbr\u003E \n\u003Cbr\u003EThe videos are short, simple to follow and based on use cases. \u0026nbsp;\u0026nbsp;\n\u003Cbr\u003E \n\u003Cbr\u003E\n\u003Cbr\u003E \n\u003Cbr\u003EIntegrated in your Microsoft 365 and customized to fit the needs of your organization. \u0026nbsp;\n\u003Cbr\u003E \n\u003Cbr\u003E\n\u003Cbr\u003E \n\u003Cbr\u003EHave Stream channels for a specific field of activity like internal collaboration and office work or sort the videos by important apps. Target groups like project manager or assistance are also a way to sort the videos. \u0026nbsp;\n\u003Cbr\u003E \n\u003Cbr\u003E\n\u003Cbr\u003E \n\u003Cbr\u003EThe user is free to choose which information and videos he wants to look at and stay informed, and which videos are not relevant for his daily work. \u0026nbsp;\n\u003Cbr\u003E \n\u003Cbr\u003E\n\u003Cbr\u003E \n\u003Cbr\u003ESearch for a video you are looking for. This is possible because all the videos are transcribed. \u0026nbsp;\n\u003Cbr\u003E \n\u003Cbr\u003E\n\u003Cbr\u003E \n\u003Cbr\u003EThe videos are available in German and English. More languages are available as subtitles. \u0026nbsp;\n\u003Cbr\u003E \n\u003Cbr\u003E\n\u003Cbr\u003E \n\u003Cbr\u003EThe learning content can be implemented into: \u0026nbsp;\n\u003Cbr\u003E \n\u003Cbr\u003E\n\u003Cbr\u003E * \u0026nbsp;Team in Teams\n\u003Cbr\u003E * \u0026nbsp;Intranet\n\u003Cbr\u003E * \u0026nbsp;SharePoint site\n\u003Cbr\u003E * \u0026nbsp;LMS\n\u003Cbr\u003E * \u0026nbsp;Microsoft Learning Pathways\n\u003Cbr\u003E * \u0026nbsp;Microsoft Viva Learning\n\u003Cbr\u003E\n\u003Cbr\u003E \n\u003Cbr\u003E \n\u003Cbr\u003E \n\u003Cbr\u003E \n\u003Cbr\u003E \n\u003Cbr\u003E \n\u003Cbr\u003E \n\u003Cbr\u003EThe 365 Akademie is your learning partner with professional support."
+            ]
+          },
+          {
+            "name": "Success factors",
+            "content": [
+              "The support of management and other key stakeholders and a communication strategy are the two main aspects of a successful implementation. The 365 Akademie supports you with its expertise and gives insights and impulses."
             ]
           }
         ],
@@ -44,19 +54,19 @@
           {
             "type": "image",
             "order": 0,
-            "url": "assets/Learning Videos 2.png",
-            "alt": ""
-          },
-          {
-            "type": "image",
-            "order": 1,
             "url": "assets/Learning Videos 1.png",
             "alt": ""
           },
           {
             "type": "image",
-            "order": 2,
+            "order": 1,
             "url": "assets/Learning Videos 3.png",
+            "alt": ""
+          },
+          {
+            "type": "image",
+            "order": 2,
+            "url": "assets/Learning Videos 2.png",
             "alt": ""
           }
         ],
@@ -71,7 +81,7 @@
               },
               {
                 "url": "https://www.365akademie.de/",
-                "name": "Office 365\nAkademie - Produktiver Arbeiten mit Office 365"
+                "name": "Office 365 Akademie - Produktiver Arbeiten mit Office 365"
               }
             ]
           }

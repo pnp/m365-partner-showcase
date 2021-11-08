@@ -7,16 +7,16 @@
   "industries": [],
   "sortOrder": 0,
   "preview": false,
-  "visible": true,
+  "visible": false,
   "solutionLogoPicture": null,
   "solutionLogoPictureAlt": "",
   "solutionName": "Clobba VR",
-  "solutionUrl": "https://www.codesoftware.net/clobba-vr/ ",
+  "solutionUrl": "https://www.codesoftware.net/clobba-vr/",
   "solutionUrlTitle": "Clobba VR",
   "metadata": {
     "personas": "Leadership;Sales Managers",
-    "solutionTechnologies": "Graph API;Microsoft Teams",
     "businessFunctions": null,
+    "displayPartner": true,
     "appSource": null,
     "displayInfo": {
       "default": {
@@ -24,19 +24,29 @@
           {
             "name": "Short description",
             "content": [
-              "\u003Cdiv\u003E\u003Cb\u003EA\nsimple to use and affordable Voice Recording solution specifically built for MS\nTeams\u003C/b\u003E\u003C/div\u003E"
+              "Asimple to use and affordable Voice Recording solution specifically built for MSTeams"
             ]
+          },
+          {
+            "name": "Long description",
+            "content": []
           },
           {
             "name": "Business need or problem",
             "content": [
-              "\u003Cdiv\u003EMany organizations using\nTeams have basic voice recording requirements where they need to easily locate\na call and play it back. The recorded call can then be used for training and\nmonitoring purposes or to confirm the details of the call. Team leaders may\nneed to access and listen to team members\u2019 calls and Clobba VR allows for this\nvia a simple user interface.\u003C/div\u003E"
+              "Many organizations usingTeams have basic voice recording requirements where they need to easily locatea call and play it back. The recorded call can then be used for training andmonitoring purposes or to confirm the details of the call. Team leaders mayneed to access and listen to team members\u2019 calls and Clobba VR allows for thisvia a simple user interface."
             ]
           },
           {
             "name": "Business solution",
             "content": [
-              "\u003Cdiv\u003EInstalled on a customer\u2019s Teams tenant servers means full\nrights of ownership are retained with the recorded calls remaining in a\ncustomer\u2019s environment. Recorded users must have a MS Teams Phone System\nlicence allowing for recording of inbound, outbound, internal, federated and\nconference calls.\u003Cbr\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003EThe recorded\ncalls can be played back or downloaded for review and sharing. Live calls can\nbe listened to by employees with the correct user policies through the \u2018silent\nmonitoring\u2019 feature. There is even the ability to manually pause and resume the\nrecording for compliancy situations.\u003Cbr\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003EAnd\nas Clobba VR is installed in a customer environment they have full ownership of\nthe recorded calls and can retain the calls for whatever duration is required.\u003Cbr\u003E\u003C/div\u003E"
+              "Installed on a customer\u2019s Teams tenant servers means fullrights of ownership are retained with the recorded calls remaining in acustomer\u2019s environment. Recorded users must have a MS Teams Phone Systemlicence allowing for recording of inbound, outbound, internal, federated andconference calls.\n\u003Cbr\u003E\n\u003Cbr\u003EThe recordedcalls can be played back or downloaded for review and sharing. Live calls canbe listened to by employees with the correct user policies through the \u2018silentmonitoring\u2019 feature. There is even the ability to manually pause and resume therecording for compliancy situations.\n\u003Cbr\u003E\n\u003Cbr\u003EAndas Clobba VR is installed in a customer environment they have full ownership ofthe recorded calls and can retain the calls for whatever duration is required."
+            ]
+          },
+          {
+            "name": "Success factors",
+            "content": [
+              "Ourcustomers have seen an increase in agent performance through the ability totailor employee training. Customer disputes are quickly resolved with therecordings verifying any customer discrepancies."
             ]
           }
         ],
@@ -60,8 +70,8 @@
             "description": "Possible html supported text shown just above the list of links",
             "items": [
               {
-                "url": "http://www.codesoftware.net",
-                "name": "Clobba VR is available on a free 30-day trial\nand is installed in customer environments."
+                "url": "http://www.codesoftware.net/",
+                "name": "Clobba VR is available on a free 30-day trial and is installed in customer environments."
               }
             ]
           }

@@ -7,7 +7,7 @@
   "industries": [],
   "sortOrder": 0,
   "preview": false,
-  "visible": true,
+  "visible": false,
   "solutionLogoPicture": null,
   "solutionLogoPictureAlt": "",
   "solutionName": "Clobba",
@@ -15,8 +15,8 @@
   "solutionUrlTitle": "Clobba",
   "metadata": {
     "personas": "Finance Managers;Helpdesk Supervisors;IT Admin;Sales Managers",
-    "solutionTechnologies": "Azure;Graph API;Microsoft Teams",
     "businessFunctions": null,
+    "displayPartner": true,
     "appSource": null,
     "displayInfo": {
       "default": {
@@ -24,19 +24,29 @@
           {
             "name": "Short description",
             "content": [
-              "\u003Cdiv\u003E\u003Cb\u003EAdvanced\nreporting, analytics, monitoring and dashboards for Teams\u003C/b\u003E\u003C/div\u003E"
+              "Advancedreporting, analytics, monitoring and dashboards for Teams"
             ]
+          },
+          {
+            "name": "Long description",
+            "content": []
           },
           {
             "name": "Business need or problem",
             "content": [
-              "\u003Cdiv\u003EUsers of Teams require visibility of usage to ensure the\nbusiness benefits of Teams are being realized. Whether the workforce is office\nbased or remote-working, and even when using Teams to collaborate, there can be\nchallenges around business continuity, employee productivity, customer service\nlevels, user adoption, call quality and SIP trunk capacity.\u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E\u003C/div\u003E"
+              "Users of Teams require visibility of usage to ensure thebusiness benefits of Teams are being realized. Whether the workforce is officebased or remote-working, and even when using Teams to collaborate, there can bechallenges around business continuity, employee productivity, customer servicelevels, user adoption, call quality and SIP trunk capacity."
             ]
           },
           {
             "name": "Business solution",
             "content": [
-              "\u003Cdiv\u003ESimple to use,\u0026nbsp;Clobba\u0026nbsp;delivers valuable insights into Teams\nperformance and productivity. It drives user adoption\nand helps to improve the user experience whilst reducing costs and improving\nefficiencies.\u0026nbsp;The emphasis is on quick and easy access to relevant\ninformation and the automation of reporting tasks. We understand that the IT\nManager is going to have very different requirements from other heads of\nbusiness\u0026nbsp;and a \u2018one-size-fits-all\u2019 reporting solution is just\nnot suitable for the modern workplace.\u003Cbr\u003E\u003C/div\u003E"
+              "Simple to use, Clobba delivers valuable insights into Teamsperformance and productivity. It drives user adoptionand helps to improve the user experience whilst reducing costs and improvingefficiencies. The emphasis is on quick and easy access to relevantinformation and the automation of reporting tasks. We understand that the ITManager is going to have very different requirements from other heads ofbusiness and a \u2018one-size-fits-all\u2019 reporting solution is justnot suitable for the modern workplace."
+            ]
+          },
+          {
+            "name": "Success factors",
+            "content": [
+              "Our customers have cited an increase inproductivity with the performance metrics produced by Clobba. Troubleshootingcall quality issues results in an increase in service delivery levels. Callcosts can be managed and reduced through internal billing processes and adoptionof Teams and certified devices ensures a successful return on investment."
             ]
           }
         ],
@@ -44,25 +54,25 @@
           {
             "type": "image",
             "order": 0,
-            "url": "assets/Clobba-image2.png",
+            "url": "assets/Clobba-image3.png",
             "alt": ""
           },
           {
             "type": "image",
             "order": 1,
-            "url": "assets/Clobba-image1.png",
-            "alt": ""
-          },
-          {
-            "type": "image",
-            "order": 2,
             "url": "assets/Clobba-image5.png",
             "alt": ""
           },
           {
             "type": "image",
+            "order": 2,
+            "url": "assets/Clobba-image2.png",
+            "alt": ""
+          },
+          {
+            "type": "image",
             "order": 3,
-            "url": "assets/Clobba-image4.png",
+            "url": "assets/Clobba-image1.png",
             "alt": ""
           },
           {
@@ -74,7 +84,7 @@
           {
             "type": "image",
             "order": 5,
-            "url": "assets/Clobba-image3.png",
+            "url": "assets/Clobba-image4.png",
             "alt": ""
           },
           {

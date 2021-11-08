@@ -7,7 +7,7 @@
   "industries": [],
   "sortOrder": 0,
   "preview": false,
-  "visible": true,
+  "visible": false,
   "solutionLogoPicture": null,
   "solutionLogoPictureAlt": "",
   "solutionName": "Raising the technical literacy of the organization",
@@ -15,8 +15,8 @@
   "solutionUrlTitle": "Raising the technical literacy of the organization",
   "metadata": {
     "personas": "Business Analysts;Content Owners;End-user;IT Admin;Leadership;Training \u0026 Development",
-    "solutionTechnologies": "Microsoft Teams;SharePoint sites;Stream",
     "businessFunctions": null,
+    "displayPartner": true,
     "appSource": null,
     "displayInfo": {
       "default": {
@@ -24,19 +24,29 @@
           {
             "name": "Short description",
             "content": [
-              "\u003Cdiv\u003EWhether it is training for a brand-new Microsoft 365 launch, supporting\nyour\u0026nbsp;SharePoint Champions\u0026nbsp;or\nadvancing the finance department\u2019s Excel skills, Learning Pathways supports\ncreating self-service learning opportunities through curated playlists.\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E"
+              "Whether it is training for a brand-new Microsoft 365 launch, supportingyour SharePoint Champions oradvancing the finance department\u2019s Excel skills, Learning Pathways supportscreating self-service learning opportunities through curated playlists."
             ]
+          },
+          {
+            "name": "Long description",
+            "content": []
           },
           {
             "name": "Business need or problem",
             "content": [
-              "\u003Cdiv\u003E\u003Cspan\u003E\u003C/span\u003E \u003C/div\u003E\u003Cdiv\u003EMicrosoft 365 is a\nlarge platform with many distinct products and supported scenarios that are\ncontinuously updated. Keeping abreast of the latest changes is an enormous\nchallenge. Bigger yet is the challenge of keeping your end users up to date\nwith training which can be time consuming and expensive.\u003C/div\u003E\u003Cdiv\u003E\u003Cdiv\u003E \u003C/div\u003E \u003C/div\u003E"
+              "Microsoft 365 is alarge platform with many distinct products and supported scenarios that arecontinuously updated. Keeping abreast of the latest changes is an enormouschallenge. Bigger yet is the challenge of keeping your end users up to datewith training which can be time consuming and expensive."
             ]
           },
           {
             "name": "Business solution",
             "content": [
-              "\u003Cdiv\u003EWe\ncan create a baseline for your organization by helping identify all your\nlearning objectives in a persona-based approach. Once this is accomplished, we will: \u003C/div\u003E\u003Cdiv\u003E\u003Cul\u003E\u003Cli\u003ECreate\na roadmap to support learners and their unique needs\u003C/li\u003E\u003Cli\u003EDefine\nintuitive information architecture to support each persona and their top tasks\u003C/li\u003E\u003Cli\u003EAlign\nscenarios and playlists with identified organizational learning objectives\u003C/li\u003E\u003Cli\u003ESurface\ntraining in-context for each persona\u003C/li\u003E\u003C/ul\u003E\u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E"
+              "Wecan create a baseline for your organization by helping identify all yourlearning objectives in a persona-based approach. Once this is accomplished, we will: \n\u003Cbr\u003E\n\u003Cbr\u003E * \u0026nbsp;Createa roadmap to support learners and their unique needs\n\u003Cbr\u003E * \u0026nbsp;Defineintuitive information architecture to support each persona and their top tasks\n\u003Cbr\u003E * \u0026nbsp;Alignscenarios and playlists with identified organizational learning objectives\n\u003Cbr\u003E * \u0026nbsp;Surfacetraining in-context for each persona"
+            ]
+          },
+          {
+            "name": "Success factors",
+            "content": [
+              "Bylimiting the friction to accomplish tasks and remain productive, employees benefit from: \n\u003Cbr\u003E\n\u003Cbr\u003E * \u0026nbsp;Lesstime to locate information\n\u003Cbr\u003E * \u0026nbsp;Relevantsolution documentation (for their persona) at their fingertips\n\u003Cbr\u003E * \u0026nbsp;Ease of keeping training content up-to-dategives subject matter experts more time for individual attention"
             ]
           }
         ],

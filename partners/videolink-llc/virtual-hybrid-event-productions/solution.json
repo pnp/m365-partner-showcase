@@ -15,8 +15,8 @@
   "solutionUrlTitle": "Virtual \u0026 Hybrid Event Productions",
   "metadata": {
     "personas": "Event Planners;Leadership;Marketing Executives",
-    "solutionTechnologies": "Microsoft Teams;Teams Live Events",
     "businessFunctions": null,
+    "displayPartner": false,
     "appSource": null,
     "displayInfo": {
       "default": {
@@ -24,30 +24,33 @@
           {
             "name": "Short description",
             "content": [
-              "\u003Cdiv\u003EYour Partner\nin Building Award-worthy Interactive Events.\u0026nbsp;\u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E\u003C/div\u003E"
+              "Your Partnerin Building Award-worthy Interactive Events."
             ]
+          },
+          {
+            "name": "Long description",
+            "content": []
           },
           {
             "name": "Business need or problem",
             "content": [
-              "\u003Cdiv\u003E\u003Cspan style=\u0022font-size:11.0pt;font-family:\u0026quot;Calibri\u0026quot;,sans-serif;\u0022\u003ECreate and deliver best-in-class virtual\nand hybrid event experiences for global audiences.\u003C/span\u003E\u003Cbr\u003E\u003C/div\u003E"
+              "Create and deliver best-in-class virtualand hybrid event experiences for global audiences."
             ]
           },
           {
             "name": "Business solution",
             "content": [
-              "\u003Cdiv\u003EVirtual \u0026amp; Hybrid Event Productions\u003Cbr style=\u0022margin:0px;box-sizing:border-box;font-family:SegoeUI;color:rgb(51, 51, 51);font-size:16px;text-align:left;\u0022\u003E\u003C/div\u003E\u003Cdiv\u003E\u003Cbr style=\u0022margin:0px;box-sizing:border-box;font-family:SegoeUI;color:rgb(51, 51, 51);font-size:16px;text-align:left;\u0022\u003E\u003C/div\u003E\u003Cdiv\u003ERun of Show Development/Show Creation\u003Cbr style=\u0022margin:0px;box-sizing:border-box;font-family:SegoeUI;color:rgb(51, 51, 51);font-size:16px;text-align:left;\u0022\u003E\u003C/div\u003E\u003Cdiv\u003E\u003Cdiv\u003E\u003Cul\u003E\u003Cli\u003EDevelop multi-track show concepts.\u003C/li\u003E\u003Cli\u003EGuide show style, design, and interactive capabilities.\u003C/li\u003E\u003Cli\u003EConduct talent rehearsal and on-screen coaching.\u003C/li\u003E\u003C/ul\u003E\u003C/div\u003E\u003C/div\u003E\u003Cdiv\u003EProduction Planning \u0026amp; Management\u003Cbr style=\u0022margin:0px;box-sizing:border-box;font-family:SegoeUI;color:rgb(51, 51, 51);font-size:16px;text-align:left;\u0022\u003E\u003C/div\u003E\u003Cdiv\u003E\u003Cdiv\u003E\u003Cul\u003E\u003Cli\u003EEstablish a production schedule and logistics plan.\u003C/li\u003E\u003Cli\u003EConduct show rehearsals, pre-records, platform testing, prepare client branding and graphics.\u003C/li\u003E\u003Cli\u003EIntegrate broadcast redundancies to ensure flawless programming.\u003C/li\u003E\u003Cli\u003EManage show day broadcast including: video switching, pre-recorded content, slide integration.\u003C/li\u003E\u003C/ul\u003E\u003C/div\u003E\u003C/div\u003E\u003Cdiv\u003EStreaming Platform Specific to Your Needs\u003C/div\u003E\u003Cdiv\u003E\u003Cdiv\u003E\u003Cul\u003E\u003Cli\u003EDesign a brand-specific event platform environment.\u003C/li\u003E\u003Cli\u003EIncorporate speaker profiles, event agendas, interactive chats, polling and Q\u0026amp;A.\u003C/li\u003E\u003C/ul\u003E\u003C/div\u003E\u003C/div\u003E\u003Cdiv\u003ELive and On-demand Viewer Report and Behavior\u003C/div\u003E\u003Cdiv\u003E\u003Cdiv\u003E\u003Cul\u003E\u003Cli\u003ETrack exhibitor and attendee interaction\u003C/li\u003E\u003Cli\u003EReview live and on-demand viewer reports.\u003C/li\u003E\u003C/ul\u003E\u003C/div\u003E\u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E\u003C/div\u003E"
+              "Virtual \u0026amp; Hybrid Event Productions\n\u003Cbr\u003E\n\u003Cbr\u003ERun of Show Development/Show Creation\n\u003Cbr\u003E\n\u003Cbr\u003E * \u0026nbsp;Develop multi-track show concepts.\n\u003Cbr\u003E * \u0026nbsp;Guide show style, design, and interactive capabilities.\n\u003Cbr\u003E * \u0026nbsp;Conduct talent rehearsal and on-screen coaching.\n\u003Cbr\u003E\n\u003Cbr\u003EProduction Planning \u0026amp; Management\n\u003Cbr\u003E\n\u003Cbr\u003E * \u0026nbsp;Establish a production schedule and logistics plan.\n\u003Cbr\u003E * \u0026nbsp;Conduct show rehearsals, pre-records, platform testing, prepare client branding and graphics.\n\u003Cbr\u003E * \u0026nbsp;Integrate broadcast redundancies to ensure flawless programming.\n\u003Cbr\u003E * \u0026nbsp;Manage show day broadcast including: video switching, pre-recorded content, slide integration.\n\u003Cbr\u003E\n\u003Cbr\u003EStreaming Platform Specific to Your Needs\n\u003Cbr\u003E\n\u003Cbr\u003E * \u0026nbsp;Design a brand-specific event platform environment.\n\u003Cbr\u003E * \u0026nbsp;Incorporate speaker profiles, event agendas, interactive chats, polling and Q\u0026amp;A.\n\u003Cbr\u003E\n\u003Cbr\u003ELive and On-demand Viewer Report and Behavior\n\u003Cbr\u003E\n\u003Cbr\u003E * \u0026nbsp;Track exhibitor and attendee interaction\n\u003Cbr\u003E * \u0026nbsp;Review live and on-demand viewer reports."
+            ]
+          },
+          {
+            "name": "Success factors",
+            "content": [
+              "Nearly30 years of remote video production experience with Fortune 1000 and smallenterprises."
             ]
           }
         ],
-        "mediaAssets": [
-          {
-            "type": "image",
-            "order": 0,
-            "url": "assets/virtual-hybrid-event-productions.png",
-            "alt": ""
-          }
-        ],
+        "mediaAssets": [],
         "detailItemCategories": [
           {
             "name": "Resources",
@@ -58,7 +61,7 @@
                 "name": "https://www.videolinktv.com/virtualeventproductions/"
               },
               {
-                "url": "http://www.videolinktv.com",
+                "url": "http://www.videolinktv.com/",
                 "name": "www.videolinktv.com"
               },
               {

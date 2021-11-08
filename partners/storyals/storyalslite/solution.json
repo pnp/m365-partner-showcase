@@ -7,7 +7,7 @@
   "industries": [],
   "sortOrder": 0,
   "preview": false,
-  "visible": true,
+  "visible": false,
   "solutionLogoPicture": null,
   "solutionLogoPictureAlt": "",
   "solutionName": "Storyals Lite",
@@ -15,8 +15,8 @@
   "solutionUrlTitle": "Storyals Lite",
   "metadata": {
     "personas": "Information Workers",
-    "solutionTechnologies": "SharePoint API;SharePoint sites;SPFx",
     "businessFunctions": null,
+    "displayPartner": true,
     "appSource": null,
     "displayInfo": {
       "default": {
@@ -24,19 +24,29 @@
           {
             "name": "Short description",
             "content": [
-              "\u003Cdiv\u003EAn\nout-of-the box adoption site with story-based learning to build digital skills.\u003C/div\u003E"
+              "Anout-of-the box adoption site with story-based learning to build digital skills."
             ]
+          },
+          {
+            "name": "Long description",
+            "content": []
           },
           {
             "name": "Business need or problem",
             "content": [
-              "\u003Cdiv\u003EUsers today are overwhelmed with the many modern tools that Microsoft 365 provides. It\u2019s difficult for organizations to provide their employees with the necessary learning required for users to use these tools in an effective manner. Classroom based training, carried out a couple of times a year, is no longer sufficient to keep users trained with the constant changes and updates of today\u0027s modern tools. \u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003EMany users are stuck in traditional ways of working and don\u2019t always welcome change. They need to be made aware of the benefits and understand why they should change their behavior, in addition to how to use the tools to do it. \u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003EAn added organizational complexity is that training users on better ways of working using technology often falls between chairs of HR and IT.\u003C/div\u003E"
+              "Users today are overwhelmed with the many modern tools that Microsoft 365 provides. It\u2019s difficult for organizations to provide their employees with the necessary learning required for users to use these tools in an effective manner. Classroom based training, carried out a couple of times a year, is no longer sufficient to keep users trained with the constant changes and updates of today\u0027s modern tools. \n\u003Cbr\u003E\n\u003Cbr\u003EMany users are stuck in traditional ways of working and don\u2019t always welcome change. They need to be made aware of the benefits and understand why they should change their behavior, in addition to how to use the tools to do it. \n\u003Cbr\u003E\n\u003Cbr\u003EAn added organizational complexity is that training users on better ways of working using technology often falls between chairs of HR and IT."
             ]
           },
           {
             "name": "Business solution",
             "content": [
-              "\u003Cdiv\u003EStoryals Lite is designed for departments and organizations of all sizes\nthat quickly want to provide their users with engaging digital learning, to\ninspire, motivate and educate their users to work smarter with Microsoft 365.\u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003EWith Storyals Lite, users are provided with a learning site\nwith self-paced, high-quality training videos and story-based tutorials. \u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003EThe on-demand videos from Storyals focus on \u201Cwhat you need\nto know\u201D to work effectively using modern digital tools. \u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003EUsers have access to a selected number of learning topics, each covering\nvarious apps and features. All learning topics highlight digital workplace best\npractices and feature real-world scenarios. To further strengthen\nunderstanding, each topic includes a quiz with situational-based questions. The\nsolution also includes \u201Chow-to\u201D videos from Microsoft. \u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003EThe learning solution is installed in your own Microsoft\n365 environment for users to have easy access, and the content is continuously updated\nand maintained by Storyals. \u003C/div\u003E\u003Cdiv\u003EStoryals Lite provides an easy way of building digital\nskills and drive adoption in the workplace.\u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003EWith Storyals Lite you get a: \u003C/div\u003E\u003Cdiv\u003E\u003Cul\u003E\u003Cli\u003EA great looking SharePoint site\u003C/li\u003E\u003Cli\u003EAccess to all Storyals topics\u003C/li\u003E\u003Cli\u003EContinuous video updates\u003C/li\u003E\u003Cli\u003EQuizzes to strengthen understanding\u003C/li\u003E\u003Cli\u003ECertificates to recognize\ncompletion\u003C/li\u003E\u003Cli\u003EMicrosoft 365 Learning Pathways\u003C/li\u003E\u003Cli\u003EProfessional support and\nmaintenance\u003C/li\u003E\u003C/ul\u003E\u003C/div\u003E"
+              "Storyals Lite is designed for departments and organizations of all sizesthat quickly want to provide their users with engaging digital learning, toinspire, motivate and educate their users to work smarter with Microsoft 365.\n\u003Cbr\u003E\n\u003Cbr\u003EWith Storyals Lite, users are provided with a learning sitewith self-paced, high-quality training videos and story-based tutorials. \n\u003Cbr\u003E\n\u003Cbr\u003EThe on-demand videos from Storyals focus on \u201Cwhat you needto know\u201D to work effectively using modern digital tools. \n\u003Cbr\u003E\n\u003Cbr\u003EUsers have access to a selected number of learning topics, each coveringvarious apps and features. All learning topics highlight digital workplace bestpractices and feature real-world scenarios. To further strengthenunderstanding, each topic includes a quiz with situational-based questions. Thesolution also includes \u201Chow-to\u201D videos from Microsoft. \n\u003Cbr\u003E\n\u003Cbr\u003EThe learning solution is installed in your own Microsoft365 environment for users to have easy access, and the content is continuously updatedand maintained by Storyals. \n\u003Cbr\u003EStoryals Lite provides an easy way of building digitalskills and drive adoption in the workplace.\n\u003Cbr\u003E\n\u003Cbr\u003EWith Storyals Lite you get a: \n\u003Cbr\u003E\n\u003Cbr\u003E * \u0026nbsp;A great looking SharePoint site\n\u003Cbr\u003E * \u0026nbsp;Access to all Storyals topics\n\u003Cbr\u003E * \u0026nbsp;Continuous video updates\n\u003Cbr\u003E * \u0026nbsp;Quizzes to strengthen understanding\n\u003Cbr\u003E * \u0026nbsp;Certificates to recognizecompletion\n\u003Cbr\u003E * \u0026nbsp;Microsoft 365 Learning Pathways\n\u003Cbr\u003E * \u0026nbsp;Professional support andmaintenance"
+            ]
+          },
+          {
+            "name": "Success factors",
+            "content": [
+              "Tosucceed with digital workplace adoption using Storyals Lite, your IT departmentor IT-hosting provider needs to be involved. \u0026nbsp;Storyals Lite is installed in your ownMicrosoft 365 environment as a pre-populated SharePoint Communication siteleveraging the Microsoft 365 Learning Pathways framework. \u0026nbsp;It offers a visually appealing, out-of-the-boxadoption site, maintained and updated by Storyals. \n\u003Cbr\u003E\n\u003Cbr\u003EWe know that to be successful in drivingadoption and building digital skills, it is vital to have the support ofmanagement and other key stakeholders. We recommend you make a plan for how toroll out the adoption program to end-users in order to get everyone on-board.Storyals Adoption Experts are happy to help you with this."
             ]
           }
         ],
@@ -44,7 +54,7 @@
           {
             "type": "image",
             "order": 0,
-            "url": "assets/2. Storyals Lite in M365.jpg",
+            "url": "assets/3. Storyals Lite video learning topic.png",
             "alt": ""
           },
           {
@@ -74,7 +84,7 @@
           {
             "type": "image",
             "order": 5,
-            "url": "assets/3. Storyals Lite video learning topic.png",
+            "url": "assets/2. Storyals Lite in M365.jpg",
             "alt": ""
           },
           {

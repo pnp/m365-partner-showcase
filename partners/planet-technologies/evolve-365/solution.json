@@ -7,16 +7,16 @@
   "industries": [],
   "sortOrder": 0,
   "preview": false,
-  "visible": true,
+  "visible": false,
   "solutionLogoPicture": null,
   "solutionLogoPictureAlt": "",
   "solutionName": "Evolve 365 \u2013 Microsoft 365 Adoption Solutions",
-  "solutionUrl": "https://o365support.com/solutions/evolve-365/ ",
+  "solutionUrl": "https://o365support.com/solutions/evolve-365/",
   "solutionUrlTitle": "Evolve 365 \u2013 Microsoft 365 Adoption Solutions",
   "metadata": {
     "personas": "Business Users;Information Workers",
-    "solutionTechnologies": "Azure;Azure Bot;Graph API;SPFx",
     "businessFunctions": null,
+    "displayPartner": true,
     "appSource": null,
     "displayInfo": {
       "default": {
@@ -24,19 +24,29 @@
           {
             "name": "Short description",
             "content": [
-              "\u003Cdiv\u003E\u003Cb\u003EEvolve\n365 is a Planet Technologies methodology and service that drives learning and\npromotes user adoption. Custom learning solutions that fit your needs and your\nworkforce.\u003C/b\u003E\u003C/div\u003E"
+              "Evolve365 is a Planet Technologies methodology and service that drives learning andpromotes user adoption. Custom learning solutions that fit your needs and yourworkforce."
             ]
+          },
+          {
+            "name": "Long description",
+            "content": []
           },
           {
             "name": "Business need or problem",
             "content": [
-              "\u003Cdiv\u003EWhen you look at the overall deployment of any\nnew technology or new way of doing things, it doesn\u2019t take long to see that\nsimply deploying the solution is never all there is to the story. Deployment is\nnot adoption, and, in most cases, the actual implementation of the technology\nis the easiest part of the entire project. If our IT projects were based solely\non the deployment of the technology and could ignore the social, economic, and\ncultural issues \u2013 implementing new solutions would be the easiest task we ever\ntook on!\u003Cbr\u003E\u003C/div\u003E"
+              "When you look at the overall deployment of anynew technology or new way of doing things, it doesn\u2019t take long to see thatsimply deploying the solution is never all there is to the story. Deployment isnot adoption, and, in most cases, the actual implementation of the technologyis the easiest part of the entire project. If our IT projects were based solelyon the deployment of the technology and could ignore the social, economic, andcultural issues \u2013 implementing new solutions would be the easiest task we evertook on!"
             ]
           },
           {
             "name": "Business solution",
             "content": [
-              "\u003Cdiv\u003EWith\nall these things in mind, Planet Technologies has crafted a complete learning\nsolution \u2013 designed purposefully to bring together all aspects of learning and\nchange management to your Microsoft 365 deployments.\u0026nbsp; No matter if you are just getting ready to\nmigrate to Office 365 or if you have been there for years.\u0026nbsp; Evolve 365 is a flexible solution designed to\nmeet your users where they are, help them understand the technology available\nto them and help them understand how it can help them transform how they work\ntogether.\u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003EEvolve\n365 Includes:\u003C/div\u003E\u003Cdiv\u003E\u003Cul\u003E\u003Cli\u003EDedicated Learning Strategist\u003C/li\u003E\u003Cli\u003ECustom Training Playlist\u003C/li\u003E\u003Cli\u003EOnline Videos \u0026amp; Training Playlist \u2013 Updated with\nOffice 365 Feature Release Cycles \u003C/li\u003E\u003Cli\u003ECustom Training \u2013 including Cyber Security and CMMC\nTraining\u003C/li\u003E\u003Cli\u003EContent Curated for GCC, GCC-H and DoD Cloud\nEnvironments\u003C/li\u003E\u003C/ul\u003E\u003C/div\u003E"
+              "Withall these things in mind, Planet Technologies has crafted a complete learningsolution \u2013 designed purposefully to bring together all aspects of learning andchange management to your Microsoft 365 deployments. \u0026nbsp;No matter if you are just getting ready tomigrate to Office 365 or if you have been there for years. \u0026nbsp;Evolve 365 is a flexible solution designed tomeet your users where they are, help them understand the technology availableto them and help them understand how it can help them transform how they worktogether.\n\u003Cbr\u003E\n\u003Cbr\u003EEvolve365 Includes:\n\u003Cbr\u003E\n\u003Cbr\u003E * \u0026nbsp;Dedicated Learning Strategist\n\u003Cbr\u003E * \u0026nbsp;Custom Training Playlist\n\u003Cbr\u003E * \u0026nbsp;Online Videos \u0026amp; Training Playlist \u2013 Updated withOffice 365 Feature Release Cycles \n\u003Cbr\u003E * \u0026nbsp;Custom Training \u2013 including Cyber Security and CMMCTraining\n\u003Cbr\u003E * \u0026nbsp;Content Curated for GCC, GCC-H and DoD CloudEnvironments"
+            ]
+          },
+          {
+            "name": "Success factors",
+            "content": [
+              "Oneof the key components of Evolve 365 is that every subscription includes adedicated Microsoft certified service adoption specialist who will partner withyou to help you map out a customized learning and adoption strategy that alignswith the specific needs of your users and culture. This Evolve 365 Learning Strategist will work withyou to understand the styles that your users learn the best, what has workedpreviously and will suggest new and creative ways to provide additionallearning opportunities moving forward. They will be responsible for onboardingyour Evolve 365 experience and will be checking in with you regularlythroughout your subscription to ensure that users are effectively accessingEvolve 365 and that it is driving additional usage with Office 365. They startthe process by asking questions about your users and your agency and thenthroughout the entire subscription they monitor the success of your adoptionefforts, ensuring that your ROI is growing throughout your entire subscription.Learning \u0026amp; Adoption Strategists are also responsible for working with yourteam to ensure that training is effective and is driving an increase in the useof Microsoft 365 across your userbase. Through the Office 365 Usage Reports andintegrated adoption reports within Evolve 365, your dedicated AdoptionStrategist is able to help you see how training is directly impacting yourOffice 365 usage, identify areas where additional training could be helpful,and identify any common trends in Office 365 usage patterns. By continuallymonitoring all of this information and using it to update your customizedlearning plan, you can be assured that your training and adoption strategy willalways be relevant to the current needs, pain points and technologies that yourusers are experiencing. \u0026nbsp;Without thislevel of monitoring, you are only able to go on gut instinct and generictraining and communication plans designed for the masses and meant to drive thetraining Microsoft deems relevant."
             ]
           }
         ],
@@ -44,31 +54,31 @@
           {
             "type": "image",
             "order": 0,
-            "url": "assets/Evolve365-Image5.jpg",
+            "url": "assets/Evolve365-Image2.jpg",
             "alt": ""
           },
           {
             "type": "image",
             "order": 1,
-            "url": "assets/Evolve365-Image4.jpg",
-            "alt": ""
-          },
-          {
-            "type": "image",
-            "order": 2,
-            "url": "assets/Evolve365-Image3.jpg",
-            "alt": ""
-          },
-          {
-            "type": "image",
-            "order": 3,
             "url": "assets/Evolve365-Image1.jpg",
             "alt": ""
           },
           {
             "type": "image",
+            "order": 2,
+            "url": "assets/Evolve365-Image4.jpg",
+            "alt": ""
+          },
+          {
+            "type": "image",
+            "order": 3,
+            "url": "assets/Evolve365-Image3.jpg",
+            "alt": ""
+          },
+          {
+            "type": "image",
             "order": 4,
-            "url": "assets/Evolve365-Image2.jpg",
+            "url": "assets/Evolve365-Image5.jpg",
             "alt": ""
           },
           {
@@ -97,7 +107,7 @@
               },
               {
                 "url": "https://o365support.com/success-stories/",
-                "name": "Evolve\n365 Case Studies"
+                "name": "Evolve 365 Case Studies"
               }
             ]
           }

@@ -10,13 +10,13 @@
   "visible": false,
   "solutionLogoPicture": null,
   "solutionLogoPictureAlt": "",
-  "solutionName": "365 Live Events ",
+  "solutionName": "365 Live Events",
   "solutionUrl": null,
-  "solutionUrlTitle": "365 Live Events ",
+  "solutionUrlTitle": "365 Live Events",
   "metadata": {
     "personas": "Live Events Producers;Moderators;Participants;Presenters",
-    "solutionTechnologies": "Teams Live Events",
     "businessFunctions": null,
+    "displayPartner": false,
     "appSource": null,
     "displayInfo": {
       "default": {
@@ -24,30 +24,33 @@
           {
             "name": "Short description",
             "content": [
-              "\u003Cdiv\u003E\u003Cb\u003EWe\ncan support your organization with your Teams Live Events and Webinars.\u003C/b\u003E\u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E\u003C/div\u003E"
+              "\u003Cdiv\u003EWe can support your organization with your Teams Live Events and Webinars. \u003C/div\u003E"
             ]
+          },
+          {
+            "name": "Long description",
+            "content": []
           },
           {
             "name": "Business need or problem",
             "content": [
-              "\u003Cdiv\u003EIt\u2019s not easy to convert an On-Premise Event to\nan Online Event and give the same level of attention to your participants.\nCommunicativ will help you setup the Online Event with years of experience and\nbest practices. \u003Cbr\u003E\u003C/div\u003E"
+              "It\u2019s not easy to convert an On-Premise Event toan Online Event and give the same level of attention to your participants.Communicativ will help you setup the Online Event with years of experience andbest practices."
             ]
           },
           {
             "name": "Business solution",
             "content": [
-              "\u003Cdiv\u003EOur approach focusses on these steps:\u003C/div\u003E\u003Cdiv\u003E\u003Col\u003E\u003Cli\u003EIT Readiness Assessment\u003C/li\u003E\u003Cli\u003EOrganizational Readiness Assessment\u003C/li\u003E\u003Cli\u003EEvent Scheduling and Production\u003C/li\u003E\u003Cli\u003EOrganizational support\u003C/li\u003E\u003Cli\u003ETemporary Event Equipment\u003C/li\u003E\u003C/ol\u003E\u003C/div\u003E"
+              "Our approach focusses on these steps:\n\u003Cbr\u003E\n\u003Cbr\u003E * \u0026nbsp;IT Readiness Assessment\n\u003Cbr\u003E * \u0026nbsp;Organizational Readiness Assessment\n\u003Cbr\u003E * \u0026nbsp;Event Scheduling and Production\n\u003Cbr\u003E * \u0026nbsp;Organizational support\n\u003Cbr\u003E * \u0026nbsp;Temporary Event Equipment"
+            ]
+          },
+          {
+            "name": "Success factors",
+            "content": [
+              "Through our step-by-step approach we provide100% successful Live Events with no surprises during production. With ourMeeting Space experience, we can facilitate a cost-effective event utilizingavailable Teams Room solutions or provide temporary Teams Certified equipmentto mitigate gaps."
             ]
           }
         ],
-        "mediaAssets": [
-          {
-            "type": "image",
-            "order": 0,
-            "url": "assets/Solution-365 Live Event.png",
-            "alt": ""
-          }
-        ],
+        "mediaAssets": [],
         "detailItemCategories": [
           {
             "name": "Resources",
