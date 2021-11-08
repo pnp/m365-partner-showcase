@@ -7,7 +7,7 @@
   "industries": [],
   "sortOrder": 0,
   "preview": false,
-  "visible": true,
+  "visible": false,
   "solutionLogoPicture": null,
   "solutionLogoPictureAlt": "",
   "solutionName": "YourKnowHow",
@@ -15,7 +15,6 @@
   "solutionUrlTitle": "YourKnowHow",
   "metadata": {
     "personas": "Digital Champions;End-user",
-    "solutionTechnologies": "Microsoft Teams;SharePoint sites;Stream",
     "businessFunctions": null,
     "displayPartner": true,
     "appSource": null,
@@ -25,31 +24,29 @@
           {
             "name": "Short description",
             "content": [
-              "\u003Cdiv\u003EComplement\nyour Learning Pathways content with live expert sessions and bitesize video!\u003Cbr\u003E\u003C/div\u003E"
+              "Complementyour Learning Pathways content with live expert sessions and bitesize video!"
             ]
           },
           {
             "name": "Long description",
-            "content": [
-              "\u003Cdiv\u003EA\ncomplete suite of complementary digital and in person learning and support for\nMicrosoft 365. Our range of tools can be used to further the reach and efficacy\nof Learning Pathways to ensure adoption and drive productivity.\u003Cbr\u003E\u003C/div\u003E"
-            ]
+            "content": []
           },
           {
             "name": "Business need or problem",
             "content": [
-              "\u003Cdiv\u003EIn\nmany organisations, Microsoft 365 adoption can be hampered by misunderstandings\nand a lack of support for users. The first step in the correct use of Microsoft\n365 is to gain a healthy understanding of the \u2018why\u2019 and how it will benefit\nyou. Only then can you begin to understand the \u2018how\u2019.\u003Cbr\u003E\u003C/div\u003E"
+              "Inmany organisations, Microsoft 365 adoption can be hampered by misunderstandingsand a lack of support for users. The first step in the correct use of Microsoft365 is to gain a healthy understanding of the \u2018why\u2019 and how it will benefityou. Only then can you begin to understand the \u2018how\u2019."
             ]
           },
           {
             "name": "Business solution",
             "content": [
-              "\u003Cdiv\u003EDesigned and\ndeveloped by our team of experts, the YourKnowHow video portfolio contains over\n250 videos covering all the day to day topics users need to understand to\neffectively use Microsoft 365. What\u2019s even better is that our library is\nupdated on a monthly basis, ensuring users learn the most up to date content in\nan environment they are familiar with. \u003C/div\u003E\u003Cdiv\u003E\n \u003C/div\u003E\u003Cdiv\u003E\u003Cul\u003E\u003Cli\u003EOver 250 Microsoft 365 Videos\u003C/li\u003E\u003Cli\u003EDeveloped by our Team of Experts\u003C/li\u003E\u003Cli\u003E2-4 Minute easy to consume bite-sized\n     content\u003C/li\u003E\u003Cli\u003EFully narrated\u003C/li\u003E\u003Cli\u003EFull HD with Captions\u003C/li\u003E\u003Cli\u003ESimple deployment, Azure, Stream, SCORM\n     Compliant\u003C/li\u003E\u003Cli\u003EMonthly content updates in line with\n     Microsoft 365\u003C/li\u003E\u003Cli\u003ECustom video development available\u003C/li\u003E\u003C/ul\u003E\u003C/div\u003E\u003Cdiv\u003E\n \u003C/div\u003E\u003Cdiv\u003E\n \u003C/div\u003E\u003Cdiv\u003E\n \u003C/div\u003E\u003Cdiv\u003E\n \u003C/div\u003E\u003Cdiv\u003E\n \u003C/div\u003E\u003Cdiv\u003E\n \u003C/div\u003E\u003Cdiv\u003E\n \u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E\u003C/div\u003E"
+              "Designed anddeveloped by our team of experts, the YourKnowHow video portfolio contains over250 videos covering all the day to day topics users need to understand toeffectively use Microsoft 365. What\u2019s even better is that our library isupdated on a monthly basis, ensuring users learn the most up to date content inan environment they are familiar with. \n\u003Cbr\u003E \n\u003Cbr\u003E\n\u003Cbr\u003E * \u0026nbsp;Over 250 Microsoft 365 Videos\n\u003Cbr\u003E * \u0026nbsp;Developed by our Team of Experts\n\u003Cbr\u003E * \u0026nbsp;2-4 Minute easy to consume bite-sized \u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;content\n\u003Cbr\u003E * \u0026nbsp;Fully narrated\n\u003Cbr\u003E * \u0026nbsp;Full HD with Captions\n\u003Cbr\u003E * \u0026nbsp;Simple deployment, Azure, Stream, SCORM \u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;Compliant\n\u003Cbr\u003E * \u0026nbsp;Monthly content updates in line with \u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;Microsoft 365\n\u003Cbr\u003E * \u0026nbsp;Custom video development available"
             ]
           },
           {
             "name": "Success factors",
             "content": [
-              "\u003Cdiv\u003EDriving your organization forward to achieve\ntrue digital transformation, providing just in time, up to date help and\nsupport to your users.\u003Cbr\u003E\u003C/div\u003E"
+              "Driving your organization forward to achievetrue digital transformation, providing just in time, up to date help andsupport to your users."
             ]
           }
         ],
@@ -57,25 +54,25 @@
           {
             "type": "image",
             "order": 0,
-            "url": "assets/YKH-image1.png",
-            "alt": ""
-          },
-          {
-            "type": "image",
-            "order": 1,
-            "url": "assets/YKH-image4.png",
-            "alt": ""
-          },
-          {
-            "type": "image",
-            "order": 2,
             "url": "assets/YKH-image3.png",
             "alt": ""
           },
           {
             "type": "image",
-            "order": 3,
+            "order": 1,
+            "url": "assets/YKH-image1.png",
+            "alt": ""
+          },
+          {
+            "type": "image",
+            "order": 2,
             "url": "assets/YKH-image2.png",
+            "alt": ""
+          },
+          {
+            "type": "image",
+            "order": 3,
+            "url": "assets/YKH-image4.png",
             "alt": ""
           }
         ],

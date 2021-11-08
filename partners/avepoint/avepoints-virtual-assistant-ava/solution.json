@@ -7,7 +7,7 @@
   "industries": [],
   "sortOrder": 0,
   "preview": false,
-  "visible": true,
+  "visible": false,
   "solutionLogoPicture": null,
   "solutionLogoPictureAlt": "",
   "solutionName": "AvePoint\u2019s Virtual Assistant (AVA)",
@@ -15,7 +15,6 @@
   "solutionUrlTitle": "AvePoint\u2019s Virtual Assistant (AVA)",
   "metadata": {
     "personas": "Business Admin;IT;Knowledge Worker",
-    "solutionTechnologies": "Azure AD;Microsoft 365;Microsoft Teams;OneDrive;SharePoint sites",
     "businessFunctions": null,
     "displayPartner": true,
     "appSource": null,
@@ -25,31 +24,29 @@
           {
             "name": "Short description",
             "content": [
-              "\u003Cdiv\u003E\u003Cb\u003EEasily\nrecover and restore deleted Microsoft 365 emails, documents and SharePoint\nsites.\u003C/b\u003E\u003C/div\u003E"
+              "Easilyrecover and restore deleted Microsoft 365 emails, documents and SharePointsites."
             ]
           },
           {
             "name": "Long description",
-            "content": [
-              "\u003Cdiv\u003EAvePoint\u2019s Virtual Assistant (AVA) helps users\nfind lost Microsoft 365 content. AVA is a Microsoft Teams chatbot that can help\nyou find lost files or emails, without burdening your help desk or IT teams.\u003Cbr\u003E\u003C/div\u003E"
-            ]
+            "content": []
           },
           {
             "name": "Business need or problem",
             "content": [
-              "\u003Cdiv\u003EContent\ncreation and consumption across various Microsoft 365 services like Exchange Online,\nMicrosoft Teams, SharePoint and OneDrive is growing at a rapid pace.\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003EIf emails, documents or SharePoint sites are deleted,\nhow easy is it for a Microsoft 365 user to restore it especially if it\u2019s not in\nthe recycle bin anymore? \u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003E\nHow quick can the helpdesk or IT support team recover and restore content\nwhenever help is requested?\u003Cbr\u003E\u003C/div\u003E"
+              "Contentcreation and consumption across various Microsoft 365 services like Exchange Online,Microsoft Teams, SharePoint and OneDrive is growing at a rapid pace.\n\u003Cbr\u003E\n\u003Cbr\u003EIf emails, documents or SharePoint sites are deleted,how easy is it for a Microsoft 365 user to restore it especially if it\u2019s not inthe recycle bin anymore? \n\u003Cbr\u003E\n\u003Cbr\u003EHow quick can the helpdesk or IT support team recover and restore contentwhenever help is requested?"
             ]
           },
           {
             "name": "Business solution",
             "content": [
-              "\u003Cdiv\u003ESay\nhello to AVA, AvePoint\u2019s Virtual Assistant! AVA automates common restore\nrequests and other tedious tasks that could cause a help desk ticket\nbacklog\u2026basically making email, documents and SharePoint sites recovery and\nrestore a cinch.\u003Cbr\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003EAVA\nautomatically responds to Microsoft Teams chats initiated by end users who are\nsearching for lost content. \u003Cbr\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003EAVA\ncan locate missing files, recently modified documents, broken URLs to documents\nand files, lost emails in Microsoft 365. \u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003EAVA\ngives your help desk team the freedom to focus on more pressing tasks at hand,\nwhile making restore and recovery just another an easy-to-use feature for your\nend users. With security always top of mind, you can bet AVA\u2019s got all the\nright controls in place to enforce permissions and make sure content stays in\nthe right hands. AVA is the helpful little chatbot you forgot you needed.\u003C/div\u003E"
+              "Sayhello to AVA, AvePoint\u2019s Virtual Assistant! AVA automates common restorerequests and other tedious tasks that could cause a help desk ticketbacklog\u2026basically making email, documents and SharePoint sites recovery andrestore a cinch.\n\u003Cbr\u003E\n\u003Cbr\u003EAVAautomatically responds to Microsoft Teams chats initiated by end users who aresearching for lost content. \n\u003Cbr\u003E\n\u003Cbr\u003EAVAcan locate missing files, recently modified documents, broken URLs to documentsand files, lost emails in Microsoft 365. \n\u003Cbr\u003E\n\u003Cbr\u003EAVAgives your help desk team the freedom to focus on more pressing tasks at hand,while making restore and recovery just another an easy-to-use feature for yourend users. With security always top of mind, you can bet AVA\u2019s got all theright controls in place to enforce permissions and make sure content stays inthe right hands. AVA is the helpful little chatbot you forgot you needed."
             ]
           },
           {
             "name": "Success factors",
             "content": [
-              "\u003Cdiv\u003E\u003Cul\u003E\u003Cli\u003EQuick recovery and\nrestoration of Microsoft 365 content for end users \u003C/li\u003E\u003Cli\u003EReduce helpdesk\nand IT team support burden\u003C/li\u003E\u003C/ul\u003E\u003C/div\u003E"
+              "* \u0026nbsp;Quick recovery andrestoration of Microsoft 365 content for end users \n\u003Cbr\u003E * \u0026nbsp;Reduce helpdeskand IT team support burden"
             ]
           }
         ],
@@ -57,7 +54,7 @@
           {
             "type": "image",
             "order": 0,
-            "url": "assets/AVA_image1.png",
+            "url": "assets/AVA_image3.jpg",
             "alt": ""
           },
           {
@@ -69,7 +66,7 @@
           {
             "type": "image",
             "order": 2,
-            "url": "assets/AVA_image3.jpg",
+            "url": "assets/AVA_image1.png",
             "alt": ""
           }
         ],
@@ -80,7 +77,7 @@
             "items": [
               {
                 "url": "https://www.avepoint.com/blog/backup/ava-bot-office-365/",
-                "name": "Reduce The Burden Of Restoring Office 365 Files with\nOur Free Microsoft Teams Chatbot! "
+                "name": "Reduce The Burden Of Restoring Office 365 Files with Our Free Microsoft Teams Chatbot!"
               },
               {
                 "url": "https://appsource.microsoft.com/en-us/product/office/WA104381883",
@@ -88,7 +85,7 @@
               },
               {
                 "url": "https://www.avepoint.com/case-studies/messukeskus-teams-dynamics-backup",
-                "name": "Messukeskus Backs Up More than 6 TB, Advanced\nWorkloads in Microsoft Teams and Dynamics 365"
+                "name": "Messukeskus Backs Up More than 6 TB, Advanced Workloads in Microsoft Teams and Dynamics 365"
               }
             ]
           }

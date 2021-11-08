@@ -7,7 +7,7 @@
   "industries": [],
   "sortOrder": 0,
   "preview": false,
-  "visible": true,
+  "visible": false,
   "solutionLogoPicture": null,
   "solutionLogoPictureAlt": "",
   "solutionName": "Storyals Pro",
@@ -15,7 +15,6 @@
   "solutionUrlTitle": "Storyals Pro",
   "metadata": {
     "personas": "Information Workers",
-    "solutionTechnologies": "SharePoint API;SharePoint sites;SPFx",
     "businessFunctions": null,
     "displayPartner": true,
     "appSource": null,
@@ -25,31 +24,29 @@
           {
             "name": "Short description",
             "content": [
-              "\u003Cdiv\u003EA cutting-edge learning solution to drive transformation and build digital skills. \u0026nbsp;\u003Cbr\u003E\u003C/div\u003E"
+              "A cutting-edge learning solution to drive transformation and build digital skills."
             ]
           },
           {
             "name": "Long description",
-            "content": [
-              "\u003Cdiv\u003EStoryals Pro is a modern learning solution designed to accelerate digital transformation. Integrated into Microsoft Teams, it combines Storyals\u2019 unique story-based learning concept with the award-winning learning management system LMS365 to manage the Storyals learning content. With Storyals Pro you are equipped with effective adoption tools to actively drive and monitor user progress. \u003Cbr\u003E\u003C/div\u003E"
-            ]
+            "content": []
           },
           {
             "name": "Business need or problem",
             "content": [
-              "\u003Cdiv\u003EUsers today are overwhelmed with the many modern tools that Microsoft 365 provides. It\u2019s difficult for organizations to provide their employees with the necessary learning required for users to use these tools in an effective manner. Classroom based training, carried out a couple of times a year, is no longer sufficient to keep users trained with the constant changes and updates of today\u0027s modern tools. \u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003EMany users are stuck in traditional ways of working and don\u2019t always welcome change. They need to be made aware of the benefits and understand why they should change their behavior, in addition to how to use the tools to do it. \u0026nbsp;\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003EIn addition to providing users with the necessary coaching and guidance, change management leaders need tools to assign, track and follow up on end user learning.\u003C/div\u003E"
+              "Users today are overwhelmed with the many modern tools that Microsoft 365 provides. It\u2019s difficult for organizations to provide their employees with the necessary learning required for users to use these tools in an effective manner. Classroom based training, carried out a couple of times a year, is no longer sufficient to keep users trained with the constant changes and updates of today\u0027s modern tools. \n\u003Cbr\u003E\n\u003Cbr\u003EMany users are stuck in traditional ways of working and don\u2019t always welcome change. They need to be made aware of the benefits and understand why they should change their behavior, in addition to how to use the tools to do it. \n\u003Cbr\u003E\n\u003Cbr\u003EIn addition to providing users with the necessary coaching and guidance, change management leaders need tools to assign, track and follow up on end user learning."
             ]
           },
           {
             "name": "Business solution",
             "content": [
-              "\u003Cdiv\u003EStoryals Pro is designed for\u0026nbsp;departments\nand\u0026nbsp;organizations looking for a rich Microsoft 365 adoption solution to drive transformation\u0026nbsp;and build digital skills.\u003C/div\u003E\u003Cdiv\u003E\u0026nbsp;\u003C/div\u003E\u003Cdiv\u003EThe\nsolution provides employees with Storyals unique story-based learning content,\nto inspire, motivate and educate them\u0026nbsp;to work smarter with\u0026nbsp;Microsoft\n365.\u0026nbsp;\u003C/div\u003E\u003Cdiv\u003E\u0026nbsp;\u003C/div\u003E\u003Cdiv\u003EStoryals\nPro also provides your organization with LMS365 (limited to manage only\nStoryals learning content) which enable change management leaders to assign and monitor end user progress.\u003C/div\u003E\u003Cdiv\u003E\u0026nbsp;\u003C/div\u003E\u003Cdiv\u003E\u003Cb\u003EStory-based\nlearning content\u003C/b\u003E\u003C/div\u003E\u003Cdiv\u003EWith\u0026nbsp;Storyals\u0026nbsp;Pro, users are provided with\u0026nbsp;a learning\nsite with\u0026nbsp;self-paced, high-quality training videos and story-based\ntutorials.\u0026nbsp;\u0026nbsp;The\u0026nbsp;on-demand\u0026nbsp;videos\nfrom\u0026nbsp;Storyals\u0026nbsp;focus on \u201Cwhat you need to know\u201D to work effectively\nusing modern digital tools.\u0026nbsp;Users have access to a selected number of learning\u0026nbsp;topics,\u0026nbsp;each\ncovering various apps and features. All learning topics highlight digital\nworkplace best practices and feature real-world scenarios and are\ncontinuously\u0026nbsp;updated\u0026nbsp;and maintained by\u0026nbsp;Storyals.\u0026nbsp;To further\nstrengthen understanding, each topic includes a quiz with situational-based\nquestions.\u0026nbsp;The solution also includes \u201Chow-to\u201D videos from Microsoft via\nMicrosoft 365 Learning Pathways.\u0026nbsp;\u0026nbsp;\u0026nbsp;\u003C/div\u003E\u003Cdiv\u003E\u0026nbsp;\u003C/div\u003E\u003Cdiv\u003E\u003Cb\u003EWith\u0026nbsp;Storyals\u0026nbsp;Pro\nyou get:\u003C/b\u003E\u003C/div\u003E\u003Cdiv\u003E\u0026nbsp;\u003C/div\u003E\u003Cdiv\u003ELearning\ncontent:\u0026nbsp;\u0026nbsp;\u003C/div\u003E\u003Cdiv\u003E\u003Cul\u003E\u003Cli\u003EA great looking\nSharePoint site\u0026nbsp;\u003C/li\u003E\u003Cli\u003EAccess to\nall\u0026nbsp;Storyals\u0026nbsp;topics\u0026nbsp;\u003C/li\u003E\u003Cli\u003EContinuous video updates\u0026nbsp;\u003C/li\u003E\u003Cli\u003EQuizzes to\nstrengthen\u0026nbsp;understanding\u0026nbsp;\u003C/li\u003E\u003Cli\u003EPersonalized completion\ncertificates \u003C/li\u003E\u003Cli\u003EMicrosoft 365 Learning\nPathways\u0026nbsp;\u003C/li\u003E\u003C/ul\u003E\u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003EAdoption\ntools:\u0026nbsp;\u0026nbsp;\u003C/div\u003E\u003Cdiv\u003E\u003Cul\u003E\u003Cli\u003EA limited version of\nLMS365\u003C/li\u003E\u003Cli\u003EThe LMS365 Teams app\u003C/li\u003E\u003Cli\u003EAnywhere access via\nmobile LMS365 app \u003C/li\u003E\u003C/ul\u003E\u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003E\u0026nbsp;\u003C/div\u003E\u003Cdiv\u003EPersonalized dashboards\u003C/div\u003E\u003Cdiv\u003E\u003Cul\u003E\u003Cli\u003EAbility to assign\nStoryals topics to users\u003C/li\u003E\u003Cli\u003ERich learner progress\nreports\u003C/li\u003E\u003Cli\u003EProfessional support\nand maintenance\u0026nbsp;\u003C/li\u003E\u003C/ul\u003E\u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E\u003C/div\u003E"
+              "Storyals Pro is designed for departmentsand organizations looking for a rich Microsoft 365 adoption solution to drive transformation and build digital skills.\n\u003Cbr\u003E\n\u003Cbr\u003EThesolution provides employees with Storyals unique story-based learning content,to inspire, motivate and educate them to work smarter with Microsoft365.\n\u003Cbr\u003E\n\u003Cbr\u003EStoryalsPro also provides your organization with LMS365 (limited to manage onlyStoryals learning content) which enable change management leaders to assign and monitor end user progress.\n\u003Cbr\u003E\n\u003Cbr\u003EStory-basedlearning content\n\u003Cbr\u003EWith Storyals Pro, users are provided with a learningsite with self-paced, high-quality training videos and story-basedtutorials. \u0026nbsp;The on-demand videosfrom Storyals focus on \u201Cwhat you need to know\u201D to work effectivelyusing modern digital tools. Users have access to a selected number of learning topics, eachcovering various apps and features. All learning topics highlight digitalworkplace best practices and feature real-world scenarios and arecontinuously updated and maintained by Storyals. To furtherstrengthen understanding, each topic includes a quiz with situational-basedquestions. The solution also includes \u201Chow-to\u201D videos from Microsoft viaMicrosoft 365 Learning Pathways. \u0026nbsp;\n\u003Cbr\u003E\n\u003Cbr\u003EWith Storyals Proyou get:\n\u003Cbr\u003E\n\u003Cbr\u003ELearningcontent: \n\u003Cbr\u003E\n\u003Cbr\u003E * \u0026nbsp;A great lookingSharePoint site\n\u003Cbr\u003E * \u0026nbsp;Access toall Storyals topics\n\u003Cbr\u003E * \u0026nbsp;Continuous video updates\n\u003Cbr\u003E * \u0026nbsp;Quizzes tostrengthen understanding\n\u003Cbr\u003E * \u0026nbsp;Personalized completioncertificates \n\u003Cbr\u003E * \u0026nbsp;Microsoft 365 LearningPathways\n\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cbr\u003EAdoptiontools: \n\u003Cbr\u003E\n\u003Cbr\u003E * \u0026nbsp;A limited version ofLMS365\n\u003Cbr\u003E * \u0026nbsp;The LMS365 Teams app\n\u003Cbr\u003E * \u0026nbsp;Anywhere access viamobile LMS365 app \n\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cbr\u003EPersonalized dashboards\n\u003Cbr\u003E\n\u003Cbr\u003E * \u0026nbsp;Ability to assignStoryals topics to users\n\u003Cbr\u003E * \u0026nbsp;Rich learner progressreports\n\u003Cbr\u003E * \u0026nbsp;Professional supportand maintenance"
             ]
           },
           {
             "name": "Success factors",
             "content": [
-              "\u003Cdiv\u003ETo\nsucceed with digital workplace adoption using Storyals Pro, your IT department\nor IT-hosting provider needs to be involved.\u0026nbsp;\n\u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003EWith\nStoryals Pro learning content is made available to end users via SharePoint,\nTeams or via a mobile app. Storyals Pro leverages a limited version of LMS365 to\nprovide and manage the Storyals learning content and Microsoft 365 Learning\nPathways to provide \u201Chow-to\u201D videos to end users.\u0026nbsp; \u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003EWe know that to be successful in driving\nadoption and building digital skills, it is vital to have the support of\nmanagement and other key stakeholders. We recommend you make a plan for how to\nroll out the adoption program to end-users in order to get everyone on-board.\nStoryals Adoption Experts are happy to help you with this.\u003Cbr\u003E\u003C/div\u003E"
+              "Tosucceed with digital workplace adoption using Storyals Pro, your IT departmentor IT-hosting provider needs to be involved.\n\u003Cbr\u003E\n\u003Cbr\u003EWithStoryals Pro learning content is made available to end users via SharePoint,Teams or via a mobile app. Storyals Pro leverages a limited version of LMS365 toprovide and manage the Storyals learning content and Microsoft 365 LearningPathways to provide \u201Chow-to\u201D videos to end users. \u0026nbsp;\n\u003Cbr\u003E\n\u003Cbr\u003EWe know that to be successful in drivingadoption and building digital skills, it is vital to have the support ofmanagement and other key stakeholders. We recommend you make a plan for how toroll out the adoption program to end-users in order to get everyone on-board.Storyals Adoption Experts are happy to help you with this."
             ]
           }
         ],
@@ -75,25 +72,25 @@
           {
             "type": "image",
             "order": 3,
-            "url": "assets/1. Storyals Pro featured image.png",
-            "alt": ""
-          },
-          {
-            "type": "image",
-            "order": 4,
-            "url": "assets/4. Storyals Pro Learning topics.png",
-            "alt": ""
-          },
-          {
-            "type": "image",
-            "order": 5,
             "url": "assets/3. Storyals Pro learning topi.png",
             "alt": ""
           },
           {
             "type": "image",
-            "order": 6,
+            "order": 4,
+            "url": "assets/1. Storyals Pro featured image.png",
+            "alt": ""
+          },
+          {
+            "type": "image",
+            "order": 5,
             "url": "assets/2. Storyals Pro in M365.jpg",
+            "alt": ""
+          },
+          {
+            "type": "image",
+            "order": 6,
+            "url": "assets/4. Storyals Pro Learning topics.png",
             "alt": ""
           }
         ],

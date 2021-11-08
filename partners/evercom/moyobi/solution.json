@@ -6,7 +6,7 @@
   ],
   "industries": [],
   "sortOrder": 0,
-  "preview": true,
+  "preview": false,
   "visible": false,
   "solutionLogoPicture": null,
   "solutionLogoPictureAlt": "",
@@ -15,7 +15,6 @@
   "solutionUrlTitle": "MoYoBi",
   "metadata": {
     "personas": "DPO;Helpdesk Supervisors;HR;IT Admin;Manager",
-    "solutionTechnologies": "Azure AD;Graph API;Microsoft Teams",
     "businessFunctions": null,
     "displayPartner": true,
     "appSource": null,
@@ -25,31 +24,29 @@
           {
             "name": "Short description",
             "content": [
-              "\u003Cdiv\u003E\u003Cb\u003ECloud based Monitoring \u0026amp; Call\nAnalytics solution for Microsoft Teams.\u003C/b\u003E\u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E\u003C/div\u003E"
+              "Cloud based Monitoring \u0026amp; CallAnalytics solution for Microsoft Teams."
             ]
           },
           {
             "name": "Long description",
-            "content": [
-              "\u003Cdiv\u003EMoYoBi simplifies the way\norganizations measure Teams usage and savings.\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003EThat is what makes MoYoBi the\nperfect business intelligence tool for companies at any size for optimizing and\nmonitoring their Teams communication environment.\u003C/div\u003E"
-            ]
+            "content": []
           },
           {
             "name": "Business need or problem",
             "content": [
-              "\u003Cdiv\u003EOptimizing the return on any\ntechnology investment requires understanding its on-going usage and making\nadjustments consequently. The comprehensive and varying communications media\ntypes available on Teams also require the capability to monitor, analyze and\nmanage all these resources accordingly.\u003Cbr\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003ETeams customers will require an analytics\nand call accounting\u0026nbsp;solution including\nreal-time and historical dashboard, traffic analysis, alerting and fraud\ndetection tools.\u003C/div\u003E"
+              "Optimizing the return on anytechnology investment requires understanding its on-going usage and makingadjustments consequently. The comprehensive and varying communications mediatypes available on Teams also require the capability to monitor, analyze andmanage all these resources accordingly.\n\u003Cbr\u003E\n\u003Cbr\u003ETeams customers will require an analyticsand call accounting solution includingreal-time and historical dashboard, traffic analysis, alerting and frauddetection tools."
             ]
           },
           {
             "name": "Business solution",
             "content": [
-              "\u003Cdiv\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:\u0026quot;Century Gothic\u0026quot;, sans-serif;color:black;\u0022\u003E\u003Cspan style=\u0022font-family:Calibri, sans-serif;color:windowtext;\u0022\u003EMoYoBi, designed for\nsmall, medium and large companies through a secured access delivers real operational\nbenefits, with powerful features that give the customers visibility and insight\ninto the Teams Communications.\u003Cbr\u003E\u003C/span\u003E\u003C/p\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:\u0026quot;Century Gothic\u0026quot;, sans-serif;color:black;\u0022\u003E\u003Cspan style=\u0022font-family:Calibri, sans-serif;color:windowtext;\u0022\u003E\u003Cbr\u003E\u003C/span\u003E\u003C/p\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:\u0026quot;Century Gothic\u0026quot;, sans-serif;color:black;\u0022\u003E\u003Cspan style=\u0022font-family:\u0026quot;Calibri\u0026quot;,sans-serif;color:windowtext;\u0022\u003EPaying as you grow with\nonly limited investments to start, MoYoBi supports the customer throughout its\nmigration process to Teams.\u003C/span\u003E\u003C/p\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:\u0026quot;Century Gothic\u0026quot;, sans-serif;color:black;\u0022\u003E\u003Cspan style=\u0022font-family:\u0026quot;Calibri\u0026quot;,sans-serif;color:windowtext;\u0022\u003E\u003Cbr\u003E\u003C/span\u003E\u003C/p\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:\u0026quot;Century Gothic\u0026quot;, sans-serif;color:black;\u0022\u003E\u003Cspan style=\u0022font-family:\u0026quot;Calibri\u0026quot;,sans-serif;color:windowtext;\u0022\u003EMoYoBi is intuitive,\nquick to implement and simplifies the way organizations measure\u0026nbsp;their\nTeams usage.\u003Cbr\u003E\u003Cbr\u003E\u003C/span\u003E\u003C/p\u003E\u003Cp style=\u0022margin:0in;font-size:12pt;font-family:\u0026quot;Century Gothic\u0026quot;, sans-serif;color:black;\u0022\u003E\u003Cspan style=\u0022font-family:\u0026quot;Calibri\u0026quot;,sans-serif;color:windowtext;\u0022\u003EMoYoBi fits companies\nfrom all industries like Financing, Education, Consumer Goods, Healthcare,\ngovernment, high-tech, travel and transportation and more.\u003C/span\u003E\u003C/p\u003E\u003C/div\u003E"
+              "MoYoBi, designed forsmall, medium and large companies through a secured access delivers real operationalbenefits, with powerful features that give the customers visibility and insightinto the Teams Communications.\n\u003Cbr\u003E\n\u003Cbr\u003EPaying as you grow withonly limited investments to start, MoYoBi supports the customer throughout itsmigration process to Teams.\n\u003Cbr\u003E\n\u003Cbr\u003EMoYoBi is intuitive,quick to implement and simplifies the way organizations measure theirTeams usage.\n\u003Cbr\u003E\n\u003Cbr\u003EMoYoBi fits companiesfrom all industries like Financing, Education, Consumer Goods, Healthcare,government, high-tech, travel and transportation and more."
             ]
           },
           {
             "name": "Success factors",
             "content": [
-              "\u003Cdiv\u003EWith dashboards and reports on\nTeams usage, MoYoBi has helped our customers to obtain performance metrics and increase\nproductivity.\u003Cbr\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003EThe\nmulti-lingual solution allows global deployment within organizations, offering\ncontrol of the install and operation of Teams infrastructures, easing\nconsolidation strategies for all channels.\u003Cbr\u003E\u003C/div\u003E"
+              "With dashboards and reports onTeams usage, MoYoBi has helped our customers to obtain performance metrics and increaseproductivity.\n\u003Cbr\u003E\n\u003Cbr\u003EThemulti-lingual solution allows global deployment within organizations, offeringcontrol of the install and operation of Teams infrastructures, easingconsolidation strategies for all channels."
             ]
           }
         ],
@@ -57,7 +54,7 @@
           {
             "type": "image",
             "order": 0,
-            "url": "assets/MoYoBi-image1.png",
+            "url": "assets/MoYoBi-image2.png",
             "alt": ""
           },
           {
@@ -69,7 +66,7 @@
           {
             "type": "image",
             "order": 2,
-            "url": "assets/MoYoBi-image4.png",
+            "url": "assets/MoYoBi-image1.png",
             "alt": ""
           },
           {
@@ -87,7 +84,7 @@
           {
             "type": "image",
             "order": 5,
-            "url": "assets/MoYoBi-image2.png",
+            "url": "assets/MoYoBi-image4.png",
             "alt": ""
           }
         ],

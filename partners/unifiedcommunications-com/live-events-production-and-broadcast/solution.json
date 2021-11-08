@@ -6,7 +6,7 @@
   ],
   "industries": [],
   "sortOrder": 0,
-  "preview": true,
+  "preview": false,
   "visible": false,
   "solutionLogoPicture": null,
   "solutionLogoPictureAlt": "",
@@ -15,7 +15,6 @@
   "solutionUrlTitle": "Live Events: Production and Broadcast",
   "metadata": {
     "personas": "Leadership",
-    "solutionTechnologies": "Teams Live Events",
     "businessFunctions": null,
     "displayPartner": true,
     "appSource": null,
@@ -25,31 +24,29 @@
           {
             "name": "Short description",
             "content": [
-              "\u003Cdiv\u003E\u003Cb\u003ECustom production and broadcast services for Microsoft Live Events\u003C/b\u003E\u003Cbr\u003E\u003C/div\u003E"
+              "Custom production and broadcast services for Microsoft Live Events"
             ]
           },
           {
             "name": "Long description",
-            "content": [
-              "\u003Cdiv\u003EThe perfect solution for organizations that need to communicate with a large audience and present dynamic engaging content but lack the time and resources to develop and broadcast content in-house.\u003Cbr\u003E\u003C/div\u003E"
-            ]
+            "content": []
           },
           {
             "name": "Business need or problem",
             "content": [
-              "\u003Cdiv\u003EOrganizations are struggling to communicate\neffectively both with their own workforce and with external partners and industry\ndue to remote working and time/technology constraints.\u0026nbsp; They need an easy way to get their message\nout whether through Town Halls, Webinars, or as a live remote conference.\u003Cbr\u003E\u003C/div\u003E"
+              "Organizations are struggling to communicateeffectively both with their own workforce and with external partners and industrydue to remote working and time/technology constraints. \u0026nbsp;They need an easy way to get their messageout whether through Town Halls, Webinars, or as a live remote conference."
             ]
           },
           {
             "name": "Business solution",
             "content": [
-              "\u003Cdiv\u003EWe provide a customizable solution that meets\nthe needs of organizations looking to stream content to a large audience.\u0026nbsp; Our team of experts are experienced in all\nformats and work with each customer to develop the perfect solution.\u003Cbr\u003E\u003C/div\u003E"
+              "We provide a customizable solution that meetsthe needs of organizations looking to stream content to a large audience. \u0026nbsp;Our team of experts are experienced in allformats and work with each customer to develop the perfect solution."
             ]
           },
           {
             "name": "Success factors",
             "content": [
-              "\u003Cdiv\u003EWe are only successful when our customers are\nsuccessful.\u0026nbsp; We help them achieve amazing\nresults by working closely with them through each step of the process from\nplanning and design, layout and flow, to rehearsal and event production.\u003Cbr\u003E\u003C/div\u003E"
+              "We are only successful when our customers aresuccessful. \u0026nbsp;We help them achieve amazingresults by working closely with them through each step of the process fromplanning and design, layout and flow, to rehearsal and event production."
             ]
           }
         ],

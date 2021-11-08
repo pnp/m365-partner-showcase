@@ -6,7 +6,7 @@
   ],
   "industries": [],
   "sortOrder": 0,
-  "preview": true,
+  "preview": false,
   "visible": false,
   "solutionLogoPicture": null,
   "solutionLogoPictureAlt": "",
@@ -15,7 +15,6 @@
   "solutionUrlTitle": "Live Events: Remote Presenter Hardware Bundle",
   "metadata": {
     "personas": "Content Owners;Corporate Communications;Leadership",
-    "solutionTechnologies": "Teams Live Events",
     "businessFunctions": null,
     "displayPartner": true,
     "appSource": null,
@@ -25,31 +24,29 @@
           {
             "name": "Short description",
             "content": [
-              "\u003Cdiv\u003E\u003Cb\u003EPlug\nand play hardware solution that includes support for remote presenters to look\nand sound their best.\u003C/b\u003E\u003C/div\u003E"
+              "Plugand play hardware solution that includes support for remote presenters to lookand sound their best."
             ]
           },
           {
             "name": "Long description",
-            "content": [
-              "\u003Cdiv\u003EThe perfect solution for remote presenters\nincludes everything they need to setup and record or present live from\nanywhere.\u0026nbsp; Includes a camera, microphone,\nlighting, cabling, and setup support.\u0026nbsp; Presenters\ncan upgrade this bundle to include a pre-configured PC for broadcasting.\u003Cbr\u003E\u003C/div\u003E"
-            ]
+            "content": []
           },
           {
             "name": "Business need or problem",
             "content": [
-              "\u003Cdiv\u003EMany organizations lack the resources to provide\nthe right audio/video tools to remote live presenters and content\nproducers.\u0026nbsp; They also need assistance\nwith supporting that technology once deployed.\u003Cbr\u003E\u003C/div\u003E"
+              "Many organizations lack the resources to providethe right audio/video tools to remote live presenters and contentproducers. \u0026nbsp;They also need assistancewith supporting that technology once deployed."
             ]
           },
           {
             "name": "Business solution",
             "content": [
-              "\u003Cdiv\u003EWe provide an easy solution that includes\neverything a presenter needs to go live while looking and sounding great, along\nwith the support to make sure the technology works as expected.\u003Cbr\u003E\u003C/div\u003E"
+              "We provide an easy solution that includeseverything a presenter needs to go live while looking and sounding great, alongwith the support to make sure the technology works as expected."
             ]
           },
           {
             "name": "Success factors",
             "content": [
-              "\u003Cdiv\u003EWe are only successful when our customers are\nsuccessful.\u0026nbsp; We help them achieve amazing\nresults by keeping the solution easy to deploy and support remotely. \u0026nbsp;Our best practices include pre-configuration\nof any software and setup along with expertise and experience to make it work.\u003Cbr\u003E\u003C/div\u003E"
+              "We are only successful when our customers aresuccessful. \u0026nbsp;We help them achieve amazingresults by keeping the solution easy to deploy and support remotely. \u0026nbsp;Our best practices include pre-configurationof any software and setup along with expertise and experience to make it work."
             ]
           }
         ],

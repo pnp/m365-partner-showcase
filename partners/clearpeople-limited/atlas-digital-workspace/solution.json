@@ -7,7 +7,7 @@
   "industries": [],
   "sortOrder": 0,
   "preview": false,
-  "visible": true,
+  "visible": false,
   "solutionLogoPicture": null,
   "solutionLogoPictureAlt": "",
   "solutionName": "Atlas Digital Workspace",
@@ -15,7 +15,6 @@
   "solutionUrlTitle": "Atlas Digital Workspace",
   "metadata": {
     "personas": "Compliance;Corporate Communications;Front Line Worker;HR;IT;Knowledge Managers;Knowledge Worker",
-    "solutionTechnologies": "Azure AD;Azure API Management;Azure Cognitive Search;Azure Functions;Azure SQL DB;Azure Storage Accounts;Azure Web App Service;Graph API;SPFx",
     "businessFunctions": null,
     "displayPartner": true,
     "appSource": null,
@@ -25,31 +24,29 @@
           {
             "name": "Short description",
             "content": [
-              "\u003Cdiv\u003EAtlas\nhelps you achieve more by bringing knowledge, communication and collaboration\ntogether. Atlas is the only all-in-one platform for Microsoft 365.\u003C/div\u003E"
+              "Atlashelps you achieve more by bringing knowledge, communication and collaborationtogether. Atlas is the only all-in-one platform for Microsoft 365."
             ]
           },
           {
             "name": "Long description",
-            "content": [
-              "\u003Cdiv\u003EThe\nway we work has changed. Atlas connects people, tools and information to create\nbetter experiences and outcomes.\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003EAtlas\nprovides an intuitive interface on whichever platform the user prefers,\nincluding native Microsoft mobile apps for Teams and SharePoint.\u0026nbsp; \u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003EThe\nexperience is easy and engaging, plus the use of artificial intelligence means\nAtlas surfaces the right information to the right person at the right time. \u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003EPeople\nin 100\u002B countries (and counting) love Atlas as their digital workspace.\u003C/div\u003E"
-            ]
+            "content": []
           },
           {
             "name": "Business need or problem",
             "content": [
-              "\u003Cul\u003E\u003Cli\u003E\u003Cb\u003ELow productivity \u0026amp; engagement\u003C/b\u003E\u003Cbr\u003EImproving employee engagement and productivity is hard \u2013 and even harder with\ndispersed or remote working teams.\u003C/li\u003E\u003Cli\u003E\u003Cb\u003ELow adoption\u003C/b\u003E\u003Cbr\u003EOrganizations are unable to realize their investment\u0026nbsp;in Microsoft 365 and\nits full potential.\u003C/li\u003E\u003Cli\u003E\u003Cb\u003EData sprawl\u003C/b\u003E\u003Cbr\u003EKnowledge sharing becomes more difficult as new data silos proliferate and\ncreate end-user confusion.\u003C/li\u003E\u003Cli\u003E\u003Cb\u003EI can\u2019t find stuff\u003C/b\u003E\u003Cbr\u003EEmployees can spend 1.8 hours per day\nsearching for and gathering information (McKinsey).\u003C/li\u003E\u003Cli\u003E\u003Cb\u003EThe cost of inefficiency\u003C/b\u003E\u003Cbr\u003EThe cost of Inefficient communication and substandard\ncollaboration has been calculated to be \u00A38k/person p.a. (Raconteur).\u003C/li\u003E\u003C/ul\u003E"
+              "* \u0026nbsp;Low productivity \u0026amp; engagement\n\u003Cbr\u003EImproving employee engagement and productivity is hard \u2013 and even harder withdispersed or remote working teams.\n\u003Cbr\u003E * \u0026nbsp;Low adoption\n\u003Cbr\u003EOrganizations are unable to realize their investment in Microsoft 365 andits full potential.\n\u003Cbr\u003E * \u0026nbsp;Data sprawl\n\u003Cbr\u003EKnowledge sharing becomes more difficult as new data silos proliferate andcreate end-user confusion.\n\u003Cbr\u003E * \u0026nbsp;I can\u2019t find stuff\n\u003Cbr\u003EEmployees can spend 1.8 hours per daysearching for and gathering information (McKinsey).\n\u003Cbr\u003E * \u0026nbsp;The cost of inefficiency\n\u003Cbr\u003EThe cost of Inefficient communication and substandardcollaboration has been calculated to be \u00A38k/person p.a. (Raconteur)."
             ]
           },
           {
             "name": "Business solution",
             "content": [
-              "\u003Cul\u003E\u003Cli\u003E\u003Cb\u003EIncrease\nProfits and Returns\u003Cbr\u003E\u003C/b\u003EAtlas lets you sell more, do more and\nachieve more by getting the most out of Microsoft 365.\u003C/li\u003E\u003Cli\u003E\u003Cb\u003EPrevent\nKnowledge Drain\u003C/b\u003E\u003Cbr\u003EThe loss of knowledge is hugely\ndetrimental to any organisation. Atlas makes it easy for everyone to\ncontribute, share and find knowledge.\u003C/li\u003E\u003Cli\u003E\u003Cb\u003EReduce Risk\u003C/b\u003E\u003Cbr\u003EBy making governance and compliance simpler,\nAtlas is a game changer for IT and business users.\u003C/li\u003E\u003Cli\u003E\u003Cb\u003EIncrease\nProductivity\u003C/b\u003E\u003Cbr\u003EOur clever tools truly save time, so employees\ncan focus on tasks that matter.\u003C/li\u003E\u003C/ul\u003E"
+              "* \u0026nbsp;IncreaseProfits and Returns\n\u003Cbr\u003EAtlas lets you sell more, do more andachieve more by getting the most out of Microsoft 365.\n\u003Cbr\u003E * \u0026nbsp;PreventKnowledge Drain\n\u003Cbr\u003EThe loss of knowledge is hugelydetrimental to any organisation. Atlas makes it easy for everyone tocontribute, share and find knowledge.\n\u003Cbr\u003E * \u0026nbsp;Reduce Risk\n\u003Cbr\u003EBy making governance and compliance simpler,Atlas is a game changer for IT and business users.\n\u003Cbr\u003E * \u0026nbsp;IncreaseProductivity\n\u003Cbr\u003EOur clever tools truly save time, so employeescan focus on tasks that matter."
             ]
           },
           {
             "name": "Success factors",
             "content": [
-              "\u003Cul\u003E\u003Cli\u003E\u003Cb\u003EEngaged users = more productive users\u003C/b\u003E\u003Cbr\u003EAtlas\nsimplifies daily tasks, taking the stress out of work life and making tech more\naccessible.\u003C/li\u003E\u003Cli\u003E\u003Cb\u003EKnowledge should flow seamlessly through every organization\u003Cbr\u003E\u003C/b\u003EAtlas makes\nit easy for everyone to contribute, be heard and find the knowledge they\u2019re\nlooking for\u003C/li\u003E\u003Cli\u003E\u003Cb\u003EEasy and improved collaboration\u003Cbr\u003E\u003C/b\u003EAtlas makes\ncollaborating easy, with simple provisioning tools that provide agility and\nenriched, visually engaging areas to produce and consume content. People can\ncollaborate, share stories and just enjoy.\u003C/li\u003E\u003Cli\u003E\u003Cb\u003EMeasure\nsuccess\u003Cbr\u003E\u003C/b\u003EAtlas has advanced\nworkspace provisioning, designed for the end-user but controlled by IT and\ngoverned by the business.\u0026nbsp;Powerful analytics enable the organization to\nmeasure success.\u003C/li\u003E\u003C/ul\u003E"
+              "* \u0026nbsp;Engaged users = more productive users\n\u003Cbr\u003EAtlassimplifies daily tasks, taking the stress out of work life and making tech moreaccessible.\n\u003Cbr\u003E * \u0026nbsp;Knowledge should flow seamlessly through every organization\n\u003Cbr\u003EAtlas makesit easy for everyone to contribute, be heard and find the knowledge they\u2019relooking for\n\u003Cbr\u003E * \u0026nbsp;Easy and improved collaboration\n\u003Cbr\u003EAtlas makescollaborating easy, with simple provisioning tools that provide agility andenriched, visually engaging areas to produce and consume content. People cancollaborate, share stories and just enjoy.\n\u003Cbr\u003E * \u0026nbsp;Measuresuccess\n\u003Cbr\u003EAtlas has advancedworkspace provisioning, designed for the end-user but controlled by IT andgoverned by the business. Powerful analytics enable the organization tomeasure success."
             ]
           }
         ],
@@ -57,7 +54,7 @@
           {
             "type": "image",
             "order": 0,
-            "url": "assets/Atlas - Knowledge Workspace.png",
+            "url": "assets/Atlas- Add It.png",
             "alt": ""
           },
           {
@@ -69,7 +66,7 @@
           {
             "type": "image",
             "order": 2,
-            "url": "assets/Atlas- Add It.png",
+            "url": "assets/Atlas - Knowledge Workspace.png",
             "alt": ""
           },
           {
@@ -90,15 +87,15 @@
               },
               {
                 "url": "https://www.clearpeople.com/atlas-features",
-                "name": "Atlas\nFeatures"
+                "name": "Atlas Features"
               },
               {
                 "url": "https://www.clearpeople.com/success-stories",
-                "name": "Atlas\nCase Study Series"
+                "name": "Atlas Case Study Series"
               },
               {
                 "url": "https://www.clearpeople.com/pricing",
-                "name": "Atlas\nPricing"
+                "name": "Atlas Pricing"
               }
             ]
           }

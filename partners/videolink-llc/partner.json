@@ -15,12 +15,12 @@
   "metadata": {
     "displayInfo": {
       "default": {
-        "shortDescription": "\u003Cdiv\u003E\u003Cspan style=\u0022font-size:10.5pt;font-family:\u0026quot;Segoe UI\u0026quot;,sans-serif;color:black;background:white;\u0022\u003EVideoLink, an AVI-SPL company, is a leading\nprovider of video and tech-enabled production services from any lens to any\nscreen\u00AE to Fortune 500, financial services, enterprise companies, and\ninstitutions.\u003C/span\u003E\u003Cbr\u003E\u003C/div\u003E",
+        "shortDescription": "VideoLink, an AVI-SPL company, is a leadingprovider of video and tech-enabled production services from any lens to anyscreen\u00AE to Fortune 500, financial services, enterprise companies, andinstitutions.",
         "featuredTitle": "Our Products \u0026 Services",
         "featuredParagraphs": [
-          "\u003Cdiv\u003E\u003Ca href=\u0022https://www.videolinktv.com/virtualeventproductions/\u0022\u003EVirtual \u0026amp; Hybrid Events\u003C/a\u003E - You have a vision for your virtual or hybrid\nevent. As your trusted advisors, our creative and production experts help\nyou\u0026nbsp;shape that vision into a best-in-class experience from concept to\nbroadcast. \u003Cbr\u003E\u003C/div\u003E",
-          "\u003Cdiv\u003E\u003Ca href=\u0022https://www.videolinktv.com/products-services/video-production-services/\u0022\u003EVideo Production\nServices\u003C/a\u003E\u0026nbsp;- There is a reason why\nVideoLink is the preferred choice of broadcast networks and corporate\nenterprise video customers everywhere. VideoLink provides everything needed to\nensure that your event is flawless from pre-production to post-production. Whether\nyou are looking for on-location, in-studio, fully virtual or hybrid, broadcast,\nor live streaming video services, VideoLink\u0027s team of experienced production\nprofessionals will deliver high-quality results that exceed your expectations. \u003Cbr\u003E\u003C/div\u003E",
-          "\u003Cdiv\u003E\u003Ca href=\u0022https://www.videolinktv.com/products-services/readycam/\u0022\u003EReadyCam\u00AE Studio\u003C/a\u003E\u0026nbsp;-\u0026nbsp;The VideoLink ReadyCam HD broadcast studio is\nan all-in-one solution with remote operational support. This single-camera\nstudio is the simplest solution for doing live interviews or making broadcast-quality\nvideo. With\n24/7 support and no need for technical staff, every ReadyCam Studio reflects\nVideoLink\u2019s two decades of experience in connecting experts to the world\u2019s\ntelevision networks and broadcasting their message to multiple platforms,\nincluding Microsoft Teams Live Events.\u003Cbr\u003E\u003C/div\u003E"
+          "\u003Cdiv\u003E\u003Ca href=\u0022https://www.videolinktv.com/virtualeventproductions/\u0022\u003EVirtual \u0026amp; Hybrid Events\u003C/a\u003E - You have a vision for your virtual or hybridevent. As your trusted advisors, our creative and production experts helpyou shape that vision into a best-in-class experience from concept tobroadcast. \u003C/div\u003E",
+          "\u003Cdiv\u003E\u003Ca href=\u0022https://www.videolinktv.com/products-services/video-production-services/\u0022\u003EVideo ProductionServices\u003C/a\u003E - There is a reason whyVideoLink is the preferred choice of broadcast networks and corporateenterprise video customers everywhere. VideoLink provides everything needed toensure that your event is flawless from pre-production to post-production. Whetheryou are looking for on-location, in-studio, fully virtual or hybrid, broadcast,or live streaming video services, VideoLink\u0027s team of experienced productionprofessionals will deliver high-quality results that exceed your expectations. \u003C/div\u003E",
+          "\u003Cdiv\u003E\u003Ca href=\u0022https://www.videolinktv.com/products-services/readycam/\u0022\u003EReadyCam\u00AE Studio\u003C/a\u003E - The VideoLink ReadyCam HD broadcast studio isan all-in-one solution with remote operational support. This single-camerastudio is the simplest solution for doing live interviews or making broadcast-qualityvideo. With24/7 support and no need for technical staff, every ReadyCam Studio reflectsVideoLink\u2019s two decades of experience in connecting experts to the world\u2019stelevision networks and broadcasting their message to multiple platforms,including Microsoft Teams Live Events. \u003C/div\u003E"
         ],
         "callToAction": {
           "title": "From any lens to any screen\u00AE let\u2019s bring your video vision to life.",
@@ -31,13 +31,13 @@
           {
             "type": "image",
             "order": 0,
-            "url": "assets/Featured.png",
+            "url": "assets/Hero.png",
             "alt": ""
           },
           {
             "type": "image",
             "order": 1,
-            "url": "assets/Hero.png",
+            "url": "assets/Featured.png",
             "alt": ""
           }
         ],

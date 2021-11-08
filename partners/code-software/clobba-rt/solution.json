@@ -7,15 +7,14 @@
   "industries": [],
   "sortOrder": 0,
   "preview": false,
-  "visible": true,
+  "visible": false,
   "solutionLogoPicture": null,
   "solutionLogoPictureAlt": "",
   "solutionName": "Clobba RT",
-  "solutionUrl": "https://www.codesoftware.net/clobba-rt/ ",
+  "solutionUrl": "https://www.codesoftware.net/clobba-rt/",
   "solutionUrlTitle": "Clobba RT",
   "metadata": {
     "personas": "Leadership;Sales Managers",
-    "solutionTechnologies": "Azure;Graph API;Microsoft Teams",
     "businessFunctions": null,
     "displayPartner": true,
     "appSource": null,
@@ -25,31 +24,29 @@
           {
             "name": "Short description",
             "content": [
-              "\u003Cdiv\u003E\u003Cb\u003EAdvanced\nreporting, wallboards and monitors specifically for users of Teams Queues and\nAuto Attendants\u003C/b\u003E\u003C/div\u003E"
+              "Advancedreporting, wallboards and monitors specifically for users of Teams Queues andAuto Attendants"
             ]
           },
           {
             "name": "Long description",
-            "content": [
-              "\u003Cdiv\u003EClobba\u0026nbsp;RT is an additional module to Clobba delivering\nreal-time and historical information on the performance of Teams Call Queues,\nAuto Attendants and the associated agents. \u003Cbr\u003E\u003C/div\u003E"
-            ]
+            "content": []
           },
           {
             "name": "Business need or problem",
             "content": [
-              "\u003Cdiv\u003EUsers of Teams Auto\nAttendants and Queues can miss certain elements to give users the contact\ncenter experience they are familiar with. They expect visibility of performance\nstatistics to complete a \u2018lite\u2019 contact center and the ability to view\nwallboards and detailed reports natively is missing from Teams. This is where\nClobbaRT comes in.\u003C/div\u003E"
+              "Users of Teams AutoAttendants and Queues can miss certain elements to give users the contactcenter experience they are familiar with. They expect visibility of performancestatistics to complete a \u2018lite\u2019 contact center and the ability to viewwallboards and detailed reports natively is missing from Teams. This is whereClobbaRT comes in."
             ]
           },
           {
             "name": "Business solution",
             "content": [
-              "\u003Cdiv\u003ESimple to use and configurable to individual needs,\u0026nbsp;Clobba\u0026nbsp;RT delivers\nvaluable insights into Teams CQ and AA performance and productivity via its wallboard\nand automated reporting capability.\u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003EReal-time presence statistics are mixed with productivity trends over a\ndefined date range. The emphasis is on quick, easy access to relevant\ninformation and the automation of many of the reporting tasks. \u003Cbr\u003E\u003C/div\u003E"
+              "Simple to use and configurable to individual needs, Clobba RT deliversvaluable insights into Teams CQ and AA performance and productivity via its wallboardand automated reporting capability.\n\u003Cbr\u003E\n\u003Cbr\u003EReal-time presence statistics are mixed with productivity trends over adefined date range. The emphasis is on quick, easy access to relevantinformation and the automation of many of the reporting tasks."
             ]
           },
           {
             "name": "Success factors",
             "content": [
-              "\u003Cdiv\u003EOur customers have cited an increase in\nproductivity with the performance metrics produced by Clobba RT; in some circumstances,\nproductivity levels have increased by up to 50%. \u003Cbr\u003E\u003C/div\u003E"
+              "Our customers have cited an increase inproductivity with the performance metrics produced by Clobba RT; in some circumstances,productivity levels have increased by up to 50%."
             ]
           }
         ],
@@ -57,43 +54,43 @@
           {
             "type": "image",
             "order": 0,
-            "url": "assets/ClobbaRT-image5.png",
+            "url": "assets/ClobbaRT-image1.png",
             "alt": ""
           },
           {
             "type": "image",
             "order": 1,
-            "url": "assets/ClobbaRT-image3.png",
-            "alt": ""
-          },
-          {
-            "type": "image",
-            "order": 2,
             "url": "assets/ClobbaRT-image6.png",
             "alt": ""
           },
           {
             "type": "image",
-            "order": 3,
-            "url": "assets/ClobbaRT-image4.png",
-            "alt": ""
-          },
-          {
-            "type": "image",
-            "order": 4,
-            "url": "assets/ClobbaRT-image2.png",
-            "alt": ""
-          },
-          {
-            "type": "image",
-            "order": 5,
+            "order": 2,
             "url": "assets/ClobbaRT-logo.png",
             "alt": ""
           },
           {
             "type": "image",
+            "order": 3,
+            "url": "assets/ClobbaRT-image2.png",
+            "alt": ""
+          },
+          {
+            "type": "image",
+            "order": 4,
+            "url": "assets/ClobbaRT-image3.png",
+            "alt": ""
+          },
+          {
+            "type": "image",
+            "order": 5,
+            "url": "assets/ClobbaRT-image5.png",
+            "alt": ""
+          },
+          {
+            "type": "image",
             "order": 6,
-            "url": "assets/ClobbaRT-image1.png",
+            "url": "assets/ClobbaRT-image4.png",
             "alt": ""
           },
           {
@@ -110,7 +107,7 @@
             "items": [
               {
                 "url": "https://www.codesoftware.net/",
-                "name": "Clobba is available on a free 30-day trial and\ncan be delivered from the Code Cloud (Azure) or in customer environments (typically\nAzure but can be on prem servers)"
+                "name": "Clobba is available on a free 30-day trial and can be delivered from the Code Cloud (Azure) or in customer environments (typically Azure but can be on prem servers)"
               }
             ]
           }

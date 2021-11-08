@@ -7,7 +7,7 @@
   "industries": [],
   "sortOrder": 0,
   "preview": false,
-  "visible": true,
+  "visible": false,
   "solutionLogoPicture": null,
   "solutionLogoPictureAlt": "",
   "solutionName": "Learning Pathways",
@@ -15,7 +15,6 @@
   "solutionUrlTitle": "Learning Pathways",
   "metadata": {
     "personas": "Microsoft 365 User",
-    "solutionTechnologies": "Microsoft Teams;SharePoint sites;Stream",
     "businessFunctions": null,
     "displayPartner": true,
     "appSource": null,
@@ -25,31 +24,29 @@
           {
             "name": "Short description",
             "content": [
-              "\u003Cdiv\u003EStructured learning by using learning pathways, scenarios and \u201Cmini-trainings\u201D.\u0026nbsp;\u003C/div\u003E"
+              "Structured learning by using learning pathways, scenarios and \u201Cmini-trainings\u201D."
             ]
           },
           {
             "name": "Long description",
-            "content": [
-              "\u003Cdiv\u003ENext to the monthly video service, the 365 Akademie combines learning videos and creates standard or customized learning pathways, scenarios and \u201Cmini-trainings\u201D.\u0026nbsp;\u0026nbsp;\u0026nbsp;\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E"
-            ]
+            "content": []
           },
           {
             "name": "Business need or problem",
             "content": [
-              "\u003Cdiv\u003EThe users\u0026nbsp;are confronted with a new way to work and use digital tools. In order to have a successful online meeting/workshop, a correct document management or\u0026nbsp;to use the digital tools for personal productivity, the users need opportunities to approach such scenarios in a structured manner. Sometimes your organization does things differently and you need a individual learning pathway, scenario or \u201Cmini-training\u201D.\u0026nbsp;\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E"
+              "The users are confronted with a new way to work and use digital tools. In order to have a successful online meeting/workshop, a correct document management or to use the digital tools for personal productivity, the users need opportunities to approach such scenarios in a structured manner. Sometimes your organization does things differently and you need a individual learning pathway, scenario or \u201Cmini-training\u201D."
             ]
           },
           {
             "name": "Business solution",
             "content": [
-              "\u003Cdiv\u003E\u003Cdiv\u003EThe 365 Akademie combines its learning videos and creates standard or customized learning pathways, scenarios and \u201Cmini-trainings\u201D. These learning pathways can be implemented into a intranet, SharePoint site, Teams and even your LMS.\u0026nbsp;The 365 Akademie also creates a new SharePoint site for you and implements all its learning services available.\u0026nbsp;\u0026nbsp; \u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E\u003Cdiv\u003EThe learning pathways can be combined with quizzes and forms for feedback, individual information like PDFs or specific content regarding your organization.\u0026nbsp; \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E\u003Cdiv\u003EThe scenarios are perfect for your Microsoft 365 or modern workplace team in Teams and can be integrated into the specific channels.\u0026nbsp; \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E\u003Cdiv\u003EA integration into Microsoft learning pathways and Microsoft Viva Learning is also possible.\u0026nbsp;\u0026nbsp; \u003C/div\u003E\u003C/div\u003E\u003Cdiv\u003E\u003Cspan style=\u0022font-size:10.0pt;font-family:\u0026quot;Calibri\u0026quot;,sans-serif;\u0022\u003E\u003Ci\u003E\u003Cdiv style=\u0022margin:0px;cursor:text;clear:both;font-family:\u0026quot;Segoe UI\u0026quot;, \u0026quot;Segoe UI Web\u0026quot;, Arial, Verdana, sans-serif;font-size:12px;font-style:normal;\u0022\u003E \u003C/div\u003E\u003C/i\u003E\u003C/span\u003E \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E"
+              "The 365 Akademie combines its learning videos and creates standard or customized learning pathways, scenarios and \u201Cmini-trainings\u201D. These learning pathways can be implemented into a intranet, SharePoint site, Teams and even your LMS. The 365 Akademie also creates a new SharePoint site for you and implements all its learning services available. \u0026nbsp;\u0026nbsp;\n\u003Cbr\u003E\n\u003Cbr\u003E \n\u003Cbr\u003E \n\u003Cbr\u003EThe learning pathways can be combined with quizzes and forms for feedback, individual information like PDFs or specific content regarding your organization. \u0026nbsp;\n\u003Cbr\u003E \n\u003Cbr\u003E\n\u003Cbr\u003E \n\u003Cbr\u003EThe scenarios are perfect for your Microsoft 365 or modern workplace team in Teams and can be integrated into the specific channels. \u0026nbsp;\n\u003Cbr\u003E \n\u003Cbr\u003E\n\u003Cbr\u003E \n\u003Cbr\u003EA integration into Microsoft learning pathways and Microsoft Viva Learning is also possible."
             ]
           },
           {
             "name": "Success factors",
             "content": [
-              "\u003Cdiv\u003EThe support of management and other key stakeholders and a communication strategy are the two main aspects of a successful implementation. The 365 Akademie supports you with its expertise and gives insights and impulses.\u0026nbsp; \u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E"
+              "The support of management and other key stakeholders and a communication strategy are the two main aspects of a successful implementation. The 365 Akademie supports you with its expertise and gives insights and impulses."
             ]
           }
         ],
@@ -57,31 +54,31 @@
           {
             "type": "image",
             "order": 0,
-            "url": "assets/Learning Pathways 1.png",
-            "alt": ""
-          },
-          {
-            "type": "image",
-            "order": 1,
             "url": "assets/Learning Pathways 5.png",
             "alt": ""
           },
           {
             "type": "image",
-            "order": 2,
-            "url": "assets/Learning Pathways 4.png",
-            "alt": ""
-          },
-          {
-            "type": "image",
-            "order": 3,
+            "order": 1,
             "url": "assets/Learning Pathways 2.png",
             "alt": ""
           },
           {
             "type": "image",
-            "order": 4,
+            "order": 2,
+            "url": "assets/Learning Pathways 1.png",
+            "alt": ""
+          },
+          {
+            "type": "image",
+            "order": 3,
             "url": "assets/Learning Pathways 3.png",
+            "alt": ""
+          },
+          {
+            "type": "image",
+            "order": 4,
+            "url": "assets/Learning Pathways 4.png",
             "alt": ""
           }
         ],
@@ -92,7 +89,7 @@
             "items": [
               {
                 "url": "https://www.365akademie.de/",
-                "name": "Office 365\nAkademie - Produktiver Arbeiten mit Office 365"
+                "name": "Office 365 Akademie - Produktiver Arbeiten mit Office 365"
               }
             ]
           }

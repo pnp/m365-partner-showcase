@@ -15,27 +15,27 @@
   "metadata": {
     "displayInfo": {
       "default": {
-        "shortDescription": "\u003Cdiv\u003E\u003Cspan\u003E365Tribe specialises in\nAdoption and Change Management solutions for Microsoft 365. We live and breathe,\nhelping our clients embrace the modern workplace and maximise their\ninvestments.\u003C/span\u003E\u003Cbr\u003E\u003C/div\u003E",
+        "shortDescription": "365Tribe specialises inAdoption and Change Management solutions for Microsoft 365. We live and breathe,helping our clients embrace the modern workplace and maximise theirinvestments.",
         "featuredTitle": "YourChampions: Drive Change with a Fully Managed Digital Champions Network.",
         "featuredParagraphs": [
-          "\u003Cdiv\u003EOur Champions Programmes are designed exclusively to create a sustainable standalone, managed service to identify, engage, educate and grow a network of highly effective Digital Champions. Using our experience working with 100\u2019s of organisations, we have taken all of the best elements to give you the definitive out of the box Digital Champion Programme.\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cspan\u003E\u003C/span\u003E"
+          "Our Champions Programmes are designed exclusively to create a sustainable standalone, managed service to identify, engage, educate and grow a network of highly effective Digital Champions. Using our experience working with 100\u2019s of organisations, we have taken all of the best elements to give you the definitive out of the box Digital Champion Programme."
         ],
         "callToAction": {
           "title": "Discover how to supercharge your Microsoft 365 adoption",
           "description": null,
-          "url": "https://www.365tribe.co.uk "
+          "url": "https://www.365tribe.co.uk"
         },
         "mediaAssets": [
           {
             "type": "image",
             "order": 0,
-            "url": "assets/Featured.png",
+            "url": "assets/Hero.png",
             "alt": ""
           },
           {
             "type": "image",
             "order": 1,
-            "url": "assets/Hero.png",
+            "url": "assets/Featured.png",
             "alt": ""
           }
         ],
