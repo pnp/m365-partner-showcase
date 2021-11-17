@@ -1,0 +1,35 @@
+{
+  "partnerId": "mtgithubpartnertesting11162021",
+  "categories": [],
+  "industries": [],
+  "solutions": null,
+  "sortOrder": 0,
+  "preview": false,
+  "visible": false,
+  "logoPicture": null,
+  "logoPictureAlt": "",
+  "heroPicture": null,
+  "featuredPicture": null,
+  "partnerName": "MT GitHub Testing 11162021",
+  "mpnId": "0",
+  "metadata": {
+    "displayInfo": {
+      "default": {
+        "shortDescription": "\u003Cdiv\u003EMT GitHub Testing 11162021 short description\u003Cbr\u003E \u003C/div\u003E",
+        "featuredTitle": "MT GitHub FT",
+        "featuredParagraphs": [
+          "\u003Cdiv\u003E\u003Cspan style=\u0022display:inline !important;\u0022\u003EMT GitHub FT description 1\u003C/span\u003E\u003Cbr\u003E \u003C/div\u003E",
+          "\u003Cdiv\u003E\u003Cspan style=\u0022display:inline !important;\u0022\u003EMT GitHub FT description 2\u003C/span\u003E\u003Cbr\u003E \u003C/div\u003E",
+          "\u003Cdiv\u003E\u003Cspan style=\u0022display:inline !important;\u0022\u003EMT GitHub FT description 3\u003C/span\u003E\u003Cbr\u003E \u003C/div\u003E"
+        ],
+        "callToAction": {
+          "title": "C2A title",
+          "description": "C2A description",
+          "url": null
+        },
+        "mediaAssets": [],
+        "detailItemCategories": []
+      }
+    }
+  }
+}
