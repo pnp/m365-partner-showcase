@@ -4,7 +4,22 @@
   "categories": [
     "teams"
   ],
-  "industries": [],
+  "industries": [
+    "Banking \u0026 Financial Services",
+    "Education",
+    "Healthcare",
+    "Life Sciences",
+    "Manufacturing",
+    "Public Sector",
+    "Retail"
+  ],
+  "servicesUsed": [
+    "Azure AD",
+    "Microsoft 365",
+    "Microsoft Teams",
+    "OneDrive",
+    "SharePoint sites"
+  ],
   "sortOrder": 0,
   "preview": false,
   "visible": false,
@@ -16,6 +31,7 @@
   "metadata": {
     "personas": "Business Admin;IT;Knowledge Worker",
     "businessFunctions": null,
+    "businessValue": "By enabling users access to self-service restorecapabilities, users can get the data they need quicker and lower the burden onhelp desk and IT support.",
     "displayPartner": true,
     "appSource": null,
     "displayInfo": {

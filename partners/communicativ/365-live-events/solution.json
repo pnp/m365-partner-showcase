@@ -4,7 +4,12 @@
   "categories": [
     "virtualevents"
   ],
-  "industries": [],
+  "industries": [
+    "Cross-Industry"
+  ],
+  "servicesUsed": [
+    "Teams Live Events"
+  ],
   "sortOrder": 0,
   "preview": false,
   "visible": false,
@@ -16,6 +21,7 @@
   "metadata": {
     "personas": "Live Events Producers;Moderators;Participants;Presenters",
     "businessFunctions": null,
+    "businessValue": "We not only support our customers tosuccessfully host a Teams Live Event, but we also provide them with theknowledge and experience to perform the next event themselves.",
     "displayPartner": false,
     "appSource": null,
     "displayInfo": {

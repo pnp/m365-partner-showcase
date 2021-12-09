@@ -4,7 +4,14 @@
   "categories": [
     "learningpathways"
   ],
-  "industries": [],
+  "industries": [
+    "Cross-Industry"
+  ],
+  "servicesUsed": [
+    "Microsoft Teams",
+    "SharePoint sites",
+    "SPFx"
+  ],
   "sortOrder": 0,
   "preview": false,
   "visible": false,
@@ -16,6 +23,7 @@
   "metadata": {
     "personas": "Microsoft 365 User",
     "businessFunctions": null,
+    "businessValue": "The integration of the learning videos into Microsoft Teams drives Adoption and helps your organization to achieve more. \u0026nbsp;\n\u003Cbr\u003E \n\u003Cbr\u003E\n\u003Cbr\u003E \n\u003Cbr\u003EThe usage of all the Microsoft 365 Apps increases. Social learning helps users to learn self-organized. This reduces the technical support and gives more room for innovation.",
     "displayPartner": true,
     "appSource": null,
     "displayInfo": {

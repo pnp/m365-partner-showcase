@@ -4,7 +4,14 @@
   "categories": [
     "teams"
   ],
-  "industries": [],
+  "industries": [
+    "Cross-Industry"
+  ],
+  "servicesUsed": [
+    "Microsoft Teams",
+    "Microsoft Teams Rooms",
+    "Surface Hubs"
+  ],
   "sortOrder": 0,
   "preview": false,
   "visible": false,
@@ -16,6 +23,7 @@
   "metadata": {
     "personas": "All Employees",
     "businessFunctions": null,
+    "businessValue": "By mapping Business Needs and Meeting behaviorswe can determine which solution will match both the Meeting Space and theorganizational needs.",
     "displayPartner": false,
     "appSource": null,
     "displayInfo": {

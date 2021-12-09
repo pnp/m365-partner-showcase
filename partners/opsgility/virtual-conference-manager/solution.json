@@ -5,6 +5,17 @@
     "teams"
   ],
   "industries": [],
+  "servicesUsed": [
+    "Azure AD",
+    "Azure Application Insights",
+    "Azure Functions",
+    "Azure KeyVault",
+    "Azure SQL DB",
+    "Azure Storage Accounts",
+    "Graph API",
+    "Microsoft 365",
+    "Microsoft Teams"
+  ],
   "sortOrder": 0,
   "preview": false,
   "visible": false,
@@ -16,6 +27,7 @@
   "metadata": {
     "personas": "Administrators;Event Planners",
     "businessFunctions": null,
+    "businessValue": "We enable customers to createengaging virtual events at scale with the functionality and usability ofMicrosoft Teams. This format is perfect for corporate training, trade shows,and job fairs! \n\u003Cbr\u003E\n\u003Cbr\u003EAttendees can access the eventvia the Teams app or web browser; no pre-existing Teams license is required.Existing Teams and Azure subscribers can run secure conferences in theirTenant. \n\u003Cbr\u003E\n\u003Cbr\u003EVirtual Conference Manager is more than an eventplatform. It is a comprehensive virtual event solution.",
     "displayPartner": true,
     "appSource": null,
     "displayInfo": {

@@ -4,7 +4,22 @@
   "categories": [
     "teams"
   ],
-  "industries": [],
+  "industries": [
+    "Banking \u0026 Financial Services",
+    "Education",
+    "Healthcare",
+    "Life Sciences",
+    "Manufacturing",
+    "Public Sector",
+    "Retail"
+  ],
+  "servicesUsed": [
+    "Azure AD",
+    "Microsoft 365",
+    "Microsoft Teams",
+    "SharePoint sites",
+    "Yammer"
+  ],
   "sortOrder": 0,
   "preview": false,
   "visible": false,
@@ -16,6 +31,7 @@
   "metadata": {
     "personas": "Business Admin;IT;Knowledge Worker",
     "businessFunctions": null,
+    "businessValue": "AvePoint MyHub enables easy organization ofMicrosoft 365 workspaces, efficient access to relevant information, and ensurescollaboration security in Microsoft 365.",
     "displayPartner": true,
     "appSource": null,
     "displayInfo": {

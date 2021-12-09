@@ -5,6 +5,11 @@
     "learningpathways"
   ],
   "industries": [],
+  "servicesUsed": [
+    "Microsoft Teams",
+    "SharePoint sites",
+    "Stream"
+  ],
   "sortOrder": 0,
   "preview": false,
   "visible": false,
@@ -16,6 +21,7 @@
   "metadata": {
     "personas": "Business Analysts;Content Owners;Developer;End-user;IT Admin;Leadership;Training \u0026 Development",
     "businessFunctions": null,
+    "businessValue": null,
     "displayPartner": true,
     "appSource": null,
     "displayInfo": {

@@ -4,7 +4,14 @@
   "categories": [
     "learningpathways"
   ],
-  "industries": [],
+  "industries": [
+    "Cross-Industry"
+  ],
+  "servicesUsed": [
+    "SharePoint API",
+    "SharePoint sites",
+    "SPFx"
+  ],
   "sortOrder": 0,
   "preview": false,
   "visible": false,
@@ -16,6 +23,7 @@
   "metadata": {
     "personas": "Information Workers",
     "businessFunctions": null,
+    "businessValue": "WithStoryals Lite organizations can accelerate digital adoption and provide their employeeswith the digital skills they need for today\u2019s modern workplace. Digital trainingat your fingertips, accessible at any time, and new insights that can beapplied directly on the job.\n\u003Cbr\u003E\n\u003Cbr\u003ECreating confident users gets rid of unnecessaryfrustration and lowers the need for technical support. It improves productivityand - without a doubt, creates a happier workplace!",
     "displayPartner": true,
     "appSource": null,
     "displayInfo": {

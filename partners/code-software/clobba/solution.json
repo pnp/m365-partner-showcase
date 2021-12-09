@@ -4,7 +4,14 @@
   "categories": [
     "teams"
   ],
-  "industries": [],
+  "industries": [
+    "Cross-Industry"
+  ],
+  "servicesUsed": [
+    "Azure",
+    "Graph API",
+    "Microsoft Teams"
+  ],
   "sortOrder": 0,
   "preview": false,
   "visible": false,
@@ -16,6 +23,7 @@
   "metadata": {
     "personas": "Finance Managers;Helpdesk Supervisors;IT Admin;Sales Managers",
     "businessFunctions": null,
+    "businessValue": "Clobba delivers key information on Teams usageallowing for informed decision making. The information is used to addresspossible challenges that can be associated with Teams. The insights presentedby Clobba are used to reduce call handling times through correct employeeresource allocation and configuration of call queues and auto attendants. Teamsuser adoption is improved through highlighting OUs where adoption is low,highlighting a need for further education and training. Clobba also deliverswhen analyzing the root cause of call quality issues, ensuring capacity of SIPtrunks is sufficient and efficient, highlighting high call costs, managing roomusage and ensuring workers are using the correct, certified Teams-certifieddevices for their Teams calls, meetings and conferences.",
     "displayPartner": true,
     "appSource": null,
     "displayInfo": {

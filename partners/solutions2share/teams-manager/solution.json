@@ -4,7 +4,16 @@
   "categories": [
     "teams"
   ],
-  "industries": [],
+  "industries": [
+    "Cross-Industry"
+  ],
+  "servicesUsed": [
+    "Azure Bot",
+    "Azure Web App Service",
+    "Graph API",
+    "React",
+    "Teams Tabs"
+  ],
   "sortOrder": 0,
   "preview": false,
   "visible": false,
@@ -16,6 +25,7 @@
   "metadata": {
     "personas": "Administrators;Corporate Communications;IT Admin",
     "businessFunctions": "Adoption;Governance;Project Management;Templates",
+    "businessValue": "Inthe words of our customers:\n\u003Cbr\u003E\n\u003Cbr\u003E\u0026quot;Ithink the Teams Manager is an ingenious tool, which covers the current gaps of O365teams with its functions. Due to the self-explanatory user interface anddetailed documentation, the Teams Manager is ready for use in a few hours.Unbeatable price performance. In addition, with colleagues from Solutions2Shareyou have a fast reacting partner with whom friendly communication at eye levelis always fun.\u0026quot;\n\u003Cbr\u003ETimBenkel, Team Lead Process IT Consulting at Bechtle GmbH \u0026amp; Co. KG\n\u003Cbr\u003E\n\u003Cbr\u003E \u0026quot;Weare very pleased with Teams Manager. Since we started using it we have alreadycreated \u223C800Teams with it. The business received the approval process well and haveappreciated the advise we give them when the request is denied.\u0026quot;\n\u003Cbr\u003EDavidOwen, Head of IT Global Services at Bruker AXS LLC\n\u003Cbr\u003E\n\u003Cbr\u003E\u0026quot;Sinceintegrating Teams Manager into our Teams Client, giving our users thepossibility to effortlessly create Teams from a predefined set of templates, wefinally got to a set and strict process of governing Teams while alsogenerating a great overview and control over all created Teams.\u0026quot;\n\u003Cbr\u003ETim Baumgartl, Software Engineer at AZO",
     "displayPartner": true,
     "appSource": null,
     "displayInfo": {

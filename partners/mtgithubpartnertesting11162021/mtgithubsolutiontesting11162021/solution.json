@@ -2,7 +2,15 @@
   "solutionId": "mtgithubsolutiontesting11162021",
   "partnerId": "mtgithubpartnertesting11162021",
   "categories": [],
-  "industries": [],
+  "industries": [
+    "Education",
+    "Technology"
+  ],
+  "servicesUsed": [
+    "Azure",
+    "Azure AD",
+    "Azure Bot"
+  ],
   "sortOrder": 0,
   "preview": false,
   "visible": false,
@@ -14,6 +22,7 @@
   "metadata": {
     "personas": "Analyst;Developer",
     "businessFunctions": "Adoption;IT",
+    "businessValue": "\u003Cdiv\u003EMT GitHub Solution Testing 11162021 business value\u003Cbr\u003E \u003C/div\u003E",
     "displayPartner": false,
     "appSource": null,
     "displayInfo": {

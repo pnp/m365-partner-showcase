@@ -4,7 +4,14 @@
   "categories": [
     "learningpathways"
   ],
-  "industries": [],
+  "industries": [
+    "Cross-Industry"
+  ],
+  "servicesUsed": [
+    "SharePoint API",
+    "SharePoint sites",
+    "SPFx"
+  ],
   "sortOrder": 0,
   "preview": false,
   "visible": false,
@@ -16,6 +23,7 @@
   "metadata": {
     "personas": "Information Workers",
     "businessFunctions": null,
+    "businessValue": "WithStoryals LMS365 organizations get an end-to-end solution to accelerate digitaladoption and promote continuous learning and development. Digital training atyour fingertips, accessible at any time, and new insights that can be applieddirectly on the job. Tools to assign learning content, send gentle reminders,and reward users with personalized completion certificates. \n\u003Cbr\u003E\n\u003Cbr\u003EBy creating a culture of continuous learning anddevelopment will improve productivity, enhance employee retention and - withouta doubt, create a happier and more competent workforce!",
     "displayPartner": true,
     "appSource": null,
     "displayInfo": {

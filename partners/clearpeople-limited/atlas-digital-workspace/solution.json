@@ -4,7 +4,26 @@
   "categories": [
     "teams"
   ],
-  "industries": [],
+  "industries": [
+    "Banking \u0026 Financial Services",
+    "Construction",
+    "Energy",
+    "Government",
+    "Legal and in-house legal",
+    "Professional Services",
+    "Property \u0026 Engineering"
+  ],
+  "servicesUsed": [
+    "Azure AD",
+    "Azure API Management",
+    "Azure Cognitive Search",
+    "Azure Functions",
+    "Azure SQL DB",
+    "Azure Storage Accounts",
+    "Azure Web App Service",
+    "Graph API",
+    "SPFx"
+  ],
   "sortOrder": 0,
   "preview": false,
   "visible": false,
@@ -16,6 +35,7 @@
   "metadata": {
     "personas": "Compliance;Corporate Communications;Front Line Worker;HR;IT;Knowledge Managers;Knowledge Worker",
     "businessFunctions": null,
+    "businessValue": "* \u0026nbsp;Everythingin its place\n\u003Cbr\u003EAtlas is the one place that employees goto start and end their day, providing them with the tools and knowledge they needto ensure business success in a world of challenging budgets, remote workingand distracted customers.\n\u003Cbr\u003E * \u0026nbsp;Betteroutcomes\n\u003Cbr\u003EBusinesses that embrace inclusivity areproven to deliver better outcomes. Atlas enables every employee to do theirbest, be engaged and more productive. Atlas is accessible from anywhere, on arange of devices, and is AA-compliant.\n\u003Cbr\u003E * \u0026nbsp;Break downsilos\n\u003Cbr\u003ETime spent trying to fathom processes andfind sources of knowledge distracts everyone from delivering value tocustomers. The open, interconnected infrastructure Atlas provides allowsinformation to flow freely but securely, and increases organizational transparency.\n\u003Cbr\u003E * \u0026nbsp;Bottom line savings\n\u003Cbr\u003EAtlas delivers the right informationmeasurably faster than if using Microsoft 365 alone.\n\u003Cbr\u003E\n\u003Cbr\u003E\u201CI am pleasantly surprised at how quick and easy the Atlas platform is in refining searches and enabling me to find the information I need within seconds.\u201D Stuart Whittle, Business Services and Innovations Director - Weightmans\n\u003Cbr\u003E\n\u003Cbr\u003E\u201CAtlas helps us to ensure our employees on the frontline have all of the information they need to deliver a successful service. Thomas Harmeyer, Executive Vice President - Tokio Marine\n\u003Cbr\u003E\n\u003Cbr\u003E\u201CWhat has been key is the ability to deliver complex features and functionality through a simple and engaging user experience that makes sense to our users wherever they are, in the office, on-site or in a first line worker role. One of the obvious benefits of the investments we have made is that we are far better placed to deliver outstanding outcomes for our customers\u201D Ryan Macnamee, Group CIO \u2013 Laing O\u00B4Rourke",
     "displayPartner": true,
     "appSource": null,
     "displayInfo": {

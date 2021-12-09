@@ -4,7 +4,12 @@
   "categories": [
     "virtualevents"
   ],
-  "industries": [],
+  "industries": [
+    "Cross-Industry"
+  ],
+  "servicesUsed": [
+    "Teams Live Events"
+  ],
   "sortOrder": 0,
   "preview": false,
   "visible": false,
@@ -16,6 +21,7 @@
   "metadata": {
     "personas": "Content Owners;Corporate Communications;Leadership",
     "businessFunctions": null,
+    "businessValue": "Our customers have been able to upgrade theirbroadcast production quality and improve audience engagement dramatically byusing the right hardware for their live events.",
     "displayPartner": true,
     "appSource": null,
     "displayInfo": {
