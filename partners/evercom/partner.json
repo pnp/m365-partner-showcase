@@ -11,7 +11,7 @@
   "heroPicture": "assets/hero.png",
   "featuredPicture": "assets/featured.png",
   "partnerName": "EVERCOM",
-  "mpnId": null,
+  "mpnId": "0",
   "metadata": {
     "displayInfo": {
       "default": {
