@@ -4,10 +4,19 @@
   "categories": [
     "teams"
   ],
-  "industries": [],
+  "industries": [
+    "Cross-Industry"
+  ],
+  "servicesUsed": [
+    "Azure Bot",
+    "Custom Tabs",
+    "Graph API",
+    "SharePoint sites",
+    "SPFx"
+  ],
   "sortOrder": 0,
   "preview": false,
-  "visible": true,
+  "visible": false,
   "solutionLogoPicture": null,
   "solutionLogoPictureAlt": "",
   "solutionName": "Valo Connect",
@@ -15,8 +24,8 @@
   "solutionUrlTitle": "Valo Connect",
   "metadata": {
     "personas": "Corporate Communications;Distributed Workforce;Front Line Worker;Office Workers",
-    "solutionTechnologies": "Azure Bot;Custom Tabs;Graph API;SharePoint sites;SPFx",
     "businessFunctions": null,
+    "businessValue": "Key areas of success with Valo Connect are:\n\u003Cbr\u003E\n\u003Cbr\u003E * \u0026nbsp;Time saved by employees navigating their digital workplace\n\u003Cbr\u003E * \u0026nbsp;Closer engagement with the customers\u0027 existing investments to digital workplace solutions\n\u003Cbr\u003E * \u0026nbsp;Shorter implementation time to deliver rich, intelligent, digital workplace experiences\n\u003Cbr\u003E\n\u003Cbr\u003EContext-switching from one environment to another is time-consuming, and the benefit of surfacing digital workplace solutions to Microsoft Teams with Valo Connect is realized every single day.",
     "displayPartner": true,
     "appSource": null,
     "displayInfo": {
@@ -25,7 +34,7 @@
           {
             "name": "Short description",
             "content": [
-              "\u003Cdiv\u003EWhere all your teams and digital tools unite. \u0026nbsp;Build a custom enterprise portal inside Microsoft Teams with the digital tools your staff need and love.\u003Cbr\u003E\u003C/div\u003E"
+              "Where all your teams and digital tools unite. \u0026nbsp;Build a custom enterprise portal inside Microsoft Teams with the digital tools your staff need and love."
             ]
           },
           {
@@ -35,19 +44,19 @@
           {
             "name": "Business need or problem",
             "content": [
-              "\u003Cdiv\u003E\u003Cspan\u003E\u003C/span\u003E\u003C/div\u003E\u003Cdiv\u003EIn today\u2019s workplace experiences, there is a disconnect from their employees\u0027 Teams engagement, and the significant investment organizations have made to their Intranet knowledge, plus other digital workplace solutions. The same is true for other areas of investment, such as Teamwork lifecycle management and governance. With more employee time spent in Teams, the drain of context-switching - to move to a web browser, to navigate the organization knowledge embedded in corporate knowledge centres - is a drain on employee productivity.\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003EIn Microsoft Teams, employees\u0027 presence is context aware. With collaboration coalescing around a Team, the opportunity exists to design the experience that suits the needs the employee, and the teams they collaborate in.\u003Cbr\u003E\u003C/div\u003E\u003Cspan\u003E\u003C/span\u003E\u003Cdiv\u003E\u003Cdiv\u003E\u003C/div\u003E\u003C/div\u003E"
+              "In today\u2019s workplace experiences, there is a disconnect from their employees\u0027 Teams engagement, and the significant investment organizations have made to their Intranet knowledge, plus other digital workplace solutions. The same is true for other areas of investment, such as Teamwork lifecycle management and governance. With more employee time spent in Teams, the drain of context-switching - to move to a web browser, to navigate the organization knowledge embedded in corporate knowledge centres - is a drain on employee productivity.\n\u003Cbr\u003E\n\u003Cbr\u003EIn Microsoft Teams, employees\u0027 presence is context aware. With collaboration coalescing around a Team, the opportunity exists to design the experience that suits the needs the employee, and the teams they collaborate in."
             ]
           },
           {
             "name": "Business solution",
             "content": [
-              "\u003Cdiv\u003E\u003Cspan\u003E\u003C/span\u003E\u003C/div\u003E\u003Cdiv\u003EValo Connect enables customers to bring their digital workplace to the Microsoft Teams platform. \u0026nbsp;\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003EKey features of Valo Connect:\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003E\u003Cul\u003E\u003Cli\u003EDelivered as a Teams personal app, Valo Connect brings SharePoint Online content direct in to Teams\u003C/li\u003E\u003Cli\u003EAs a Teams channel tab, Valo Connect offers a configurable experience targeting SharePoint Online content, with rich, context-aware, capability; content is aware of the Team and the Channel to which its targeted\u003C/li\u003E\u003Cli\u003EContent-rich data sources are surfaced to both the personal, and channel experience\u003C/li\u003E\u003Cli\u003EWith Valo Connect. ready-made, pre-authenticated, access to many data sources is available via a rich tool set - data sources that include Microsoft Graph, news, events, any SharePoint source, plus third-party APIs\u003C/li\u003E\u003Cli\u003EPartners and customers can extend on top of Valo\u0027s rich product set; for example, configuring unique data sources via Microsoft 365 connector ecosystem, or building their own code-based extensions to our product\u003C/li\u003E\u003C/ul\u003E\u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003ECombined with our other products, Valo Connect enables Teamwork lifecycle and governance features, including the request and approval of group and site provisioning, easy navigation to the modern workplace teams and groups users have joined. \u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003EWith Valo Connect, each experience is tailored to the organizations\u0027 needs. The personal app name, and icon, can be branded to match existing Intranet or modern workplace designs. \u0026nbsp;An easy-to-configure tab navigation offers flexibility for administrators and team owners, to design experiences that suit the Team\u0027s use case.\u003Cbr\u003E\u003C/div\u003E\u003Cspan\u003E\u003C/span\u003E\u003Cdiv\u003E\u003Cdiv\u003E\u003C/div\u003E\u003C/div\u003E"
+              "Valo Connect enables customers to bring their digital workplace to the Microsoft Teams platform. \n\u003Cbr\u003E\n\u003Cbr\u003EKey features of Valo Connect:\n\u003Cbr\u003E\n\u003Cbr\u003E * \u0026nbsp;Delivered as a Teams personal app, Valo Connect brings SharePoint Online content direct in to Teams\n\u003Cbr\u003E * \u0026nbsp;As a Teams channel tab, Valo Connect offers a configurable experience targeting SharePoint Online content, with rich, context-aware, capability; content is aware of the Team and the Channel to which its targeted\n\u003Cbr\u003E * \u0026nbsp;Content-rich data sources are surfaced to both the personal, and channel experience\n\u003Cbr\u003E * \u0026nbsp;With Valo Connect. ready-made, pre-authenticated, access to many data sources is available via a rich tool set - data sources that include Microsoft Graph, news, events, any SharePoint source, plus third-party APIs\n\u003Cbr\u003E * \u0026nbsp;Partners and customers can extend on top of Valo\u0027s rich product set; for example, configuring unique data sources via Microsoft 365 connector ecosystem, or building their own code-based extensions to our product\n\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cbr\u003ECombined with our other products, Valo Connect enables Teamwork lifecycle and governance features, including the request and approval of group and site provisioning, easy navigation to the modern workplace teams and groups users have joined. \n\u003Cbr\u003E\n\u003Cbr\u003EWith Valo Connect, each experience is tailored to the organizations\u0027 needs. The personal app name, and icon, can be branded to match existing Intranet or modern workplace designs. \u0026nbsp;An easy-to-configure tab navigation offers flexibility for administrators and team owners, to design experiences that suit the Team\u0027s use case."
             ]
           },
           {
             "name": "Success factors",
             "content": [
-              "\u003Cdiv\u003E\u003Cspan\u003E\u003C/span\u003E\u003C/div\u003E\u003Cdiv\u003EBy adopting Valo Connect on Microsoft Teams, an organization\u0027s existing communication paths are surfaced to the Teams experience. Customers build an effective communication strategy, with centralized management for org-wide news and content, plus channel-specific content, with targeting that\u0027s configurable per team. \u0026nbsp;SharePoint Online is the collaboration platform for this content, and Valo Connect brings the content to Teams.\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003EPartners are a key ingredient to the success of our products, and not only does Valo Connect offer a compelling experience right out of the box, it also enables partners to build rich workplace solutions designed to meet their specific needs. Once deployed, partners build-out Teams-native experiences, with no code necessary. \u0026nbsp;Working with SharePoint Online authoring capabilities, and a rich set of Valo tools and web parts, the experiences our partners build seamlessly integrate in to the Microsoft Teams interface.\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003EBoth Valo, and our partners, strive to meet our ultimate goal: for our customers to fall in \u2665 with their digital workplace.\u003Cbr\u003E\u003C/div\u003E\u003Cspan\u003E\u003C/span\u003E\u003Cdiv\u003E\u003Cdiv\u003E\u003C/div\u003E\u003C/div\u003E"
+              "By adopting Valo Connect on Microsoft Teams, an organization\u0027s existing communication paths are surfaced to the Teams experience. Customers build an effective communication strategy, with centralized management for org-wide news and content, plus channel-specific content, with targeting that\u0027s configurable per team. \u0026nbsp;SharePoint Online is the collaboration platform for this content, and Valo Connect brings the content to Teams.\n\u003Cbr\u003E\n\u003Cbr\u003EPartners are a key ingredient to the success of our products, and not only does Valo Connect offer a compelling experience right out of the box, it also enables partners to build rich workplace solutions designed to meet their specific needs. Once deployed, partners build-out Teams-native experiences, with no code necessary. \u0026nbsp;Working with SharePoint Online authoring capabilities, and a rich set of Valo tools and web parts, the experiences our partners build seamlessly integrate in to the Microsoft Teams interface.\n\u003Cbr\u003E\n\u003Cbr\u003EBoth Valo, and our partners, strive to meet our ultimate goal: for our customers to fall in \u2665 with their digital workplace."
             ]
           }
         ],
@@ -55,19 +64,19 @@
           {
             "type": "image",
             "order": 0,
-            "url": "assets/Feature - Valo Connect.png",
+            "url": "assets/Valo Connect - Intranet home page - Candela.png",
             "alt": ""
           },
           {
             "type": "image",
             "order": 1,
-            "url": "assets/Valo Connect - Organization.png",
+            "url": "assets/Feature - Valo Connect.png",
             "alt": ""
           },
           {
             "type": "image",
             "order": 2,
-            "url": "assets/Valo Connect - Intranet home page - Lux.png",
+            "url": "assets/Valo Connect - Organization.png",
             "alt": ""
           },
           {
@@ -85,7 +94,7 @@
           {
             "type": "image",
             "order": 5,
-            "url": "assets/Valo Connect - Intranet home page - Candela.png",
+            "url": "assets/Valo Connect - Intranet home page - Lux.png",
             "alt": ""
           }
         ],

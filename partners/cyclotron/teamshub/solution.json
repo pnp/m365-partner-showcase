@@ -5,9 +5,17 @@
     "teams"
   ],
   "industries": [],
+  "servicesUsed": [
+    "Custom Tabs",
+    "Graph API",
+    "Messaging Extension",
+    "Power App",
+    "Power Automate",
+    "SPFx"
+  ],
   "sortOrder": 0,
   "preview": false,
-  "visible": true,
+  "visible": false,
   "solutionLogoPicture": null,
   "solutionLogoPictureAlt": "",
   "solutionName": "TeamsHUB by Cyclotron",
@@ -15,8 +23,8 @@
   "solutionUrlTitle": "TeamsHUB by Cyclotron",
   "metadata": {
     "personas": "End-user;IT Admin",
-    "solutionTechnologies": "Custom Tabs;Graph API;Messaging Extension;Power App;Power Automate;SPFx",
     "businessFunctions": "Adoption;Engagement;Governance",
+    "businessValue": "TeamsHUB has provided a streamlined experience to both IT and users within organizations around the globe, including:\n\u003Cbr\u003E\n\u003Cbr\u003E * \u0026nbsp;Increased engagement from users in Microsoft Teams.\n\u003Cbr\u003E * \u0026nbsp;Higher quality insights into operations and governance within the organization.\n\u003Cbr\u003E * \u0026nbsp;Greater visibility into Microsoft 365 as a whole and the progress towards digital transformation.",
     "displayPartner": true,
     "appSource": null,
     "displayInfo": {
@@ -25,31 +33,29 @@
           {
             "name": "Short description",
             "content": [
-              "\u003Cdiv\u003ETeamsHUB is a governance, adoption, and employee engagement platform built on Microsoft Teams.\u003Cbr\u003E\u003C/div\u003E"
+              "TeamsHUB is a governance, adoption, and employee engagement platform built on Microsoft Teams."
             ]
           },
           {
             "name": "Long description",
-            "content": [
-              "\u003Cdiv\u003E\u003Cp style=\u0022box-sizing:border-box;font-family:SegoeUI;margin:0px 0px 10px;font-size:16px;color:rgb(51, 51, 51);text-align:left;\u0022\u003E\u003Cbr\u003E\u003C/p\u003E\u003C/div\u003E"
-            ]
+            "content": []
           },
           {
             "name": "Business need or problem",
             "content": [
-              "\u003Cdiv\u003EIn a world where customers need to be agile and innovative, they are struggling to provide rich contextual experiences to their users. Customers are looking for innovative solutions, which feature seamless integrations into Microsoft Teams, such as:\u003C/div\u003E\u003Cdiv\u003E\u003Cul\u003E\u003Cli\u003EAn automated, simple interface to apply governance for Microsoft Teams creation, approval, lifecycle management, and enforcement of security/standards.\u003C/li\u003E\u003Cli\u003EEnforcement of data protection and governance policies based on digital assets.\u003C/li\u003E\u003Cli\u003ETracking and monitoring of teams, automated archival and deletion policies, compliance reporting and actions (i.e. year end auditing), and an owner notification system.\u003C/li\u003E\u003Cli\u003EMobile-first approach to consume org-wide news, access resources like benefits, HR, travel reimbursements, etc., within Microsoft Teams.\u003C/li\u003E\u003Cli\u003EIntegrated learning and training systems for users to become \u0026quot;power users\u0026quot; and leverage more functionality in the Microsoft 365 ecosystem.\u003C/li\u003E\u003C/ul\u003E\u003C/div\u003E\u003Cdiv\u003ETeamsHUB features a set of experiences that provide an organization the ability to quickly and easily configure their users\u2019 Microsoft Teams client to access this information and drive high business value and rich user experiences \u2013 increasing adoption and ROI.\u003Cbr\u003E\u003C/div\u003E"
+              "In a world where customers need to be agile and innovative, they are struggling to provide rich contextual experiences to their users. Customers are looking for innovative solutions, which feature seamless integrations into Microsoft Teams, such as:\n\u003Cbr\u003E\n\u003Cbr\u003E * \u0026nbsp;An automated, simple interface to apply governance for Microsoft Teams creation, approval, lifecycle management, and enforcement of security/standards.\n\u003Cbr\u003E * \u0026nbsp;Enforcement of data protection and governance policies based on digital assets.\n\u003Cbr\u003E * \u0026nbsp;Tracking and monitoring of teams, automated archival and deletion policies, compliance reporting and actions (i.e. year end auditing), and an owner notification system.\n\u003Cbr\u003E * \u0026nbsp;Mobile-first approach to consume org-wide news, access resources like benefits, HR, travel reimbursements, etc., within Microsoft Teams.\n\u003Cbr\u003E * \u0026nbsp;Integrated learning and training systems for users to become \u0026quot;power users\u0026quot; and leverage more functionality in the Microsoft 365 ecosystem.\n\u003Cbr\u003E\n\u003Cbr\u003ETeamsHUB features a set of experiences that provide an organization the ability to quickly and easily configure their users\u2019 Microsoft Teams client to access this information and drive high business value and rich user experiences \u2013 increasing adoption and ROI."
             ]
           },
           {
             "name": "Business solution",
             "content": [
-              "\u003Cdiv\u003ECyclotron has developed a solution capable of helping organizations define and execute the rules for Microsoft Teams governance, increase employee engagement, improve productivity, and drive adoption of Microsoft 365 \u2013 increasing human efficiency:\u003C/div\u003E\u003Cdiv\u003E\u003Cul\u003E\u003Cli\u003EAutomate team requests and creation using templates, approval workflows and dynamic forms using custom metadata columns.\u003C/li\u003E\u003Cli\u003EManage how Teams are named using a managed blocked words list and custom policies.\u003C/li\u003E\u003Cli\u003EControl the expiry, retention, and disposal of teams based on usage and activity.\u003C/li\u003E\u003Cli\u003EProvide users with personalized content and pages \u2013 ensuring they feel connected and are productive.\u003C/li\u003E\u003Cli\u003EQuickly set up a self-service learning portal \u2013 enabling users to enjoy learning and feel informed.\u003C/li\u003E\u003Cli\u003ECapture feedback, gauge sentiment, and understand where users are struggling or need more clarity to be successful.\u003C/li\u003E\u003C/ul\u003E\u003C/div\u003E"
+              "Cyclotron has developed a solution capable of helping organizations define and execute the rules for Microsoft Teams governance, increase employee engagement, improve productivity, and drive adoption of Microsoft 365 \u2013 increasing human efficiency:\n\u003Cbr\u003E\n\u003Cbr\u003E * \u0026nbsp;Automate team requests and creation using templates, approval workflows and dynamic forms using custom metadata columns.\n\u003Cbr\u003E * \u0026nbsp;Manage how Teams are named using a managed blocked words list and custom policies.\n\u003Cbr\u003E * \u0026nbsp;Control the expiry, retention, and disposal of teams based on usage and activity.\n\u003Cbr\u003E * \u0026nbsp;Provide users with personalized content and pages \u2013 ensuring they feel connected and are productive.\n\u003Cbr\u003E * \u0026nbsp;Quickly set up a self-service learning portal \u2013 enabling users to enjoy learning and feel informed.\n\u003Cbr\u003E * \u0026nbsp;Capture feedback, gauge sentiment, and understand where users are struggling or need more clarity to be successful."
             ]
           },
           {
             "name": "Success factors",
             "content": [
-              "\u003Cdiv\u003EOrganizations around the globe in various industries can benefit from TeamsHUB, which provide critical automation of key tasks, enhanced reporting capabilities, and increased user engagement through rich, contextual experiences:\u003C/div\u003E\u003Cdiv\u003E\u003Cul\u003E\u003Cli\u003EAutomate and manage provisioning, operations and information lifecycle integrated with Microsoft Teams.\u003C/li\u003E\u003Cli\u003EEnsure internal, external and regulatory compliance.\u003C/li\u003E\u003Cli\u003EEase adoption, usage and governance.\u003C/li\u003E\u003Cli\u003EIncrease administrator efficiency.\u003C/li\u003E\u003Cli\u003EImplement reliable governance tools to enable consistent processes and controls, and mitigate risks for Microsoft Teams.\u003C/li\u003E\u003C/ul\u003E\u003C/div\u003E\u003Cdiv\u003ETeamsHUB can transform your organization with the insights provided and effective tools for employee engagement.\u003Cbr\u003E\u003C/div\u003E"
+              "Organizations around the globe in various industries can benefit from TeamsHUB, which provide critical automation of key tasks, enhanced reporting capabilities, and increased user engagement through rich, contextual experiences:\n\u003Cbr\u003E\n\u003Cbr\u003E * \u0026nbsp;Automate and manage provisioning, operations and information lifecycle integrated with Microsoft Teams.\n\u003Cbr\u003E * \u0026nbsp;Ensure internal, external and regulatory compliance.\n\u003Cbr\u003E * \u0026nbsp;Ease adoption, usage and governance.\n\u003Cbr\u003E * \u0026nbsp;Increase administrator efficiency.\n\u003Cbr\u003E * \u0026nbsp;Implement reliable governance tools to enable consistent processes and controls, and mitigate risks for Microsoft Teams.\n\u003Cbr\u003E\n\u003Cbr\u003ETeamsHUB can transform your organization with the insights provided and effective tools for employee engagement."
             ]
           }
         ],
@@ -57,13 +63,13 @@
           {
             "type": "image",
             "order": 0,
-            "url": "assets/TeamsHUB_Analytics.png",
+            "url": "assets/TeamsHUB_Dashboard.PNG",
             "alt": ""
           },
           {
             "type": "image",
             "order": 1,
-            "url": "assets/TeamsHUB_Dashboard.PNG",
+            "url": "assets/TeamsHUB_Analytics.png",
             "alt": ""
           }
         ],

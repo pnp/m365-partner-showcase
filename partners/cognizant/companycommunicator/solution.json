@@ -4,19 +4,24 @@
   "categories": [
     "teams"
   ],
-  "industries": [],
+  "industries": [
+    "Cross-Industry"
+  ],
+  "servicesUsed": [
+    "Azure"
+  ],
   "sortOrder": 0,
   "preview": false,
   "visible": false,
   "solutionLogoPicture": null,
   "solutionLogoPictureAlt": "",
-  "solutionName": "Company Communicator ",
+  "solutionName": "Company Communicator",
   "solutionUrl": null,
-  "solutionUrlTitle": "Company Communicator ",
+  "solutionUrlTitle": "Company Communicator",
   "metadata": {
     "personas": "Corporate Communications;HR;IT;Security Admin",
-    "solutionTechnologies": "Azure",
     "businessFunctions": "Human Resources",
+    "businessValue": "Communicationmanagers can send targeted communication, schedule communication for a givendate and time, recurring communication, and use pre-configured communicationtemplates to make it even easy to send. \n\u003Cbr\u003EThis willincrease the employee reach and response, also reduce the time taken to sendemployee targeted communications.",
     "displayPartner": false,
     "appSource": null,
     "displayInfo": {
@@ -33,19 +38,19 @@
           {
             "name": "Business need or problem",
             "content": [
-              "\u003Cdiv\u003E\u003Cp style=\u0022margin:0in 0in 8pt;font-size:11pt;font-family:\u0026quot;Segoe UI\u0026quot;, sans-serif;text-align:justify;\u0022\u003E\u003Cspan lang=EN-GB style=\u0022\u0022\u003EA platform\nfor corporate wide communications is needed, as employees are hindered with\ndaily business communications and there is a chance of missing corporate\ncommunications in the flood of emails. A better communication channel,\nMicrosoft Teams, will allow them to get focused communication and act on it.\u003C/span\u003E\u003C/p\u003E\u003C/div\u003E"
+              "A platformfor corporate wide communications is needed, as employees are hindered withdaily business communications and there is a chance of missing corporatecommunications in the flood of emails. A better communication channel,Microsoft Teams, will allow them to get focused communication and act on it."
             ]
           },
           {
             "name": "Business solution",
             "content": [
-              "\u003Cdiv\u003E\u003Cp style=\u0022margin:0in 0in 8pt;font-size:11pt;font-family:\u0026quot;Segoe UI\u0026quot;, sans-serif;background:white;\u0022\u003E\u003Cspan lang=EN-GB style=\u0022color:black;\u0022\u003EThe Company Communicator customization enables\ncorporate teams to create, schedule and send messages intended for multiple\nteams or large number of employees (using DLs) over Teams Channels and personal\nchat allowing organization to reach employees right where they collaborate. \u003C/span\u003E\u003Cspan lang=EN-GB\u003E\u003C/span\u003E\u003C/p\u003E\u003Cp style=\u0022margin:0in 0in 8pt;font-size:11pt;font-family:\u0026quot;Segoe UI\u0026quot;, sans-serif;background:white;\u0022\u003E\u003Cspan lang=EN-GB style=\u0022color:black;\u0022\u003EThis solution can be used for multiple scenarios such\nas targeted communications, employee onboarding, modern learning and\ndevelopment or organization-wide broadcasts.\u003C/span\u003E\u003Cspan lang=EN-GB\u003E\u003C/span\u003E\u003C/p\u003E\u003Cp style=\u0022margin:0in 0in 8pt;font-size:11pt;font-family:\u0026quot;Segoe UI\u0026quot;, sans-serif;background:white;\u0022\u003E\u003Cspan lang=EN-GB style=\u0022color:black;\u0022\u003EThe solution provides an easy interface for\ndesignated users to create, preview, collaborate, schedule and send messages.\nExtended custom functionality allows authors to edit and delete sent messages,\nalso provides extended telemetry like user reactions to messages. \u003C/span\u003E\u003Cspan lang=EN-GB\u003E\u003C/span\u003E\u003C/p\u003E\u003Cp style=\u0022margin:0in 0in 8pt;font-size:11pt;font-family:\u0026quot;Segoe UI\u0026quot;, sans-serif;background:white;\u0022\u003E\u003Cspan lang=EN-GB style=\u0022color:black;\u0022\u003ECustomizations also provides options to create\nmultiple BU specific groups and assign admins to those groups. This will allow\nGroup Admin to send targeted communications for the selected groups/DLs for\nwhich they are allowed to.\u003C/span\u003E\u003Cspan style=\u0022font-size:12pt;color:rgb(23, 23, 23);\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003C/p\u003E\u003C/div\u003E"
+              "The Company Communicator customization enablescorporate teams to create, schedule and send messages intended for multipleteams or large number of employees (using DLs) over Teams Channels and personalchat allowing organization to reach employees right where they collaborate. \n\u003Cbr\u003EThis solution can be used for multiple scenarios suchas targeted communications, employee onboarding, modern learning anddevelopment or organization-wide broadcasts.\n\u003Cbr\u003EThe solution provides an easy interface fordesignated users to create, preview, collaborate, schedule and send messages.Extended custom functionality allows authors to edit and delete sent messages,also provides extended telemetry like user reactions to messages. \n\u003Cbr\u003ECustomizations also provides options to createmultiple BU specific groups and assign admins to those groups. This will allowGroup Admin to send targeted communications for the selected groups/DLs forwhich they are allowed to."
             ]
           },
           {
             "name": "Success factors",
             "content": [
-              "\u003Cdiv\u003E\u003Cul style=\u0022margin-bottom:0in;\u0022\u003E\u003Cli\u003E\u003Cspan lang=EN-GB style=\u0022\u0022\u003EHelped organization reach\nemployees more effectively and get their attention using their existing\ninvestment on Microsoft Teams platform. \u003C/span\u003E\u003C/li\u003E\u003Cli\u003E\u003Cspan lang=EN-GB style=\u0022\u0022\u003EEmployees can collaborate\non Teams without switching to different application to get any related\ninformation.\u003C/span\u003E\u003C/li\u003E\u003C/ul\u003E\u003C/div\u003E"
+              "* \u0026nbsp;Helped organization reachemployees more effectively and get their attention using their existinginvestment on Microsoft Teams platform. \n\u003Cbr\u003E * \u0026nbsp;Employees can collaborateon Teams without switching to different application to get any relatedinformation."
             ]
           }
         ],

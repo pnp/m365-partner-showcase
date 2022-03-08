@@ -8,7 +8,7 @@
   "visible": false,
   "logoPicture": null,
   "logoPictureAlt": "",
-  "heroPicture": "assets/hero.png",
+  "heroPicture": null,
   "featuredPicture": null,
   "partnerName": "Solution Gallery Solution",
   "mpnId": "0",
@@ -23,15 +23,9 @@
           "description": "eeee",
           "url": "eee"
         },
-        "mediaAssets": [
-          {
-            "type": "image",
-            "order": 0,
-            "url": "assets/Hero.png",
-            "alt": ""
-          }
-        ],
-        "detailItemCategories": []
+        "mediaAssets": [],
+        "detailItemCategories": [],
+        "contact": "Solution Gallery Solution"
       }
     }
   }

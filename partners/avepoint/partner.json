@@ -11,7 +11,7 @@
   "heroPicture": "assets/hero.png",
   "featuredPicture": "assets/featured.png",
   "partnerName": "AvePoint",
-  "mpnId": "0",
+  "mpnId": null,
   "metadata": {
     "displayInfo": {
       "default": {

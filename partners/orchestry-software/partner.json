@@ -15,12 +15,12 @@
   "metadata": {
     "displayInfo": {
       "default": {
-        "shortDescription": "\u003Cdiv\u003EOrchestry builds balanced adoption and governance solutions that enable you to leverage your investment in Microsoft 365 through empowering your users with the right tools at the right time for the right purpose. See how Orchestry can Make Work Simple for your organization today!\u003Cbr\u003E\u003C/div\u003E",
+        "shortDescription": "Orchestry builds balanced adoption and governance solutions that enable you to leverage your investment in Microsoft 365 through empowering your users with the right tools at the right time for the right purpose. See how Orchestry can Make Work Simple for your organization today!",
         "featuredTitle": "Orchestry - Microsoft Teams App for Governance \u0026 Adoption",
         "featuredParagraphs": [
-          "\u003Cdiv\u003EOrchestry makes work simple in Microsoft Teams, SharePoint Online and across Microsoft 365 with a comprehensive enablement, adoption and standardization platform that empowers IT Administrators and organizations to define a Microsoft 365 adoption and change management strategy.\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E",
-          "\u003Cdiv\u003EOrchestry is a balanced platform composed of adoption tools, engaging templates, empowering governance and controlled self-service provisioning to drive usage and adoption success in Microsoft Teams and across Microsoft 365.\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E",
-          "\u003Cdiv\u003EAt Orchestry, we believe that simplifying the Microsoft 365 experience is the best way to improve the user experience for both users and administrators. With Orchestry, every interaction within Microsoft 365 is based on a simple, beautiful but extremely powerful interface that makes the complex simple, and the impossible plausible.\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E"
+          "Orchestry makes work simple in Microsoft Teams, SharePoint Online and across Microsoft 365 with a comprehensive enablement, adoption and standardization platform that empowers IT Administrators and organizations to define a Microsoft 365 adoption and change management strategy.",
+          "Orchestry is a balanced platform composed of adoption tools, engaging templates, empowering governance and controlled self-service provisioning to drive usage and adoption success in Microsoft Teams and across Microsoft 365.",
+          "At Orchestry, we believe that simplifying the Microsoft 365 experience is the best way to improve the user experience for both users and administrators. With Orchestry, every interaction within Microsoft 365 is based on a simple, beautiful but extremely powerful interface that makes the complex simple, and the impossible plausible."
         ],
         "callToAction": {
           "title": "Discover Work Made Simple in Microsoft Teams, SharePoint and across Microsoft 365",
@@ -35,7 +35,8 @@
             "alt": ""
           }
         ],
-        "detailItemCategories": []
+        "detailItemCategories": [],
+        "contact": "Erica Hakonson"
       }
     }
   }

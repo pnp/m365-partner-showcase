@@ -15,12 +15,12 @@
   "metadata": {
     "displayInfo": {
       "default": {
-        "shortDescription": "\u003Cdiv\u003EValo are a pioneering Digital Workplace product provider which is home to many talented and influential Microsoft 365 professionals. Our solutions have been awarded with the coveted Microsoft \u201CPartner of the Year\u201D honor. #ValoCheers to great achievements!\u003Cbr\u003E\u003C/div\u003E",
+        "shortDescription": "Valo are a pioneering Digital Workplace product provider which is home to many talented and influential Microsoft 365 professionals. Our solutions have been awarded with the coveted Microsoft \u201CPartner of the Year\u201D honor. #ValoCheers to great achievements!",
         "featuredTitle": "Fall in love with your digital workplace!",
         "featuredParagraphs": [
-          "\u003Cdiv\u003EDrive innovation with\u0026nbsp;\u003Cb\u003EValo Ideas\u003C/b\u003E. Co-create and drive innovation while having fun. With Valo Ideas your workers can present new ideas, discuss and react on them from Microsoft Teams! \u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003EBuild a custom enterprise portal with\u0026nbsp;\u003Cb\u003EValo Connect\u003C/b\u003E. Unite your team and tools under one roof. With Valo Connect you can communicate, collaborate and co-innovate without leaving the comfort of Microsoft Teams. \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E",
-          "\u003Cdiv\u003ETake it easy with external stakeholder access management.\u0026nbsp;\u003Cb\u003EValo Entrance\u0026nbsp;\u003C/b\u003Emakes it easy for you to share your resources by automating and streamlining many time-consuming tasks you would traditionally have when inviting and managing external user rights in your Microsoft 365 environment. \u003Cbr\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003EAn intranet you\u2019ll fall in love with.\u0026nbsp;\u003Cb\u003EValo Intranet\u003C/b\u003E\u0026nbsp;is the center of all internal communication and teamwork on your organization. It offers all the features your team will need \u2013 along with a beautiful user experience. \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E",
-          "\u003Cdiv\u003E\u003Cb\u003EValo Teamwork\u003C/b\u003E\u0026nbsp;brings all your collaboration tools together. Managing between multiple workspaces and tools can be exhausting. Teamwork brings everything together in one view and let\u2019s administrators have full control of the group lifecycle.\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E"
+          "Drive innovation with Valo Ideas. Co-create and drive innovation while having fun. With Valo Ideas your workers can present new ideas, discuss and react on them from Microsoft Teams! \n\u003Cbr\u003E\n\u003Cbr\u003EBuild a custom enterprise portal with Valo Connect. Unite your team and tools under one roof. With Valo Connect you can communicate, collaborate and co-innovate without leaving the comfort of Microsoft Teams.",
+          "Take it easy with external stakeholder access management. Valo Entrance makes it easy for you to share your resources by automating and streamlining many time-consuming tasks you would traditionally have when inviting and managing external user rights in your Microsoft 365 environment. \n\u003Cbr\u003E\n\u003Cbr\u003EAn intranet you\u2019ll fall in love with. Valo Intranet is the center of all internal communication and teamwork on your organization. It offers all the features your team will need \u2013 along with a beautiful user experience.",
+          "Valo Teamwork brings all your collaboration tools together. Managing between multiple workspaces and tools can be exhausting. Teamwork brings everything together in one view and let\u2019s administrators have full control of the group lifecycle."
         ],
         "callToAction": {
           "title": "Schedule a free demo today!",
@@ -31,17 +31,18 @@
           {
             "type": "image",
             "order": 0,
-            "url": "assets/Featured.png",
+            "url": "assets/Hero.png",
             "alt": ""
           },
           {
             "type": "image",
             "order": 1,
-            "url": "assets/Hero.png",
+            "url": "assets/Featured.png",
             "alt": ""
           }
         ],
-        "detailItemCategories": []
+        "detailItemCategories": [],
+        "contact": "Vardhaman Deshpande"
       }
     }
   }

@@ -2,7 +2,12 @@
   "solutionId": "Full---solution1",
   "partnerId": "test123",
   "categories": [],
-  "industries": [],
+  "industries": [
+    "Automotive"
+  ],
+  "servicesUsed": [
+    "Azure"
+  ],
   "sortOrder": 0,
   "preview": false,
   "visible": false,
@@ -13,8 +18,8 @@
   "solutionUrlTitle": "Full - solution1",
   "metadata": {
     "personas": "Administrators",
-    "solutionTechnologies": "Azure",
     "businessFunctions": "Adoption",
+    "businessValue": "Test",
     "displayPartner": false,
     "appSource": null,
     "displayInfo": {

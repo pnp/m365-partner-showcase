@@ -2,7 +2,12 @@
   "solutionId": "testing-integration",
   "partnerId": "Aamir-partner-ID",
   "categories": [],
-  "industries": [],
+  "industries": [
+    "Hospitality"
+  ],
+  "servicesUsed": [
+    "Azure AD"
+  ],
   "sortOrder": 0,
   "preview": false,
   "visible": false,
@@ -13,8 +18,8 @@
   "solutionUrlTitle": "testing integration",
   "metadata": {
     "personas": "Distributed Workforce",
-    "solutionTechnologies": "Azure AD",
     "businessFunctions": "Change Management",
+    "businessValue": "eee",
     "displayPartner": false,
     "appSource": "https://aamir.store",
     "displayInfo": {
@@ -28,9 +33,7 @@
           },
           {
             "name": "Long description",
-            "content": [
-              "3333"
-            ]
+            "content": []
           },
           {
             "name": "Business need or problem",
@@ -51,14 +54,7 @@
             ]
           }
         ],
-        "mediaAssets": [
-          {
-            "type": "image",
-            "order": 0,
-            "url": "assets/Hero.png",
-            "alt": ""
-          }
-        ],
+        "mediaAssets": [],
         "detailItemCategories": [
           {
             "name": "Resources",

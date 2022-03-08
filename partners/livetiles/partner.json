@@ -15,10 +15,10 @@
   "metadata": {
     "displayInfo": {
       "default": {
-        "shortDescription": "\u003Cdiv\u003ELiveTiles is a workplace technology company\noffering expertise and software products designed to boost productivity,\ninnovation and connection in your workplace.\u003Cbr\u003E\u003C/div\u003E",
+        "shortDescription": "LiveTiles is a workplace technology companyoffering expertise and software products designed to boost productivity,innovation and connection in your workplace.",
         "featuredTitle": "To productivity and beyond",
         "featuredParagraphs": [
-          "\u003Cdiv\u003ELiveTiles builds custom workplace solutions combining our Expertise and software Products to fit your unique needs. Learn how we help hundreds of organisations across all industries work better than ever before.\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E"
+          "LiveTiles builds custom workplace solutions combining our Expertise and software Products to fit your unique needs. Learn how we help hundreds of organisations across all industries work better than ever before."
         ],
         "callToAction": {
           "title": "Our Expertise and Products craft the perfect solution.",
@@ -29,17 +29,18 @@
           {
             "type": "image",
             "order": 0,
-            "url": "assets/Hero.png",
+            "url": "assets/Featured.png",
             "alt": ""
           },
           {
             "type": "image",
             "order": 1,
-            "url": "assets/Featured.png",
+            "url": "assets/Hero.png",
             "alt": ""
           }
         ],
-        "detailItemCategories": []
+        "detailItemCategories": [],
+        "contact": "Chris Johnson"
       }
     }
   }

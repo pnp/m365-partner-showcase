@@ -2,9 +2,19 @@
   "solutionId": "12345",
   "partnerId": "Test7890",
   "categories": [],
-  "industries": [],
+  "industries": [
+    "Automotive",
+    "Construction",
+    "Technology"
+  ],
+  "servicesUsed": [
+    "Azure AD",
+    "Azure API Management",
+    "Azure Cognitive Search",
+    "Azure Cosmos DB"
+  ],
   "sortOrder": 0,
-  "preview": true,
+  "preview": false,
   "visible": false,
   "solutionLogoPicture": null,
   "solutionLogoPictureAlt": "",
@@ -12,9 +22,9 @@
   "solutionUrl": null,
   "solutionUrlTitle": "Test Partner Solution1",
   "metadata": {
-    "personas": "All Employees",
-    "solutionTechnologies": "Azure;Azure Bot",
-    "businessFunctions": "Adoption;IT",
+    "personas": "Administrators",
+    "businessFunctions": "Adoption",
+    "businessValue": "\u003Cdiv\u003EValidate business value \u003C/div\u003E",
     "displayPartner": false,
     "appSource": null,
     "displayInfo": {
@@ -23,31 +33,31 @@
           {
             "name": "Short description",
             "content": [
-              "\u003Cdiv\u003ETest Partner Solution1 07282021\u003Cbr\u003E\u003C/div\u003E"
+              "Test Partner Solution1 07282021"
             ]
           },
           {
             "name": "Long description",
             "content": [
-              "\u003Cdiv\u003EThis is to test the partner solution with ADO\u003C/div\u003E"
+              ""
             ]
           },
           {
             "name": "Business need or problem",
             "content": [
-              "\u003Cspan style=\u0022\u0022\u003EValidate business needs\u003C/span\u003E\u003Cbr\u003E"
+              "Validate business needs"
             ]
           },
           {
             "name": "Business solution",
             "content": [
-              "\u003Cdiv\u003EValidate business solution\u003C/div\u003E"
+              "Validate business solution"
             ]
           },
           {
             "name": "Success factors",
             "content": [
-              "\u003Cdiv\u003EValidate success factors\u003C/div\u003E"
+              "Validate success factors"
             ]
           }
         ],

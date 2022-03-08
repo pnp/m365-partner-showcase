@@ -1,0 +1,48 @@
+{
+  "partnerId": "32424234",
+  "categories": [],
+  "industries": [],
+  "solutions": null,
+  "sortOrder": 0,
+  "preview": true,
+  "visible": false,
+  "logoPicture": null,
+  "logoPictureAlt": "",
+  "heroPicture": "assets/hero.png",
+  "featuredPicture": "assets/featured.png",
+  "partnerName": "Contoso OEM",
+  "mpnId": "32424234",
+  "metadata": {
+    "displayInfo": {
+      "default": {
+        "shortDescription": "This is to test the ADO sync for Contoso OEM partner",
+        "featuredTitle": "Contoso Feature Title",
+        "featuredParagraphs": [
+          "Contoso Feature Paragraph1",
+          "Contoso Feature Paragraph3"
+        ],
+        "callToAction": {
+          "title": "Call to action contoso",
+          "description": "Call to action description Contoso",
+          "url": null
+        },
+        "mediaAssets": [
+          {
+            "type": "image",
+            "order": 0,
+            "url": "assets/Hero.png",
+            "alt": ""
+          },
+          {
+            "type": "image",
+            "order": 1,
+            "url": "assets/Featured.png",
+            "alt": ""
+          }
+        ],
+        "detailItemCategories": [],
+        "contact": "Contoso OEM"
+      }
+    }
+  }
+}

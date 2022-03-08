@@ -15,12 +15,12 @@
   "metadata": {
     "displayInfo": {
       "default": {
-        "shortDescription": "\u003Cdiv\u003EThis is to validate the PSG from ADO\u003C/div\u003E",
+        "shortDescription": "This is to validate the PSG from ADO",
         "featuredTitle": "Test Featured Title",
         "featuredParagraphs": [
-          "\u003Cdiv\u003ETest Featured Title Description1\u003Cbr\u003E\u003C/div\u003E",
-          "\u003Cdiv\u003E\u003Cspan style=\u0022display:inline !important;\u0022\u003ETest Featured Title Description2\u003C/span\u003E\u003Cbr\u003E\u003C/div\u003E",
-          "\u003Cdiv\u003E\u003Cspan style=\u0022display:inline !important;\u0022\u003ETest Featured Title Description3\u003C/span\u003E\u003Cbr\u003E\u003C/div\u003E"
+          "Test Featured Title Description1",
+          "Test Featured Title Description2",
+          "Test Featured Title Description3"
         ],
         "callToAction": {
           "title": null,
@@ -28,7 +28,8 @@
           "url": null
         },
         "mediaAssets": [],
-        "detailItemCategories": []
+        "detailItemCategories": [],
+        "contact": "Contoso"
       }
     }
   }

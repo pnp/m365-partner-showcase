@@ -15,12 +15,12 @@
   "metadata": {
     "displayInfo": {
       "default": {
-        "shortDescription": "\u003Cdiv\u003ELightning Tools is a global Independent Software Vendor (ISV) that specializes in Software Productivity Tools for Microsoft SharePoint and Microsoft Teams.\u003Cbr\u003E\u003C/div\u003E",
+        "shortDescription": "Lightning Tools is a global Independent Software Vendor (ISV) that specializes in Software Productivity Tools for Microsoft SharePoint and Microsoft Teams.",
         "featuredTitle": "About Lightning Tools",
         "featuredParagraphs": [
-          "\u003Cdiv\u003ELightning Tools is a Microsoft Gold Partner founded in 2007 that creates software tools for Microsoft SharePoint \u0026amp; Microsoft Teams. The Lightning Tools products are created to help business users to be more efficient and productive whilst using the Microsoft SharePoint and Microsoft Teams platforms and are used across organizations worldwide.\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E",
-          "\u003Cdiv\u003EThe Lightning Tools product range includes a discussion board tool for Microsoft Teams tabs and personal apps, permissions reporting and permissions management, content aggregation from SharePoint lists and Microsoft Graph, and a Data Visualization tool.\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E",
-          "\u003Cdiv\u003EEach product is developed under the SharePoint Framework\n(SPFx) and works seamlessly across SharePoint and Microsoft Teams.\u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E"
+          "Lightning Tools is a Microsoft Gold Partner founded in 2007 that creates software tools for Microsoft SharePoint \u0026amp; Microsoft Teams. The Lightning Tools products are created to help business users to be more efficient and productive whilst using the Microsoft SharePoint and Microsoft Teams platforms and are used across organizations worldwide.",
+          "The Lightning Tools product range includes a discussion board tool for Microsoft Teams tabs and personal apps, permissions reporting and permissions management, content aggregation from SharePoint lists and Microsoft Graph, and a Data Visualization tool.",
+          "Each product is developed under the SharePoint Framework(SPFx) and works seamlessly across SharePoint and Microsoft Teams."
         ],
         "callToAction": {
           "title": "Connect With Us",
@@ -31,17 +31,18 @@
           {
             "type": "image",
             "order": 0,
-            "url": "assets/Hero.png",
+            "url": "assets/Featured.png",
             "alt": ""
           },
           {
             "type": "image",
             "order": 1,
-            "url": "assets/Featured.png",
+            "url": "assets/Hero.png",
             "alt": ""
           }
         ],
-        "detailItemCategories": []
+        "detailItemCategories": [],
+        "contact": "Brett Lonsdale"
       }
     }
   }
