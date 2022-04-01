@@ -24,7 +24,7 @@
     "personas": "DPO;Helpdesk Supervisors;HR;IT Admin;Manager",
     "businessFunctions": null,
     "businessValue": "Microsoft Teams Historical Dashboard solution gives users the option to obtain statistics onauto-attendant / queue / agent performance, such as: answered or missedopportunities, caller experience and promptness in finding a resolution forincoming requests.\n\u003Cbr\u003E\n\u003Cbr\u003EMoYoBi provides dedicatedstatistics and detailed reports to supervise the activity on Call Queues and delivers specializedreports from the Agent\u2019s perspective to monitor their performance and assesstheir efficiency.\n\u003Cbr\u003E\n\u003Cbr\u003EPart of MoYoBi\u2019scapabilities is collecting and processing calls, providing call analytics aswell as a variety of built-in reports for a quick insight into call cost andcall information, enabling chargeback, call quality analysis and cost control.",
-    "displayPartner": true,
+    "displayPartner": false,
     "appSource": null,
     "displayInfo": {
       "default": {

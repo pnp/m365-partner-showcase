@@ -24,7 +24,7 @@
     "personas": "Digital Champions;End-user",
     "businessFunctions": null,
     "businessValue": "Ourclients see a rapid and sustained increase in adoption of Microsoft 365. Ourunique approach to delivering in time support and learning ensures adoption ofthe tools and boosts to productivity.\n\u003Cbr\u003E\n\u003Cbr\u003E * \u0026nbsp;Reduced time to M365 benefit realisation\n\u003Cbr\u003E * \u0026nbsp;Reduced cost of end user training and communications\n\u003Cbr\u003E * \u0026nbsp;Increased user productivity\n\u003Cbr\u003E * \u0026nbsp;Reduced Service Deskdisruption/traffic\n\u003Cbr\u003E * \u0026nbsp;Stronger Programme perception from SeniorLeadership down to end user",
-    "displayPartner": true,
+    "displayPartner": false,
     "appSource": null,
     "displayInfo": {
       "default": {

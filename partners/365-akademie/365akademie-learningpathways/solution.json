@@ -24,7 +24,7 @@
     "personas": "Microsoft 365 User",
     "businessFunctions": null,
     "businessValue": "With learning pathways you give your employees the opportunity to look into a specific scenario a bit closer and have a structured approach. It lowers the need for technical support and improves the usage of all the provided digital tools.",
-    "displayPartner": true,
+    "displayPartner": false,
     "appSource": null,
     "displayInfo": {
       "default": {

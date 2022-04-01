@@ -22,7 +22,7 @@
     "personas": "Business Analysts;Content Owners;Developer;End-user;IT Admin;Leadership;Training \u0026 Development",
     "businessFunctions": null,
     "businessValue": null,
-    "displayPartner": true,
+    "displayPartner": false,
     "appSource": null,
     "displayInfo": {
       "default": {
