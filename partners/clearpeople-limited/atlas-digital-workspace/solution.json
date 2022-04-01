@@ -16,7 +16,7 @@
   "metadata": {
     "personas": "Compliance;Corporate Communications;Front Line Worker;HR;IT;Knowledge Managers;Knowledge Worker",
     "businessFunctions": null,
-    "displayPartner": true,
+    "displayPartner": false,
     "appSource": null,
     "displayInfo": {
       "default": {

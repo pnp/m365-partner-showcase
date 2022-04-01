@@ -16,7 +16,7 @@
   "metadata": {
     "personas": "DPO;Helpdesk Supervisors;HR;IT Admin;Manager",
     "businessFunctions": null,
-    "displayPartner": true,
+    "displayPartner": false,
     "appSource": null,
     "displayInfo": {
       "default": {

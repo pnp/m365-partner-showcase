@@ -16,7 +16,7 @@
   "metadata": {
     "personas": "Administrators;Corporate Communications;IT Admin",
     "businessFunctions": "Adoption;Governance;Project Management;Templates",
-    "displayPartner": true,
+    "displayPartner": false,
     "appSource": null,
     "displayInfo": {
       "default": {
