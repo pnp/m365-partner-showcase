@@ -16,7 +16,7 @@
   "metadata": {
     "personas": "Microsoft 365 User",
     "businessFunctions": null,
-    "displayPartner": true,
+    "displayPartner": false,
     "appSource": null,
     "displayInfo": {
       "default": {
