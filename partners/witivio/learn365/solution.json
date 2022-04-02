@@ -21,7 +21,7 @@
     "personas": "All Employees;Corporate Communications;HR;IT",
     "businessFunctions": null,
     "businessValue": "Learn365is an affordable and ready-to-use virtual assistant. These are some ofthe benefits our customers have achieved thanks to Learn365:\n\u003Cbr\u003E\n\u003Cbr\u003E * \u0026nbsp;Increaseadoption of Office 365 tools thanksto interactive content.\n\u003Cbr\u003E * \u0026nbsp;\u002B 25% ofindependent users on recurringquestions related to Office 365.\n\u003Cbr\u003E * \u0026nbsp;Up to -30%tickets to support on Office 365 requests.\n\u003Cbr\u003E * \u0026nbsp;Identification ofuser knowledge gaps based on tools.\n\u003Cbr\u003E\n\u003Cbr\u003EThere are three versions of Learn365: Standard, Premium, and Enterprise,contact us to find the best version for your needs.",
-    "displayPartner": true,
+    "displayPartner": false,
     "appSource": null,
     "displayInfo": {
       "default": {
