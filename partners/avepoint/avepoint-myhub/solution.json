@@ -32,7 +32,7 @@
     "personas": "Business Admin;IT;Knowledge Worker",
     "businessFunctions": null,
     "businessValue": "AvePoint MyHub enables easy organization ofMicrosoft 365 workspaces, efficient access to relevant information, and ensurescollaboration security in Microsoft 365.",
-    "displayPartner": true,
+    "displayPartner": false,
     "appSource": null,
     "displayInfo": {
       "default": {
