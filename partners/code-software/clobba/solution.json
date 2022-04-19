@@ -16,7 +16,7 @@
   "metadata": {
     "personas": "Finance Managers;Helpdesk Supervisors;IT Admin;Sales Managers",
     "businessFunctions": null,
-    "displayPartner": true,
+    "displayPartner": false,
     "appSource": null,
     "displayInfo": {
       "default": {
