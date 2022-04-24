@@ -16,7 +16,7 @@
   "metadata": {
     "personas": "C-level;HR;IT",
     "businessFunctions": null,
-    "displayPartner": true,
+    "displayPartner": false,
     "appSource": null,
     "displayInfo": {
       "default": {
