@@ -22,7 +22,7 @@
     "personas": "Content Owners;Corporate Communications;Leadership",
     "businessFunctions": null,
     "businessValue": "Our customers have been able to upgrade theirbroadcast production quality and improve audience engagement dramatically byusing the right hardware for their live events.",
-    "displayPartner": true,
+    "displayPartner": false,
     "appSource": null,
     "displayInfo": {
       "default": {
