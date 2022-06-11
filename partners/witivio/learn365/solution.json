@@ -16,7 +16,7 @@
   "metadata": {
     "personas": "All Employees;Corporate Communications;HR;IT",
     "businessFunctions": null,
-    "displayPartner": true,
+    "displayPartner": false,
     "appSource": null,
     "displayInfo": {
       "default": {
