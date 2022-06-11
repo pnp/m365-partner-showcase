@@ -22,7 +22,7 @@
     "personas": "Content Owners;Corporate Communications;Leadership",
     "businessFunctions": null,
     "businessValue": "Our customers have been able to quickly get upto speed on the latest software and hardware techniques to present engagingcontent and scale their in-house development and broadcast capabilities.",
-    "displayPartner": true,
+    "displayPartner": false,
     "appSource": null,
     "displayInfo": {
       "default": {
