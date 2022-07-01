@@ -4,7 +4,12 @@
   "categories": [
     "virtualevents"
   ],
-  "industries": [],
+  "industries": [
+    "Cross-Industry"
+  ],
+  "servicesUsed": [
+    "Teams Live Events"
+  ],
   "sortOrder": 0,
   "preview": false,
   "visible": false,
@@ -16,6 +21,7 @@
   "metadata": {
     "personas": "Leadership",
     "businessFunctions": null,
+    "businessValue": "Our customers have been able to quickly leveragethe Microsoft Teams platform to reach their audience by working with us to developtheir ideal event. Each custom event can be 1 hour or multiple days of contentand with our service a successful event and audience engagement are theultimate values to our customers.",
     "displayPartner": false,
     "appSource": null,
     "displayInfo": {
@@ -24,7 +30,7 @@
           {
             "name": "Short description",
             "content": [
-              "Custom production and broadcast services for Microsoft Live Events"
+              "\u003Cdiv\u003ECustom production and broadcast services for Microsoft Live Events. \u003C/div\u003E"
             ]
           },
           {

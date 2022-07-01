@@ -4,7 +4,14 @@
   "categories": [
     "teams"
   ],
-  "industries": [],
+  "industries": [
+    "Cross-Industry"
+  ],
+  "servicesUsed": [
+    "Azure",
+    "Graph API",
+    "Microsoft Teams"
+  ],
   "sortOrder": 0,
   "preview": false,
   "visible": false,
@@ -16,6 +23,7 @@
   "metadata": {
     "personas": "Leadership;Sales Managers",
     "businessFunctions": null,
+    "businessValue": "Clobba RT delivers key performance andproductivity metrics on Teams CQs, AAs and associated agents\u2019 usage allowingfor informed decision making. The real-time and historical trend details allow for the correctallocation of resources and call routing which ensures KPIs are being met andleads to an increase in customers\u2019 satisfaction.\n\u003Cbr\u003E\n\u003Cbr\u003EThe ability to applythresholds adds an element of gamification which can motivate agents leading toan increase in productivity.",
     "displayPartner": false,
     "appSource": null,
     "displayInfo": {

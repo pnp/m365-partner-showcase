@@ -3,6 +3,7 @@
   "partnerId": "dxc",
   "categories": [],
   "industries": [],
+  "servicesUsed": [],
   "sortOrder": 0,
   "preview": false,
   "visible": false,
@@ -14,6 +15,7 @@
   "metadata": {
     "personas": null,
     "businessFunctions": null,
+    "businessValue": null,
     "displayPartner": false,
     "appSource": null,
     "displayInfo": {

@@ -4,7 +4,16 @@
   "categories": [
     "learningpathways"
   ],
-  "industries": [],
+  "industries": [
+    "Cross-Industry"
+  ],
+  "servicesUsed": [
+    "Microsoft Forms",
+    "Microsoft Teams",
+    "Power App",
+    "Power Automate",
+    "SharePoint sites"
+  ],
   "sortOrder": 0,
   "preview": false,
   "visible": false,
@@ -16,6 +25,7 @@
   "metadata": {
     "personas": "Digital Champions;End-user",
     "businessFunctions": null,
+    "businessValue": "Our clients see a rapid and sustained increase in adoption of Microsoft 365. Our unique approach to working with Digital Champions ensures they become the driving force behind your change and embed transformation that sticks. Ensuring:\n\u003Cbr\u003E\n\u003Cbr\u003E * \u0026nbsp;Reduced time to M365 benefit realisation\n\u003Cbr\u003E * \u0026nbsp;Reduced cost of end user training and communications\n\u003Cbr\u003E * \u0026nbsp;Increased user productivity\n\u003Cbr\u003E * \u0026nbsp;Reduced Service Desk disruption/traffic\n\u003Cbr\u003E * \u0026nbsp;Stronger Programme perception from Senior Leadership down to end user",
     "displayPartner": false,
     "appSource": null,
     "displayInfo": {

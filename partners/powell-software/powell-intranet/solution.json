@@ -4,10 +4,18 @@
   "categories": [
     "teams"
   ],
-  "industries": [],
+  "industries": [
+    "Cross-Industry"
+  ],
+  "servicesUsed": [
+    "Azure",
+    "Graph API",
+    "Microsoft 365",
+    "Power Automate"
+  ],
   "sortOrder": 0,
   "preview": false,
-  "visible": true,
+  "visible": false,
   "solutionLogoPicture": null,
   "solutionLogoPictureAlt": "",
   "solutionName": "Powell Intranet",
@@ -15,8 +23,9 @@
   "solutionUrlTitle": "Powell Intranet",
   "metadata": {
     "personas": "All Employees;Corporate Communications;HR;IT",
-    "solutionTechnologies": "Azure;Graph API;Microsoft 365;Power Automate",
     "businessFunctions": null,
+    "businessValue": "Benefits: Employees gain productivity and agility; By directly integrating all Microsoft 365 services and capabilities offered by Microsoft 365 into our Intranet templates, users take full advantage of all those products that they do not always know how to use properly and that they sometimes didn\u0027t even know existed: Planner, OneNote, Booking, Forms, Stream, Power-Bi, advanced document search, and much more.\n\u003Cbr\u003E\n\u003Cbr\u003EOffering a Digital Workplace will all business applications at few clicks save considerable time in the execution of day-to-day tasks by bringing together documentation, discussions and approval processes related to activities within the same space. \u0026nbsp;\u0026nbsp;It also maximizes Employee Engagement in the Hybrid Workplace through Gamification \u0026amp; Employee Advocacy.\n\u003Cbr\u003E\n\u003Cbr\u003EPowell Intranet optimizes SharePoint management time by IT teams. IT implements \u0026nbsp;\u0026nbsp;\u0026nbsp;balanced and automatic governance. IT teams can co-build business uses and maximize the adoption of Microsoft 365.",
+    "displayPartner": false,
     "appSource": null,
     "displayInfo": {
       "default": {
@@ -24,8 +33,12 @@
           {
             "name": "Short description",
             "content": [
-              "\u003Cdiv\u003EA modern corporate Intranet designed for\ncommunication success and to drive employee engagement.\u003Cbr\u003E\u003C/div\u003E"
+              "A modern corporate Intranet designed forcommunication success and to drive employee engagement."
             ]
+          },
+          {
+            "name": "Long description",
+            "content": []
           },
           {
             "name": "Business need or problem",
@@ -34,7 +47,13 @@
           {
             "name": "Business solution",
             "content": [
-              "\u003Cdiv\u003E\u003Cb\u003EFor Employees \u003C/b\u003E\u003C/div\u003E\u003Cdiv\u003EPowell Intranet is a corporate Intranet accessible from a browser, a mobile phone with an optional dedicated app and directly in Teams. It allows an attractive and easy access to corporate information, resources, and business application to improve the way people work. Powell Intranet is inclusive as it ensures that non-technical savvy people are engaged in the company culture, no matter they are Information Workers or Firstline workers.\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003E\u003Cb\u003EFor Intranet Contributors\u003Cbr\u003E\u003C/b\u003E\u003C/div\u003E\u003Cdiv\u003EPortal owners from HR and Communications can benefit for a rich catalog of templates for day to day activities: onboarding employees, company news, desk booking, Services portal, Department portal. These reports can be customized with a no-code approach.\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003E\u003Cb\u003EFor IT\u003Cbr\u003E\u003C/b\u003E\u003C/div\u003E\u003Cdiv\u003EIT teams need to strike the right balance between adopting Microsoft 365 to the business context, making it easy for employees to use, and complying with the rules of security, compliance, and good IT management.\u0026nbsp;Powell Intranet is secured by design: all data remain in the customer Microsoft 365 tenant and Identity is managed in Azure Active Directory.\u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003EPowell Intranet is powered by a real SharePoint pages factory that allows IT teams to industrialize how the deploy, manage, and govern up to thousands of SharePoint sites with a patented low code management tool.\u003C/div\u003E\u003Cp style=\u0022box-sizing:border-box;margin:0in;font-size:12pt;font-family:Calibri, sans-serif;\u0022\u003E \u003C/p\u003E"
+              "For Employees \n\u003Cbr\u003EPowell Intranet is a corporate Intranet accessible from a browser, a mobile phone with an optional dedicated app and directly in Teams. It allows an attractive and easy access to corporate information, resources, and business application to improve the way people work. Powell Intranet is inclusive as it ensures that non-technical savvy people are engaged in the company culture, no matter they are Information Workers or Firstline workers.\n\u003Cbr\u003E\n\u003Cbr\u003EFor Intranet Contributors\n\u003Cbr\u003EPortal owners from HR and Communications can benefit for a rich catalog of templates for day to day activities: onboarding employees, company news, desk booking, Services portal, Department portal. These reports can be customized with a no-code approach.\n\u003Cbr\u003E\n\u003Cbr\u003EFor IT\n\u003Cbr\u003EIT teams need to strike the right balance between adopting Microsoft 365 to the business context, making it easy for employees to use, and complying with the rules of security, compliance, and good IT management. Powell Intranet is secured by design: all data remain in the customer Microsoft 365 tenant and Identity is managed in Azure Active Directory.\n\u003Cbr\u003E\n\u003Cbr\u003EPowell Intranet is powered by a real SharePoint pages factory that allows IT teams to industrialize how the deploy, manage, and govern up to thousands of SharePoint sites with a patented low code management tool."
+            ]
+          },
+          {
+            "name": "Success factors",
+            "content": [
+              "The success will come from an agile project-management that includes Internal Communication as the main stakeholder, IT professionals for the Governance aspects, Business owner to select which business scenario to start with. While the solution comes with an Out-Of-The-Box configuration, most of our customers will include a Microsoft 365 partner to ensure some level of customization to the enterprise branding and add some specific business scenarios as part of the Intranet pages."
             ]
           }
         ],
@@ -42,31 +61,31 @@
           {
             "type": "image",
             "order": 0,
-            "url": "assets/powell-intranet-sol-image-2.png",
-            "alt": ""
-          },
-          {
-            "type": "image",
-            "order": 1,
-            "url": "assets/powell-intranet-sol-image-4.png",
-            "alt": ""
-          },
-          {
-            "type": "image",
-            "order": 2,
             "url": "assets/powell-intranet-sol-image-1.png",
             "alt": ""
           },
           {
             "type": "image",
+            "order": 1,
+            "url": "assets/powell-intranet-sol-image-3.png",
+            "alt": ""
+          },
+          {
+            "type": "image",
+            "order": 2,
+            "url": "assets/powell-intranet-sol-image-2.png",
+            "alt": ""
+          },
+          {
+            "type": "image",
             "order": 3,
-            "url": "assets/powell-intranet-sol-image-5.png",
+            "url": "assets/powell-intranet-sol-image-4.png",
             "alt": ""
           },
           {
             "type": "image",
             "order": 4,
-            "url": "assets/powell-intranet-sol-image-3.png",
+            "url": "assets/powell-intranet-sol-image-5.png",
             "alt": ""
           },
           {
@@ -83,7 +102,7 @@
             "items": [
               {
                 "url": "https://powell-software.com/en/intranet-in-a-box/",
-                "name": "Powell Intranet: The\nBest Digital Workplace Communication Software (powell-software.com)"
+                "name": "Powell Intranet: The Best Digital Workplace Communication Software (powell-software.com)"
               }
             ]
           }

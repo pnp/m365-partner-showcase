@@ -5,9 +5,15 @@
     "teams"
   ],
   "industries": [],
+  "servicesUsed": [
+    "Custom Tabs",
+    "Graph API",
+    "SharePoint sites",
+    "SPFx"
+  ],
   "sortOrder": 0,
   "preview": false,
-  "visible": true,
+  "visible": false,
   "solutionLogoPicture": null,
   "solutionLogoPictureAlt": "",
   "solutionName": "Social Squared",
@@ -15,8 +21,9 @@
   "solutionUrlTitle": "Social Squared",
   "metadata": {
     "personas": "Business Users;Student",
-    "solutionTechnologies": "Custom Tabs;Graph API;SharePoint sites;SPFx",
     "businessFunctions": null,
+    "businessValue": "Social Squared will provide greater confidence in finding answers to business related questions. The structure of Social Squared will also help with the onboarding of new team members who will have a knowledge base created, whereby they can find answers to the many questions that a new starter would have. This helps reduce costs and frustrations when onboarding new team members.",
+    "displayPartner": false,
     "appSource": null,
     "displayInfo": {
       "default": {
@@ -24,19 +31,29 @@
           {
             "name": "Short description",
             "content": [
-              "\u003Cdiv\u003EDiscussion Board for Microsoft Teams. Create forum groups and forums within a Microsoft Teams tab or as a personal app to bring structured discussion board functionality to Microsoft Teams.\u003Cbr\u003E\u003C/div\u003E"
+              "Discussion Board for Microsoft Teams. Create forum groups and forums within a Microsoft Teams tab or as a personal app to bring structured discussion board functionality to Microsoft Teams."
             ]
+          },
+          {
+            "name": "Long description",
+            "content": []
           },
           {
             "name": "Business need or problem",
             "content": [
-              "\u003Cdiv\u003EIn a Microsoft Teams environment, business users and students in educational settings require the ability within a team to be able to ask questions within the context of a specific topic or forum. The topic wouldn\u0027t always warrant a new channel, as it could simply be a classroom topic set by a teacher. The posts tab within Microsoft Teams isn\u0027t contextual enough for this need, and the thread of the conversation can be lost and difficult to find as days go by and new posts are created.\u003Cbr\u003E\u003C/div\u003E"
+              "In a Microsoft Teams environment, business users and students in educational settings require the ability within a team to be able to ask questions within the context of a specific topic or forum. The topic wouldn\u0027t always warrant a new channel, as it could simply be a classroom topic set by a teacher. The posts tab within Microsoft Teams isn\u0027t contextual enough for this need, and the thread of the conversation can be lost and difficult to find as days go by and new posts are created."
             ]
           },
           {
             "name": "Business solution",
             "content": [
-              "\u003Cdiv\u003ESocial Squared helps to resolve this problem by allowing structured forum groups and forums to be defined for use within a team. If a user has a question, they can post the question in the most relevant forum. Subject matter experts can respond to the question, and the answers can be marked as answered by the author of the topic, or by a forum moderator. Users can easily search the forums or use the tag cloud to research the answer to a question before posting.\u003Cbr\u003E\u003C/div\u003E"
+              "Social Squared helps to resolve this problem by allowing structured forum groups and forums to be defined for use within a team. If a user has a question, they can post the question in the most relevant forum. Subject matter experts can respond to the question, and the answers can be marked as answered by the author of the topic, or by a forum moderator. Users can easily search the forums or use the tag cloud to research the answer to a question before posting."
+            ]
+          },
+          {
+            "name": "Success factors",
+            "content": [
+              "Team owners (business users) within organizations across the financial, education, government sectors agree that Social Squared has improved communication among all the members within a team and across the organization through the use of the personal app. By adopting Social Squared, users are now able to receive answers to their questions quickly from their peers without interrupting them through email or direct messages. Social Squared has also improved communication for remote users within Microsoft Teams when the corridor conversations cannot take place. Many of our customers have benefitted with Social Squared for years in SharePoint On-Premises and SharePoint Online. Introducing Social Squared to Microsoft Teams has really been of benefit in the remote workplace."
             ]
           }
         ],

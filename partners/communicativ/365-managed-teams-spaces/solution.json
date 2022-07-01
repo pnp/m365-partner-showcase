@@ -4,7 +4,15 @@
   "categories": [
     "teams"
   ],
-  "industries": [],
+  "industries": [
+    "Cross-Industry"
+  ],
+  "servicesUsed": [
+    "Microsoft Azure Monitor",
+    "Microsoft Intune",
+    "Microsoft Teams",
+    "Teams Room devices"
+  ],
   "sortOrder": 0,
   "preview": false,
   "visible": false,
@@ -16,6 +24,7 @@
   "metadata": {
     "personas": "All Employees",
     "businessFunctions": null,
+    "businessValue": "Uptime and Availability of Meeting Spaces is keyto support the Hybrid Work culture and make sure remote participants can alwaysjoin and be a equal participant in the meeting.",
     "displayPartner": false,
     "appSource": null,
     "displayInfo": {

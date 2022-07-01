@@ -11,7 +11,7 @@
   "heroPicture": null,
   "featuredPicture": null,
   "partnerName": "Arvato",
-  "mpnId": "0",
+  "mpnId": null,
   "metadata": {
     "displayInfo": {
       "default": {
@@ -24,7 +24,8 @@
           "url": null
         },
         "mediaAssets": [],
-        "detailItemCategories": []
+        "detailItemCategories": [],
+        "contact": null
       }
     }
   }

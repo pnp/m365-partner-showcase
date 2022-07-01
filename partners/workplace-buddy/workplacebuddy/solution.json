@@ -4,7 +4,14 @@
   "categories": [
     "learningpathways"
   ],
-  "industries": [],
+  "industries": [
+    "Cross-Industry"
+  ],
+  "servicesUsed": [
+    "Azure",
+    "Graph API",
+    "SPFx"
+  ],
   "sortOrder": 0,
   "preview": false,
   "visible": false,
@@ -16,6 +23,7 @@
   "metadata": {
     "personas": "C-level;HR;IT",
     "businessFunctions": null,
+    "businessValue": "Whenusing WorkplaceBuddy you get:\n\u003Cbr\u003E \n\u003Cbr\u003E\n\u003Cbr\u003E * \u0026nbsp;Insights in the digital skills of your colleagues\n\u003Cbr\u003E * \u0026nbsp;A digitally resilient organization\n\u003Cbr\u003E * \u0026nbsp;More value out of digital tools, hence getting more \u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;return on investment\n\u003Cbr\u003E * \u0026nbsp;More productive colleagues\n\u003Cbr\u003E * \u0026nbsp;Savings on support costs\n\u003Cbr\u003E * \u0026nbsp;Savings on (offline) training and consultancy",
     "displayPartner": false,
     "appSource": null,
     "displayInfo": {

@@ -4,7 +4,18 @@
   "categories": [
     "learningpathways"
   ],
-  "industries": [],
+  "industries": [
+    "Commercial",
+    "Education",
+    "Federal",
+    "Government"
+  ],
+  "servicesUsed": [
+    "Azure",
+    "Azure Bot",
+    "Graph API",
+    "SPFx"
+  ],
   "sortOrder": 0,
   "preview": false,
   "visible": false,
@@ -16,6 +27,7 @@
   "metadata": {
     "personas": "Business Users;Information Workers",
     "businessFunctions": null,
+    "businessValue": "Change can be veryfrustrating to end users. They often get confused and feel as if they have noresources to help them with the constant changes, they are seeing in Office 365.The trainers within these organizations want to help them, but with limitedresources at their disposal, they are struggling to manage the changes as well.They simply have no one to go to for additional help and training. The resultis that your users don\u2019t embrace and use the new technologies and revert to theold way of doing things. This means productivity is lost and user frustrationgrows. \u0026nbsp;\n\u003Cbr\u003E\n\u003Cbr\u003EManyof the new features that are rolling out will be considered minimal impact toyour users as they are considered incremental features. But, what Microsoft considers to be minimalimpact to a user\u2019s daily work and what the actual impact can be, may varygreatly. \u0026nbsp;These impacts are often seenwith the addition of new features, such as new options on the toolbars ormenus. These typically result in a new and easier way to complete the same taska user might have already been working on. In many cases, Microsoft might tryto provide education and on-screen guidance for the new features, but often newbuttons and new options just show up and users will need to navigate throughthem to complete common tasks or figure out how to navigate around them. Ifyour users aren\u2019t prepared for these types of constant incremental changes \u2013instead of seeing them as small things to delight them and make their dailytasks easier, they will instead see them as blockers to productivity and willonce again become increasingly frustrated with the tools and technologyprovided to them. At this point they will either start to push against changeor they will start to find ways to implement their own shadow IT solutions,completely going around you in the process.\n\u003Cbr\u003E\n\u003Cbr\u003EThe truth is, managing the new way of doingthings is tricky and unless you are doing it all day every day \u2013 it can beoverwhelming. This is where Planet Technologies can help you and be a lifelineto keep you connected to Microsoft. We can be there for you to help you makesense of the noise and focus in on the pieces of information that will have themost impact to you and your agency. Planet Technologies can also help youunderstand the needs of your users and help them map those needs to specifictechnologies and approaches within Microsoft 365 to help them reducefrustrations with current tasks, while increasing user productivity and usersatisfaction.",
     "displayPartner": false,
     "appSource": null,
     "displayInfo": {

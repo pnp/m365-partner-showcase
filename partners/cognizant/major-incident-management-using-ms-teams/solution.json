@@ -2,7 +2,16 @@
   "solutionId": "major-incident-management-using-ms-teams",
   "partnerId": "cognizant",
   "categories": [],
-  "industries": [],
+  "industries": [
+    "Cross-Industry"
+  ],
+  "servicesUsed": [
+    "Azure",
+    "Azure Cosmos DB",
+    "Azure Web App Service",
+    "Power App",
+    "Power Automate"
+  ],
   "sortOrder": 0,
   "preview": false,
   "visible": false,
@@ -13,8 +22,9 @@
   "solutionUrlTitle": "Major Incident Management Using MS Teams",
   "metadata": {
     "personas": null,
-    "solutionTechnologies": "Azure;Azure Cosmos DB;Azure Web App Service;Power App;Power Automate",
     "businessFunctions": null,
+    "businessValue": "Incidentmanagers and work stream stakeholders would experience single pane of glassexperience as they need not switch between multiple systems during the incidentmanagement, instead they can concentrate on resolving the incident. \n\u003Cbr\u003EAs oftoday Incident managers are spending lot of time in manually creating thecommunication and establishing collaboration channels to work streamstakeholders, and the clean-up activity post incident resolution. \u0026nbsp;\n\u003Cbr\u003EOver allMajor incident stakeholders can save considerable time which they spend onorchestrating for major incidents, and improve ROI using existing O365 andAzure investments.",
+    "displayPartner": false,
     "appSource": null,
     "displayInfo": {
       "default": {
@@ -24,15 +34,25 @@
             "content": []
           },
           {
+            "name": "Long description",
+            "content": []
+          },
+          {
             "name": "Business need or problem",
             "content": [
-              "\u003Cdiv\u003E\u003Cp style=\u0022margin:0in 0in 8pt;font-size:11pt;font-family:\u0026quot;Segoe UI\u0026quot;, sans-serif;text-align:justify;\u0022\u003E\u003Cspan lang=EN-GB style=\u0022\u0022\u003EIncident\nmanagers are using disconnected systems to manage Major incidents which is\ncausing cluttered experience in orchestrating major incidents. \u003C/span\u003E\u003C/p\u003E\u003Cp style=\u0022margin:0in 0in 8pt;font-size:11pt;font-family:\u0026quot;Segoe UI\u0026quot;, sans-serif;text-align:justify;\u0022\u003E\u003Cspan lang=EN-GB\u003EMajor\nincident is being handled by existing disconnected capabilities like desk phone\nsystem, manual creation of teams and channels for every major incident,\ndocument management systems and manual sync of incident logs to incident\nmanagement system after resolution.\u003C/span\u003E\u003C/p\u003E\u003Cp style=\u0022margin:0in 0in 8pt;font-size:11pt;font-family:\u0026quot;Segoe UI\u0026quot;, sans-serif;text-align:justify;\u0022\u003E\u003Cspan lang=EN-GB\u003EThis\nsolution addresses the gap in collaboration, communication and related asset\nmanagement during Major Incident Management. \u003C/span\u003E\u003C/p\u003E\u003Cp style=\u0022margin:0in 0in 8pt;font-size:11pt;font-family:\u0026quot;Segoe UI\u0026quot;, sans-serif;text-align:justify;\u0022\u003E\u003Cspan lang=EN-GB\u003EThis\nautomated solution eliminates manual processes and provides an integrated major\nincident management using Microsoft Teams capabilities.\u003C/span\u003E\u003C/p\u003E\u003C/div\u003E"
+              "Incidentmanagers are using disconnected systems to manage Major incidents which iscausing cluttered experience in orchestrating major incidents. \n\u003Cbr\u003EMajorincident is being handled by existing disconnected capabilities like desk phonesystem, manual creation of teams and channels for every major incident,document management systems and manual sync of incident logs to incidentmanagement system after resolution.\n\u003Cbr\u003EThissolution addresses the gap in collaboration, communication and related assetmanagement during Major Incident Management. \n\u003Cbr\u003EThisautomated solution eliminates manual processes and provides an integrated majorincident management using Microsoft Teams capabilities."
             ]
           },
           {
             "name": "Business solution",
             "content": [
-              "\u003Cdiv\u003E\u003Cp style=\u0022margin:0in 0in 8pt;font-size:11pt;font-family:\u0026quot;Segoe UI\u0026quot;, sans-serif;text-align:justify;\u0022\u003E\u003Cspan lang=EN-GB style=\u0022\u0022\u003EThis\nsolution automates Incident notification in MS Teams, provides a unified\nplatform to orchestrate and manage Major incidents on Microsoft Teams platform,\nusing Microsoft Teams platforms out of the box capabilities for Collaboration\nand communication.\u003C/span\u003E\u003C/p\u003E\u003Cp style=\u0022margin:0in 0in 8pt;font-size:11pt;font-family:\u0026quot;Segoe UI\u0026quot;, sans-serif;text-align:justify;\u0022\u003E\u003Cspan lang=EN-GB style=\u0022\u0022\u003EIncident\nmanagers can create work streams, update and close the incidents from Teams.\nSolution takes care of search and syncing the data with incident management\nsystem.\u003C/span\u003E\u003C/p\u003E\u003C/div\u003E"
+              "Thissolution automates Incident notification in MS Teams, provides a unifiedplatform to orchestrate and manage Major incidents on Microsoft Teams platform,using Microsoft Teams platforms out of the box capabilities for Collaborationand communication.\n\u003Cbr\u003EIncidentmanagers can create work streams, update and close the incidents from Teams.Solution takes care of search and syncing the data with incident managementsystem."
+            ]
+          },
+          {
+            "name": "Success factors",
+            "content": [
+              "Incidentmanagers and work stream stakeholders can effectively use Microsoft Teamscollaboration capabilities like \u201CMeet Now\u201D, Message extensions to searchincidents, Adaptive cards based notifications, BOTs based on Azure BOTframework and Power Platform for process automation. \n\u003Cbr\u003EUsingMicrosoft Teams as application development and delivery platform helped inconstruction of this solution and reduced the over application switching duringthe incident management process."
             ]
           }
         ],

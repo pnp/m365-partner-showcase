@@ -11,7 +11,7 @@
   "heroPicture": "assets/hero.png",
   "featuredPicture": "assets/featured.png",
   "partnerName": "365Tribe Ltd",
-  "mpnId": "0",
+  "mpnId": null,
   "metadata": {
     "displayInfo": {
       "default": {
@@ -39,7 +39,8 @@
             "alt": ""
           }
         ],
-        "detailItemCategories": []
+        "detailItemCategories": [],
+        "contact": null
       }
     }
   }

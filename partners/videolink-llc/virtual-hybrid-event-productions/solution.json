@@ -4,7 +4,18 @@
   "categories": [
     "virtualevents"
   ],
-  "industries": [],
+  "industries": [
+    "Event Planning",
+    "Financial Services",
+    "Healthcare",
+    "Hospitality",
+    "Manufacturing",
+    "Technology"
+  ],
+  "servicesUsed": [
+    "Microsoft Teams",
+    "Teams Live Events"
+  ],
   "sortOrder": 0,
   "preview": false,
   "visible": false,
@@ -16,6 +27,7 @@
   "metadata": {
     "personas": "Event Planners;Leadership;Marketing Executives",
     "businessFunctions": null,
+    "businessValue": "* \u0026nbsp;Betterviewer engagement enhances event success.\n\u003Cbr\u003E * \u0026nbsp;Provenproduction planning and broadcast standards ease pre-event concerns. \n\u003Cbr\u003E * \u0026nbsp;Flexiblepresenter intake model eliminates impediments to getting to your preferredspeakers.",
     "displayPartner": false,
     "appSource": null,
     "displayInfo": {

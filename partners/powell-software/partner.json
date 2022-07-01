@@ -15,33 +15,34 @@
   "metadata": {
     "displayInfo": {
       "default": {
-        "shortDescription": "\u003Cdiv\u003EPowell Software\u2019s mission is to help companies meet the challenges of\nthe hybrid workplace while promoting inclusivity for all employees thanks to\ncollaboration tools that are easily accessible to all. \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E",
+        "shortDescription": "Powell Software\u2019s mission is to help companies meet the challenges ofthe hybrid workplace while promoting inclusivity for all employees thanks tocollaboration tools that are easily accessible to all.",
         "featuredTitle": "Powell Teams, A modern collaboration experience that is effortless, organized, easy to manage and governed.",
         "featuredParagraphs": [
-          "\u003Cdiv\u003EPowell Teams is the\ncollaboration pillar\u0026nbsp; of the Powell\u0026nbsp; \u003Ca href=\u0022https://powell-software.com/en/digital-workplace-solution/\u0022\u003E365\u003C/a\u003E Digital Workplace which\nalso includes\u0026nbsp; \u003Ca href=\u0022https://powell-software.com/en/intranet-in-a-box/\u0022\u003EPowell Intranet,\u003C/a\u003E the\ncommunication and employee engagement pillar. Powell Teams value proposition is\naimed at all employees, and business functions, especially HR, internal\ncommunications and IT teams.\u0026nbsp;\u003Cbr\u003E\u003Cspan\u003E\u003Cbr\u003EFor Employees, Powell Teams enhances the user\nexperience by making it easier for users to access and search for the Microsoft\nTeams to which they belong. Powell Teams offers an intuitive dashboard to\nfilter Teams based on business criteria.\u003C/span\u003E\u003Cspan\u003E\u0026nbsp;\n\u003C/span\u003E\u003Cspan\u003EIt also helps manage the proliferation of Teams. Powell Teams also\nguides users by offering ready-to-use Teams templates that allow users to\ncreate a complete team in 3 clicks. The Team comes loaded with channels, applications,\nand tabs.\u003C/span\u003E\u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E",
-          "\u003Cdiv\u003EFor IT, IT teams need to\nstrike the right balance between adopting Microsoft 365 to the business\ncontext, making it easy for employees to use, and complying with the rules of\nsecurity, compliance and good IT management. Powell Teams allows IT to set up\nan agile governance, defining criteria such as:\u0026nbsp;\n \u003C/div\u003E\u003Cdiv\u003E\u003Cul\u003E\u003Cli\u003ENaming\nrule and labels \u003C/li\u003E\u003Cli\u003EExternal\nor internal, public, or private access rights \u003C/li\u003E\u003Cli\u003ENumber\nof owners and team members \u003C/li\u003E\u003Cli\u003EExpiration\nand archiving \u003C/li\u003E\u003Cli\u003EApproval\nprocess  \u003C/li\u003E\u003C/ul\u003E\u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E",
-          "\u003Cdiv\u003EFor internal communication\ndepartments, Powell Teams enables access to the intranet within the business\nteam where it is most relevant:\u0026nbsp;\u0026nbsp; for\nexample, the document repository for the Sales department is accessible in the\nform of a tab directly in each of the Sales RFP teams. Another example is the\npage containing all the welcoming documents which is attached to the team\ncreated to onboard a newcomer. \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E"
+          "Powell Teams is thecollaboration pillar \u0026nbsp;of the Powell \u0026nbsp;365 Digital Workplace whichalso includes \u0026nbsp;Powell Intranet, thecommunication and employee engagement pillar. Powell Teams value proposition isaimed at all employees, and business functions, especially HR, internalcommunications and IT teams.\n\u003Cbr\u003E\n\u003Cbr\u003EFor Employees, Powell Teams enhances the userexperience by making it easier for users to access and search for the MicrosoftTeams to which they belong. Powell Teams offers an intuitive dashboard tofilter Teams based on business criteria. It also helps manage the proliferation of Teams. Powell Teams alsoguides users by offering ready-to-use Teams templates that allow users tocreate a complete team in 3 clicks. The Team comes loaded with channels, applications,and tabs.",
+          "For IT, IT teams need tostrike the right balance between adopting Microsoft 365 to the businesscontext, making it easy for employees to use, and complying with the rules ofsecurity, compliance and good IT management. Powell Teams allows IT to set upan agile governance, defining criteria such as: \u0026nbsp;\n\u003Cbr\u003E\n\u003Cbr\u003E * \u0026nbsp;Namingrule and labels \n\u003Cbr\u003E * \u0026nbsp;Externalor internal, public, or private access rights \n\u003Cbr\u003E * \u0026nbsp;Numberof owners and team members \n\u003Cbr\u003E * \u0026nbsp;Expirationand archiving \n\u003Cbr\u003E * \u0026nbsp;Approvalprocess",
+          "For internal communicationdepartments, Powell Teams enables access to the intranet within the businessteam where it is most relevant: \u0026nbsp;\u0026nbsp;forexample, the document repository for the Sales department is accessible in theform of a tab directly in each of the Sales RFP teams. Another example is thepage containing all the welcoming documents which is attached to the teamcreated to onboard a newcomer."
         ],
         "callToAction": {
           "title": "Request a demo today!",
-          "description": "If you want more information about Powell Software products or to talk about your project, fill in the contact form and we will get back to you shortly. ",
+          "description": "If you want more information about Powell Software products or to talk about your project, fill in the contact form and we will get back to you shortly.",
           "url": "https://powell-software.com/en/request-a-demo/"
         },
         "mediaAssets": [
           {
             "type": "image",
             "order": 0,
-            "url": "assets/Featured.png",
+            "url": "assets/Hero.png",
             "alt": ""
           },
           {
             "type": "image",
             "order": 1,
-            "url": "assets/Hero.png",
+            "url": "assets/Featured.png",
             "alt": ""
           }
         ],
-        "detailItemCategories": []
+        "detailItemCategories": [],
+        "contact": "Matthieu Silbermann"
       }
     }
   }

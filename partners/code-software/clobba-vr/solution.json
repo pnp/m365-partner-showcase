@@ -4,7 +4,13 @@
   "categories": [
     "teams"
   ],
-  "industries": [],
+  "industries": [
+    "Cross-Industry"
+  ],
+  "servicesUsed": [
+    "Graph API",
+    "Microsoft Teams"
+  ],
   "sortOrder": 0,
   "preview": false,
   "visible": false,
@@ -16,6 +22,7 @@
   "metadata": {
     "personas": "Leadership;Sales Managers",
     "businessFunctions": null,
+    "businessValue": "Clobba VR delivers an affordablevoice recording to organizations using Teams. Often used by organizationsrunning Call Queues as a cost-effective way of monitoring and training theagents.\n\u003Cbr\u003E\n\u003Cbr\u003EAn increase in theperformance of agents will ultimately lead to an increase in customersatisfaction levels.",
     "displayPartner": false,
     "appSource": null,
     "displayInfo": {

@@ -4,10 +4,16 @@
   "categories": [
     "learningpathways"
   ],
-  "industries": [],
+  "industries": [
+    "Cross-Industry"
+  ],
+  "servicesUsed": [
+    "Azure Bot",
+    "SPFx"
+  ],
   "sortOrder": 0,
   "preview": false,
-  "visible": true,
+  "visible": false,
   "solutionLogoPicture": null,
   "solutionLogoPictureAlt": "",
   "solutionName": "Contextual Microlearning for Microsoft 365",
@@ -15,8 +21,9 @@
   "solutionUrlTitle": "Contextual Microlearning for Microsoft 365",
   "metadata": {
     "personas": "End-user;Power User",
-    "solutionTechnologies": "Azure Bot;SPFx",
     "businessFunctions": null,
+    "businessValue": "VisualSPun-frustrates the users by capitalizing on the proven concept of contextualmicrolearning.\n\u003Cbr\u003E\n\u003Cbr\u003EVisualSPis currently available to more than 2 million users around the world. VisualSP\u2019scustomers report a 27% reduction in support tickets and higher level of usersatisfaction because they always have the answers and learning they needavailable at their fingertips. This has become more necessary than ever forremote workers.\n\u003Cbr\u003E\n\u003Cbr\u003EVisualSP increases user adoption and user engagementwith Microsoft 365 applications as well as any of your other custom webapplications being used by your end users.",
+    "displayPartner": false,
     "appSource": null,
     "displayInfo": {
       "default": {
@@ -24,19 +31,29 @@
           {
             "name": "Short description",
             "content": [
-              "\u003Cdiv\u003EPlug and play context sensitive microlearning available to your users in-context within Microsoft 365 apps.\u003Cbr\u003E\u003C/div\u003E"
+              "Plug and play context sensitive microlearning available to your users in-context within Microsoft 365 apps."
             ]
+          },
+          {
+            "name": "Long description",
+            "content": []
           },
           {
             "name": "Business need or problem",
             "content": [
-              "\u003Cdiv\u003EMicrosoft\nOffice 365 apps like SharePoint, Teams, OneDrive, Planner and more are\nconstantly changing and evolving. The challenge is how do you help your users with\nconsistent training and guidance while they are using these applications? You\nmight already have a learning management system or a knowledge hub in place but\nthose are not contextual and not available for quick learning and help the\nusers need to be able to do their tasks.\u003Cbr\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003EOn top of that, your business processes are\nconstantly changing and you want to be able to provide prescriptive guidance,\ngovernance and policies to your users at their moment-of-need so they don\u2019t\nhave to go looking for help when they need it.\u003Cbr\u003E\u003C/div\u003E"
+              "MicrosoftOffice 365 apps like SharePoint, Teams, OneDrive, Planner and more areconstantly changing and evolving. The challenge is how do you help your users withconsistent training and guidance while they are using these applications? Youmight already have a learning management system or a knowledge hub in place butthose are not contextual and not available for quick learning and help theusers need to be able to do their tasks.\n\u003Cbr\u003E\n\u003Cbr\u003EOn top of that, your business processes areconstantly changing and you want to be able to provide prescriptive guidance,governance and policies to your users at their moment-of-need so they don\u2019thave to go looking for help when they need it."
             ]
           },
           {
             "name": "Business solution",
             "content": [
-              "\u003Cdiv\u003EVisualSP\u2019s\ncontextual microlearning platform provides an overlay on top of each Microsoft\nOffice 365 application to make it easy for users to get their answers wherever\nthey are. \u003Cbr\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003EThe\nVisualSP help tab follows the users around wherever they go within their web browser.\nThe users can always count on clicking the VisualSP tab to find the answers to their\nquestions and learn what they need to be able to quickly and efficiently\naccomplish their tasks.\u003Cbr\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003EThe\nVisualSP solution comes with over a thousand completely customizable pre-built help\nand learning modules that are always kept updated as the underlying\napplications evolve.\u003Cbr\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003EVisualSP can be extended to your other internal\ncustom and SaaS web applications as well. This provides the users a consistent\nhelp and support experience enabling them to have your policies, guidance and\nlearning always available contextually within their own environment.\u003Cbr\u003E\u003C/div\u003E"
+              "VisualSP\u2019scontextual microlearning platform provides an overlay on top of each MicrosoftOffice 365 application to make it easy for users to get their answers whereverthey are. \n\u003Cbr\u003E\n\u003Cbr\u003ETheVisualSP help tab follows the users around wherever they go within their web browser.The users can always count on clicking the VisualSP tab to find the answers to theirquestions and learn what they need to be able to quickly and efficientlyaccomplish their tasks.\n\u003Cbr\u003E\n\u003Cbr\u003ETheVisualSP solution comes with over a thousand completely customizable pre-built helpand learning modules that are always kept updated as the underlyingapplications evolve.\n\u003Cbr\u003E\n\u003Cbr\u003EVisualSP can be extended to your other internalcustom and SaaS web applications as well. This provides the users a consistenthelp and support experience enabling them to have your policies, guidance andlearning always available contextually within their own environment."
+            ]
+          },
+          {
+            "name": "Success factors",
+            "content": [
+              "Theplug n play nature of the solution facilitates the rapid deployment and impacton user engagement starting on day 1.\n\u003Cbr\u003E\n\u003Cbr\u003EVisualSP is a complete solution that incorporatesproduct with complementary user adoption services. Ongoing performance reviewsare conducted with clients to assess the job VisualSP is doing towards their userengagement and user adoption goals. The continuous feedback and engagement withour customers has shown to produce significant positive impact by realizing theirreturn on investment of their digital applications."
             ]
           }
         ],
@@ -45,12 +62,6 @@
             "type": "image",
             "order": 0,
             "url": "assets/Contextual-Microlearning.png",
-            "alt": ""
-          },
-          {
-            "type": "video",
-            "order": 1,
-            "url": "https://www.youtube.com/embed/Tj9LJSTPlvQ",
             "alt": ""
           }
         ],
@@ -69,7 +80,7 @@
               },
               {
                 "url": "https://www.visualsp.com/case-studies/case-study-how-a-healthcare-support-organization-found-a-flexible-solution-for-end-user-training",
-                "name": "Customer Story: How NHS Arden \u0026amp; GEM use VisualSP\nto train their end users"
+                "name": "Customer Story: How NHS Arden \u0026amp; GEM use VisualSP to train their end users"
               },
               {
                 "url": "https://www.visualsp.com/visualsp-product-demo/",

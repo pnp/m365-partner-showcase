@@ -9,8 +9,8 @@
   "logoPicture": null,
   "logoPictureAlt": "",
   "heroPicture": null,
-  "featuredPicture": "https://adoption-dev.azurewebsites.net/",
-  "partnerName": "TEst name",
+  "featuredPicture": null,
+  "partnerName": "test test",
   "mpnId": "0",
   "metadata": {
     "displayInfo": {
@@ -19,7 +19,7 @@
         "featuredTitle": null,
         "featuredParagraphs": [],
         "callToAction": {
-          "title": "Contact Us",
+          "title": "test",
           "description": "test",
           "url": "test"
         },
@@ -27,11 +27,12 @@
           {
             "type": "image",
             "order": 0,
-            "url": "assets/hero8.png",
+            "url": "assets/Hero.jpg",
             "alt": ""
           }
         ],
-        "detailItemCategories": []
+        "detailItemCategories": [],
+        "contact": "test test"
       }
     }
   }

@@ -4,10 +4,17 @@
   "categories": [
     "learningpathways"
   ],
-  "industries": [],
+  "industries": [
+    "Cross-Industry"
+  ],
+  "servicesUsed": [
+    "Azure Bot",
+    "SharePoint sites",
+    "SPFx"
+  ],
   "sortOrder": 0,
   "preview": false,
-  "visible": true,
+  "visible": false,
   "solutionLogoPicture": null,
   "solutionLogoPictureAlt": "",
   "solutionName": "Custom Walkthrough on SharePoint Intranet",
@@ -15,8 +22,9 @@
   "solutionUrlTitle": "Custom Walkthrough on SharePoint Intranet",
   "metadata": {
     "personas": "End-user;Power User",
-    "solutionTechnologies": "Azure Bot;SharePoint sites;SPFx",
     "businessFunctions": null,
+    "businessValue": "Interactive guided walkthroughs provide immediate return on investment of your initiatives. The key performance indicators for walkthroughs include:\n\u003Cbr\u003E\n\u003Cbr\u003E * \u0026nbsp;Increase in productivity\n\u003Cbr\u003E * \u0026nbsp;Reduced time-to-competency\n\u003Cbr\u003E * \u0026nbsp;Reduced errors\n\u003Cbr\u003E * \u0026nbsp;Reduced frustration\n\u003Cbr\u003E * \u0026nbsp;Reducing the burden on IT or peers for guidance\n\u003Cbr\u003E\n\u003Cbr\u003EA report titled Building Staff Engagement revealed that learning innovation through tools such as a walkthrough results in a 23% improvement in the speed of a new system rollout and a 12% reduction in time to proven competency.",
+    "displayPartner": false,
     "appSource": null,
     "displayInfo": {
       "default": {
@@ -24,19 +32,29 @@
           {
             "name": "Short description",
             "content": [
-              "\u003Cdiv\u003EInteractive guided step-by-step walkthroughs on top of your SharePoint based intranet. Guide your users by designing point and click no-code walkthroughs in context of their own environment that are available at their moment of their need.\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E"
+              "Interactive guided step-by-step walkthroughs on top of your SharePoint based intranet. Guide your users by designing point and click no-code walkthroughs in context of their own environment that are available at their moment of their need."
             ]
+          },
+          {
+            "name": "Long description",
+            "content": []
           },
           {
             "name": "Business need or problem",
             "content": [
-              "\u003Cdiv\u003EBusiness processes, rules and guidelines are constantly changing. Onboarding users to new interfaces and functionality is a challenge - especially for remote workers. Delays in getting employees to get familiar with new features and functionality can be costly in both losses of productivity and operational expenses.\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003EThe traditional training methods require the learners to learn and retain the knowledge of how to do particular tasks way before they need them. Learners can forget up to 70% of the content they are taught within 24 to 48 hours of formal training. \u0026nbsp;These challenges contribute to unsuccessful user onboarding.\u003C/div\u003E"
+              "Business processes, rules and guidelines are constantly changing. Onboarding users to new interfaces and functionality is a challenge - especially for remote workers. Delays in getting employees to get familiar with new features and functionality can be costly in both losses of productivity and operational expenses.\n\u003Cbr\u003E\n\u003Cbr\u003EThe traditional training methods require the learners to learn and retain the knowledge of how to do particular tasks way before they need them. Learners can forget up to 70% of the content they are taught within 24 to 48 hours of formal training. \u0026nbsp;These challenges contribute to unsuccessful user onboarding."
             ]
           },
           {
             "name": "Business solution",
             "content": [
-              "\u003Cdiv\u003EAn interactive guided walkthrough, or guided tour, is a contextual microlearning tutorial that appears as an overlay giving users a step-by-step flow introducing features, guidelines and capabilities. The walkthrough explains how to complete tasks or simply provide helpful tips and tricks the user needs. \u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003EThese walkthroughs are designed and created in a matter of minutes by business analysts using point and click no code technology provided by VisualSP.\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E\u003C/div\u003E"
+              "An interactive guided walkthrough, or guided tour, is a contextual microlearning tutorial that appears as an overlay giving users a step-by-step flow introducing features, guidelines and capabilities. The walkthrough explains how to complete tasks or simply provide helpful tips and tricks the user needs. \n\u003Cbr\u003E\n\u003Cbr\u003EThese walkthroughs are designed and created in a matter of minutes by business analysts using point and click no code technology provided by VisualSP."
+            ]
+          },
+          {
+            "name": "Success factors",
+            "content": [
+              "The plug n play nature of the solution facilitates the rapid deployment and impact on user engagement starting on day 1.\n\u003Cbr\u003E\n\u003Cbr\u003EVisualSP is a complete solution that incorporates product with complementary user adoption services. Ongoing performance reviews are conducted with clients to assess the job VisualSP is doing towards their user engagement and user adoption goals. The continuous feedback and engagement with our customers has shown to produce significant positive impact by realizing their return on investment of their digital applications."
             ]
           }
         ],
@@ -45,12 +63,6 @@
             "type": "image",
             "order": 0,
             "url": "assets/Custom-Walkthrough.png",
-            "alt": ""
-          },
-          {
-            "type": "video",
-            "order": 1,
-            "url": "https://www.youtube.com/embed/mx3YwdSDtDU",
             "alt": ""
           }
         ],
