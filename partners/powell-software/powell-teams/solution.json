@@ -15,7 +15,7 @@
   ],
   "sortOrder": 0,
   "preview": false,
-  "visible": false,
+  "visible": true,
   "solutionLogoPicture": null,
   "solutionLogoPictureAlt": "",
   "solutionName": "Powell Teams",
@@ -25,7 +25,7 @@
     "personas": "All Employees;Corporate Communications;HR;IT",
     "businessFunctions": null,
     "businessValue": "Benefits: Employeesgain productivity and agility; By directly integrating all Microsoft 365services and capabilities offered by Microsoft Teams into our Team templates,users take full advantage of all those products that they don\u0027t always know howto use properly and that they sometimes didn\u0027t even know existed: Planner,OneNote, Booking, Forms, Stream, PowerBi, advanced document search, and muchmore. \n\u003Cbr\u003E\n\u003Cbr\u003EReady-to-useteams save considerable time in the execution of day-to-day tasks and \u0026nbsp;promote teamwork by bringing togetherdocumentation, \u0026nbsp;discussions and approvalprocesses related to activities within the same space. \u0026nbsp;\u0026nbsp;It also enables business leaders to ensuregood project governance for documents and access to information. \n\u003Cbr\u003E\n\u003Cbr\u003EPowell Teams optimizes Microsoft Teamsmanagement time by IT teams. IT implements \u0026nbsp;\u0026nbsp;balanced and automatic governance. IT teams can co-build business usesand maximize the adoption of Microsoft Teams and Microsoft 365.",
-    "displayPartner": true,
+    "displayPartner": false,
     "appSource": null,
     "displayInfo": {
       "default": {
@@ -38,7 +38,9 @@
           },
           {
             "name": "Long description",
-            "content": []
+            "content": [
+              "\u003Cdiv\u003E\u003Cdiv style=\u0022box-sizing:border-box;\u0022\u003EPowell Teams is a modern collaboration solution to maximize user experience and take full advantage of Microsoft Teams. \u003C/div\u003E\u003Cdiv style=\u0022box-sizing:border-box;\u0022\u003E\u0026nbsp; \u003C/div\u003E\u003Cdiv style=\u0022box-sizing:border-box;\u0022\u003EPowell Teams is the collaboration pillar\u0026nbsp; of the Powell\u0026nbsp;\u003Cspan\u003E\u0026nbsp;\u003C/span\u003E\u003Ca href=\u0022https://powell-software.com/en/digital-workplace-solution/\u0022 style=\u0022box-sizing:border-box;text-decoration:underline;cursor:pointer;\u0022\u003E365\u003C/a\u003E\u003Cspan\u003E\u0026nbsp;\u003C/span\u003EDigital Workplace which also includes\u0026nbsp;\u003Cspan\u003E\u0026nbsp;\u003C/span\u003E\u003Ca href=\u0022https://powell-software.com/en/intranet-in-a-box/\u0022 style=\u0022box-sizing:border-box;text-decoration:underline;cursor:pointer;\u0022\u003EPowell Intranet,\u003C/a\u003E\u003Cspan\u003E\u0026nbsp;\u003C/span\u003Ethe communication and employee engagement pillar.\u0026nbsp;\u003Cspan style=\u0022box-sizing:border-box;\u0022\u003EPowell Teams value proposition is aimed at all employees, and business functions, especially HR, internal communications and IT teams.\u003C/span\u003E \u003C/div\u003E\u003Cbr\u003E \u003C/div\u003E"
+            ]
           },
           {
             "name": "Business need or problem",

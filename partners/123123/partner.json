@@ -1,0 +1,39 @@
+{
+  "partnerId": "123123",
+  "categories": [],
+  "industries": [],
+  "solutions": null,
+  "sortOrder": 0,
+  "preview": false,
+  "visible": false,
+  "logoPicture": null,
+  "logoPictureAlt": "",
+  "heroPicture": "assets/hero.png",
+  "featuredPicture": null,
+  "partnerName": "Aaron Bode",
+  "mpnId": "123123",
+  "metadata": {
+    "displayInfo": {
+      "default": {
+        "shortDescription": "Test",
+        "featuredTitle": null,
+        "featuredParagraphs": [],
+        "callToAction": {
+          "title": "test",
+          "description": "test",
+          "url": "test"
+        },
+        "mediaAssets": [
+          {
+            "type": "image",
+            "order": 0,
+            "url": "assets/Hero.png",
+            "alt": ""
+          }
+        ],
+        "detailItemCategories": [],
+        "contact": "Aaron Bode"
+      }
+    }
+  }
+}

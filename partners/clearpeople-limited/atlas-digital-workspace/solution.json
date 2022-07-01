@@ -26,7 +26,7 @@
   ],
   "sortOrder": 0,
   "preview": false,
-  "visible": false,
+  "visible": true,
   "solutionLogoPicture": null,
   "solutionLogoPictureAlt": "",
   "solutionName": "Atlas Digital Workspace",
@@ -49,7 +49,9 @@
           },
           {
             "name": "Long description",
-            "content": []
+            "content": [
+              "\u003Cdiv\u003E\u003Cdiv style=\u0022box-sizing:border-box;\u0022\u003EThe way we work has changed. Atlas connects people, tools and information to create better experiences and outcomes.\u003Cbr style=\u0022box-sizing:border-box;\u0022\u003E \u003C/div\u003E\u003Cdiv style=\u0022box-sizing:border-box;\u0022\u003E\u003Cbr style=\u0022box-sizing:border-box;\u0022\u003E \u003C/div\u003E\u003Cdiv style=\u0022box-sizing:border-box;\u0022\u003EAtlas provides an intuitive interface on whichever platform the user prefers, including native Microsoft mobile apps for Teams and SharePoint.\u0026nbsp;\u003Cbr style=\u0022box-sizing:border-box;\u0022\u003E \u003C/div\u003E\u003Cdiv style=\u0022box-sizing:border-box;\u0022\u003E\u003Cbr style=\u0022box-sizing:border-box;\u0022\u003E \u003C/div\u003E\u003Cdiv style=\u0022box-sizing:border-box;\u0022\u003EThe experience is easy and engaging, plus the use of artificial intelligence means Atlas surfaces the right information to the right person at the right time.\u003Cbr style=\u0022box-sizing:border-box;\u0022\u003E \u003C/div\u003E\u003Cdiv style=\u0022box-sizing:border-box;\u0022\u003E\u003Cbr style=\u0022box-sizing:border-box;\u0022\u003E \u003C/div\u003E\u003Cdiv style=\u0022box-sizing:border-box;\u0022\u003EPeople in 100\u002B countries (and counting) love Atlas as their digital workspace. \u003C/div\u003E\u003Cbr\u003E \u003C/div\u003E"
+            ]
           },
           {
             "name": "Business need or problem",

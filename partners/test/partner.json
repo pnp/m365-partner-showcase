@@ -1,0 +1,39 @@
+{
+  "partnerId": "test",
+  "categories": [],
+  "industries": [],
+  "solutions": null,
+  "sortOrder": 0,
+  "preview": false,
+  "visible": false,
+  "logoPicture": null,
+  "logoPictureAlt": "",
+  "heroPicture": null,
+  "featuredPicture": null,
+  "partnerName": "test test",
+  "mpnId": "0",
+  "metadata": {
+    "displayInfo": {
+      "default": {
+        "shortDescription": "test",
+        "featuredTitle": null,
+        "featuredParagraphs": [],
+        "callToAction": {
+          "title": "test",
+          "description": "test",
+          "url": "test"
+        },
+        "mediaAssets": [
+          {
+            "type": "image",
+            "order": 0,
+            "url": "assets/Hero.jpg",
+            "alt": ""
+          }
+        ],
+        "detailItemCategories": [],
+        "contact": "test test"
+      }
+    }
+  }
+}

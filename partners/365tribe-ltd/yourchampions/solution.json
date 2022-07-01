@@ -16,7 +16,7 @@
   ],
   "sortOrder": 0,
   "preview": false,
-  "visible": false,
+  "visible": true,
   "solutionLogoPicture": null,
   "solutionLogoPictureAlt": "",
   "solutionName": "YourChampions",
@@ -39,7 +39,9 @@
           },
           {
             "name": "Long description",
-            "content": []
+            "content": [
+              "\u003Cdiv\u003E\u003Cspan style=\u0022display:inline !important;\u0022\u003EOur Champions Programmes are designed exclusively to\u0026nbsp;create\u0026nbsp;a\u0026nbsp;sustainable\u0026nbsp;standalone, managed service to\u0026nbsp;identify, engage, educate and\u0026nbsp;grow a network of highly effective\u0026nbsp;Digital Champions.\u200B Using our experience working with 100\u2019s of organizations, we have taken all of the best elements to give you the definitive out of the box Digital Champion Programme.\u0026nbsp;\u003C/span\u003E\u003Cbr\u003E \u003C/div\u003E"
+            ]
           },
           {
             "name": "Business need or problem",

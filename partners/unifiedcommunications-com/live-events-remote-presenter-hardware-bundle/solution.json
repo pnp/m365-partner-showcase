@@ -11,7 +11,7 @@
     "Teams Live Events"
   ],
   "sortOrder": 0,
-  "preview": false,
+  "preview": true,
   "visible": false,
   "solutionLogoPicture": null,
   "solutionLogoPictureAlt": "",
@@ -30,12 +30,14 @@
           {
             "name": "Short description",
             "content": [
-              "Plugand play hardware solution that includes support for remote presenters to lookand sound their best."
+              "\u003Cdiv\u003EPlug and play hardware solution that includes support for remote presenters to look and sound their best. \u003C/div\u003E"
             ]
           },
           {
             "name": "Long description",
-            "content": []
+            "content": [
+              "\u003Cdiv\u003E\u003Cspan style=\u0022display:inline !important;\u0022\u003EThe perfect solution for remote presenters includes everything they need to setup and record or present live from anywhere.\u0026nbsp; Includes a camera, microphone, lighting, cabling, and setup support.\u0026nbsp; Presenters can upgrade this bundle to include a pre-configured PC for broadcasting.\u003C/span\u003E\u003Cbr\u003E \u003C/div\u003E"
+            ]
           },
           {
             "name": "Business need or problem",

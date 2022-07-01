@@ -35,7 +35,9 @@
           },
           {
             "name": "Long description",
-            "content": []
+            "content": [
+              "\u003Cdiv\u003E\u003Cspan style=\u0022display:inline !important;\u0022\u003EOur unique approach helps customer to get confident using Teams Live Events and Webinars. Our goal is to train the organization during the Event Support to get them ready to host the next event by themselves.\u003C/span\u003E\u003Cbr\u003E \u003C/div\u003E"
+            ]
           },
           {
             "name": "Business need or problem",

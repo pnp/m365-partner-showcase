@@ -11,7 +11,7 @@
   ],
   "sortOrder": 0,
   "preview": false,
-  "visible": false,
+  "visible": true,
   "solutionLogoPicture": null,
   "solutionLogoPictureAlt": "",
   "solutionName": "DeliverPoint for Microsoft Teams",
@@ -21,7 +21,7 @@
     "personas": "Administrators;End-user",
     "businessFunctions": null,
     "businessValue": "The responsibility of permissions management is often assigned to business users who happen to be the owners with full control to Microsoft Teams, SharePoint sites, and OneDrive folders. This responsibility of permissions management is often a burden due to the complexities of permissions, especially when permission inheritance is broken, sharing links assigned, and users are permissioned in a variety of ways. DeliverPoint\u2019s reports help users to determine in seconds, across multiple teams and sites, who has permissions at site and content levels. Bulk changes can be made as using operations such as Copy, Transfer, and Delete permissions. The confidence that the right users are permissions to a site is often critical to many businesses.",
-    "displayPartner": true,
+    "displayPartner": false,
     "appSource": null,
     "displayInfo": {
       "default": {

@@ -13,7 +13,7 @@
   ],
   "sortOrder": 0,
   "preview": false,
-  "visible": false,
+  "visible": true,
   "solutionLogoPicture": null,
   "solutionLogoPictureAlt": "",
   "solutionName": "Social Squared",
@@ -23,7 +23,7 @@
     "personas": "Business Users;Student",
     "businessFunctions": null,
     "businessValue": "Social Squared will provide greater confidence in finding answers to business related questions. The structure of Social Squared will also help with the onboarding of new team members who will have a knowledge base created, whereby they can find answers to the many questions that a new starter would have. This helps reduce costs and frustrations when onboarding new team members.",
-    "displayPartner": true,
+    "displayPartner": false,
     "appSource": null,
     "displayInfo": {
       "default": {

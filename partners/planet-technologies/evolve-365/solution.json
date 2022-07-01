@@ -18,7 +18,7 @@
   ],
   "sortOrder": 0,
   "preview": false,
-  "visible": false,
+  "visible": true,
   "solutionLogoPicture": null,
   "solutionLogoPictureAlt": "",
   "solutionName": "Evolve 365 \u2013 Microsoft 365 Adoption Solutions",
@@ -41,7 +41,9 @@
           },
           {
             "name": "Long description",
-            "content": []
+            "content": [
+              "\u003Cdiv\u003E\u003Cspan style=\u0022display:inline !important;\u0022\u003EEvolve 365 includes a dedicated Microsoft Learning Strategist familiar with user adoption, the changes of Office 365, and driving users to embrace new technology. They work with your team to create and maintain relationships with end-users. Here are just a few ways Evolve 365 works for you and your team: Thousands of Training \u0026amp; Micro-Training Videos, Training \u0026amp; Communication Plans, Custom Playlists, Monthly Office Hours, Communication Campaigns, and Ongoing Usage and Adoption Analysis.\u003C/span\u003E\u003Cbr\u003E \u003C/div\u003E"
+            ]
           },
           {
             "name": "Business need or problem",

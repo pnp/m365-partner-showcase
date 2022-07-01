@@ -15,7 +15,7 @@
   ],
   "sortOrder": 0,
   "preview": false,
-  "visible": false,
+  "visible": true,
   "solutionLogoPicture": null,
   "solutionLogoPictureAlt": "",
   "solutionName": "Valo Ideas",
@@ -25,7 +25,7 @@
     "personas": "All Employees",
     "businessFunctions": null,
     "businessValue": "Valo Ideas is already out and running in production for our customers. We are seeing active participation from customer stakeholders as well as end users. It has provided them with a single place to ideate, collaborate, and manage the innovation process right in Microsoft Teams.",
-    "displayPartner": true,
+    "displayPartner": false,
     "appSource": null,
     "displayInfo": {
       "default": {

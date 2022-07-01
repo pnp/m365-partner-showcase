@@ -14,7 +14,7 @@
   ],
   "sortOrder": 0,
   "preview": false,
-  "visible": false,
+  "visible": true,
   "solutionLogoPicture": null,
   "solutionLogoPictureAlt": "",
   "solutionName": "Valo Teamwork",
@@ -24,7 +24,7 @@
     "personas": "HR;IT Admin;Project Manager",
     "businessFunctions": "Governance;Human Resources;IT;Project Management Offices;Project Managers",
     "businessValue": "Valo Teamwork enables power users and administrators to automate the creation of workspaces and avoid pitfalls. Additional governance features enable administrators to identify Microsoft Teams and Microsoft 365 groups without owners, members, and enterprise metadata. Moreover, an advanced analytics area enables administrators to analyze the usage of the workspaces by providing information such as external sharing, different privacy levels and archiving status.\n\u003Cbr\u003E\n\u003Cbr\u003EBasically, Valo Teamwork reduces costs by offering a standardized creation process, which is based on pre-defined templates allowing end users to create ready-to-go digital workspaces. Moreover, Valo Teamwork reduces IT costs by helping IT Administrators reduce repetitive manual work. Additionally, end users take advantage of an integrated dashboard that offers a single view for all end users\u2019 digital teams, projects, groups, and sites.",
-    "displayPartner": true,
+    "displayPartner": false,
     "appSource": null,
     "displayInfo": {
       "default": {
@@ -37,7 +37,9 @@
           },
           {
             "name": "Long description",
-            "content": []
+            "content": [
+              "\u003Cdiv\u003E\u003Cspan style=\u0022display:inline !important;\u0022\u003EValo Teamwork integrates natively with Microsoft Teams, but can also be accessed from a SharePoint site through browser. Providing navigation, provision, lifecycle management and automated governance Valo Teamwork helps you to take away the exhaustion out of collaboration.\u003C/span\u003E\u003Cbr\u003E \u003C/div\u003E"
+            ]
           },
           {
             "name": "Business need or problem",

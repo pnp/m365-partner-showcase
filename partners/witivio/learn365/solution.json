@@ -11,7 +11,7 @@
   ],
   "sortOrder": 0,
   "preview": false,
-  "visible": false,
+  "visible": true,
   "solutionLogoPicture": null,
   "solutionLogoPictureAlt": "",
   "solutionName": "Learn365",
@@ -34,7 +34,9 @@
           },
           {
             "name": "Long description",
-            "content": []
+            "content": [
+              "\u003Cdiv\u003E\u003Cdiv style=\u0022box-sizing:border-box;\u0022\u003EUpon installing Learn365 in your Microsoft Teams, employees will: \u003C/div\u003E\u003Cdiv style=\u0022box-sizing:border-box;\u0022\u003E \u003C/div\u003E\u003Cdiv style=\u0022box-sizing:border-box;\u0022\u003E\u003Cul style=\u0022box-sizing:border-box;padding:0px 0px 0px 40px;\u0022\u003E\u003Cli style=\u0022box-sizing:border-box;\u0022\u003E\u003Cb style=\u0022box-sizing:border-box;\u0022\u003EDiscover Office 365 tools:\u003Cspan\u003E\u0026nbsp;\u003C/span\u003E\u003C/b\u003EOneDrive, OneNote, Yammer, Teams, and Outlook. \u003C/li\u003E\u003Cli style=\u0022box-sizing:border-box;\u0022\u003E\u003Cb style=\u0022box-sizing:border-box;\u0022\u003EUnderstand which tools to use and how to use them.\u003C/b\u003E\u003Cspan\u003E\u0026nbsp;\u003C/span\u003EIt contains four learning paths and up to 60 HD videos. \u003C/li\u003E\u003Cli style=\u0022box-sizing:border-box;\u0022\u003E\u003Cb style=\u0022box-sizing:border-box;\u0022\u003EFind best practices, tips, and tricks\u003C/b\u003E\u003Cspan\u003E\u0026nbsp;\u003C/span\u003Ebased on their roles.\u0026nbsp; \u003C/li\u003E \u003C/ul\u003E \u003C/div\u003E\u003Cdiv style=\u0022box-sizing:border-box;\u0022\u003E \u003C/div\u003E\u003Cdiv style=\u0022box-sizing:border-box;\u0022\u003E \u003C/div\u003E\u003Cdiv style=\u0022box-sizing:border-box;\u0022\u003ELearn can answer questions in four languages:\u003Cspan\u003E\u0026nbsp;\u003C/span\u003E\u003Cb style=\u0022box-sizing:border-box;\u0022\u003EEnglish, French, Spanish and Italian.\u003C/b\u003E\u003Cspan\u003E\u0026nbsp;\u003C/span\u003EIt has an\u003Cspan\u003E\u0026nbsp;\u003C/span\u003E\u003Cb style=\u0022box-sizing:border-box;\u0022\u003Eextensive library of HD videos\u003C/b\u003E\u003Cspan\u003E\u0026nbsp;\u003C/span\u003Eand other content to help you make the most of Office 365. \u003C/div\u003E\u003Cbr\u003E \u003C/div\u003E"
+            ]
           },
           {
             "name": "Business need or problem",

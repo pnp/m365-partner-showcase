@@ -14,7 +14,7 @@
   ],
   "sortOrder": 0,
   "preview": false,
-  "visible": false,
+  "visible": true,
   "solutionLogoPicture": null,
   "solutionLogoPictureAlt": "",
   "solutionName": "Storyals Pro",
@@ -37,7 +37,9 @@
           },
           {
             "name": "Long description",
-            "content": []
+            "content": [
+              "\u003Cdiv\u003E\u003Cspan style=\u0022display:inline !important;\u0022\u003EStoryals Pro is a modern learning solution designed to accelerate digital transformation. Integrated into Microsoft Teams, it combines Storyals\u2019 unique story-based learning concept with the award-winning learning management system LMS365 to manage the Storyals learning content. With Storyals Pro you are equipped with effective adoption tools to actively drive and monitor user progress.\u003C/span\u003E\u003Cbr\u003E \u003C/div\u003E"
+            ]
           },
           {
             "name": "Business need or problem",

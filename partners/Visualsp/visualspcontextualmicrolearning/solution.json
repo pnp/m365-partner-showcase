@@ -13,7 +13,7 @@
   ],
   "sortOrder": 0,
   "preview": false,
-  "visible": false,
+  "visible": true,
   "solutionLogoPicture": null,
   "solutionLogoPictureAlt": "",
   "solutionName": "Contextual Microlearning for Microsoft 365",
@@ -23,7 +23,7 @@
     "personas": "End-user;Power User",
     "businessFunctions": null,
     "businessValue": "VisualSPun-frustrates the users by capitalizing on the proven concept of contextualmicrolearning.\n\u003Cbr\u003E\n\u003Cbr\u003EVisualSPis currently available to more than 2 million users around the world. VisualSP\u2019scustomers report a 27% reduction in support tickets and higher level of usersatisfaction because they always have the answers and learning they needavailable at their fingertips. This has become more necessary than ever forremote workers.\n\u003Cbr\u003E\n\u003Cbr\u003EVisualSP increases user adoption and user engagementwith Microsoft 365 applications as well as any of your other custom webapplications being used by your end users.",
-    "displayPartner": true,
+    "displayPartner": false,
     "appSource": null,
     "displayInfo": {
       "default": {

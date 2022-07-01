@@ -15,7 +15,7 @@
   ],
   "sortOrder": 0,
   "preview": false,
-  "visible": false,
+  "visible": true,
   "solutionLogoPicture": null,
   "solutionLogoPictureAlt": "",
   "solutionName": "TeamsHUB by Cyclotron",
@@ -25,7 +25,7 @@
     "personas": "End-user;IT Admin",
     "businessFunctions": "Adoption;Engagement;Governance",
     "businessValue": "TeamsHUB has provided a streamlined experience to both IT and users within organizations around the globe, including:\n\u003Cbr\u003E\n\u003Cbr\u003E * \u0026nbsp;Increased engagement from users in Microsoft Teams.\n\u003Cbr\u003E * \u0026nbsp;Higher quality insights into operations and governance within the organization.\n\u003Cbr\u003E * \u0026nbsp;Greater visibility into Microsoft 365 as a whole and the progress towards digital transformation.",
-    "displayPartner": true,
+    "displayPartner": false,
     "appSource": null,
     "displayInfo": {
       "default": {

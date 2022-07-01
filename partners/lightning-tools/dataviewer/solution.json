@@ -11,7 +11,7 @@
   ],
   "sortOrder": 0,
   "preview": false,
-  "visible": false,
+  "visible": true,
   "solutionLogoPicture": null,
   "solutionLogoPictureAlt": "",
   "solutionName": "Data Viewer for Microsoft Teams",
@@ -21,7 +21,7 @@
     "personas": "Business Users",
     "businessFunctions": null,
     "businessValue": "The Data Viewer displays data in a variety of formats so that business users can make more informed decisions during the collaboration with other team members. Configuration is simple and effective, allowing business users to easily create the reports that their team needs.",
-    "displayPartner": true,
+    "displayPartner": false,
     "appSource": null,
     "displayInfo": {
       "default": {

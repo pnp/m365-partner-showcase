@@ -15,7 +15,7 @@
   ],
   "sortOrder": 0,
   "preview": false,
-  "visible": false,
+  "visible": true,
   "solutionLogoPicture": null,
   "solutionLogoPictureAlt": "",
   "solutionName": "LiveTiles Everywhere",
@@ -38,7 +38,9 @@
           },
           {
             "name": "Long description",
-            "content": []
+            "content": [
+              "\u003Cdiv\u003E\u003Cspan style=\u0022display:inline !important;\u0022\u003EEverywhere seamlessly integrates with your SharePoint and Teams environments. Universally available from the left-hand side in SharePoint and the header in Teams, Everywhere unites your intranet with this power-couple of platforms. Presenting an enterprise intranet with MS Teams.\u003C/span\u003E\u003Cbr\u003E \u003C/div\u003E"
+            ]
           },
           {
             "name": "Business need or problem",

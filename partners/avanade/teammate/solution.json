@@ -25,7 +25,7 @@
     "personas": "Front Line Worker;Manager",
     "businessFunctions": "Business Operations;Corporate Communications;Human Resources",
     "businessValue": "Employeewell-being and engagement\n\u003Cbr\u003E\n\u003Cbr\u003E * \u0026nbsp;Reassureemployees with a strong commitment to security and safety.\n\u003Cbr\u003E * \u0026nbsp;Providetools to maintain their health and well-being.\n\u003Cbr\u003E * \u0026nbsp;CaptureFLW feedback and build business agility to support the new normal.\n\u003Cbr\u003E\n\u003Cbr\u003ELearning and tasks\n\u003Cbr\u003E\n\u003Cbr\u003E * \u0026nbsp;Optimizeactivities to focus on an agile business.\n\u003Cbr\u003E * \u0026nbsp;Instantlyaccessible for the employee.\n\u003Cbr\u003E * \u0026nbsp;Trainworkers in automated activities to enable fast adaptation to changing needs.\n\u003Cbr\u003E\n\u003Cbr\u003ECommunication and culture\n\u003Cbr\u003E\n\u003Cbr\u003E * \u0026nbsp;Connect toteams and the broader organization in real-time.\n\u003Cbr\u003E * \u0026nbsp;Promoteyour company culture and increase employee engagement.\n\u003Cbr\u003E * \u0026nbsp;Facilitateongoing communication between employees, customers and partners.",
-    "displayPartner": true,
+    "displayPartner": false,
     "appSource": null,
     "displayInfo": {
       "default": {

@@ -16,7 +16,7 @@
   ],
   "sortOrder": 0,
   "preview": false,
-  "visible": false,
+  "visible": true,
   "solutionLogoPicture": null,
   "solutionLogoPictureAlt": "",
   "solutionName": "Valo Connect",
@@ -26,7 +26,7 @@
     "personas": "Corporate Communications;Distributed Workforce;Front Line Worker;Office Workers",
     "businessFunctions": null,
     "businessValue": "Key areas of success with Valo Connect are:\n\u003Cbr\u003E\n\u003Cbr\u003E * \u0026nbsp;Time saved by employees navigating their digital workplace\n\u003Cbr\u003E * \u0026nbsp;Closer engagement with the customers\u0027 existing investments to digital workplace solutions\n\u003Cbr\u003E * \u0026nbsp;Shorter implementation time to deliver rich, intelligent, digital workplace experiences\n\u003Cbr\u003E\n\u003Cbr\u003EContext-switching from one environment to another is time-consuming, and the benefit of surfacing digital workplace solutions to Microsoft Teams with Valo Connect is realized every single day.",
-    "displayPartner": true,
+    "displayPartner": false,
     "appSource": null,
     "displayInfo": {
       "default": {
