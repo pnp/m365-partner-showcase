@@ -14,7 +14,7 @@
   ],
   "sortOrder": 0,
   "preview": false,
-  "visible": false,
+  "visible": true,
   "solutionLogoPicture": null,
   "solutionLogoPictureAlt": "",
   "solutionName": "Microsoft 365 Champions \u2013 Modern Workplace Community",
@@ -37,7 +37,9 @@
           },
           {
             "name": "Long description",
-            "content": []
+            "content": [
+              "\u003Cdiv\u003E\u003Cspan style=\u0022display:inline !important;\u0022\u003EAll the learning services the 365 Akademie offers fit perfectly into your Microsoft 365 Champions \u2013 Modern Workplace Community. The 365 Akademie helps you to build a\u0026nbsp;place for\u0026nbsp;social learning in Microsoft Teams.\u0026nbsp;\u003C/span\u003E\u003Cbr\u003E \u003C/div\u003E"
+            ]
           },
           {
             "name": "Business need or problem",

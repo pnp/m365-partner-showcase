@@ -33,7 +33,9 @@
           },
           {
             "name": "Long description",
-            "content": []
+            "content": [
+              "test"
+            ]
           },
           {
             "name": "Business need or problem",

@@ -22,7 +22,7 @@
   ],
   "sortOrder": 0,
   "preview": false,
-  "visible": false,
+  "visible": true,
   "solutionLogoPicture": null,
   "solutionLogoPictureAlt": "",
   "solutionName": "AvePoint MyHub",
@@ -45,7 +45,9 @@
           },
           {
             "name": "Long description",
-            "content": []
+            "content": [
+              "\u003Cdiv\u003E\u003Cdiv style=\u0022box-sizing:border-box;\u0022\u003EMeet AvePoint MyHub, your one-stop-shop for managing existing Microsoft 365 workspaces and creating new ones\u2014all from Microsoft Teams or our handy web app! Organize, centralize, and take control of your Microsoft 365 workspaces. Even curate workspace hubs for easier navigation and management.\u003Cbr style=\u0022box-sizing:border-box;\u0022\u003E \u003C/div\u003E\u003Cdiv style=\u0022box-sizing:border-box;\u0022\u003E\u003Cbr style=\u0022box-sizing:border-box;\u0022\u003E \u003C/div\u003E\u003Cdiv style=\u0022box-sizing:border-box;\u0022\u003ESimplify your Microsoft 365 collaboration experience with AvePoint MyHub. Make it easy to do the right thing and start becoming more productive today! \u003C/div\u003E\u003Cbr\u003E \u003C/div\u003E"
+            ]
           },
           {
             "name": "Business need or problem",

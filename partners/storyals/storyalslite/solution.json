@@ -14,7 +14,7 @@
   ],
   "sortOrder": 0,
   "preview": false,
-  "visible": false,
+  "visible": true,
   "solutionLogoPicture": null,
   "solutionLogoPictureAlt": "",
   "solutionName": "Storyals Lite",
@@ -37,7 +37,9 @@
           },
           {
             "name": "Long description",
-            "content": []
+            "content": [
+              "\u003Cdiv\u003E\u003Cspan style=\u0022display:inline !important;\u0022\u003EStoryals Lite is a unique learning solution for the modern organization. It provides users with on-demand training and story-based tutorials on how to work smarter with digital tools in Microsoft 365.\u003C/span\u003E\u003Cbr\u003E \u003C/div\u003E"
+            ]
           },
           {
             "name": "Business need or problem",

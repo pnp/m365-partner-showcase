@@ -14,7 +14,7 @@
   ],
   "sortOrder": 0,
   "preview": false,
-  "visible": false,
+  "visible": true,
   "solutionLogoPicture": null,
   "solutionLogoPictureAlt": "",
   "solutionName": "Learning Pathways",
@@ -37,7 +37,9 @@
           },
           {
             "name": "Long description",
-            "content": []
+            "content": [
+              "\u003Cdiv\u003E\u003Cspan style=\u0022display:inline !important;\u0022\u003ENext to the monthly video service, the 365 Akademie combines learning videos and creates standard or customized learning pathways, scenarios and \u201Cmini-trainings\u201D.\u0026nbsp;\u0026nbsp;\u0026nbsp;\u003C/span\u003E\u003Cbr\u003E \u003C/div\u003E"
+            ]
           },
           {
             "name": "Business need or problem",

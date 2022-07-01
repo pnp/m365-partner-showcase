@@ -14,7 +14,7 @@
   ],
   "sortOrder": 0,
   "preview": false,
-  "visible": false,
+  "visible": true,
   "solutionLogoPicture": null,
   "solutionLogoPictureAlt": "",
   "solutionName": "Clobba",
@@ -37,7 +37,9 @@
           },
           {
             "name": "Long description",
-            "content": []
+            "content": [
+              "\u003Cdiv\u003E\u003Cspan style=\u0022display:inline !important;\u0022\u003EClobba\u0026nbsp;is an easy-to-use analytical and reporting tool which provides insights into user-adoption trends, call quality, employee productivity, call costs and much more.\u0026nbsp;Clobba\u0026nbsp;helps you turn Teams into a powerful environment for joined-up business-building\u003C/span\u003E\u003Cbr\u003E \u003C/div\u003E"
+            ]
           },
           {
             "name": "Business need or problem",

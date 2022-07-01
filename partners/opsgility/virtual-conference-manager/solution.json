@@ -18,7 +18,7 @@
   ],
   "sortOrder": 0,
   "preview": false,
-  "visible": false,
+  "visible": true,
   "solutionLogoPicture": null,
   "solutionLogoPictureAlt": "",
   "solutionName": "Virtual Conference Manager",
@@ -41,7 +41,9 @@
           },
           {
             "name": "Long description",
-            "content": []
+            "content": [
+              "\u003Cdiv\u003E\u003Cdiv style=\u0022box-sizing:border-box;\u0022\u003EDeliver engaging digital events to thousands of attendees worldwide, with the security and usability of Microsoft Teams!\u003Cbr style=\u0022box-sizing:border-box;\u0022\u003E \u003C/div\u003E\u003Cdiv style=\u0022box-sizing:border-box;\u0022\u003E\u003Cbr style=\u0022box-sizing:border-box;\u0022\u003E \u003C/div\u003E\u003Cdiv style=\u0022box-sizing:border-box;\u0022\u003ECaptivate audiences with a full suite of interactive activities, including speed networking, sponsor booths, and Q/A sessions! Virtual Conference Manager is more than a meeting platform. It is an end-to-end virtual and hybrid event solution! \u003C/div\u003E \u003C/div\u003E"
+            ]
           },
           {
             "name": "Business need or problem",

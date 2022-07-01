@@ -37,7 +37,9 @@
           },
           {
             "name": "Long description",
-            "content": []
+            "content": [
+              "\u003Cdiv\u003E\u003Cdiv style=\u0022box-sizing:border-box;\u0022\u003EMoYoBi simplifies the way organizations measure Teams usage and savings.\u003Cbr style=\u0022box-sizing:border-box;\u0022\u003E \u003C/div\u003E\u003Cdiv style=\u0022box-sizing:border-box;\u0022\u003E\u003Cbr style=\u0022box-sizing:border-box;\u0022\u003E \u003C/div\u003E\u003Cdiv style=\u0022box-sizing:border-box;\u0022\u003EThat is what makes MoYoBi the perfect business intelligence tool for companies at any size for optimizing and monitoring their Teams communication environment. \u003C/div\u003E \u003C/div\u003E"
+            ]
           },
           {
             "name": "Business need or problem",

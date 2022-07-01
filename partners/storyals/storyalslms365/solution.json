@@ -14,7 +14,7 @@
   ],
   "sortOrder": 0,
   "preview": false,
-  "visible": false,
+  "visible": true,
   "solutionLogoPicture": null,
   "solutionLogoPictureAlt": "",
   "solutionName": "Storyals LMS365",
@@ -37,7 +37,9 @@
           },
           {
             "name": "Long description",
-            "content": []
+            "content": [
+              "\u003Cdiv\u003E\u003Cspan style=\u0022display:inline !important;\u0022\u003EStoryals\u0026nbsp;LMS365\u0026nbsp;will unlock the full potential or your digital workplace and create a full learning experience for all your employees. Get Storyals\u2019 unique learning content of on-demand\u0026nbsp;training and\u0026nbsp;story-based\u0026nbsp;tutorials\u0026nbsp;on how to work smarter\u0026nbsp;with digital tools in Microsoft 365 and make your employees digital champions. Unleash the creativity of your own workforce and provide them the ability to create their own courses in full capacity of LMS365.\u003C/span\u003E\u003Cbr\u003E \u003C/div\u003E"
+            ]
           },
           {
             "name": "Business need or problem",

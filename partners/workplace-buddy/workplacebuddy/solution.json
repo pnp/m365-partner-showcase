@@ -14,7 +14,7 @@
   ],
   "sortOrder": 0,
   "preview": false,
-  "visible": false,
+  "visible": true,
   "solutionLogoPicture": null,
   "solutionLogoPictureAlt": "",
   "solutionName": "WorkplaceBuddy",
@@ -37,7 +37,9 @@
           },
           {
             "name": "Long description",
-            "content": []
+            "content": [
+              "\u003Cdiv\u003E\u003Cspan style=\u0022display:inline !important;\u0022\u003EWorking with digital tools should not feel like a struggle, let us help you! From someone who has never seen Microsoft 365 to advanced users, we offer a personal, relevant learning journey! With our fun content you can motivate and inspire your colleagues to become more digitally skilled! This content is proactively delivered to your colleagues with our chatbot. Create your own content (be it chatbot conversations, badges and/or e-learnings) in our software and easily monitor results.\u003C/span\u003E\u003Cbr\u003E \u003C/div\u003E"
+            ]
           },
           {
             "name": "Business need or problem",

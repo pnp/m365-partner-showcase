@@ -15,7 +15,7 @@
   ],
   "sortOrder": 0,
   "preview": false,
-  "visible": false,
+  "visible": true,
   "solutionLogoPicture": null,
   "solutionLogoPictureAlt": "",
   "solutionName": "Powell Intranet",
@@ -38,7 +38,9 @@
           },
           {
             "name": "Long description",
-            "content": []
+            "content": [
+              "\u003Cdiv\u003E\u003Cdiv style=\u0022box-sizing:border-box;\u0022\u003EPowell\u0026nbsp;Intranet is a modern corporate Intranet designed for communication success and to drive employee engagement in the Hybrid Work.\u0026nbsp; \u003C/div\u003E\u003Cdiv style=\u0022box-sizing:border-box;\u0022\u003E\u003Cbr style=\u0022box-sizing:border-box;\u0022\u003E \u003C/div\u003E\u003Cdiv style=\u0022box-sizing:border-box;\u0022\u003EPowell Intranet is the communication \u0026amp; engagement pillar of the\u0026nbsp;Powell\u0026nbsp;\u003Cspan\u003E\u0026nbsp;\u003C/span\u003E\u003Ca href=\u0022https://powell-software.com/en/digital-workplace-solution/\u0022 style=\u0022box-sizing:border-box;text-decoration:underline;cursor:pointer;\u0022\u003E365\u003C/a\u003E\u003Cspan\u003E\u0026nbsp;\u003C/span\u003EDigital Workplace which also includes Powell Teams the modern collaboration pillar. It is fully built upon SharePoint and take benefit of all Microsoft 365 services. Powell Intranet value proposition is aimed at all employees, and business functions, especially HR, internal communications, and IT teams. \u003C/div\u003E\u003Cbr\u003E \u003C/div\u003E"
+            ]
           },
           {
             "name": "Business need or problem",

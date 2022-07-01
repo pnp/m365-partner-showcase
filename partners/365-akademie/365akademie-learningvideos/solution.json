@@ -14,7 +14,7 @@
   ],
   "sortOrder": 0,
   "preview": false,
-  "visible": false,
+  "visible": true,
   "solutionLogoPicture": null,
   "solutionLogoPictureAlt": "",
   "solutionName": "Learning Videos \u2013 Microsoft 365, Windows, Security Fundamentals and Devices",
@@ -37,7 +37,9 @@
           },
           {
             "name": "Long description",
-            "content": []
+            "content": [
+              "\u003Cdiv\u003E\u003Cspan style=\u0022display:inline !important;\u0022\u003EGet new learning videos every month\u0026nbsp;and keep the users\u0026nbsp;always up to date. The service is customized,\u0026nbsp;so it fits perfectly\u0026nbsp;for your organization and is integrated\u0026nbsp;into your specific Microsoft 365\u0026nbsp;or LMS.\u0026nbsp;\u0026nbsp;\u003C/span\u003E\u003Cbr\u003E \u003C/div\u003E"
+            ]
           },
           {
             "name": "Business need or problem",
