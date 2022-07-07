@@ -23,14 +23,7 @@
           "description": "test",
           "url": "test"
         },
-        "mediaAssets": [
-          {
-            "type": "image",
-            "order": 0,
-            "url": "assets/Hero.jpg",
-            "alt": ""
-          }
-        ],
+        "mediaAssets": [],
         "detailItemCategories": [],
         "contact": "test test"
       }
