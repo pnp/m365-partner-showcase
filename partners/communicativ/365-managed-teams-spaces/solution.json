@@ -4,7 +4,15 @@
   "categories": [
     "teams"
   ],
-  "industries": [],
+  "industries": [
+    "Cross-Industry"
+  ],
+  "servicesUsed": [
+    "Microsoft Azure Monitor",
+    "Microsoft Intune",
+    "Microsoft Teams",
+    "Teams Room devices"
+  ],
   "sortOrder": 0,
   "preview": false,
   "visible": false,
@@ -15,8 +23,8 @@
   "solutionUrlTitle": "365 Managed Teams Spaces",
   "metadata": {
     "personas": "All Employees",
-    "solutionTechnologies": "Microsoft Azure Monitor;Microsoft Intune;Microsoft Teams;Teams Room devices",
     "businessFunctions": null,
+    "businessValue": "Uptime and Availability of Meeting Spaces is keyto support the Hybrid Work culture and make sure remote participants can alwaysjoin and be a equal participant in the meeting.",
     "displayPartner": false,
     "appSource": null,
     "displayInfo": {
@@ -25,31 +33,31 @@
           {
             "name": "Short description",
             "content": [
-              "\u003Cdiv\u003E\u003Cb\u003ELean approach to manage and monitor Teams Room devices.\u003C/b\u003E\u003Cbr\u003E\u003C/div\u003E"
+              "Lean approach to manage and monitor Teams Room devices."
             ]
           },
           {
             "name": "Long description",
             "content": [
-              "\u003Cdiv\u003EMake sure every meeting can start in-time without any issues with equipment or software updates in inconvenient moments. \u003Cbr\u003E\u003C/div\u003E"
+              "\u003Cdiv\u003E\u003Cspan style=\u0022display:inline !important;\u0022\u003EMake sure every meeting can start in-time without any issues with equipment or software updates in inconvenient moments.\u003C/span\u003E\u003Cbr\u003E \u003C/div\u003E"
             ]
           },
           {
             "name": "Business need or problem",
             "content": [
-              "\u003Cdiv\u003EThe responsibility to keep the Meeting Spaces running is a close collaboration between Facilities and IT. Lots of organization struggle with this demarcation and how to address issues efficiently.\u003Cbr\u003E\u003C/div\u003E"
+              "The responsibility to keep the Meeting Spaces running is a close collaboration between Facilities and IT. Lots of organization struggle with this demarcation and how to address issues efficiently."
             ]
           },
           {
             "name": "Business solution",
             "content": [
-              "\u003Cdiv\u003ECommunicativ will manage and monitor the meeting\nspace equipment to make sure all devices and accessories are running the latest\nsoftware and Teams Room accounts are registered and working correctly.\u003Cbr\u003E\u003C/div\u003E"
+              "Communicativ will manage and monitor the meetingspace equipment to make sure all devices and accessories are running the latestsoftware and Teams Room accounts are registered and working correctly."
             ]
           },
           {
             "name": "Success factors",
             "content": [
-              "\u003Cdiv\u003EBy making sure the equipment is always available\nfor, the Meeting Space solutions are rapidly adopted by the End Users. \u003Cbr\u003E\u003C/div\u003E"
+              "By making sure the equipment is always availablefor, the Meeting Space solutions are rapidly adopted by the End Users."
             ]
           }
         ],
@@ -61,7 +69,7 @@
             "items": [
               {
                 "url": "https://communicativ.nl/teams-meeting-rooms/",
-                "name": "Teams Meeting Rooms |\nCommunicativ - Microsoft specialist"
+                "name": "Teams Meeting Rooms |Communicativ - Microsoft specialist"
               }
             ]
           }

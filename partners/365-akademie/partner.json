@@ -11,17 +11,17 @@
   "heroPicture": "assets/hero.png",
   "featuredPicture": "assets/featured.png",
   "partnerName": "365 Akademie",
-  "mpnId": "0",
+  "mpnId": null,
   "metadata": {
     "displayInfo": {
       "default": {
-        "shortDescription": "\u003Cdiv\u003E365 Akademie supports your employees with\u0026nbsp;monthly new\u0026nbsp;learning videos\u0026nbsp;\u2013 short, simple\u0026nbsp;to follow\u0026nbsp;and use case based -\u0026nbsp;to learn new digital skills and experience modern work with Microsoft 365. \u2013 Stay updated!\u0026nbsp;\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E",
-        "featuredTitle": "More productive with Microsoft 365 ",
+        "shortDescription": "365 Akademie supports your employees with monthly new learning videos \u2013 short, simple to follow and use case based - to learn new digital skills and experience modern work with Microsoft 365. \u2013 Stay updated!",
+        "featuredTitle": "More productive with Microsoft 365",
         "featuredParagraphs": [
-          "\u003Cdiv\u003E\u201CHow do users work more productive with Microsoft 365 and how do they find out about the benefits, new features and possible use cases?\u201D -\u0026nbsp; That is the question\u0026nbsp;the 365 Akademie\u0026nbsp;wants\u0026nbsp;to answer.\u0026nbsp;\u0026nbsp; \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E\u003Cdiv\u003EWith the 365 Akademie as a learning partner, your employees stay up to date with monthly new learning videos. The learning nuggets are use case based and\u0026nbsp;support the knowledge transfer into practice.\u0026nbsp;\u0026nbsp; \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E\u003Cdiv\u003EThe 365 Akademie supports your champions program and provides its learning videos in Microsoft Teams. The content\u0026nbsp;is available in German and English (more languages as subtitles).\u0026nbsp;Next to the monthly updated learning videos for all the Microsoft 365 Apps, the 365 Akademie\u0026nbsp;implements learning pathways into your intranet,\u0026nbsp;SharePoint\u0026nbsp;sites or your LMS.\u0026nbsp;\u0026nbsp; \u003C/div\u003E\u003Cdiv\u003E\u003Cdiv style=\u0022margin:0px;cursor:text;clear:both;font-family:\u0026quot;Segoe UI\u0026quot;, \u0026quot;Segoe UI Web\u0026quot;, Arial, Verdana, sans-serif;font-size:12px;\u0022\u003E \u003C/div\u003E \u003C/div\u003E"
+          "\u201CHow do users work more productive with Microsoft 365 and how do they find out about the benefits, new features and possible use cases?\u201D - \u0026nbsp;That is the question the 365 Akademie wants to answer. \u0026nbsp;\u0026nbsp;\n\u003Cbr\u003E \n\u003Cbr\u003EWith the 365 Akademie as a learning partner, your employees stay up to date with monthly new learning videos. The learning nuggets are use case based and support the knowledge transfer into practice. \u0026nbsp;\u0026nbsp;\n\u003Cbr\u003E \n\u003Cbr\u003EThe 365 Akademie supports your champions program and provides its learning videos in Microsoft Teams. The content is available in German and English (more languages as subtitles). Next to the monthly updated learning videos for all the Microsoft 365 Apps, the 365 Akademie implements learning pathways into your intranet, SharePoint sites or your LMS."
         ],
         "callToAction": {
-          "title": "Learn more about the 365 Akademie ",
+          "title": "Learn more about the 365 Akademie",
           "description": "Experience modern work with our learning service and learn how the 365 Akademie supports you to achieve more",
           "url": "https://www.365akademie.de/"
         },
@@ -39,7 +39,8 @@
             "alt": ""
           }
         ],
-        "detailItemCategories": []
+        "detailItemCategories": [],
+        "contact": "Dominik Ammann"
       }
     }
   }

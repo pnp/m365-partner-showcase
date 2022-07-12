@@ -11,16 +11,16 @@
   "heroPicture": "assets/hero.png",
   "featuredPicture": null,
   "partnerName": "Storyals",
-  "mpnId": "0",
+  "mpnId": null,
   "metadata": {
     "displayInfo": {
       "default": {
-        "shortDescription": "\u003Cdiv\u003EStoryals provides story-based learning\nsolutions and high-quality adoption services to build digital skills for the\nmodern workplace. With Storyals solutions you can inspire, motivate and educate\nyour users to achieve more - one story at a time.\u003C/div\u003E",
+        "shortDescription": "Storyals provides story-based learningsolutions and high-quality adoption services to build digital skills for themodern workplace. With Storyals solutions you can inspire, motivate and educateyour users to achieve more - one story at a time.",
         "featuredTitle": "Build digital skills and work smarter with Storyals!",
         "featuredParagraphs": [
-          "\u003Cdiv\u003EAccelerate digital workplace adoption and build digital skills with Storyals. We provide unique story-based learning solutions to continuously encourage new ways of working to achieve more. Learn from experts and improve the way you work with digital tools in Microsoft 365.\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E",
-          "\u003Cdiv\u003EStoryals learning solutions provide users with a blended program, combining self-paced and instructor-led training, leveraging storytelling to maximize learning. All learning topics highlight digital workplace best practices and feature real-world scenarios. Not everyone welcomes change. With Storyals, users are made aware of the benefits of modern tools and get inspired and motivated to try new ways of working.\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E",
-          "\u003Cdiv\u003EAdd an \u201CAdoption Workshop\u201D and let our experts help you form an adoption plan, join our \u201CDigital Community Gym\u201D to kick-start the new routine and build champions by putting them through a \u201CDigital Champions Bootcamp\u201D where they get 1-1 coaching. \u003C/div\u003E\u003Cdiv\u003E\u0026nbsp; \u003C/div\u003E\u003Cdiv\u003EWe love helping our customers simply work smarter! \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E"
+          "Accelerate digital workplace adoption and build digital skills with Storyals. We provide unique story-based learning solutions to continuously encourage new ways of working to achieve more. Learn from experts and improve the way you work with digital tools in Microsoft 365.",
+          "Storyals learning solutions provide users with a blended program, combining self-paced and instructor-led training, leveraging storytelling to maximize learning. All learning topics highlight digital workplace best practices and feature real-world scenarios. Not everyone welcomes change. With Storyals, users are made aware of the benefits of modern tools and get inspired and motivated to try new ways of working.",
+          "Add an \u201CAdoption Workshop\u201D and let our experts help you form an adoption plan, join our \u201CDigital Community Gym\u201D to kick-start the new routine and build champions by putting them through a \u201CDigital Champions Bootcamp\u201D where they get 1-1 coaching. \n\u003Cbr\u003E \u0026nbsp;\n\u003Cbr\u003EWe love helping our customers simply work smarter!"
         ],
         "callToAction": {
           "title": "Book a free demo!",
@@ -35,7 +35,8 @@
             "alt": ""
           }
         ],
-        "detailItemCategories": []
+        "detailItemCategories": [],
+        "contact": "Ulrika Hedlund"
       }
     }
   }

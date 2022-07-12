@@ -3,6 +3,7 @@
   "partnerId": "puzzlepart",
   "categories": [],
   "industries": [],
+  "servicesUsed": [],
   "sortOrder": 0,
   "preview": false,
   "visible": false,
@@ -13,8 +14,8 @@
   "solutionUrlTitle": "PuzzlePart Solution",
   "metadata": {
     "personas": null,
-    "solutionTechnologies": null,
     "businessFunctions": null,
+    "businessValue": null,
     "displayPartner": false,
     "appSource": null,
     "displayInfo": {
@@ -22,7 +23,9 @@
         "descriptionParagraphs": [
           {
             "name": "Short description",
-            "content": []
+            "content": [
+              "\u003Cdiv\u003EThis is Puzzle Part Solution \u003C/div\u003E"
+            ]
           },
           {
             "name": "Long description",

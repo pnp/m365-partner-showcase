@@ -3,6 +3,7 @@
   "partnerId": "dxc",
   "categories": [],
   "industries": [],
+  "servicesUsed": [],
   "sortOrder": 0,
   "preview": false,
   "visible": false,
@@ -13,8 +14,8 @@
   "solutionUrlTitle": "DXC Solution",
   "metadata": {
     "personas": null,
-    "solutionTechnologies": null,
     "businessFunctions": null,
+    "businessValue": null,
     "displayPartner": false,
     "appSource": null,
     "displayInfo": {

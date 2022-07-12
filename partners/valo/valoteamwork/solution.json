@@ -5,6 +5,13 @@
     "teams"
   ],
   "industries": [],
+  "servicesUsed": [
+    "Azure",
+    "Graph API",
+    "Microsoft Teams",
+    "SharePoint sites",
+    "SPFx"
+  ],
   "sortOrder": 0,
   "preview": false,
   "visible": true,
@@ -15,9 +22,9 @@
   "solutionUrlTitle": "Valo Teamwork",
   "metadata": {
     "personas": "HR;IT Admin;Project Manager",
-    "solutionTechnologies": "Azure;Graph API;Microsoft Teams;SharePoint sites;SPFx",
     "businessFunctions": "Governance;Human Resources;IT;Project Management Offices;Project Managers",
-    "displayPartner": true,
+    "businessValue": "Valo Teamwork enables power users and administrators to automate the creation of workspaces and avoid pitfalls. Additional governance features enable administrators to identify Microsoft Teams and Microsoft 365 groups without owners, members, and enterprise metadata. Moreover, an advanced analytics area enables administrators to analyze the usage of the workspaces by providing information such as external sharing, different privacy levels and archiving status.\n\u003Cbr\u003E\n\u003Cbr\u003EBasically, Valo Teamwork reduces costs by offering a standardized creation process, which is based on pre-defined templates allowing end users to create ready-to-go digital workspaces. Moreover, Valo Teamwork reduces IT costs by helping IT Administrators reduce repetitive manual work. Additionally, end users take advantage of an integrated dashboard that offers a single view for all end users\u2019 digital teams, projects, groups, and sites.",
+    "displayPartner": false,
     "appSource": null,
     "displayInfo": {
       "default": {
@@ -25,31 +32,31 @@
           {
             "name": "Short description",
             "content": [
-              "\u003Cdiv\u003EValo Teamwork is your automated one-stop-shop for digital collaboration in Microsoft 365.\u003Cbr\u003E\u003C/div\u003E"
+              "Valo Teamwork is your automated one-stop-shop for digital collaboration in Microsoft 365."
             ]
           },
           {
             "name": "Long description",
             "content": [
-              "\u003Cdiv\u003EValo Teamwork integrates natively with Microsoft Teams, but can also be accessed from a SharePoint site through browser. Providing navigation, provision, lifecycle management and automated governance Valo Teamwork helps you to take away the exhaustion out of collaboration.\u003Cbr\u003E\u003C/div\u003E"
+              "\u003Cdiv\u003E\u003Cspan style=\u0022display:inline !important;\u0022\u003EValo Teamwork integrates natively with Microsoft Teams, but can also be accessed from a SharePoint site through browser. Providing navigation, provision, lifecycle management and automated governance Valo Teamwork helps you to take away the exhaustion out of collaboration.\u003C/span\u003E\u003Cbr\u003E \u003C/div\u003E"
             ]
           },
           {
             "name": "Business need or problem",
             "content": [
-              "\u003Cdiv\u003EGoverning the creation of Microsoft Teams teams, Microsoft 365 groups, Yammer Groups, and SharePoint sites is already possible in Microsoft 365. However, in many scenarios, it requires unnecessary, repetitive manual work from IT Administrators hindering the flow of collaboration from the project team which can slow down productivity. Moreover, there is no place in Microsoft 365 OOTB to find all workspaces and search groups and sites based on enterprise metadata, different template types, and display name. Valo Teamwork is the solution with automated governance including naming policies, default membership, security features, and much more.\u003Cbr\u003E\u003C/div\u003E"
+              "Governing the creation of Microsoft Teams teams, Microsoft 365 groups, Yammer Groups, and SharePoint sites is already possible in Microsoft 365. However, in many scenarios, it requires unnecessary, repetitive manual work from IT Administrators hindering the flow of collaboration from the project team which can slow down productivity. Moreover, there is no place in Microsoft 365 OOTB to find all workspaces and search groups and sites based on enterprise metadata, different template types, and display name. Valo Teamwork is the solution with automated governance including naming policies, default membership, security features, and much more."
             ]
           },
           {
             "name": "Business solution",
             "content": [
-              "\u003Cdiv\u003EValo Teamwork is a digital collaboration solution that can be used to automate the creation of Microsoft Teams teams, Microsoft 365 groups, Yammer Groups, and SharePoint sites (classic and modern). The creation process supports customizable templates that power users and administrators can create based on their business needs. All templates support governance, lifecycle management, and provisioning features. Here is a list of some important functionalities that can be configured at a template level:\u003Cbr style=\u0022box-sizing:border-box;\u0022\u003E\u003C/div\u003E\u003Cdiv\u003E\u003Cbr style=\u0022box-sizing:border-box;\u0022\u003E\u003C/div\u003E\u003Cdiv\u003EGovernance\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003E\u003Cul\u003E\u003Cli\u003ENaming policies (different rules for URL and display name with support for suffix, prefix, and banned words).\u003C/li\u003E\u003Cli\u003EMembership settings (default owners/members and minimum number of owners/members).\u003C/li\u003E\u003Cli\u003EPrivacy settings (sensitivity labels, external sharing, and public/private).\u003C/li\u003E\u003Cli\u003ETerms and conditions (users will need to accept the terms and conditions before creating a team).\u003C/li\u003E\u003Cli\u003ELimit access to templates to specific users.\u003C/li\u003E\u003C/ul\u003E\u003C/div\u003E\u003Cdiv\u003EProvisioning\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003E\u003Cul\u003E\u003Cli\u003EPnP support.\u003C/li\u003E\u003Cli\u003ESite Designs support.\u003C/li\u003E\u003Cli\u003EEnterprise metadata.\u003C/li\u003E\u003Cli\u003EPlanner templates (buckets and tasks).\u003C/li\u003E\u003Cli\u003ETeams (icon, settings, apps, channels, tabs [pre-configured tabs] and chat messages).\u003C/li\u003E\u003C/ul\u003E\u003C/div\u003E\u003Cdiv\u003ELifecycle\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003E\u003Cul\u003E\u003Cli\u003EEnable/disable approval for all templates\u003C/li\u003E\u003Cli\u003EPower Automate support (build complex workflows for approval)\u003C/li\u003E\u003Cli\u003EGuided steps to create a team based on a template\u003C/li\u003E\u003Cli\u003EManual archiving after workspace creation\u003C/li\u003E\u003Cli\u003EAuto-archiving (coming soon)\u003C/li\u003E\u003C/ul\u003E\u003C/div\u003E\u003Cdiv\u003EEnd users can create workspaces based on pre-defined templates. This is possible through an innovative, self-explanatory, and modern request form. After creation, users can search for their workspaces using an integrated dashboard which supports searching for display name as well as filtering by enterprise metadata and template type. Everything is accessible from Microsoft Teams via a personal app and from SharePoint using a SPFx web part.\u003C/div\u003E"
+              "Valo Teamwork is a digital collaboration solution that can be used to automate the creation of Microsoft Teams teams, Microsoft 365 groups, Yammer Groups, and SharePoint sites (classic and modern). The creation process supports customizable templates that power users and administrators can create based on their business needs. All templates support governance, lifecycle management, and provisioning features. Here is a list of some important functionalities that can be configured at a template level:\n\u003Cbr\u003E\n\u003Cbr\u003EGovernance\n\u003Cbr\u003E\n\u003Cbr\u003E * \u0026nbsp;Naming policies (different rules for URL and display name with support for suffix, prefix, and banned words).\n\u003Cbr\u003E * \u0026nbsp;Membership settings (default owners/members and minimum number of owners/members).\n\u003Cbr\u003E * \u0026nbsp;Privacy settings (sensitivity labels, external sharing, and public/private).\n\u003Cbr\u003E * \u0026nbsp;Terms and conditions (users will need to accept the terms and conditions before creating a team).\n\u003Cbr\u003E * \u0026nbsp;Limit access to templates to specific users.\n\u003Cbr\u003E\n\u003Cbr\u003EProvisioning\n\u003Cbr\u003E\n\u003Cbr\u003E * \u0026nbsp;PnP support.\n\u003Cbr\u003E * \u0026nbsp;Site Designs support.\n\u003Cbr\u003E * \u0026nbsp;Enterprise metadata.\n\u003Cbr\u003E * \u0026nbsp;Planner templates (buckets and tasks).\n\u003Cbr\u003E * \u0026nbsp;Teams (icon, settings, apps, channels, tabs [pre-configured tabs] and chat messages).\n\u003Cbr\u003E\n\u003Cbr\u003ELifecycle\n\u003Cbr\u003E\n\u003Cbr\u003E * \u0026nbsp;Enable/disable approval for all templates\n\u003Cbr\u003E * \u0026nbsp;Power Automate support (build complex workflows for approval)\n\u003Cbr\u003E * \u0026nbsp;Guided steps to create a team based on a template\n\u003Cbr\u003E * \u0026nbsp;Manual archiving after workspace creation\n\u003Cbr\u003E * \u0026nbsp;Auto-archiving (coming soon)\n\u003Cbr\u003E\n\u003Cbr\u003EEnd users can create workspaces based on pre-defined templates. This is possible through an innovative, self-explanatory, and modern request form. After creation, users can search for their workspaces using an integrated dashboard which supports searching for display name as well as filtering by enterprise metadata and template type. Everything is accessible from Microsoft Teams via a personal app and from SharePoint using a SPFx web part."
             ]
           },
           {
             "name": "Success factors",
             "content": [
-              "\u003Cdiv\u003EValo Teamwork simplifies the governance of Microsoft Teams and other types of workspaces in Microsoft 365. Please find below a list of benefits:\u003C/div\u003E\u003Cdiv\u003E\u003Cul\u003E\u003Cli\u003EComprehensive Microsoft Teams templates allow end users to create ready-to-use Microsoft Teams teams. This allows end-users to focus on other tasks rather than configuring workspaces.\u003C/li\u003E\u003Cli\u003EEnhanced governance and templating features allow administrators to avoid pitfalls and create Microsoft Teams teams and other types of workspaces with pre-defined rules.\u003C/li\u003E\u003Cli\u003EA unified creation process allows end users to create any type of workspace (incl. Microsoft Teams) from one single place with pre-defined configuration and content.\u003C/li\u003E\u003Cli\u003EEnd users can access all the workspaces they need in daily work from an integrated dashboard.\u003C/li\u003E\u003Cli\u003EValo Teamwork can be used directly from Microsoft Teams as a personal app and as a web part in SharePoint.\u003C/li\u003E\u003C/ul\u003E\u003C/div\u003E\u003Cdiv\u003EOur customers have been using Valo Teamwork to automatically create, manage, and control their workspaces in Microsoft 365!\u003Cbr\u003E\u003C/div\u003E\u003Cbr\u003E"
+              "Valo Teamwork simplifies the governance of Microsoft Teams and other types of workspaces in Microsoft 365. Please find below a list of benefits:\n\u003Cbr\u003E\n\u003Cbr\u003E * \u0026nbsp;Comprehensive Microsoft Teams templates allow end users to create ready-to-use Microsoft Teams teams. This allows end-users to focus on other tasks rather than configuring workspaces.\n\u003Cbr\u003E * \u0026nbsp;Enhanced governance and templating features allow administrators to avoid pitfalls and create Microsoft Teams teams and other types of workspaces with pre-defined rules.\n\u003Cbr\u003E * \u0026nbsp;A unified creation process allows end users to create any type of workspace (incl. Microsoft Teams) from one single place with pre-defined configuration and content.\n\u003Cbr\u003E * \u0026nbsp;End users can access all the workspaces they need in daily work from an integrated dashboard.\n\u003Cbr\u003E * \u0026nbsp;Valo Teamwork can be used directly from Microsoft Teams as a personal app and as a web part in SharePoint.\n\u003Cbr\u003E\n\u003Cbr\u003EOur customers have been using Valo Teamwork to automatically create, manage, and control their workspaces in Microsoft 365!"
             ]
           }
         ],
@@ -57,19 +64,19 @@
           {
             "type": "image",
             "order": 0,
-            "url": "assets/Valo Teamwork2-Sharepoint.png",
+            "url": "assets/Valo Teamwork1 - Teams.png",
             "alt": ""
           },
           {
             "type": "image",
             "order": 1,
-            "url": "assets/Valo Teamwork3-Edit template.png",
+            "url": "assets/Valo Teamwork2-Sharepoint.png",
             "alt": ""
           },
           {
             "type": "image",
             "order": 2,
-            "url": "assets/Valo Teamwork1 - Teams.png",
+            "url": "assets/Valo Teamwork3-Edit template.png",
             "alt": ""
           },
           {

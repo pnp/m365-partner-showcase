@@ -5,6 +5,7 @@
     "teams"
   ],
   "industries": [],
+  "servicesUsed": [],
   "sortOrder": 0,
   "preview": false,
   "visible": false,
@@ -15,8 +16,8 @@
   "solutionUrlTitle": "NAVOO",
   "metadata": {
     "personas": null,
-    "solutionTechnologies": null,
     "businessFunctions": null,
+    "businessValue": null,
     "displayPartner": false,
     "appSource": null,
     "displayInfo": {

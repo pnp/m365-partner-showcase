@@ -11,11 +11,11 @@
   "heroPicture": "assets/hero.png",
   "featuredPicture": null,
   "partnerName": "UnifiedCommunications.com",
-  "mpnId": "0",
+  "mpnId": null,
   "metadata": {
     "displayInfo": {
       "default": {
-        "shortDescription": "\u003Cdiv\u003EUnifiedCommunications.com\u0026nbsp;is a globally\nrecognized leader in Microsoft Teams, Meetings, and Live Events with a focus on\nstrategy, device configuration, adoption, and video production.\u003Cbr\u003E\u003C/div\u003E",
+        "shortDescription": "UnifiedCommunications.com is a globallyrecognized leader in Microsoft Teams, Meetings, and Live Events with a focus onstrategy, device configuration, adoption, and video production.",
         "featuredTitle": null,
         "featuredParagraphs": [],
         "callToAction": {
@@ -31,7 +31,8 @@
             "alt": ""
           }
         ],
-        "detailItemCategories": []
+        "detailItemCategories": [],
+        "contact": null
       }
     }
   }

@@ -11,11 +11,11 @@
   "heroPicture": null,
   "featuredPicture": null,
   "partnerName": "PuzzlePart",
-  "mpnId": "0",
+  "mpnId": null,
   "metadata": {
     "displayInfo": {
       "default": {
-        "shortDescription": null,
+        "shortDescription": "\u003Cdiv\u003EThis is the Puzzle Part partner short description \u003C/div\u003E",
         "featuredTitle": null,
         "featuredParagraphs": [],
         "callToAction": {
@@ -24,7 +24,8 @@
           "url": null
         },
         "mediaAssets": [],
-        "detailItemCategories": []
+        "detailItemCategories": [],
+        "contact": null
       }
     }
   }

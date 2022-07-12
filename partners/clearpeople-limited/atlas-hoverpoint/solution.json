@@ -2,19 +2,30 @@
   "solutionId": "atlas-hoverpoint",
   "partnerId": "clearpeople-limited",
   "categories": [],
-  "industries": [],
+  "industries": [
+    "Construction",
+    "Energy",
+    "Financial Services",
+    "Legal and in-house legal",
+    "Professional Services",
+    "Property \u0026 Engineering",
+    "Public Sector"
+  ],
+  "servicesUsed": [
+    "SPFx"
+  ],
   "sortOrder": 0,
   "preview": false,
   "visible": false,
   "solutionLogoPicture": null,
   "solutionLogoPictureAlt": "",
   "solutionName": "Atlas HoverPoint",
-  "solutionUrl": "https://www.clearpeople.com/hoverpoint ",
+  "solutionUrl": "https://www.clearpeople.com/hoverpoint",
   "solutionUrlTitle": "Atlas HoverPoint",
   "metadata": {
     "personas": "Compliance;Corporate Communications;Front Line Worker;HR;IT;Knowledge Managers;Knowledge Worker",
-    "solutionTechnologies": "SPFx",
     "businessFunctions": null,
+    "businessValue": "* \u0026nbsp;Mitigate health and safety risks by providingvisual and interactive information to your workers, especially those on thefrontline. \n\u003Cbr\u003E * \u0026nbsp;Simplify the onboarding process for new workersand keep them engaged. Many small increases in productivity and retention havea significant impact on the bottom line. \n\u003Cbr\u003E * \u0026nbsp;Enable self-service for quick answers toquestions. \n\u003Cbr\u003E * \u0026nbsp;Reduce errors and improve learning by providing theright information at the right time. \n\u003Cbr\u003E * \u0026nbsp;Keep information updated without needing to reprintmaterial. \n\u003Cbr\u003E * \u0026nbsp;Reduce paper waste and printing costs and minimise your impact onthe environment.",
     "displayPartner": false,
     "appSource": null,
     "displayInfo": {
@@ -23,31 +34,31 @@
           {
             "name": "Short description",
             "content": [
-              "\u003Cdiv\u003E\u003Cb\u003EAtlas\nHoverPoint - Make Your Point With Interactive Imagery\u003C/b\u003E\u003C/div\u003E\u003Cdiv\u003E\u003Cb\u003E\u003Cbr\u003E\u003C/b\u003E\u003C/div\u003E\u003Cdiv\u003E\u003Cb\u003EAtlas\nHoverPoint is a powerful yet easy-to-use Atlas tool for creating interactive\nimages in Microsoft 365. HoverPoint makes learning and sharing knowledge so\nmuch simpler and more effective.\u003C/b\u003E\u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E\u003C/div\u003E"
+              "AtlasHoverPoint - Make Your Point With Interactive Imagery\n\u003Cbr\u003E\n\u003Cbr\u003EAtlasHoverPoint is a powerful yet easy-to-use Atlas tool for creating interactiveimages in Microsoft 365. HoverPoint makes learning and sharing knowledge somuch simpler and more effective."
             ]
           },
           {
             "name": "Long description",
             "content": [
-              "\u003Cdiv\u003EDriven\norganisations are always looking at how to improve employee engagement and\nspread knowledge. Our work with hundreds of companies has led us to a clear,\nconcise answer: focus on learning.\u003Cbr\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003EFor\ntoo long an organisation\u2019s knowledge, if it\u2019s captured at all, is wrapped up in\nlong, tough-to-digest documents heavy on text and light on engagement. We all\nknow a picture paints a thousand words, so why don\u2019t we apply that?\u003Cbr\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003EWith Atlas HoverPoint anyone can create\neye-catching and interactive images with clickable regions to super charge\nengagement and add life to your digital workspace.\u003Cbr\u003E\u003C/div\u003E"
+              "\u003Cdiv\u003E\u003Cdiv style=\u0022box-sizing:border-box;\u0022\u003EDriven organizations are always looking at how to improve employee engagement and spread knowledge. Our work with hundreds of companies has led us to a clear, concise answer: focus on learning.\u003Cbr style=\u0022box-sizing:border-box;\u0022\u003E \u003C/div\u003E\u003Cdiv style=\u0022box-sizing:border-box;\u0022\u003E\u003Cbr style=\u0022box-sizing:border-box;\u0022\u003E \u003C/div\u003E\u003Cdiv style=\u0022box-sizing:border-box;\u0022\u003EFor too long an organization\u0027s knowledge, if it\u2019s captured at all, is wrapped up in long, tough-to-digest documents heavy on text and light on engagement. We all know a picture paints a thousand words, so why don\u2019t we apply that?\u003Cbr style=\u0022box-sizing:border-box;\u0022\u003E\u003Cbr style=\u0022box-sizing:border-box;\u0022\u003E \u003C/div\u003E\u003Cdiv style=\u0022box-sizing:border-box;\u0022\u003EWith Atlas HoverPoint anyone can create eye-catching and interactive images with clickable regions to super charge engagement and add life to your digital workspace. \u003C/div\u003E \u003C/div\u003E"
             ]
           },
           {
             "name": "Business need or problem",
             "content": [
-              "\u003Cdiv style=\u0022\u0022\u003E\u003Cul style=\u0022\u0022\u003E\u003Cli style=\u0022\u0022\u003E\u003Cspan style=\u0022text-align:start;display:inline !important;\u0022\u003E\u003Cb\u003EThe onboarding process\u003C/b\u003E\u003Cspan style=\u0022font-weight:inherit;\u0022\u003E as a new starter or stand-in worker may not always be effective.\u003C/span\u003E\u003C/span\u003E\u003C/li\u003E\u003Cli style=\u0022\u0022\u003E\u003Cb\u003ELearning and education\u003C/b\u003E\u003Cspan style=\u0022font-weight:inherit;\u0022\u003E of workers is tricky while working remotely or on the frontline, especially if it is not provided in the person\u2019s first language.\u003C/span\u003E\u003C/li\u003E\u003Cli style=\u0022\u0022\u003E\u003Cb\u003EHealth \u0026amp; Safety compliance\u003C/b\u003E\u003Cspan style=\u0022font-weight:inherit;\u0022\u003E is critical for some sectors - working on a construction site is hazardous and the site changes regularly. \u003C/span\u003E\u003C/li\u003E\u003Cli style=\u0022\u0022\u003E\u003Cb\u003ECostly mistakes or delays\u003C/b\u003E\u003Cspan style=\u0022font-weight:inherit;\u0022\u003E due to construction or maintenance workers not always having the necessary information.\u003C/span\u003E\u003C/li\u003E\u003C/ul\u003E\u003C/div\u003E\u003Cspan style=\u0022font-weight:inherit;\u0022\u003E\u003C/span\u003E"
+              "* \u0026nbsp;The onboarding process as a new starter or stand-in worker may not always be effective.\n\u003Cbr\u003E * \u0026nbsp;Learning and education of workers is tricky while working remotely or on the frontline, especially if it is not provided in the person\u2019s first language.\n\u003Cbr\u003E * \u0026nbsp;Health \u0026amp; Safety compliance is critical for some sectors - working on a construction site is hazardous and the site changes regularly. \n\u003Cbr\u003E * \u0026nbsp;Costly mistakes or delays due to construction or maintenance workers not always having the necessary information."
             ]
           },
           {
             "name": "Business solution",
             "content": [
-              "\u003Cdiv\u003E\u003Cul\u003E\u003Cli\u003EA simple user interface to create and edit, click and\npoint, add your text and save. \u003C/li\u003E\u003Cli\u003EHover with a mouse, click or tap to display rich text\nguides and links to further content (with video coming soon).\u0026nbsp; \u003C/li\u003E\u003Cli\u003EUse icons to add visual cues to content (e.g; power,\nentry/exit points, hazards etc.) \u003C/li\u003E\u003Cli\u003EEmbed within Atlas knowledge pages or MS Teams tabs. \u003C/li\u003E\u003Cli\u003EOptimised for mobile and other devices. \u003C/li\u003E\u003Cli\u003EStore as many images with as many HoverPoints as you\nneed.\u003C/li\u003E\u003C/ul\u003E\u003C/div\u003E"
+              "* \u0026nbsp;A simple user interface to create and edit, click andpoint, add your text and save. \n\u003Cbr\u003E * \u0026nbsp;Hover with a mouse, click or tap to display rich textguides and links to further content (with video coming soon). \u0026nbsp;\n\u003Cbr\u003E * \u0026nbsp;Use icons to add visual cues to content (e.g; power,entry/exit points, hazards etc.) \n\u003Cbr\u003E * \u0026nbsp;Embed within Atlas knowledge pages or MS Teams tabs. \n\u003Cbr\u003E * \u0026nbsp;Optimised for mobile and other devices. \n\u003Cbr\u003E * \u0026nbsp;Store as many images with as many HoverPoints as youneed."
             ]
           },
           {
             "name": "Success factors",
             "content": [
-              "\u003Cul\u003E\u003Cli\u003E\u003Cspan\u003EInformation is more understandable and accessible to all workers\u003C/span\u003E\u003C/li\u003E\u003Cli\u003E\u003Cspan\u003ELess time and resources are wasted by getting the right information to the right people\u003Cbr\u003E\u003C/span\u003E\u003Cspan\u003E\u003C/span\u003E\u003Cbr\u003E\u003C/li\u003E\u003C/ul\u003E"
+              "* \u0026nbsp;Information is more understandable and accessible to all workers\n\u003Cbr\u003E * \u0026nbsp;Less time and resources are wasted by getting the right information to the right people"
             ]
           }
         ],
@@ -55,13 +66,13 @@
           {
             "type": "image",
             "order": 0,
-            "url": "assets/AtlasHoverPoint-1.png",
+            "url": "assets/AtlasHoverPoint-2.png",
             "alt": ""
           },
           {
             "type": "image",
             "order": 1,
-            "url": "assets/AtlasHoverPoint-2.png",
+            "url": "assets/AtlasHoverPoint-1.png",
             "alt": ""
           }
         ],
@@ -76,15 +87,15 @@
               },
               {
                 "url": "https://www.clearpeople.com/atlas-features",
-                "name": "Atlas\nFeatures"
+                "name": "Atlas Features"
               },
               {
                 "url": "https://www.clearpeople.com/success-stories",
-                "name": "Atlas\nCase Study Series"
+                "name": "Atlas Case Study Series"
               },
               {
                 "url": "https://www.clearpeople.com/pricing",
-                "name": "Atlas\nPricing"
+                "name": "Atlas Pricing"
               }
             ]
           }

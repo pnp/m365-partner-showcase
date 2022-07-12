@@ -4,7 +4,12 @@
   "categories": [
     "virtualevents"
   ],
-  "industries": [],
+  "industries": [
+    "Cross-Industry"
+  ],
+  "servicesUsed": [
+    "Teams Live Events"
+  ],
   "sortOrder": 0,
   "preview": false,
   "visible": true,
@@ -15,9 +20,9 @@
   "solutionUrlTitle": "Cyclotron Teams Live Events Support",
   "metadata": {
     "personas": "Internal \u0026 External Attendees;Live Events Producers;Presenters",
-    "solutionTechnologies": "Teams Live Events",
     "businessFunctions": null,
-    "displayPartner": true,
+    "businessValue": "\u003Cdiv\u003EEnables a Customer\u2019s Meetings Production Team to deliver and support Teams Live Events. Provides a repeatable process for delivering Live Events, preparing presenters for the experience, and providing troubleshooting and support during events. \u003C/div\u003E",
+    "displayPartner": false,
     "appSource": null,
     "displayInfo": {
       "default": {
@@ -25,31 +30,31 @@
           {
             "name": "Short description",
             "content": [
-              "\u003Cdiv\u003E\u003Cb\u003ETeams\nLive Events Support Offering\u003C/b\u003E\u003C/div\u003E"
+              "TeamsLive Events Support Offering"
             ]
           },
           {
             "name": "Long description",
             "content": [
-              "\u003Cdiv\u003ECyclotron Training and Support for Teams Live\nEvents. Learn how to Produce, Deliver and Support Teams Live Events.\u003Cbr\u003E\u003C/div\u003E"
+              "\u003Cdiv\u003E\u003Cspan style=\u0022display:inline !important;\u0022\u003ECyclotron Training and Support for Teams Live Events. Learn how to Produce, Deliver and Support Teams Live Events.\u003C/span\u003E\u003Cbr\u003E \u003C/div\u003E"
             ]
           },
           {
             "name": "Business need or problem",
             "content": [
-              "\u003Cdiv\u003EAre\nyou looking to host Teams Live Events for your Corporate Enterprise? Do you\nneed to support a Virtual Conference? \u003Cbr\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003ECyclotron has a focused program to train and\nsupport your Production Team to deliver Teams Live Events.\u003Cbr\u003E\u003C/div\u003E"
+              "\u003Cdiv\u003EAre you looking to host Teams Live Events for your Corporate Enterprise? Do you need to support a Virtual Conference? \n\u003Cbr\u003E \u003C/div\u003E\u003Cbr\u003E\u003Cdiv\u003ECyclotron has a focused program to train and support your Production Team to deliver Teams Live Events. \u003C/div\u003E"
             ]
           },
           {
             "name": "Business solution",
             "content": [
-              "\u003Cdiv\u003ECyclotron has a three session Training Program focused\npreparing your team to run Teams Live Events:\u003C/div\u003E\u003Cdiv\u003E\u003Cul\u003E\u003Cli\u003EPlanning and\nTraining \u003C/li\u003E\u003Cli\u003EHands on\nExperience \u003C/li\u003E\u003Cli\u003EReal Time Support\u003C/li\u003E\u003C/ul\u003E\u003C/div\u003E"
+              "\u003Cdiv\u003ECyclotron has a three session Training Program focused preparing your team to run Teams Live Events:\n\u003Cbr\u003E \u003C/div\u003E\u003Cbr\u003E * \u0026nbsp;Planning andTraining \n\u003Cbr\u003E\u003Cdiv\u003E * \u0026nbsp;Hands on Experience \n\u003Cbr\u003E \u003C/div\u003E * \u0026nbsp;Real Time Support"
             ]
           },
           {
             "name": "Success factors",
             "content": [
-              "\u003Cdiv\u003ECyclotron has supported multiple multi-national\ncorporations and professional organizations to deliver Teams Live Events. Once\ntrained, these organizations have been able to support the ongoing delivery of\nEvents with ease.\u003Cbr\u003E\u003C/div\u003E"
+              "\u003Cdiv\u003ECyclotron has supported multiple multi-national corporations and professional organizations to deliver Teams Live Events. Once trained, these organizations have been able to support the ongoing delivery of Events with ease. \u003C/div\u003E"
             ]
           }
         ],

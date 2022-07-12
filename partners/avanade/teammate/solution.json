@@ -4,7 +4,15 @@
   "categories": [
     "teams"
   ],
-  "industries": [],
+  "industries": [
+    "Banking \u0026 Financial Services",
+    "Healthcare",
+    "Hospitality",
+    "Manufacturing",
+    "Quick Serve Restaurants",
+    "Retail"
+  ],
+  "servicesUsed": [],
   "sortOrder": 0,
   "preview": false,
   "visible": false,
@@ -15,9 +23,9 @@
   "solutionUrlTitle": "Teammate",
   "metadata": {
     "personas": "Front Line Worker;Manager",
-    "solutionTechnologies": null,
     "businessFunctions": "Business Operations;Corporate Communications;Human Resources",
-    "displayPartner": true,
+    "businessValue": "Employeewell-being and engagement\n\u003Cbr\u003E\n\u003Cbr\u003E * \u0026nbsp;Reassureemployees with a strong commitment to security and safety.\n\u003Cbr\u003E * \u0026nbsp;Providetools to maintain their health and well-being.\n\u003Cbr\u003E * \u0026nbsp;CaptureFLW feedback and build business agility to support the new normal.\n\u003Cbr\u003E\n\u003Cbr\u003ELearning and tasks\n\u003Cbr\u003E\n\u003Cbr\u003E * \u0026nbsp;Optimizeactivities to focus on an agile business.\n\u003Cbr\u003E * \u0026nbsp;Instantlyaccessible for the employee.\n\u003Cbr\u003E * \u0026nbsp;Trainworkers in automated activities to enable fast adaptation to changing needs.\n\u003Cbr\u003E\n\u003Cbr\u003ECommunication and culture\n\u003Cbr\u003E\n\u003Cbr\u003E * \u0026nbsp;Connect toteams and the broader organization in real-time.\n\u003Cbr\u003E * \u0026nbsp;Promoteyour company culture and increase employee engagement.\n\u003Cbr\u003E * \u0026nbsp;Facilitateongoing communication between employees, customers and partners.",
+    "displayPartner": false,
     "appSource": null,
     "displayInfo": {
       "default": {
@@ -33,19 +41,19 @@
           {
             "name": "Business need or problem",
             "content": [
-              "\u003Cdiv\u003E\u003Cp style=\u0022margin:0in 0in 8pt;font-size:11pt;font-family:\u0026quot;Segoe UI\u0026quot;, sans-serif;\u0022\u003E\u003Cspan lang=EN-GB\u003EFrontline work is proving to be challenging.\nWorkers and working practices are disconnected from other teams and the wider company.\u003Cspan style=\u0022\u0022\u003E\u0026nbsp; \u003C/span\u003EWhile outdated, obsolete tools and processes\ncreate inefficient communication and collaboration.\u003Cspan style=\u0022\u0022\u003E\u0026nbsp; \u003C/span\u003EThis makes cascading information,\ninstructions, tasks and policy changes difficult to scale, validate and capture\nfeedback.\u003C/span\u003E\u003C/p\u003E\u003Cp style=\u0022margin:0in 0in 8pt;font-size:11pt;font-family:\u0026quot;Segoe UI\u0026quot;, sans-serif;\u0022\u003E\u003Cspan lang=EN-GB\u003ECompounding the problem is that corporate\nfunctions have no visibility into the efficacy of these communications, while\nfrontline workers are often the last to receive information and resources.\u003Cspan style=\u0022\u0022\u003E\u0026nbsp; \u003C/span\u003EOnboarding and training requirements become\nmore cumbersome and manual and security practices and governance are uneven.\u003Cbr style=\u0022\u0022\u003E\u003Cbr style=\u0022\u0022\u003E\u003C/span\u003E\u003C/p\u003E\u003Cp style=\u0022margin:0in 0in 8pt;font-size:11pt;font-family:\u0026quot;Segoe UI\u0026quot;, sans-serif;\u0022\u003E\u003Cspan lang=EN-GB\u003EThe net result is workers are isolated and\nanxious; agility is constrained.\u003Cspan style=\u0022\u0022\u003E\u0026nbsp; \u003C/span\u003EFirstline\nworkers are (like many other employee groups) anxious about their health. Is\ntheir employer doing enough to look after them (and customers)? \u003Cspan style=\u0022\u0022\u003E\u0026nbsp;\u003C/span\u003EMeanwhile, the business needs to evolve, to be\nmore agile, to be ready to adapt to change.\u003Cspan style=\u0022\u0022\u003E\u0026nbsp;\n\u003C/span\u003EThis necessitates a digital transformation to enable a more dynamic model,\nvital to survive and thrive in today (and tomorrow)\u2019s business. Getting buy-in\nfrom the firstline worker community \u2013 the backbone of the company \u2013 on this journey\nis key to success.\u003C/span\u003E\u003C/p\u003E\u003C/div\u003E"
+              "Frontline work is proving to be challenging.Workers and working practices are disconnected from other teams and the wider company. \u0026nbsp;While outdated, obsolete tools and processescreate inefficient communication and collaboration. \u0026nbsp;This makes cascading information,instructions, tasks and policy changes difficult to scale, validate and capturefeedback.\n\u003Cbr\u003ECompounding the problem is that corporatefunctions have no visibility into the efficacy of these communications, whilefrontline workers are often the last to receive information and resources. \u0026nbsp;Onboarding and training requirements becomemore cumbersome and manual and security practices and governance are uneven.\n\u003Cbr\u003E\n\u003Cbr\u003EThe net result is workers are isolated andanxious; agility is constrained. \u0026nbsp;Firstlineworkers are (like many other employee groups) anxious about their health. Istheir employer doing enough to look after them (and customers)? \u0026nbsp;Meanwhile, the business needs to evolve, to bemore agile, to be ready to adapt to change. This necessitates a digital transformation to enable a more dynamic model,vital to survive and thrive in today (and tomorrow)\u2019s business. Getting buy-infrom the firstline worker community \u2013 the backbone of the company \u2013 on this journeyis key to success."
             ]
           },
           {
             "name": "Business solution",
             "content": [
-              "\u003Cdiv\u003E\u003Cp style=\u0022margin:0in 0in 8pt;font-size:11pt;font-family:\u0026quot;Segoe UI\u0026quot;, sans-serif;\u0022\u003E\u003Cspan lang=EN-GB\u003EIntroducing Avanade WX Teammate! Teammate\nchanges the way organizations engage with their teams and frontline workers, by\nenabling consistent communication, protecting health and well-being, and providing\na personalized view of tasks.\u003Cspan style=\u0022\u0022\u003E\u0026nbsp; \u003C/span\u003ETeammate\nhelps organizations to increase engagement and morale as well as improving the\noverall employee experience.\u003Cspan style=\u0022\u0022\u003E\u0026nbsp; \u003C/span\u003ETeammate\nalso provides the platform to enable change, helping an organization capitalize\non the fast-evolving environments and react\u0026nbsp;to business strategies and dynamics\nquicker and more consistently.\u003C/span\u003E\u003C/p\u003E\u003Cp style=\u0022margin:0in 0in 8pt;font-size:11pt;font-family:\u0026quot;Segoe UI\u0026quot;, sans-serif;\u0022\u003E\u003Cb\u003E\u003Cspan lang=EN-GB\u003EA flexible, extensible platform\u003C/span\u003E\u003C/b\u003E\u003C/p\u003E\u003Cp style=\u0022margin:0in 0in 8pt;font-size:11pt;font-family:\u0026quot;Segoe UI\u0026quot;, sans-serif;\u0022\u003E\u003Cspan lang=EN-GB\u003EBuilt on the Microsoft Teams platform, Teammate\nsupports integration with many necessary components, including workforce and\nlearning management systems, HR \u0026amp; personnel systems, and the IT \u0026amp; facilities\nservice desks.\u003Cspan style=\u0022\u0022\u003E\u0026nbsp; \u003C/span\u003EFor example, Teammate\nprovides easy access to key third party systems like Service Desk, HR systems and\nCRM platforms \u2013 enabling the individual to quickly (and seamlessly) access the\nnecessary systems without context or the need to switch to another platform.\u003C/span\u003E\u003C/p\u003E\u003Cp style=\u0022margin:0in 0in 8pt;font-size:11pt;font-family:\u0026quot;Segoe UI\u0026quot;, sans-serif;\u0022\u003E\u003Cspan lang=EN-GB\u003EThrough the Microsoft Teams framework and\nMicrosoft Graph, AI and virtual assistants can augment an individual worker\u2019s role,\nas well as delivering analytics and insight for the organization.\u0026nbsp;\u0026nbsp;\u0026nbsp;\u003C/span\u003E\u003C/p\u003E\u003Cp style=\u0022margin:0in 0in 8pt;font-size:11pt;font-family:\u0026quot;Segoe UI\u0026quot;, sans-serif;\u0022\u003E\u003Cspan lang=EN-GB\u003ETeammate is provided in a Solution as a\nService (SaaS) service model, which brings a consumption-based model across Avanade\u2019s\nglobal managed services capability, encompassing our skills and experience in\nagile design, UX, and the Microsoft ecosystem.\u0026nbsp;\u003C/span\u003E\u003C/p\u003E\u003Cp style=\u0022margin:0in 0in 8pt;font-size:11pt;font-family:\u0026quot;Segoe UI\u0026quot;, sans-serif;\u0022\u003E\u003Cb\u003E\u003Cspan lang=EN-GB\u003EBenefitting employees\u003C/span\u003E\u003C/b\u003E\u003Cb\u003E\u003Cspan style=\u0022\u0022\u003E\u003C/span\u003E\u003C/b\u003E\u003C/p\u003E\u003Cp style=\u0022margin:0in 0in 8pt;font-size:11pt;font-family:\u0026quot;Segoe UI\u0026quot;, sans-serif;\u0022\u003E\u003Cspan lang=EN-GB\u003EFrontline workers gain easy access to the\ninformation needed. They can manage shifts, track tasks, follow the latest\ncorporate communications and social media or connect easily with HR, IT or\nfacilities \u2013 all from one app.\u003Cspan style=\u0022\u0022\u003E\u0026nbsp; \u003C/span\u003EMeanwhile,\nthey can rest assured that Teammate is also keeping their health and well-being\nfront and centre.\u003Cspan style=\u0022\u0022\u003E\u0026nbsp; \u003C/span\u003E\u003C/span\u003E\u003Cspan style=\u0022\u0022\u003E\u003C/span\u003E\u003C/p\u003E\u003Cp style=\u0022margin:0in 0in 8pt;font-size:11pt;font-family:\u0026quot;Segoe UI\u0026quot;, sans-serif;\u0022\u003E\u003Cb\u003E\u003Cspan lang=EN-GB\u003EBenefitting the organization\u003C/span\u003E\u003C/b\u003E\u003Cb\u003E\u003Cspan style=\u0022\u0022\u003E\u003C/span\u003E\u003C/b\u003E\u003C/p\u003E\u003Cp style=\u0022margin:0in 0in 8pt;font-size:11pt;font-family:\u0026quot;Segoe UI\u0026quot;, sans-serif;\u0022\u003E\u003Cspan lang=EN-GB\u003ECapitalize on a simpler, quicker way to cascade\nnews, updates, tasks, or training requirements. Gain improved visibility over shift\nand task management as well as insight into performance and compliance.\u003C/span\u003E\u003Cspan style=\u0022\u0022\u003E\u003C/span\u003E\u003C/p\u003E\u003Cbr\u003E\u003C/div\u003E"
+              "Introducing Avanade WX Teammate! Teammatechanges the way organizations engage with their teams and frontline workers, byenabling consistent communication, protecting health and well-being, and providinga personalized view of tasks. \u0026nbsp;Teammatehelps organizations to increase engagement and morale as well as improving theoverall employee experience. \u0026nbsp;Teammatealso provides the platform to enable change, helping an organization capitalizeon the fast-evolving environments and react to business strategies and dynamicsquicker and more consistently.\n\u003Cbr\u003EA flexible, extensible platform\n\u003Cbr\u003EBuilt on the Microsoft Teams platform, Teammatesupports integration with many necessary components, including workforce andlearning management systems, HR \u0026amp; personnel systems, and the IT \u0026amp; facilitiesservice desks. \u0026nbsp;For example, Teammateprovides easy access to key third party systems like Service Desk, HR systems andCRM platforms \u2013 enabling the individual to quickly (and seamlessly) access thenecessary systems without context or the need to switch to another platform.\n\u003Cbr\u003EThrough the Microsoft Teams framework andMicrosoft Graph, AI and virtual assistants can augment an individual worker\u2019s role,as well as delivering analytics and insight for the organization. \u0026nbsp;\n\u003Cbr\u003ETeammate is provided in a Solution as aService (SaaS) service model, which brings a consumption-based model across Avanade\u2019sglobal managed services capability, encompassing our skills and experience inagile design, UX, and the Microsoft ecosystem.\n\u003Cbr\u003EBenefitting employees\n\u003Cbr\u003EFrontline workers gain easy access to theinformation needed. They can manage shifts, track tasks, follow the latestcorporate communications and social media or connect easily with HR, IT orfacilities \u2013 all from one app. \u0026nbsp;Meanwhile,they can rest assured that Teammate is also keeping their health and well-beingfront and centre. \u0026nbsp;\n\u003Cbr\u003EBenefitting the organization\n\u003Cbr\u003ECapitalize on a simpler, quicker way to cascadenews, updates, tasks, or training requirements. Gain improved visibility over shiftand task management as well as insight into performance and compliance."
             ]
           },
           {
             "name": "Success factors",
             "content": [
-              "\u003Cp style=\u0022margin:0in 0in 8pt;font-size:11pt;font-family:\u0026quot;Segoe UI\u0026quot;, sans-serif;\u0022\u003E\u003Cspan lang=EN-GB\u003EDeveloped with specific Customers / Use\nCases and updated regularly to respond to constantly evolving FLW situation and\npriorities.\u003C/span\u003E\u003C/p\u003E"
+              "Developed with specific Customers / UseCases and updated regularly to respond to constantly evolving FLW situation andpriorities."
             ]
           }
         ],
@@ -54,16 +62,7 @@
           {
             "name": "Resources",
             "description": "Possible html supported text shown just above the list of links",
-            "items": [
-              {
-                "url": "https://msgtm.azurewebsites.net/en-US/Solutions/Solution/27e798e7-e272-e711-80f1-3863bb3c06a0/6cb3fef5-b2fb-ea11-a815-000d3a36880e",
-                "name": "A"
-              },
-              {
-                "url": "https://appsource.microsoft.com/en-us/marketplace/co-sell/SOL-60184-ZLT",
-                "name": "App results \u2013 Microsoft AppSource"
-              }
-            ]
+            "items": []
           }
         ]
       }

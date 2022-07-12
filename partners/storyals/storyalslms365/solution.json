@@ -4,7 +4,14 @@
   "categories": [
     "learningpathways"
   ],
-  "industries": [],
+  "industries": [
+    "Cross-Industry"
+  ],
+  "servicesUsed": [
+    "SharePoint API",
+    "SharePoint sites",
+    "SPFx"
+  ],
   "sortOrder": 0,
   "preview": false,
   "visible": true,
@@ -15,9 +22,9 @@
   "solutionUrlTitle": "Storyals LMS365",
   "metadata": {
     "personas": "Information Workers",
-    "solutionTechnologies": "SharePoint API;SharePoint sites;SPFx",
     "businessFunctions": null,
-    "displayPartner": true,
+    "businessValue": "WithStoryals LMS365 organizations get an end-to-end solution to accelerate digitaladoption and promote continuous learning and development. Digital training atyour fingertips, accessible at any time, and new insights that can be applieddirectly on the job. Tools to assign learning content, send gentle reminders,and reward users with personalized completion certificates. \n\u003Cbr\u003E\n\u003Cbr\u003EBy creating a culture of continuous learning anddevelopment will improve productivity, enhance employee retention and - withouta doubt, create a happier and more competent workforce!",
+    "displayPartner": false,
     "appSource": null,
     "displayInfo": {
       "default": {
@@ -25,31 +32,31 @@
           {
             "name": "Short description",
             "content": [
-              "\u003Cdiv\u003EA full-fledged digital\nlearning solution filled with engaging content to drive digital transformation.\u003C/div\u003E"
+              "A full-fledged digitallearning solution filled with engaging content to drive digital transformation."
             ]
           },
           {
             "name": "Long description",
             "content": [
-              "\u003Cdiv\u003EStoryals\u0026nbsp;LMS365\u0026nbsp;will unlock the full potential or your\ndigital workplace and create a full learning experience for all your employees.\nGet Storyals\u2019 unique learning\ncontent of on-demand\u0026nbsp;training and\u0026nbsp;story-based\u0026nbsp;tutorials\u0026nbsp;on\nhow to work smarter\u0026nbsp;with digital tools in Microsoft 365 and make your\nemployees digital champions. Unleash the creativity of your own\nworkforce and provide them the ability to create their own courses in full\ncapacity of LMS365.\u003C/div\u003E"
+              "\u003Cdiv\u003E\u003Cspan style=\u0022display:inline !important;\u0022\u003EStoryals\u0026nbsp;LMS365\u0026nbsp;will unlock the full potential or your digital workplace and create a full learning experience for all your employees. Get Storyals\u2019 unique learning content of on-demand\u0026nbsp;training and\u0026nbsp;story-based\u0026nbsp;tutorials\u0026nbsp;on how to work smarter\u0026nbsp;with digital tools in Microsoft 365 and make your employees digital champions. Unleash the creativity of your own workforce and provide them the ability to create their own courses in full capacity of LMS365.\u003C/span\u003E\u003Cbr\u003E \u003C/div\u003E"
             ]
           },
           {
             "name": "Business need or problem",
             "content": [
-              "\u003Cdiv\u003EUsers\ntoday are overwhelmed with the many modern tools that Microsoft 365\nprovides.\u202FIt\u2019s\u202Fdifficult for organizations to provide their employees with the\nnecessary\u202Flearning\u202Frequired\u202Ffor users to use these tools in an effective\nmanner.\u202FClassroom based training, carried out a couple of times a year, is no\nlonger\u202Fsufficient\u202Fto keep users trained\u202Fwith\u202Fthe constant changes and updates\nof today\u0027s modern tools.\u202F\u202F\u0026nbsp;\u003C/div\u003E\u003Cdiv\u003E\u0026nbsp;\u003C/div\u003E\u003Cdiv\u003EMany\nusers are stuck in traditional ways of working and\u202Fdon\u2019t\u202Falways welcome\nchange.\u202FThey need to be made aware of the benefits and understand why they\nshould change\u202Ftheir\u202Fbehavior,\u202Fin\u202Faddition to how to\u202Fuse the tools to\u202Fdo it.\u202F\u202F\u0026nbsp;\u003C/div\u003E\u003Cdiv\u003E\u0026nbsp;\u003C/div\u003E\u003Cdiv\u003EIn\naddition to providing users with the necessary coaching and guidance, change\nmanagement leaders need tools to assign, track and follow up on end user\nlearning. In addition to providing users with engaging learning on what is\npossible with the many tools in Microsoft 365, it\u2019s also imperative to provide\nusers with other type of digital learning \u2013 from health and safety\ninstructions, to employee policies. \u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E\u003C/div\u003E"
+              "Userstoday are overwhelmed with the many modern tools that Microsoft 365provides.\u202FIt\u2019s\u202Fdifficult for organizations to provide their employees with thenecessary\u202Flearning\u202Frequired\u202Ffor users to use these tools in an effectivemanner.\u202FClassroom based training, carried out a couple of times a year, is nolonger\u202Fsufficient\u202Fto keep users trained\u202Fwith\u202Fthe constant changes and updatesof today\u0027s modern tools.\u202F\u202F\n\u003Cbr\u003E\n\u003Cbr\u003EManyusers are stuck in traditional ways of working and\u202Fdon\u2019t\u202Falways welcomechange.\u202FThey need to be made aware of the benefits and understand why theyshould change\u202Ftheir\u202Fbehavior,\u202Fin\u202Faddition to how to\u202Fuse the tools to\u202Fdo it.\u202F\u202F\n\u003Cbr\u003E\n\u003Cbr\u003EInaddition to providing users with the necessary coaching and guidance, changemanagement leaders need tools to assign, track and follow up on end userlearning. In addition to providing users with engaging learning on what ispossible with the many tools in Microsoft 365, it\u2019s also imperative to provideusers with other type of digital learning \u2013 from health and safetyinstructions, to employee policies."
             ]
           },
           {
             "name": "Business solution",
             "content": [
-              "\u003Cdiv\u003EStoryals\u0026nbsp;LMS365\u0026nbsp;is designed for\u0026nbsp;organizations\u0026nbsp;looking\nfor\u0026nbsp;a full-fledged learning solution filled with engaging content on\nMicrosoft 365 to drive digital transformation \u2013 as well as a rich platform to\nprovide users with broad digital learning.  \u003C/div\u003E\u003Cdiv\u003E\u0026nbsp; \u003C/div\u003E\u003Cdiv\u003EStoryals LMS365\noffers the full power of LMS365, allowing you to\ncreate and manage your own courses, both digital and traditional classroom\ntraining. It also provides\u0026nbsp;employees with\u0026nbsp;Storyals unique story-based\nlearning content and adoption tools.  \u003C/div\u003E\u003Cdiv\u003E\u0026nbsp; \u003C/div\u003E\u003Cdiv\u003E\u003Cb\u003EStory-based learning\ncontent\u003C/b\u003E \u003C/div\u003E\u003Cdiv\u003EWith\u0026nbsp;Storyals\u0026nbsp;LMS365,\nusers are provided with\u0026nbsp;self-paced, high-quality training videos and\nstory-based tutorials.\u0026nbsp;\u0026nbsp;The\u0026nbsp;on-demand\u0026nbsp;videos\nfrom\u0026nbsp;Storyals\u0026nbsp;focus on \u201Cwhat you need to know\u201D to work effectively\nusing modern digital tools.\u0026nbsp;Users have access to a selected number of\nlearning\u0026nbsp;topics,\u0026nbsp;each covering various apps and features. All\nlearning topics highlight digital workplace best practices and feature\nreal-world scenarios and are continuously\u0026nbsp;updated\u0026nbsp;and maintained\nby\u0026nbsp;Storyals.\u0026nbsp;To further strengthen understanding, each topic includes\na quiz with situational-based questions.\u0026nbsp;The solution also includes\n\u201Chow-to\u201D videos from Microsoft via Microsoft Learning Pathways.\u0026nbsp;\u0026nbsp;\u0026nbsp; \u003C/div\u003E\u003Cdiv\u003E\u0026nbsp; \u003C/div\u003E\u003Cdiv\u003E\u003Cb\u003EA\nrich digital learning management solution\u003C/b\u003E \u003C/div\u003E\u003Cdiv\u003EThe\nLMS365 learning management system is built for Microsoft 365. It is\u0026nbsp;fully integrated\u0026nbsp;with\nMicrosoft Teams, SharePoint and Active Directory\u0026nbsp;for\u0026nbsp;users\u0026nbsp;to\u0026nbsp;have\u0026nbsp;easy\u0026nbsp;access\nthrough their own digital workplace.  \u003C/div\u003E\u003Cdiv\u003E\u0026nbsp;\u0026nbsp; \u003C/div\u003E\u003Cdiv\u003E\u003Cb\u003EWith\u0026nbsp;Storyals\u0026nbsp;LMS365 you get:\u0026nbsp;\u003C/b\u003E \u003C/div\u003E\u003Cdiv\u003E\u0026nbsp; \u003C/div\u003E\u003Cdiv\u003E\u003Cb\u003ELearning content:\u202F\u202F\u0026nbsp;\u003C/b\u003E \u003C/div\u003E\u003Cdiv\u003E\u003Cul\u003E\u003Cli\u003E\u003Cspan style=\u0022\u0022\u003EA great looking SharePoint site\u003C/span\u003E\u003Cspan style=\u0022\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003Cspan style=\u0022\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003C/li\u003E\u003Cli\u003E\u003Cspan style=\u0022\u0022\u003EAccess to all\u003C/span\u003E\u003Cspan style=\u0022\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003Cspan style=\u0022\u0022\u003EStoryals\u003C/span\u003E\u003Cspan style=\u0022\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003Cspan style=\u0022\u0022\u003Etopics\u003C/span\u003E\u003Cspan style=\u0022\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003Cspan style=\u0022\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003C/li\u003E\u003Cli\u003E\u003Cspan style=\u0022\u0022\u003EContinuous video updates\u003C/span\u003E\u003Cspan style=\u0022\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003Cspan style=\u0022\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003C/li\u003E\u003Cli\u003E\u003Cspan style=\u0022\u0022\u003EQuizzes to strengthen\u003C/span\u003E\u003Cspan style=\u0022\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003Cspan style=\u0022\u0022\u003Eunderstanding\u003C/span\u003E\u003Cspan style=\u0022\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003Cspan style=\u0022\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003C/li\u003E\u003Cli\u003E\u003Cspan style=\u0022\u0022\u003EPersonalized completion certificates\u0026nbsp;\u0026nbsp;\u003C/span\u003E\u003C/li\u003E\u003Cli\u003E\u003Cspan style=\u0022\u0022\u003EMicrosoft 365 Learning Pathways\u003C/span\u003E\u003Cspan style=\u0022\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003Cspan style=\u0022\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003C/li\u003E\u003Cli\u003E\u003Cspan style=\u0022\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003C/li\u003E\u003C/ul\u003E\u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E\u003Cdiv\u003E\u003Cb\u003EDigital learning tools:\u202F\u202F\u0026nbsp;\u003C/b\u003E \u003C/div\u003E\u003Cdiv\u003E\u003Cul\u003E\u003Cli\u003ELMS365 for\nbroad learning \u003C/li\u003E\u003Cli\u003ELMS365 Teams app\u0026nbsp;\u0026nbsp;\u003C/li\u003E\u003Cli\u003EAnywhere access via mobile app\u0026nbsp;\u0026nbsp;\u003C/li\u003E\u003Cli\u003EProfessional support and maintenance\u0026nbsp;\u0026nbsp;\u202F\u202F\u0026nbsp;\u003C/li\u003E\u003Cli\u003EProvide personalized\u0026nbsp;dashboards\u0026nbsp;\u003C/li\u003E\u003Cli\u003EAssign learning topics to\u0026nbsp;users\u0026nbsp;\u003C/li\u003E\u003Cli\u003ELearner\nprogress reports\u0026nbsp;\u003C/li\u003E\u003C/ul\u003E \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E\u003Cdiv\u003E\u0026nbsp; \u003C/div\u003E\u003Cdiv\u003E\u003Cb\u003EAbility\nto: \u003C/b\u003E \u003C/div\u003E\u003Cdiv\u003E\u003Cul\u003E\u003Cli\u003ECreate\nyour own courses\u003C/li\u003E\u003Cli\u003ECreate\nyour own training plans\u003C/li\u003E\u003Cli\u003EHave\nunlimited course catalogs\u003C/li\u003E\u003Cli\u003E\u003Cspan style=\u0022\u0022\u003EManage\nclassroom-based training\u003C/span\u003E\u003C/li\u003E\u003Cli\u003EGet\nrich reports with learner progress\u003C/li\u003E\u003Cli\u003EVisualize\nlearning data with Power BI\u003C/li\u003E\u003C/ul\u003E\u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E"
+              "Storyals LMS365 is designed for organizations lookingfor a full-fledged learning solution filled with engaging content onMicrosoft 365 to drive digital transformation \u2013 as well as a rich platform toprovide users with broad digital learning. \u0026nbsp;\n\u003Cbr\u003E \u0026nbsp;\n\u003Cbr\u003EStoryals LMS365offers the full power of LMS365, allowing you tocreate and manage your own courses, both digital and traditional classroomtraining. It also provides employees with Storyals unique story-basedlearning content and adoption tools. \u0026nbsp;\n\u003Cbr\u003E \u0026nbsp;\n\u003Cbr\u003EStory-based learningcontent \n\u003Cbr\u003EWith Storyals LMS365,users are provided with self-paced, high-quality training videos andstory-based tutorials. \u0026nbsp;The on-demand videosfrom Storyals focus on \u201Cwhat you need to know\u201D to work effectivelyusing modern digital tools. Users have access to a selected number oflearning topics, each covering various apps and features. Alllearning topics highlight digital workplace best practices and featurereal-world scenarios and are continuously updated and maintainedby Storyals. To further strengthen understanding, each topic includesa quiz with situational-based questions. The solution also includes\u201Chow-to\u201D videos from Microsoft via Microsoft Learning Pathways. \u0026nbsp;\u0026nbsp;\u0026nbsp;\n\u003Cbr\u003E \u0026nbsp;\n\u003Cbr\u003EArich digital learning management solution \n\u003Cbr\u003ETheLMS365 learning management system is built for Microsoft 365. It is fully integrated withMicrosoft Teams, SharePoint and Active Directory for users to have easy accessthrough their own digital workplace. \u0026nbsp;\n\u003Cbr\u003E \u0026nbsp;\u0026nbsp;\n\u003Cbr\u003EWith Storyals LMS365 you get: \u0026nbsp;\n\u003Cbr\u003E \u0026nbsp;\n\u003Cbr\u003ELearning content:\u202F\u202F \u0026nbsp;\n\u003Cbr\u003E\n\u003Cbr\u003E * \u0026nbsp;A great looking SharePoint site \n\u003Cbr\u003E * \u0026nbsp;Access to all Storyals topics \n\u003Cbr\u003E * \u0026nbsp;Continuous video updates \n\u003Cbr\u003E * \u0026nbsp;Quizzes to strengthen understanding \n\u003Cbr\u003E * \u0026nbsp;Personalized completion certificates \n\u003Cbr\u003E * \u0026nbsp;Microsoft 365 Learning Pathways \n\u003Cbr\u003E * \u0026nbsp;\n\u003Cbr\u003E\n\u003Cbr\u003E \n\u003Cbr\u003EDigital learning tools:\u202F\u202F \u0026nbsp;\n\u003Cbr\u003E\n\u003Cbr\u003E * \u0026nbsp;LMS365 forbroad learning \n\u003Cbr\u003E * \u0026nbsp;LMS365 Teams app \n\u003Cbr\u003E * \u0026nbsp;Anywhere access via mobile app \n\u003Cbr\u003E * \u0026nbsp;Professional support and maintenance \u0026nbsp;\u202F\u202F\n\u003Cbr\u003E * \u0026nbsp;Provide personalized dashboards\n\u003Cbr\u003E * \u0026nbsp;Assign learning topics to users\n\u003Cbr\u003E * \u0026nbsp;Learnerprogress reports\n\u003Cbr\u003E\n\u003Cbr\u003E \n\u003Cbr\u003E \n\u003Cbr\u003E \n\u003Cbr\u003E \u0026nbsp;\n\u003Cbr\u003EAbilityto: \u0026nbsp;\n\u003Cbr\u003E\n\u003Cbr\u003E * \u0026nbsp;Createyour own courses\n\u003Cbr\u003E * \u0026nbsp;Createyour own training plans\n\u003Cbr\u003E * \u0026nbsp;Haveunlimited course catalogs\n\u003Cbr\u003E * \u0026nbsp;Manageclassroom-based training\n\u003Cbr\u003E * \u0026nbsp;Getrich reports with learner progress\n\u003Cbr\u003E * \u0026nbsp;Visualizelearning data with Power BI"
             ]
           },
           {
             "name": "Success factors",
             "content": [
-              "\u003Cdiv\u003ETo\nsucceed with digital workplace adoption and broad digital learning using\nStoryals LMS365, your IT department or IT-hosting provider needs to be\ninvolved.\u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003EWith\nStoryals LMS365 learning content is made available to end users via SharePoint,\nTeams or via a mobile app. Storyals LMS365 leverages the learning management\nsolution LMS365 and Microsoft 365 Learning Pathways to provide \u201Chow-to\u201D videos\nto end users.\u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003EWe know that to be successful in driving\nadoption and broad learning, it is vital to have the support of management and\nother key stakeholders. We recommend you make a plan for how to roll out the learning\nsolution to end-users in order to get everyone on-board. Storyals Adoption\nExperts are happy to help you with this.\u003Cbr\u003E\u003C/div\u003E"
+              "Tosucceed with digital workplace adoption and broad digital learning usingStoryals LMS365, your IT department or IT-hosting provider needs to beinvolved.\n\u003Cbr\u003E\n\u003Cbr\u003EWithStoryals LMS365 learning content is made available to end users via SharePoint,Teams or via a mobile app. Storyals LMS365 leverages the learning managementsolution LMS365 and Microsoft 365 Learning Pathways to provide \u201Chow-to\u201D videosto end users.\n\u003Cbr\u003E\n\u003Cbr\u003EWe know that to be successful in drivingadoption and broad learning, it is vital to have the support of management andother key stakeholders. We recommend you make a plan for how to roll out the learningsolution to end-users in order to get everyone on-board. Storyals AdoptionExperts are happy to help you with this."
             ]
           }
         ],
@@ -57,19 +64,19 @@
           {
             "type": "image",
             "order": 0,
-            "url": "assets/4. Storyals LMS365 learning topi.png",
+            "url": "assets/1. Storyals LMS365 featured image.png",
             "alt": ""
           },
           {
             "type": "image",
             "order": 1,
-            "url": "assets/3. Storyals LMS365 Course Catalog.png",
+            "url": "assets/6. Storyals LMS365  LMS365 in Teams.png",
             "alt": ""
           },
           {
             "type": "image",
             "order": 2,
-            "url": "assets/6. Storyals LMS365  LMS365 in Teams.png",
+            "url": "assets/3. Storyals LMS365 Course Catalog.png",
             "alt": ""
           },
           {
@@ -81,7 +88,7 @@
           {
             "type": "image",
             "order": 4,
-            "url": "assets/7.  Storyals LMS365 Learner progress reporting.png",
+            "url": "assets/4. Storyals LMS365 learning topi.png",
             "alt": ""
           },
           {
@@ -93,7 +100,7 @@
           {
             "type": "image",
             "order": 6,
-            "url": "assets/1. Storyals LMS365 featured image.png",
+            "url": "assets/7.  Storyals LMS365 Learner progress reporting.png",
             "alt": ""
           }
         ],

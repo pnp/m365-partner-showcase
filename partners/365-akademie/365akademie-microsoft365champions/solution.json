@@ -4,20 +4,27 @@
   "categories": [
     "learningpathways"
   ],
-  "industries": [],
+  "industries": [
+    "Cross-Industry"
+  ],
+  "servicesUsed": [
+    "Microsoft Teams",
+    "SharePoint sites",
+    "SPFx"
+  ],
   "sortOrder": 0,
   "preview": false,
   "visible": true,
   "solutionLogoPicture": null,
   "solutionLogoPictureAlt": "",
-  "solutionName": "Microsoft 365 Champions \u2013 Modern Workplace Community ",
+  "solutionName": "Microsoft 365 Champions \u2013 Modern Workplace Community",
   "solutionUrl": "https://www.365akademie.de/champions-community/",
-  "solutionUrlTitle": "Microsoft 365 Champions \u2013 Modern Workplace Community ",
+  "solutionUrlTitle": "Microsoft 365 Champions \u2013 Modern Workplace Community",
   "metadata": {
     "personas": "Microsoft 365 User",
-    "solutionTechnologies": "Microsoft Teams;SharePoint sites;Stream",
     "businessFunctions": null,
-    "displayPartner": true,
+    "businessValue": "The integration of the learning videos into Microsoft Teams drives Adoption and helps your organization to achieve more. \u0026nbsp;\n\u003Cbr\u003E \n\u003Cbr\u003E\n\u003Cbr\u003E \n\u003Cbr\u003EThe usage of all the Microsoft 365 Apps increases. Social learning helps users to learn self-organized. This reduces the technical support and gives more room for innovation.",
+    "displayPartner": false,
     "appSource": null,
     "displayInfo": {
       "default": {
@@ -25,31 +32,31 @@
           {
             "name": "Short description",
             "content": [
-              "\u003Cdiv\u003ECreate an organization wide Microsoft 365 Champions \u2013 Modern Workplace Community and keep\u0026nbsp;all of\u0026nbsp;your employees informed.\u0026nbsp;  \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E"
+              "Create an organization wide Microsoft 365 Champions \u2013 Modern Workplace Community and keep all of your employees informed."
             ]
           },
           {
             "name": "Long description",
             "content": [
-              "\u003Cdiv\u003EAll the learning services the 365 Akademie offers fit perfectly into your Microsoft 365 Champions \u2013 Modern Workplace Community. The 365 Akademie helps you to build a\u0026nbsp;place for\u0026nbsp;social learning in Microsoft Teams.\u0026nbsp; \u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E"
+              "\u003Cdiv\u003E\u003Cspan style=\u0022display:inline !important;\u0022\u003EAll the learning services the 365 Akademie offers fit perfectly into your Microsoft 365 Champions \u2013 Modern Workplace Community. The 365 Akademie helps you to build a\u0026nbsp;place for\u0026nbsp;social learning in Microsoft Teams.\u0026nbsp;\u003C/span\u003E\u003Cbr\u003E \u003C/div\u003E"
             ]
           },
           {
             "name": "Business need or problem",
             "content": [
-              "\u003Cdiv\u003E\u003Cfont face=\u0022Calibri, sans-serif\u0022\u003E\u003Cspan style=\u0022font-size:10pt;\u0022\u003E\u003C/span\u003E\u003C/font\u003E\u003C/div\u003E\u003Cdiv\u003E\u003Cdiv\u003EThere are a lot of sources\u0026nbsp;for\u0026nbsp;information regarding Microsoft 365. But how do the users know about the right ones for their specific job and the Microsoft 365 environment at your\u0026nbsp;organization.\u0026nbsp;Microsoft 365 looks different in different organizations.\u0026nbsp;\u0026nbsp; \u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E\u003Cdiv\u003EUsers are overwhelmed with all the digital tools and features Microsoft 365 provides. They do not welcome change and stick to their \u201Cbusiness as usual\u201D. The users\u0026nbsp;must\u0026nbsp;be informed of the changes, new features and the benefits.\u0026nbsp; \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E\u003Cdiv\u003EThe users do not like to ask how you use the digital tools or on the other hand overrun the technical support with the same questions.\u0026nbsp;\u003C/div\u003E\u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E"
+              "There are a lot of sources for information regarding Microsoft 365. But how do the users know about the right ones for their specific job and the Microsoft 365 environment at your organization. Microsoft 365 looks different in different organizations. \u0026nbsp;\u0026nbsp;\n\u003Cbr\u003E\n\u003Cbr\u003E \n\u003Cbr\u003E \n\u003Cbr\u003EUsers are overwhelmed with all the digital tools and features Microsoft 365 provides. They do not welcome change and stick to their \u201Cbusiness as usual\u201D. The users must be informed of the changes, new features and the benefits. \u0026nbsp;\n\u003Cbr\u003E \n\u003Cbr\u003E\n\u003Cbr\u003E \n\u003Cbr\u003EThe users do not like to ask how you use the digital tools or on the other hand overrun the technical support with the same questions."
             ]
           },
           {
             "name": "Business solution",
             "content": [
-              "\u003Cdiv\u003EThe 365 Akademie helps you create a\u0026nbsp;place for\u0026nbsp;social learning in Microsoft Teams and supports your Microsoft 365 Champions \u2013 Modern Workplace Community with insights and impulses on how to use the new features. The short and easy to follow videos are perfect for Teams posts and drive\u0026nbsp;the\u0026nbsp;communication.\u0026nbsp;\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E"
+              "The 365 Akademie helps you create a place for social learning in Microsoft Teams and supports your Microsoft 365 Champions \u2013 Modern Workplace Community with insights and impulses on how to use the new features. The short and easy to follow videos are perfect for Teams posts and drive the communication."
             ]
           },
           {
             "name": "Success factors",
             "content": [
-              "\u003Cdiv\u003EThe support of management and other key stakeholders and a communication strategy are the two main aspects of a successful implementation. The 365 Akademie supports you with its expertise and gives insights and impulses.\u0026nbsp; \u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E"
+              "The support of management and other key stakeholders and a communication strategy are the two main aspects of a successful implementation. The 365 Akademie supports you with its expertise and gives insights and impulses."
             ]
           }
         ],
@@ -74,7 +81,7 @@
             "items": [
               {
                 "url": "https://www.365akademie.de/",
-                "name": "Office 365\nAkademie - Produktiver Arbeiten mit Office 365"
+                "name": "Office 365 Akademie - Produktiver Arbeiten mit Office 365"
               }
             ]
           }

@@ -11,16 +11,16 @@
   "heroPicture": "assets/hero.png",
   "featuredPicture": null,
   "partnerName": "Opsgility",
-  "mpnId": "0",
+  "mpnId": null,
   "metadata": {
     "displayInfo": {
       "default": {
-        "shortDescription": "\u003Cdiv\u003EOpsgility enables organizations to realize the\nfull potential of the Microsoft cloud through a comprehensive set of services\nand software as a service (SaaS) offerings. \u003Cbr\u003E\u003C/div\u003E",
+        "shortDescription": "Opsgility enables organizations to realize thefull potential of the Microsoft cloud through a comprehensive set of servicesand software as a service (SaaS) offerings.",
         "featuredTitle": "Virtual Conference Manager Enterprise Edition",
         "featuredParagraphs": [
-          "\u003Cdiv\u003EAudience engagement is a core driver of any conference.\nDon\u2019t settle for a mundane webinar or recorded video. Deliver engaging digital\nevents to thousands of attendees worldwide, with the security and usability of\nMicrosoft Teams!\u003C/div\u003E",
-          "\u003Cdiv\u003EOur platform builds on Teams to automate the creation and organization of Teams Live Events, Teams Meetings, and the 3rd party app ecosystem to create an authentic conference experience. Captivate audiences with a full suite of interactive activities, including an expo hall with sponsored booths, speed networking, mixers, and breakout sessions.\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E\u003C/div\u003E",
-          "\u003Cdiv\u003EVirtual Conference Manager is more than a meeting platform. It is an end-to-end virtual event solution! Virtual Conference Manager makes it easy for event producers to manage the event from start to finish so that organizers can focus on creating an engaging and memorable experience.\u003Cbr\u003E\u003C/div\u003E"
+          "Audience engagement is a core driver of any conference.Don\u2019t settle for a mundane webinar or recorded video. Deliver engaging digitalevents to thousands of attendees worldwide, with the security and usability ofMicrosoft Teams!",
+          "Our platform builds on Teams to automate the creation and organization of Teams Live Events, Teams Meetings, and the 3rd party app ecosystem to create an authentic conference experience. Captivate audiences with a full suite of interactive activities, including an expo hall with sponsored booths, speed networking, mixers, and breakout sessions.",
+          "Virtual Conference Manager is more than a meeting platform. It is an end-to-end virtual event solution! Virtual Conference Manager makes it easy for event producers to manage the event from start to finish so that organizers can focus on creating an engaging and memorable experience."
         ],
         "callToAction": {
           "title": "Get Started Today!",
@@ -35,7 +35,8 @@
             "alt": ""
           }
         ],
-        "detailItemCategories": []
+        "detailItemCategories": [],
+        "contact": null
       }
     }
   }

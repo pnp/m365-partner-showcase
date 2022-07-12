@@ -4,20 +4,29 @@
   "categories": [
     "learningpathways"
   ],
-  "industries": [],
+  "industries": [
+    "Cross-Industry"
+  ],
+  "servicesUsed": [
+    "Microsoft Forms",
+    "Microsoft Teams",
+    "Power App",
+    "Power Automate",
+    "SharePoint sites"
+  ],
   "sortOrder": 0,
   "preview": false,
   "visible": true,
   "solutionLogoPicture": null,
   "solutionLogoPictureAlt": "",
   "solutionName": "YourChampions",
-  "solutionUrl": "https://www.365tribe.co.uk/your-champions ",
+  "solutionUrl": "https://www.365tribe.co.uk/your-champions",
   "solutionUrlTitle": "YourChampions",
   "metadata": {
     "personas": "Digital Champions;End-user",
-    "solutionTechnologies": "Microsoft Forms;Microsoft Teams;Power App;Power Automate;SharePoint sites",
     "businessFunctions": null,
-    "displayPartner": true,
+    "businessValue": "Our clients see a rapid and sustained increase in adoption of Microsoft 365. Our unique approach to working with Digital Champions ensures they become the driving force behind your change and embed transformation that sticks. Ensuring:\n\u003Cbr\u003E\n\u003Cbr\u003E * \u0026nbsp;Reduced time to M365 benefit realisation\n\u003Cbr\u003E * \u0026nbsp;Reduced cost of end user training and communications\n\u003Cbr\u003E * \u0026nbsp;Increased user productivity\n\u003Cbr\u003E * \u0026nbsp;Reduced Service Desk disruption/traffic\n\u003Cbr\u003E * \u0026nbsp;Stronger Programme perception from Senior Leadership down to end user",
+    "displayPartner": false,
     "appSource": null,
     "displayInfo": {
       "default": {
@@ -25,31 +34,31 @@
           {
             "name": "Short description",
             "content": [
-              "\u003Cdiv\u003EDrive Change with a\u0026nbsp;Fully Managed\u0026nbsp;Digital Champions Network.\u003Cbr\u003E\u003C/div\u003E"
+              "Drive Change with a Fully Managed Digital Champions Network."
             ]
           },
           {
             "name": "Long description",
             "content": [
-              "\u003Cdiv\u003EOur Champions Programmes are designed exclusively to\u0026nbsp;create\u0026nbsp;a\u0026nbsp;sustainable\u0026nbsp;standalone, managed service to\u0026nbsp;identify, engage, educate and\u0026nbsp;grow a network of highly effective\u0026nbsp;Digital Champions.\u200B Using our experience working with 100\u2019s of organisations, we have taken all of the best elements to give you the definitive out of the box Digital Champion Programme.\u0026nbsp;\u003Cbr\u003E\u003C/div\u003E"
+              "\u003Cdiv\u003E\u003Cspan style=\u0022display:inline !important;\u0022\u003EOur Champions Programmes are designed exclusively to\u0026nbsp;create\u0026nbsp;a\u0026nbsp;sustainable\u0026nbsp;standalone, managed service to\u0026nbsp;identify, engage, educate and\u0026nbsp;grow a network of highly effective\u0026nbsp;Digital Champions.\u200B Using our experience working with 100\u2019s of organizations, we have taken all of the best elements to give you the definitive out of the box Digital Champion Programme.\u0026nbsp;\u003C/span\u003E\u003Cbr\u003E \u003C/div\u003E"
             ]
           },
           {
             "name": "Business need or problem",
             "content": [
-              "\u003Cdiv\u003EYou may have already heard or discovered that building and managing a network of Microsoft 365 Digital Champions is challenging.\u0026nbsp;\u003C/div\u003E\u003Cdiv\u003E\u003Cul\u003E\u003Cli\u003EHow do you identify and recruit Champions?\u0026nbsp;\u0026nbsp;\u003C/li\u003E\u003Cli\u003EHow do you engage Champions and keep them active?\u0026nbsp;\u003C/li\u003E\u003Cli\u003EHow do you keep up to date with\u0026nbsp;all\u0026nbsp;the great updates and features added to M365?\u0026nbsp;\u003C/li\u003E\u003Cli\u003EHow do you build in OnDemand and live learning?\u0026nbsp;\u003C/li\u003E\u003Cli\u003EHow do you measure success?\u0026nbsp;\u003C/li\u003E\u003C/ul\u003E\u003C/div\u003E\u003Cdiv\u003E\u003C/div\u003E\u003Cdiv\u003EProgrammes can fail when organisations do not have the time, resource, knowledge, or enthusiasm to effectively manage this critical group of change agents.\u003C/div\u003E"
+              "You may have already heard or discovered that building and managing a network of Microsoft 365 Digital Champions is challenging.\n\u003Cbr\u003E\n\u003Cbr\u003E * \u0026nbsp;How do you identify and recruit Champions? \n\u003Cbr\u003E * \u0026nbsp;How do you engage Champions and keep them active?\n\u003Cbr\u003E * \u0026nbsp;How do you keep up to date with all the great updates and features added to M365?\n\u003Cbr\u003E * \u0026nbsp;How do you build in OnDemand and live learning?\n\u003Cbr\u003E * \u0026nbsp;How do you measure success?\n\u003Cbr\u003E\n\u003Cbr\u003EProgrammes can fail when organisations do not have the time, resource, knowledge, or enthusiasm to effectively manage this critical group of change agents."
             ]
           },
           {
             "name": "Business solution",
             "content": [
-              "\u003Cdiv\u003EThe YourChampions program is designed to engage a community of Champions from the beginning. We have created a structured offering that engages your Champions, delivers real world, up to date learning and assesses their competency.\u0026nbsp;\u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003EChampions are incentivised to learn and share their knowledge and ideas within your\u0026nbsp;organisation\u0026nbsp;through our set of unique Champion Challenges. The Champions community grows and remains engaged and enthused\u0026nbsp;to help and share\u0026nbsp;through our digital badge awards,\u0026nbsp;gamified\u0026nbsp;approach,\u0026nbsp;and social learning techniques.\u0026nbsp;\u0026nbsp;\u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003EAll delivered via your Microsoft 365 platform.\u0026nbsp;\u0026nbsp;\u003C/div\u003E"
+              "The YourChampions program is designed to engage a community of Champions from the beginning. We have created a structured offering that engages your Champions, delivers real world, up to date learning and assesses their competency.\n\u003Cbr\u003E\n\u003Cbr\u003EChampions are incentivised to learn and share their knowledge and ideas within your organisation through our set of unique Champion Challenges. The Champions community grows and remains engaged and enthused to help and share through our digital badge awards, gamified approach, and social learning techniques. \n\u003Cbr\u003E\n\u003Cbr\u003EAll delivered via your Microsoft 365 platform."
             ]
           },
           {
             "name": "Success factors",
             "content": [
-              "\u003Cdiv\u003EDriving your organization forward to achieve true digital transformation, Digital Champions ensure success.\u0026nbsp;\u0026nbsp;\u003Cbr\u003E\u003C/div\u003E"
+              "Driving your organization forward to achieve true digital transformation, Digital Champions ensure success."
             ]
           }
         ],
@@ -63,31 +72,31 @@
           {
             "type": "image",
             "order": 1,
-            "url": "assets/YC-Image2.png",
-            "alt": ""
-          },
-          {
-            "type": "image",
-            "order": 2,
             "url": "assets/YC-Image1.png",
             "alt": ""
           },
           {
             "type": "image",
+            "order": 2,
+            "url": "assets/YC-Image2.png",
+            "alt": ""
+          },
+          {
+            "type": "image",
             "order": 3,
-            "url": "assets/YC-Image4.png",
+            "url": "assets/YC-Image3.png",
             "alt": ""
           },
           {
             "type": "image",
             "order": 4,
-            "url": "assets/YC-Image5.png",
+            "url": "assets/YC-Image4.png",
             "alt": ""
           },
           {
             "type": "image",
             "order": 5,
-            "url": "assets/YC-Image3.png",
+            "url": "assets/YC-Image5.png",
             "alt": ""
           }
         ],
