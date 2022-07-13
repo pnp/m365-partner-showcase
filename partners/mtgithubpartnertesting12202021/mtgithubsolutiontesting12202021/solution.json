@@ -2,7 +2,16 @@
   "solutionId": "mtgithubsolutiontesting12202021",
   "partnerId": "mtgithubpartnertesting12202021",
   "categories": [],
-  "industries": [],
+  "industries": [
+    "Education",
+    "Technology"
+  ],
+  "servicesUsed": [
+    "Azure",
+    "Azure AD",
+    "Azure Bot",
+    "Power App"
+  ],
   "sortOrder": 0,
   "preview": false,
   "visible": false,
@@ -14,6 +23,7 @@
   "metadata": {
     "personas": "Analyst;Developer",
     "businessFunctions": "Adoption;IT",
+    "businessValue": "\u003Cdiv\u003E\u003Cspan style=\u0022display:inline !important;\u0022\u003EMT GitHub Solution Testing 12202021 business value\u003C/span\u003E\u003Cbr\u003E \u003C/div\u003E",
     "displayPartner": false,
     "appSource": null,
     "displayInfo": {
@@ -27,7 +37,9 @@
           },
           {
             "name": "Long description",
-            "content": []
+            "content": [
+              "\u003Cdiv\u003E\u003Cspan style=\u0022display:inline !important;\u0022\u003EMT GitHub Solution Testing 12202021 long description\u003C/span\u003E\u003Cbr\u003E \u003C/div\u003E"
+            ]
           },
           {
             "name": "Business need or problem",

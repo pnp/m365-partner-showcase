@@ -1,0 +1,89 @@
+{
+  "solutionId": "Solution-2-id",
+  "partnerId": "12345",
+  "categories": [],
+  "industries": [
+    "Automative",
+    "Banking \u0026 Financial Services",
+    "Other",
+    "Solution 2 other industries"
+  ],
+  "servicesUsed": [
+    "Azure",
+    "Custom Tabs",
+    "Other",
+    "Solution 2 other services"
+  ],
+  "sortOrder": 0,
+  "preview": false,
+  "visible": false,
+  "solutionLogoPicture": null,
+  "solutionLogoPictureAlt": "",
+  "solutionName": "Solution 2 name",
+  "solutionUrl": null,
+  "solutionUrlTitle": "Solution 2 name",
+  "metadata": {
+    "personas": "Business User;Developer;Other;Solution 2 other personas",
+    "businessFunctions": "Adoption;Business Operations;Other;Solution 2 target business functions",
+    "businessValue": "Solution 2 business value",
+    "displayPartner": false,
+    "appSource": "Solution 2 appsource url",
+    "displayInfo": {
+      "default": {
+        "descriptionParagraphs": [
+          {
+            "name": "Short description",
+            "content": [
+              "Solution 2 short description"
+            ]
+          },
+          {
+            "name": "Long description",
+            "content": [
+              "Solution 2 long description"
+            ]
+          },
+          {
+            "name": "Business need or problem",
+            "content": [
+              "Solution 2 business problem"
+            ]
+          },
+          {
+            "name": "Business solution",
+            "content": [
+              "Solution 2 business solution"
+            ]
+          },
+          {
+            "name": "Success factors",
+            "content": [
+              "Solution 3 success factors"
+            ]
+          }
+        ],
+        "mediaAssets": [
+          {
+            "type": "image",
+            "order": 0,
+            "url": "assets/Bill-Baer.png.png",
+            "alt": ""
+          },
+          {
+            "type": "image",
+            "order": 1,
+            "url": "assets/Hero.jpg",
+            "alt": ""
+          }
+        ],
+        "detailItemCategories": [
+          {
+            "name": "Resources",
+            "description": "Possible html supported text shown just above the list of links",
+            "items": []
+          }
+        ]
+      }
+    }
+  }
+}

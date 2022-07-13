@@ -1,0 +1,75 @@
+{
+  "solutionId": "Full---solution-2",
+  "partnerId": "test123",
+  "categories": [],
+  "industries": [
+    "Automotive"
+  ],
+  "servicesUsed": [
+    "Azure"
+  ],
+  "sortOrder": 0,
+  "preview": false,
+  "visible": false,
+  "solutionLogoPicture": null,
+  "solutionLogoPictureAlt": "",
+  "solutionName": "Full - solution 2",
+  "solutionUrl": "http://test",
+  "solutionUrlTitle": "Full - solution 2",
+  "metadata": {
+    "personas": "Administrators",
+    "businessFunctions": "Adoption",
+    "businessValue": "Test",
+    "displayPartner": false,
+    "appSource": null,
+    "displayInfo": {
+      "default": {
+        "descriptionParagraphs": [
+          {
+            "name": "Short description",
+            "content": []
+          },
+          {
+            "name": "Long description",
+            "content": [
+              "\u003Cdiv\u003E\u003Cspan style=\u0022display:inline !important;\u0022\u003ETest\u003C/span\u003E\u003Cbr\u003E \u003C/div\u003E"
+            ]
+          },
+          {
+            "name": "Business need or problem",
+            "content": [
+              "Test"
+            ]
+          },
+          {
+            "name": "Business solution",
+            "content": [
+              "Test"
+            ]
+          },
+          {
+            "name": "Success factors",
+            "content": [
+              "Test"
+            ]
+          }
+        ],
+        "mediaAssets": [
+          {
+            "type": "image",
+            "order": 0,
+            "url": "assets/Hero.png",
+            "alt": ""
+          }
+        ],
+        "detailItemCategories": [
+          {
+            "name": "Resources",
+            "description": "Possible html supported text shown just above the list of links",
+            "items": []
+          }
+        ]
+      }
+    }
+  }
+}

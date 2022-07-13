@@ -1,0 +1,95 @@
+{
+  "solutionId": "2234",
+  "partnerId": "12345",
+  "categories": [],
+  "industries": [
+    "Automative"
+  ],
+  "servicesUsed": [
+    "Custom Tabs"
+  ],
+  "sortOrder": 0,
+  "preview": false,
+  "visible": false,
+  "solutionLogoPicture": null,
+  "solutionLogoPictureAlt": "",
+  "solutionName": "s3",
+  "solutionUrl": null,
+  "solutionUrlTitle": "s3",
+  "metadata": {
+    "personas": "Business User;",
+    "businessFunctions": "Adoption;",
+    "businessValue": "value",
+    "displayPartner": false,
+    "appSource": "asd",
+    "displayInfo": {
+      "default": {
+        "descriptionParagraphs": [
+          {
+            "name": "Short description",
+            "content": [
+              "sss"
+            ]
+          },
+          {
+            "name": "Long description",
+            "content": [
+              "sdasd"
+            ]
+          },
+          {
+            "name": "Business need or problem",
+            "content": [
+              "resolves"
+            ]
+          },
+          {
+            "name": "Business solution",
+            "content": [
+              "problem"
+            ]
+          },
+          {
+            "name": "Success factors",
+            "content": [
+              "s3 factor"
+            ]
+          }
+        ],
+        "mediaAssets": [
+          {
+            "type": "image",
+            "order": 0,
+            "url": "assets/Screenshot 2022-04-18 At 3.png",
+            "alt": ""
+          },
+          {
+            "type": "image",
+            "order": 1,
+            "url": "assets/Featured.png",
+            "alt": ""
+          },
+          {
+            "type": "image",
+            "order": 2,
+            "url": "assets/Screenshot 2022-04-14 At 3.png",
+            "alt": ""
+          },
+          {
+            "type": "image",
+            "order": 3,
+            "url": "assets/Hero.png",
+            "alt": ""
+          }
+        ],
+        "detailItemCategories": [
+          {
+            "name": "Resources",
+            "description": "Possible html supported text shown just above the list of links",
+            "items": []
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "solutionId": "Solution-1-application-id",
+  "partnerId": "12345",
+  "categories": [],
+  "industries": [
+    "Automative",
+    "Banking \u0026 Financial Services",
+    "Other",
+    "Solution 1 other industrries"
+  ],
+  "servicesUsed": [
+    "Azure",
+    "Custom Tabs",
+    "Other",
+    "Solution 1 other services"
+  ],
+  "sortOrder": 0,
+  "preview": false,
+  "visible": false,
+  "solutionLogoPicture": null,
+  "solutionLogoPictureAlt": "",
+  "solutionName": "Solution 1 name",
+  "solutionUrl": null,
+  "solutionUrlTitle": "Solution 1 name",
+  "metadata": {
+    "personas": "Business User;Developer;Other;Solution 1 other personas",
+    "businessFunctions": "Adoption;Business Operations;Other;Solution 1 other target business functions",
+    "businessValue": "Solution 1 business value",
+    "displayPartner": false,
+    "appSource": "Solution 1 appsource url",
+    "displayInfo": {
+      "default": {
+        "descriptionParagraphs": [
+          {
+            "name": "Short description",
+            "content": [
+              "Solution 1 short description"
+            ]
+          },
+          {
+            "name": "Long description",
+            "content": [
+              "Solution 1 long description"
+            ]
+          },
+          {
+            "name": "Business need or problem",
+            "content": [
+              "Solution 1 business need"
+            ]
+          },
+          {
+            "name": "Business solution",
+            "content": [
+              "Solution 1 business solution"
+            ]
+          },
+          {
+            "name": "Success factors",
+            "content": [
+              "Solution 3 success factors"
+            ]
+          }
+        ],
+        "mediaAssets": [
+          {
+            "type": "image",
+            "order": 0,
+            "url": "assets/Image.jpg.jpg",
+            "alt": ""
+          },
+          {
+            "type": "image",
+            "order": 1,
+            "url": "assets/Hero.jpg",
+            "alt": ""
+          },
+          {
+            "type": "image",
+            "order": 2,
+            "url": "assets/Featured.jpg",
+            "alt": ""
+          }
+        ],
+        "detailItemCategories": [
+          {
+            "name": "Resources",
+            "description": "Possible html supported text shown just above the list of links",
+            "items": []
+          }
+        ]
+      }
+    }
+  }
+}

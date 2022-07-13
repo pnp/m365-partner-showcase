@@ -1,0 +1,89 @@
+{
+  "solutionId": "12345",
+  "partnerId": "12345",
+  "categories": [],
+  "industries": [
+    "Cross-Industry"
+  ],
+  "servicesUsed": [
+    "Messaging Extension"
+  ],
+  "sortOrder": 0,
+  "preview": false,
+  "visible": false,
+  "solutionLogoPicture": null,
+  "solutionLogoPictureAlt": "",
+  "solutionName": "S1",
+  "solutionUrl": null,
+  "solutionUrlTitle": "S1",
+  "metadata": {
+    "personas": "IT Professional;",
+    "businessFunctions": "Change Management;",
+    "businessValue": "values",
+    "displayPartner": false,
+    "appSource": "appsource",
+    "displayInfo": {
+      "default": {
+        "descriptionParagraphs": [
+          {
+            "name": "Short description",
+            "content": [
+              "short"
+            ]
+          },
+          {
+            "name": "Long description",
+            "content": [
+              "long"
+            ]
+          },
+          {
+            "name": "Business need or problem",
+            "content": [
+              "needs"
+            ]
+          },
+          {
+            "name": "Business solution",
+            "content": [
+              "problem"
+            ]
+          },
+          {
+            "name": "Success factors",
+            "content": [
+              "factors"
+            ]
+          }
+        ],
+        "mediaAssets": [
+          {
+            "type": "image",
+            "order": 0,
+            "url": "assets/Screenshot 2022-04-13 At 1.png",
+            "alt": ""
+          },
+          {
+            "type": "image",
+            "order": 1,
+            "url": "assets/Screenshot 2022-04-13 At 1.png",
+            "alt": ""
+          },
+          {
+            "type": "image",
+            "order": 2,
+            "url": "assets/Hero.png",
+            "alt": ""
+          }
+        ],
+        "detailItemCategories": [
+          {
+            "name": "Resources",
+            "description": "Possible html supported text shown just above the list of links",
+            "items": []
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "solutionId": "2321332",
+  "partnerId": "12345",
+  "categories": [],
+  "industries": [
+    "Automative"
+  ],
+  "servicesUsed": [
+    "Azure",
+    "Custom Tabs"
+  ],
+  "sortOrder": 0,
+  "preview": false,
+  "visible": false,
+  "solutionLogoPicture": null,
+  "solutionLogoPictureAlt": "",
+  "solutionName": "s2",
+  "solutionUrl": null,
+  "solutionUrlTitle": "s2",
+  "metadata": {
+    "personas": "Business User;",
+    "businessFunctions": "Adoption;",
+    "businessValue": "value",
+    "displayPartner": false,
+    "appSource": "app source",
+    "displayInfo": {
+      "default": {
+        "descriptionParagraphs": [
+          {
+            "name": "Short description",
+            "content": [
+              "short"
+            ]
+          },
+          {
+            "name": "Long description",
+            "content": [
+              "long"
+            ]
+          },
+          {
+            "name": "Business need or problem",
+            "content": [
+              "long"
+            ]
+          },
+          {
+            "name": "Business solution",
+            "content": [
+              "short"
+            ]
+          },
+          {
+            "name": "Success factors",
+            "content": [
+              "s2 facotrs"
+            ]
+          }
+        ],
+        "mediaAssets": [
+          {
+            "type": "image",
+            "order": 0,
+            "url": "assets/Hero.png",
+            "alt": ""
+          },
+          {
+            "type": "image",
+            "order": 1,
+            "url": "assets/Png-transparent-intel-logo-system-integration-integral-symbol-computer-software-intel-developer-zone-internet-of-things-system-on-a-chip-software-development-kit.png",
+            "alt": ""
+          },
+          {
+            "type": "image",
+            "order": 2,
+            "url": "assets/Guaranteed-safe-checkout-5.png",
+            "alt": ""
+          }
+        ],
+        "detailItemCategories": [
+          {
+            "name": "Resources",
+            "description": "Possible html supported text shown just above the list of links",
+            "items": []
+          }
+        ]
+      }
+    }
+  }
+}

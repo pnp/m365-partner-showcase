@@ -5,9 +5,14 @@
     "learningpathways"
   ],
   "industries": [],
+  "servicesUsed": [
+    "Microsoft Teams",
+    "SharePoint sites",
+    "Stream"
+  ],
   "sortOrder": 0,
   "preview": false,
-  "visible": false,
+  "visible": true,
   "solutionLogoPicture": null,
   "solutionLogoPictureAlt": "",
   "solutionName": "Documentation for Custom Solutions",
@@ -16,6 +21,7 @@
   "metadata": {
     "personas": "Business Analysts;Content Owners;Developer;End-user;IT Admin;Leadership;Training \u0026 Development",
     "businessFunctions": null,
+    "businessValue": null,
     "displayPartner": false,
     "appSource": null,
     "displayInfo": {

@@ -1,0 +1,65 @@
+{
+  "solutionId": "fieldschedulingtool",
+  "partnerId": " cognizant",
+  "categories": [],
+  "industries": [],
+  "servicesUsed": [
+    "Power App",
+    "SharePoint sites"
+  ],
+  "sortOrder": 0,
+  "preview": false,
+  "visible": false,
+  "solutionLogoPicture": null,
+  "solutionLogoPictureAlt": "",
+  "solutionName": "Field Scheduling Tool",
+  "solutionUrl": null,
+  "solutionUrlTitle": "Field Scheduling Tool",
+  "metadata": {
+    "personas": "Auditor;Front Line Worker",
+    "businessFunctions": null,
+    "businessValue": "The major goal which was achieved by thesolution is by automating the visit schedule starting from setting up aschedule to finishing the visit, including cancellations, re-schedules etc.\n\u003Cbr\u003EUsers didn\u2019t have to go through their inboxesto understand what is assigned and when the upcoming schedule etc. is insteadit was available on-demand on the portal. Moreover the visit schedule waspushed to their outlook calendars for required preview.\n\u003Cbr\u003EThe system replaced 80% of manual effortspend on scheduling visits via automation and enabled business to concentrateon the core business function.",
+    "displayPartner": false,
+    "appSource": null,
+    "displayInfo": {
+      "default": {
+        "descriptionParagraphs": [
+          {
+            "name": "Short description",
+            "content": []
+          },
+          {
+            "name": "Long description",
+            "content": []
+          },
+          {
+            "name": "Business need or problem",
+            "content": [
+              "McDonald\u2019smanaged scheduling field visits of various types on quarterly/annual basis tothe restaurants manually. These visits are conducted by McDonald\u2019s operationsteam to various franchisee restaurants for quality control purposes.Restaurants were spread across US and were divided across 10 field officesbased in cities that serve as zone of operations. Each field office haveapproximately 1500 restaurants. In addition to that, each field office had anumber of operations lead who have a set number of restaurants under them. Theyhave subordinates to conducts the visits to each restaurants and the schedulingof these visits are done by the leads.\n\u003Cbr\u003E\n\u003Cbr\u003EThe manual scheduling process was carriedover emails and other channels of communication which often led to conflicts.For example, say, there is a type of visit that has to happen quarterly for arestaurant. Since scheduling was done manually, it often led to scheduling thesame type of visit to the same restaurant in same quarter. There are 10 typesof visit that have different frequencies and have different businessrequirements."
+            ]
+          },
+          {
+            "name": "Business solution",
+            "content": [
+              "This solution automates scheduling visits torestaurants by operations team. It is smart to consider various business logicand provide appropriate alerts, suggestions, alternatives (when possibly visitcan be scheduled or when there is a conflict). The solution also considers existingdatabase that contains historic data of all visits and incorporates in businesslogic.\n\u003Cbr\u003EThe visit scheduling app is responsive andavailable across all mobile devices and modern desktop browsers.\n\u003Cbr\u003EThe solution also provides a reporting appthat shows visit status for all restaurant for field office."
+            ]
+          },
+          {
+            "name": "Success factors",
+            "content": [
+              "The solution increased the usage ofcollaboration tools across business functions. It has reduced the amount ofemails that were sent between the operator leads, operator associates and the businessassociates. The solution promoted information on-demand and reduced manualeffort/labour, which was a dedicated personnel taking care of the visits andre-schedules. Additionally the solution being part of the productivity suitehas increased citizen development due to reduced cost and shorter time tomarket solutions.\n\u003Cbr\u003EKey highlights:\n\u003Cbr\u003E- \u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;Quickertime to market: the original custom solution was estimated to be delivered in26\u002B weeks, and the MVP (current solution) was delivered in 12 weeks \u2013 productiongo live.\n\u003Cbr\u003E- \u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;Dueto usage of Power Platform and Teams, a cost reduction of $300k on the ITservices was achieved.\n\u003Cbr\u003E- \u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;Thesolution was implemented in Agile, and the team could accommodate 40% morerequirements from the original scope within the same timeline.\n\u003Cbr\u003E- \u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;Thereare multiple integrations like external system (database), custom APIs,workflows/business process automation etc. that were involved, however the lowcode solution framework helped quick turnaround time.\n\u003Cbr\u003E- \u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;Withvarious level of complexities, the solution opened new set of possibilitieswith low code \u002B Teams solution."
+            ]
+          }
+        ],
+        "mediaAssets": [],
+        "detailItemCategories": [
+          {
+            "name": "Resources",
+            "description": "Possible html supported text shown just above the list of links",
+            "items": []
+          }
+        ]
+      }
+    }
+  }
+}

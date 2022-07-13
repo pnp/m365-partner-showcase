@@ -1,0 +1,95 @@
+{
+  "solutionId": "1234",
+  "partnerId": "1223",
+  "categories": [],
+  "industries": [
+    "Automative"
+  ],
+  "servicesUsed": [
+    "Azure",
+    "Custom Tabs",
+    "Power Automate"
+  ],
+  "sortOrder": 0,
+  "preview": false,
+  "visible": false,
+  "solutionLogoPicture": null,
+  "solutionLogoPictureAlt": "",
+  "solutionName": "S1",
+  "solutionUrl": null,
+  "solutionUrlTitle": "S1",
+  "metadata": {
+    "personas": "Developer;",
+    "businessFunctions": "Adoption;Templates;",
+    "businessValue": "value",
+    "displayPartner": false,
+    "appSource": "App ",
+    "displayInfo": {
+      "default": {
+        "descriptionParagraphs": [
+          {
+            "name": "Short description",
+            "content": [
+              "Short "
+            ]
+          },
+          {
+            "name": "Long description",
+            "content": [
+              "Long"
+            ]
+          },
+          {
+            "name": "Business need or problem",
+            "content": [
+              "resolves"
+            ]
+          },
+          {
+            "name": "Business solution",
+            "content": [
+              "problem"
+            ]
+          },
+          {
+            "name": "Success factors",
+            "content": []
+          }
+        ],
+        "mediaAssets": [
+          {
+            "type": "image",
+            "order": 0,
+            "url": "assets/Hero.png",
+            "alt": ""
+          },
+          {
+            "type": "image",
+            "order": 1,
+            "url": "assets/Screenshot 2022-04-13 At 1.08.28 PM.png.png",
+            "alt": ""
+          },
+          {
+            "type": "image",
+            "order": 2,
+            "url": "assets/Screenshot 2022-04-13 At 1.07.44 PM.png.png",
+            "alt": ""
+          },
+          {
+            "type": "image",
+            "order": 3,
+            "url": "assets/Screenshot 2022-04-14 At 3.49.10 PM.png.png",
+            "alt": ""
+          }
+        ],
+        "detailItemCategories": [
+          {
+            "name": "Resources",
+            "description": "Possible html supported text shown just above the list of links",
+            "items": []
+          }
+        ]
+      }
+    }
+  }
+}

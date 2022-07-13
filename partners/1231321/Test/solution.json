@@ -1,0 +1,68 @@
+{
+  "solutionId": "Test",
+  "partnerId": "1231321",
+  "categories": [],
+  "industries": [
+    "Construction"
+  ],
+  "servicesUsed": [
+    "Power Automate"
+  ],
+  "sortOrder": 0,
+  "preview": false,
+  "visible": false,
+  "solutionLogoPicture": null,
+  "solutionLogoPictureAlt": "",
+  "solutionName": "Test",
+  "solutionUrl": null,
+  "solutionUrlTitle": "Test",
+  "metadata": {
+    "personas": "Business User;",
+    "businessFunctions": "Business Operations;",
+    "businessValue": "Test",
+    "displayPartner": false,
+    "appSource": "Test",
+    "displayInfo": {
+      "default": {
+        "descriptionParagraphs": [
+          {
+            "name": "Short description",
+            "content": []
+          },
+          {
+            "name": "Long description",
+            "content": [
+              "Test"
+            ]
+          },
+          {
+            "name": "Business need or problem",
+            "content": [
+              "Test"
+            ]
+          },
+          {
+            "name": "Business solution",
+            "content": [
+              "Test"
+            ]
+          },
+          {
+            "name": "Success factors",
+            "content": [
+              "Test"
+            ]
+          }
+        ],
+        "mediaAssets": [],
+        "detailItemCategories": [
+          {
+            "name": "Resources",
+            "description": "Possible html supported text shown just above the list of links",
+            "items": []
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "solutionId": "213123",
+  "partnerId": "33333",
+  "categories": [],
+  "industries": [
+    "Energy"
+  ],
+  "servicesUsed": [
+    "Microsoft Teams"
+  ],
+  "sortOrder": 0,
+  "preview": false,
+  "visible": false,
+  "solutionLogoPicture": null,
+  "solutionLogoPictureAlt": "",
+  "solutionName": "sdf",
+  "solutionUrl": null,
+  "solutionUrlTitle": "sdf",
+  "metadata": {
+    "personas": "Champion;",
+    "businessFunctions": "Engagement;",
+    "businessValue": "asd",
+    "displayPartner": false,
+    "appSource": "asd",
+    "displayInfo": {
+      "default": {
+        "descriptionParagraphs": [
+          {
+            "name": "Short description",
+            "content": [
+              "sadas"
+            ]
+          },
+          {
+            "name": "Long description",
+            "content": [
+              "asddas"
+            ]
+          },
+          {
+            "name": "Business need or problem",
+            "content": [
+              "sdsad"
+            ]
+          },
+          {
+            "name": "Business solution",
+            "content": [
+              "asd"
+            ]
+          },
+          {
+            "name": "Success factors",
+            "content": []
+          }
+        ],
+        "mediaAssets": [
+          {
+            "type": "image",
+            "order": 0,
+            "url": "assets/Screenshot 2022-04-14 At 3.49.40 PM.png.png",
+            "alt": ""
+          },
+          {
+            "type": "image",
+            "order": 1,
+            "url": "assets/Hero.png",
+            "alt": ""
+          },
+          {
+            "type": "image",
+            "order": 2,
+            "url": "assets/Featured.png",
+            "alt": ""
+          },
+          {
+            "type": "image",
+            "order": 3,
+            "url": "assets/Screenshot 2022-04-14 At 3.49.10 PM.png.png",
+            "alt": ""
+          }
+        ],
+        "detailItemCategories": [
+          {
+            "name": "Resources",
+            "description": "Possible html supported text shown just above the list of links",
+            "items": []
+          }
+        ]
+      }
+    }
+  }
+}
