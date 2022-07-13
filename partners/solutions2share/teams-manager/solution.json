@@ -16,7 +16,7 @@
   ],
   "sortOrder": 0,
   "preview": false,
-  "visible": false,
+  "visible": true,
   "solutionLogoPicture": null,
   "solutionLogoPictureAlt": "",
   "solutionName": "Teams Manager",
@@ -39,7 +39,9 @@
           },
           {
             "name": "Long description",
-            "content": []
+            "content": [
+              "\u003Cdiv\u003E\u003Cdiv style=\u0022box-sizing:border-box;\u0022\u003EWith Teams Manager, use any Team as a template and add channels, tabs, lists or apps like Planner and OneNote. Users can then request new Teams based on these templates, which a pre-selected group of users can easily review through an an automated approval workflow.\u003Cbr style=\u0022box-sizing:border-box;\u0022\u003E \u003C/div\u003E\u003Cdiv style=\u0022box-sizing:border-box;\u0022\u003E\u003Cbr style=\u0022box-sizing:border-box;\u0022\u003E \u003C/div\u003E\u003Cdiv style=\u0022box-sizing:border-box;\u0022\u003EFor a better overview in Teams you can create naming conventions and let Teams Manager archive inactive Teams. Build a complete governance automation by combining naming conventions and lifecycle management rules. \u003C/div\u003E\u003Cbr\u003E \u003C/div\u003E"
+            ]
           },
           {
             "name": "Business need or problem",
