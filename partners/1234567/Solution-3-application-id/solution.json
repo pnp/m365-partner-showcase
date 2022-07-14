@@ -1,9 +1,9 @@
 {
-  "solutionId": "test",
-  "partnerId": "123123",
+  "solutionId": "Solution-3-application-id",
+  "partnerId": "1234567",
   "categories": [],
   "industries": [
-    "Construction"
+    "Automative"
   ],
   "servicesUsed": [
     "Azure"
@@ -13,46 +13,46 @@
   "visible": false,
   "solutionLogoPicture": null,
   "solutionLogoPictureAlt": "",
-  "solutionName": "test",
+  "solutionName": "Solution 3 name",
   "solutionUrl": null,
-  "solutionUrlTitle": "test",
+  "solutionUrlTitle": "Solution 3 name",
   "metadata": {
-    "personas": "Developer;",
-    "businessFunctions": "Change Management;",
-    "businessValue": "test",
+    "personas": "Business User;",
+    "businessFunctions": "Adoption;",
+    "businessValue": "Solution 3 business value",
     "displayPartner": false,
-    "appSource": "test",
+    "appSource": "Solution 3 appsource url",
     "displayInfo": {
       "default": {
         "descriptionParagraphs": [
           {
             "name": "Short description",
             "content": [
-              "test"
+              "Solution 3 short description"
             ]
           },
           {
             "name": "Long description",
             "content": [
-              "test"
+              "Solution 3 long description"
             ]
           },
           {
             "name": "Business need or problem",
             "content": [
-              "test"
+              "Solution 3 business need"
             ]
           },
           {
             "name": "Business solution",
             "content": [
-              "test"
+              "Solution 3 busines ssolution"
             ]
           },
           {
             "name": "Success factors",
             "content": [
-              "test"
+              "Solution 3 success factors"
             ]
           }
         ],
@@ -60,7 +60,13 @@
           {
             "type": "image",
             "order": 0,
-            "url": "assets/Hero.png",
+            "url": "assets/Image.jpg",
+            "alt": ""
+          },
+          {
+            "type": "image",
+            "order": 1,
+            "url": "assets/Hero.jpg",
             "alt": ""
           }
         ],

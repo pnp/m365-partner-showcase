@@ -1,9 +1,9 @@
 {
-  "solutionId": "test",
-  "partnerId": "123123",
+  "solutionId": "Solution-2-application-id",
+  "partnerId": "1234567",
   "categories": [],
   "industries": [
-    "Construction"
+    "Automative"
   ],
   "servicesUsed": [
     "Azure"
@@ -13,46 +13,46 @@
   "visible": false,
   "solutionLogoPicture": null,
   "solutionLogoPictureAlt": "",
-  "solutionName": "test",
+  "solutionName": "Solution 2 name",
   "solutionUrl": null,
-  "solutionUrlTitle": "test",
+  "solutionUrlTitle": "Solution 2 name",
   "metadata": {
-    "personas": "Developer;",
-    "businessFunctions": "Change Management;",
-    "businessValue": "test",
+    "personas": "Business User;",
+    "businessFunctions": "Adoption;",
+    "businessValue": "Solution 2 business value",
     "displayPartner": false,
-    "appSource": "test",
+    "appSource": "Solution 2 appsource url",
     "displayInfo": {
       "default": {
         "descriptionParagraphs": [
           {
             "name": "Short description",
             "content": [
-              "test"
+              "Solution 2 short description"
             ]
           },
           {
             "name": "Long description",
             "content": [
-              "test"
+              "Solution 2 long description"
             ]
           },
           {
             "name": "Business need or problem",
             "content": [
-              "test"
+              "Solution 2 business need"
             ]
           },
           {
             "name": "Business solution",
             "content": [
-              "test"
+              "Solution 2 business solution"
             ]
           },
           {
             "name": "Success factors",
             "content": [
-              "test"
+              "Solution 2 success factors"
             ]
           }
         ],
@@ -60,7 +60,13 @@
           {
             "type": "image",
             "order": 0,
-            "url": "assets/Hero.png",
+            "url": "assets/Hero.jpg",
+            "alt": ""
+          },
+          {
+            "type": "image",
+            "order": 1,
+            "url": "assets/Image.jpg",
             "alt": ""
           }
         ],

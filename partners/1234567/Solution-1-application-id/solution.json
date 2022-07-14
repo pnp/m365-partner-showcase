@@ -1,58 +1,60 @@
 {
-  "solutionId": "test",
-  "partnerId": "123123",
+  "solutionId": "Solution-1-application-id",
+  "partnerId": "1234567",
   "categories": [],
   "industries": [
-    "Construction"
+    "Automative",
+    "Banking \u0026 Financial Services"
   ],
   "servicesUsed": [
-    "Azure"
+    "Azure",
+    "Custom Tabs"
   ],
   "sortOrder": 0,
   "preview": true,
   "visible": false,
   "solutionLogoPicture": null,
   "solutionLogoPictureAlt": "",
-  "solutionName": "test",
+  "solutionName": "Solution 1 name",
   "solutionUrl": null,
-  "solutionUrlTitle": "test",
+  "solutionUrlTitle": "Solution 1 name",
   "metadata": {
-    "personas": "Developer;",
-    "businessFunctions": "Change Management;",
-    "businessValue": "test",
+    "personas": "Business User;Developer;",
+    "businessFunctions": "Adoption;Business Operations;",
+    "businessValue": "Solution 1 business value",
     "displayPartner": false,
-    "appSource": "test",
+    "appSource": "Solution 1 appsource url",
     "displayInfo": {
       "default": {
         "descriptionParagraphs": [
           {
             "name": "Short description",
             "content": [
-              "test"
+              "Solution 1 short description"
             ]
           },
           {
             "name": "Long description",
             "content": [
-              "test"
+              "Solution 1 long description"
             ]
           },
           {
             "name": "Business need or problem",
             "content": [
-              "test"
+              "Solution 1 business need"
             ]
           },
           {
             "name": "Business solution",
             "content": [
-              "test"
+              "Solution 1 business solution"
             ]
           },
           {
             "name": "Success factors",
             "content": [
-              "test"
+              "Solution 1 success factors"
             ]
           }
         ],
@@ -60,7 +62,25 @@
           {
             "type": "image",
             "order": 0,
-            "url": "assets/Hero.png",
+            "url": "assets/Featured.jpg",
+            "alt": ""
+          },
+          {
+            "type": "image",
+            "order": 1,
+            "url": "assets/Image.jpg",
+            "alt": ""
+          },
+          {
+            "type": "image",
+            "order": 2,
+            "url": "assets/Bill-Baer.png",
+            "alt": ""
+          },
+          {
+            "type": "image",
+            "order": 3,
+            "url": "assets/Hero.jpg",
             "alt": ""
           }
         ],
