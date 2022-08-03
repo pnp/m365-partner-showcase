@@ -5,6 +5,11 @@
     "learningpathways"
   ],
   "industries": [],
+  "servicesUsed": [
+    "Microsoft Teams",
+    "SharePoint sites",
+    "Stream"
+  ],
   "sortOrder": 0,
   "preview": false,
   "visible": true,
@@ -15,9 +20,9 @@
   "solutionUrlTitle": "Documentation for Custom Solutions",
   "metadata": {
     "personas": "Business Analysts;Content Owners;Developer;End-user;IT Admin;Leadership;Training \u0026 Development",
-    "solutionTechnologies": "Microsoft Teams;SharePoint sites;Stream",
     "businessFunctions": null,
-    "displayPartner": true,
+    "businessValue": null,
+    "displayPartner": false,
     "appSource": null,
     "displayInfo": {
       "default": {
@@ -25,31 +30,29 @@
           {
             "name": "Short description",
             "content": [
-              "\u003Cdiv\u003EMicrosoft 365 offers many opportunities for customizations to your environment. These custom solutions may have specific steps to follow and likely need training documentation to support their usage.\u0026nbsp;\u0026nbsp;Documenting and adding this training content to Learning Pathways for all user types helps ensure the solutions\u2019 viability long-term, reduces technical debt, reduces support and maintenance costs, and supports end users\u2019 ability to use the solution effectively.\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E"
+              "Microsoft 365 offers many opportunities for customizations to your environment. These custom solutions may have specific steps to follow and likely need training documentation to support their usage. \u0026nbsp;Documenting and adding this training content to Learning Pathways for all user types helps ensure the solutions\u2019 viability long-term, reduces technical debt, reduces support and maintenance costs, and supports end users\u2019 ability to use the solution effectively."
             ]
           },
           {
             "name": "Long description",
-            "content": [
-              "\u003Cdiv\u003E\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E"
-            ]
+            "content": []
           },
           {
             "name": "Business need or problem",
             "content": [
-              "\u003Cdiv\u003EYour company has a\ncustom solution, for example a project management tracking app, that users in\nvarious roles interact with to complete different tasks. You need to provide\nunique guidance for each of these roles at the point of interaction. There is\nno documentation on your intranet to support this solution, so it requires\ninstitutional knowledge to use it effectively. End users need the ability to\nlearn without leaving the context of the solution. \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E"
+              "Your company has acustom solution, for example a project management tracking app, that users invarious roles interact with to complete different tasks. You need to provideunique guidance for each of these roles at the point of interaction. There isno documentation on your intranet to support this solution, so it requiresinstitutional knowledge to use it effectively. End users need the ability tolearn without leaving the context of the solution."
             ]
           },
           {
             "name": "Business solution",
             "content": [
-              "\u003Cdiv\u003EBy\nidentifying the different personas and creating customized documentation for\neach we can bring the knowledge to the worker right when they need it, limiting\nthe friction to accomplish their tasks and remain productive. A solution would:\u0026nbsp;\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E\u003Cdiv\u003E\u003Cul\u003E\u003Cli\u003EIdentify\nthe different personas interacting with the custom solution\u003C/li\u003E\u003Cli\u003ECreate\ndocumentation supporting the unique needs of each persona\u003C/li\u003E\u003Cli\u003EDefine\nintuitive information architecture to support each persona and their top tasks\u003C/li\u003E\u003Cli\u003EDevelop\non-demand playlists surfacing training documentation\u003C/li\u003E\u003Cli\u003ESurface playlists\nin-context of the custom solution (removing friction from end users\u2019 ability to\nlocate training)\u003C/li\u003E\u003C/ul\u003E\u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E\u003C/div\u003E"
+              "Byidentifying the different personas and creating customized documentation foreach we can bring the knowledge to the worker right when they need it, limitingthe friction to accomplish their tasks and remain productive. A solution would:\n\u003Cbr\u003E \n\u003Cbr\u003E\n\u003Cbr\u003E * \u0026nbsp;Identifythe different personas interacting with the custom solution\n\u003Cbr\u003E * \u0026nbsp;Createdocumentation supporting the unique needs of each persona\n\u003Cbr\u003E * \u0026nbsp;Defineintuitive information architecture to support each persona and their top tasks\n\u003Cbr\u003E * \u0026nbsp;Developon-demand playlists surfacing training documentation\n\u003Cbr\u003E * \u0026nbsp;Surface playlistsin-context of the custom solution (removing friction from end users\u2019 ability tolocate training)"
             ]
           },
           {
             "name": "Success factors",
             "content": [
-              "\u003Cdiv\u003EBy\nlimiting the friction to accomplish their tasks and remain productive,\nemployees benefit from:\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E\u003Cdiv\u003E\u003Cul\u003E\u003Cli\u003EA\nreduction in the time to locate information.\u003C/li\u003E\u003Cli\u003EHaving documentation of\nthe solution for their persona at their fingertips at the point of use\u003C/li\u003E\u003C/ul\u003E \u003C/div\u003E\u003Cul\u003E\u003Cfont face=\u0022Segoe UI, sans-serif\u0022\u003E \u003C/font\u003E \u003C/ul\u003E \u003Cp\u003E \u003C/p\u003E"
+              "Bylimiting the friction to accomplish their tasks and remain productive,employees benefit from:\n\u003Cbr\u003E \n\u003Cbr\u003E\n\u003Cbr\u003E * \u0026nbsp;Areduction in the time to locate information.\n\u003Cbr\u003E * \u0026nbsp;Having documentation ofthe solution for their persona at their fingertips at the point of use"
             ]
           }
         ],

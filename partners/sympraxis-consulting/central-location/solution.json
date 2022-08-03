@@ -5,6 +5,11 @@
     "learningpathways"
   ],
   "industries": [],
+  "servicesUsed": [
+    "Microsoft Teams",
+    "SharePoint sites",
+    "Stream"
+  ],
   "sortOrder": 0,
   "preview": false,
   "visible": true,
@@ -15,9 +20,9 @@
   "solutionUrlTitle": "Centralized location for all training content",
   "metadata": {
     "personas": "Business Analysts;Content Owners;End-user;IT Admin;Leadership;Training \u0026 Development",
-    "solutionTechnologies": "Microsoft Teams;SharePoint sites;Stream",
     "businessFunctions": null,
-    "displayPartner": true,
+    "businessValue": null,
+    "displayPartner": false,
     "appSource": null,
     "displayInfo": {
       "default": {
@@ -25,31 +30,29 @@
           {
             "name": "Short description",
             "content": [
-              "\u003Cdiv\u003E\u003Cdiv\u003EAn organization can create their own custom training or add training for other technologies outside Microsoft 365. Adding custom training to Learning Pathways creates a one-stop-shop for all training content across the organization.\u003Cbr\u003E\u003C/div\u003E\u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E"
+              "An organization can create their own custom training or add training for other technologies outside Microsoft 365. Adding custom training to Learning Pathways creates a one-stop-shop for all training content across the organization."
             ]
           },
           {
             "name": "Long description",
-            "content": [
-              "\u003Cdiv\u003E\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E"
-            ]
+            "content": []
           },
           {
             "name": "Business need or problem",
             "content": [
-              "\u003Cdiv\u003E\u003Cspan\u003E\u003C/span\u003E \u003C/div\u003E\u003Cdiv\u003EProductivity\nand collaboration are the heartbeat of any successful organization.\u0026nbsp; To ensure your users are productive, they\nmust be trained on the tools provided to them and any subsequent updates to\nthose tools.\u0026nbsp; This is where it gets\nchallenging. \u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003ECompany intranets have become an excellent medium\nfor providing internal training for your users.\u0026nbsp;\nHowever, decentralized, out-of-date and poorly indexed training content causes\nfriction and frustration with end-users simply trying to get help on the tools\nthey need to do their job. \u003C/div\u003E\u003Cdiv\u003E\u003Cdiv\u003E \u003C/div\u003E \u003C/div\u003E"
+              "Productivityand collaboration are the heartbeat of any successful organization. \u0026nbsp;To ensure your users are productive, theymust be trained on the tools provided to them and any subsequent updates tothose tools. \u0026nbsp;This is where it getschallenging. \n\u003Cbr\u003E\n\u003Cbr\u003ECompany intranets have become an excellent mediumfor providing internal training for your users. However, decentralized, out-of-date and poorly indexed training content causesfriction and frustration with end-users simply trying to get help on the toolsthey need to do their job."
             ]
           },
           {
             "name": "Business solution",
             "content": [
-              "\u003Cdiv\u003EA\ncentralized and intuitive training portal that supports surfacing the training content\n\u003Cb\u003Ein context \u003C/b\u003Eenables end users\u2019\nability to access the right information at the right time. To identify what\ncontent will surface in the training portal, Sympraxis will: \u003C/div\u003E\u003Cdiv\u003E\u003Cul\u003E\u003Cli\u003EPerform\ndiscovery across intranet and external sources for all current training\nmaterials \u003C/li\u003E\u003Cli\u003EIdentify\nsubject matter experts and develop site architecture to support direct access\nto content \u003C/li\u003E\u003Cli\u003EDevelop\npersonas for different learners across the organization \u003C/li\u003E\u003Cli\u003EDefine\nintuitive information architecture to support each persona and their top tasks \u003C/li\u003E\u003Cli\u003EAlign\nscenarios and playlists with organizational learning objectives \u003C/li\u003E\u003Cli\u003ECollaborate with core learning team to\ncustomize Learning Pathways homepage\u003C/li\u003E\u003C/ul\u003E\u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E"
+              "Acentralized and intuitive training portal that supports surfacing the training contentin context enables end users\u2019ability to access the right information at the right time. To identify whatcontent will surface in the training portal, Sympraxis will: \n\u003Cbr\u003E\n\u003Cbr\u003E * \u0026nbsp;Performdiscovery across intranet and external sources for all current trainingmaterials \n\u003Cbr\u003E * \u0026nbsp;Identifysubject matter experts and develop site architecture to support direct accessto content \n\u003Cbr\u003E * \u0026nbsp;Developpersonas for different learners across the organization \n\u003Cbr\u003E * \u0026nbsp;Defineintuitive information architecture to support each persona and their top tasks \n\u003Cbr\u003E * \u0026nbsp;Alignscenarios and playlists with organizational learning objectives \n\u003Cbr\u003E * \u0026nbsp;Collaborate with core learning team tocustomize Learning Pathways homepage"
             ]
           },
           {
             "name": "Success factors",
             "content": [
-              "\u003Cdiv\u003E\u003Cspan\u003E\u003C/span\u003E \u003C/div\u003E\u003Cdiv\u003ELearning\nPathways comes with all Microsoft 365 documentation categorized into\ntechnologies and playlists which is an excellent start for most organizations.\nEven better, this takes the burden off the Information Technology, learning, or\ntraining departments to either create or gather this content. Adding \u003Cb\u003Eorganization-specific training \u003C/b\u003Eto this\nportal to create a one-stop shop of all training information supports\nproductivity at the organization by: \u003C/div\u003E\u003Cdiv\u003E\u003C/div\u003E\u003Cdiv\u003E\u003Cul\u003E\u003Cli\u003EReducing\ntime to information\u003C/li\u003E\u003Cli\u003ECreating\nlinear training paths across cross-functional training content\u003C/li\u003E\u003Cli\u003EDelivering\ntraining to employees in context\u003C/li\u003E\u003Cli\u003EEnabling subject\nmatter experts to maintain training content independently\u003C/li\u003E\u003C/ul\u003E\u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E\u003C/div\u003E \u003Cp\u003E\u003C/p\u003E\u003Cdiv\u003E\u003Cdiv\u003E \u003C/div\u003E \u003C/div\u003E"
+              "LearningPathways comes with all Microsoft 365 documentation categorized intotechnologies and playlists which is an excellent start for most organizations.Even better, this takes the burden off the Information Technology, learning, ortraining departments to either create or gather this content. Adding organization-specific training to thisportal to create a one-stop shop of all training information supportsproductivity at the organization by: \n\u003Cbr\u003E\n\u003Cbr\u003E * \u0026nbsp;Reducingtime to information\n\u003Cbr\u003E * \u0026nbsp;Creatinglinear training paths across cross-functional training content\n\u003Cbr\u003E * \u0026nbsp;Deliveringtraining to employees in context\n\u003Cbr\u003E * \u0026nbsp;Enabling subjectmatter experts to maintain training content independently"
             ]
           }
         ],
