@@ -1,0 +1,95 @@
+{
+  "solutionId": "0001",
+  "partnerId": "6283700",
+  "categories": [],
+  "industries": [
+    "Professional Services"
+  ],
+  "servicesUsed": [
+    "Azure"
+  ],
+  "sortOrder": 0,
+  "preview": false,
+  "visible": false,
+  "solutionLogoPicture": null,
+  "solutionLogoPictureAlt": "",
+  "solutionName": "C.AI Adoption Bot",
+  "solutionUrl": "https://contexxt.ai/cai-adoption-bot/",
+  "solutionUrlTitle": "C.AI Adoption Bot",
+  "metadata": {
+    "personas": "IT Professional;",
+    "businessFunctions": "Incident Management IT;",
+    "businessValue": "Establish employee-centric learning - automated, customized and scalable with the Microsoft Bot Framework, supported by machine learning and artificial intelligence\r\n\r\nReduce the time employees spend on searching for Teams functions and how to use them\r\n\r\nReduce training costs \u2013 deliver only relevant content based on individual Teams skills and learning preferences\r\n\r\nRelief the IT service and support area\r\n\r\nIncrease active Teams usage - enable employees using specific functions in the appropriate situation\r\n\r\nDrive and automate digital change with C.AI\u2019s empathic change management",
+    "displayPartner": false,
+    "appSource": "n/a",
+    "displayInfo": {
+      "default": {
+        "descriptionParagraphs": [
+          {
+            "name": "Short description",
+            "content": [
+              "Having trouble using Microsoft Teams? Chatbot C.AI answers your questions and reveals how to use Teams successfully. C.AI explains when and why certain features should be used - at your own pace and learning preferences."
+            ]
+          },
+          {
+            "name": "Long description",
+            "content": [
+              "An AI-based algorithm understands your individual Teams skills and provides the right tips to suit the situation. The positive learning experience is additionally supported by gamification. Personal rewards and increasing maturity levels motivate the further use of Teams."
+            ]
+          },
+          {
+            "name": "Business need or problem",
+            "content": [
+              "End users usually struggle to use Teams and all the features properly. In workshops, trainers present a lot content \u2013 some fit the audience, some not. In general, most of it is forgotten after a few days. Hence, users have a hard time using Teams in an effective way. And adoption can become a real challenge."
+            ]
+          },
+          {
+            "name": "Business solution",
+            "content": [
+              "Chatbot C.AI answers user\u2019s questions on how to use Microsoft Teams effectively. It explains why and when certain features should be used - at the user\u2019s own pace and learning preferences.\r\n\r\nWith activated Personal Coaching Booster (PCB), an algorithm is analyzing, when a user needs a specific learning intervention. Hence, the longer C.AI works by the user\u0027s side, the better it understands their Teams skills and individual learning needs. Based on this information C.AI\u2019s algorithm will not only wait for user\u0027s questions, but anticipates important quick tips and offers them to the user in the appropriate situation. Thus, users improve their Teams skills and are learning simultaneously.\r\n\r\nC.AI helps every employee in the organization to improve their everyday work with Microsoft Teams. Additionally, game mechanics and badges for learning progress keep the users motivated in using Teams."
+            ]
+          },
+          {
+            "name": "Success factors",
+            "content": [
+              "C.AI Adoption Bot helps not only with a Q\u0026amp;A; glossary about Microsoft Teams functions. The real difference is the Personal Coaching Booster PCB. The PCB is an AI-based algorithm, which analyzes Teams usage data through the enabled Microsoft Graph API to automate, customize, and scale employee-centric learning.\r\n\r\nAllowing the analysis of the anonymized data and a management that communicates, why and how the Bot will help the employees significantly supports the successful usage of chatbot C.AI."
+            ]
+          }
+        ],
+        "mediaAssets": [
+          {
+            "type": "image",
+            "order": 0,
+            "url": "assets/EN-Screenshot-2-C.png",
+            "alt": ""
+          },
+          {
+            "type": "image",
+            "order": 1,
+            "url": "assets/EN-Screenshot-4-C.png",
+            "alt": ""
+          },
+          {
+            "type": "image",
+            "order": 2,
+            "url": "assets/EN-Screenshot-3-C.png",
+            "alt": ""
+          },
+          {
+            "type": "image",
+            "order": 3,
+            "url": "assets/EN-Screenshot-1-C.png",
+            "alt": ""
+          }
+        ],
+        "detailItemCategories": [
+          {
+            "name": "Resources",
+            "description": "Possible html supported text shown just above the list of links",
+            "items": []
+          }
+        ]
+      }
+    }
+  }
+}
