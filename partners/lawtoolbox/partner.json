@@ -1,0 +1,42 @@
+{
+  "partnerId": "lawtoolbox",
+  "categories": [],
+  "industries": [],
+  "solutions": null,
+  "sortOrder": 0,
+  "preview": false,
+  "visible": false,
+  "logoPicture": null,
+  "logoPictureAlt": "",
+  "heroPicture": "assets/hero.png",
+  "featuredPicture": null,
+  "partnerName": "Carol-Lynn Grow",
+  "mpnId": "4127203",
+  "metadata": {
+    "displayInfo": {
+      "default": {
+        "shortDescription": "LawToolBox transforms Microsoft 365 for lawyers with award-winning features including a rules-based deadline calculator, automated calendaring, matter management, and more. With integrations in most leading case management and DMS platforms, you can easily streamline your workflow to save time, eliminate error, and reduce the risk of malpractice from missed deadlines.",
+        "featuredTitle": "Microsoft 2021 Partner of the Year Finalist",
+        "featuredParagraphs": [
+          "Save time with a court date calculator, instant deadline calendaring, and matter management in Microsoft Outlook, Teams, and SharePoint. Use award-winning tools inside your M365 tenant to automate tedious tasks, eliminate human error, and reduce the risk of malpractice.",
+          "Discover why LawToolBox is the only legal software that can be added to your Microsoft Invoice and has earned numerous awards for:\r\nMicrosoft Partner of the Year Finalist 2021\u200B\r\nMicrosoft 365 Best Integration Award 2018\r\nMicrosoft 365 Best Sharepoint Soluion 2016"
+        ],
+        "callToAction": {
+          "title": "Take a free tour",
+          "description": "Make your work easier in seconds with Microsoft Teams for Legal.",
+          "url": "www.lawtoolbox.com"
+        },
+        "mediaAssets": [
+          {
+            "type": "image",
+            "order": 0,
+            "url": "assets/Hero.png",
+            "alt": ""
+          }
+        ],
+        "detailItemCategories": [],
+        "contact": "Carol-Lynn Grow"
+      }
+    }
+  }
+}
