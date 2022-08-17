@@ -9,8 +9,8 @@
     "Azure"
   ],
   "sortOrder": 0,
-  "preview": false,
-  "visible": true,
+  "preview": true,
+  "visible": false,
   "solutionLogoPicture": null,
   "solutionLogoPictureAlt": "",
   "solutionName": "C.AI Adoption Bot",
