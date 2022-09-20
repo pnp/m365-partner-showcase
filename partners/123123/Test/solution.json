@@ -1,0 +1,77 @@
+{
+  "solutionId": "Test",
+  "partnerId": "123123",
+  "categories": [],
+  "industries": [
+    "Banking \u0026 Financial Services"
+  ],
+  "servicesUsed": [
+    "Azure"
+  ],
+  "sortOrder": 0,
+  "preview": false,
+  "visible": false,
+  "solutionLogoPicture": null,
+  "solutionLogoPictureAlt": "",
+  "solutionName": "Solution 2 test",
+  "solutionUrl": null,
+  "solutionUrlTitle": "Solution 2 test",
+  "metadata": {
+    "personas": "Business User;",
+    "businessFunctions": "Business Operations;",
+    "businessValue": "Test",
+    "displayPartner": false,
+    "appSource": "Test",
+    "displayInfo": {
+      "default": {
+        "descriptionParagraphs": [
+          {
+            "name": "Short description",
+            "content": [
+              "Test"
+            ]
+          },
+          {
+            "name": "Long description",
+            "content": [
+              "Test"
+            ]
+          },
+          {
+            "name": "Business need or problem",
+            "content": [
+              "Test"
+            ]
+          },
+          {
+            "name": "Business solution",
+            "content": [
+              "Test"
+            ]
+          },
+          {
+            "name": "Success factors",
+            "content": [
+              "Test"
+            ]
+          }
+        ],
+        "mediaAssets": [
+          {
+            "type": "image",
+            "order": 0,
+            "url": "assets/Hero.png",
+            "alt": ""
+          }
+        ],
+        "detailItemCategories": [
+          {
+            "name": "Resources",
+            "description": "Possible html supported text shown just above the list of links",
+            "items": []
+          }
+        ]
+      }
+    }
+  }
+}
