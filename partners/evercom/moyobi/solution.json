@@ -14,7 +14,7 @@
   ],
   "sortOrder": 0,
   "preview": false,
-  "visible": false,
+  "visible": true,
   "solutionLogoPicture": null,
   "solutionLogoPictureAlt": "",
   "solutionName": "MoYoBi",
@@ -32,7 +32,7 @@
           {
             "name": "Short description",
             "content": [
-              "Cloud based Monitoring \u0026amp; CallAnalytics solution for Microsoft Teams."
+              "\u003Cdiv\u003ECloud-based monitoring \u0026amp; call analytics solution for Microsoft Teams. \u003C/div\u003E"
             ]
           },
           {

@@ -2,7 +2,8 @@
   "solutionId": "virtual-conference-manager",
   "partnerId": "opsgility",
   "categories": [
-    "teams"
+    "teams",
+    "virtualevents"
   ],
   "industries": [],
   "servicesUsed": [
@@ -36,7 +37,7 @@
           {
             "name": "Short description",
             "content": [
-              "Deliverengaging digital events to thousands of attendees worldwide!"
+              "\u003Cdiv\u003EDeliver engaging digital events to thousands of attendees worldwide! \u003C/div\u003E"
             ]
           },
           {
