@@ -1,0 +1,114 @@
+{
+  "solutionId": "file-manager",
+  "partnerId": "solutions2share",
+  "categories": [
+    "teams"
+  ],
+  "industries": [
+    "Cross-Industry"
+  ],
+  "servicesUsed": [
+    "Azure Bot",
+    "Azure Web App Service",
+    "Graph API",
+    "React",
+    "Teams Tabs"
+  ],
+  "sortOrder": 0,
+  "preview": true,
+  "visible": false,
+  "solutionLogoPicture": null,
+  "solutionLogoPictureAlt": "",
+  "solutionName": "File Manager",
+  "solutionUrl": "https://www.solutions2share.com/file-manager/",
+  "solutionUrlTitle": "File Manager",
+  "metadata": {
+    "personas": "Business Users;End-user;IT",
+    "businessFunctions": "Adoption;Change Management",
+    "businessValue": "\u003Cdiv\u003E\u003Cspan\u003EFile Manager customers improve productivity and provide their users with easier access to files shared in Microsoft Teams. \u003Cbr\u003E\u003C/span\u003E\u003Cdiv\u003EUsers can be certain to work with the correct version of the file they were looking for. File previews allow users to check a document\u0027s content without opening it. \u003C/div\u003E \u003C/div\u003E",
+    "displayPartner": false,
+    "appSource": null,
+    "displayInfo": {
+      "default": {
+        "descriptionParagraphs": [
+          {
+            "name": "Short description",
+            "content": [
+              "\u003Cdiv\u003EWith File Manager, users can quickly access files in different teams via a familiar file explorer navigation with a folder tree. \u003Cbr\u003E \u003C/div\u003E"
+            ]
+          },
+          {
+            "name": "Long description",
+            "content": [
+              "\u003Cdiv\u003EFile previews fully integrated into Microsoft Teams as well as information on versions and owners simplify finding the right document.\u003Cbr\u003E \u003C/div\u003E"
+            ]
+          },
+          {
+            "name": "Business need or problem",
+            "content": [
+              "\u003Cdiv\u003E\u003Cspan\u003EWhen Microsoft Teams launched a few years ago, collaborating on and sharing files became easy. Taking a look at teams and channel folders now, several years later, the number of shared files is astonishing, and working with them can be quite a hassle.\u003Cbr\u003E\u003C/span\u003E\u003Cdiv\u003E\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003EIn order to work with files shared in different channels or teams, users need to switch between the teams every time. Also, there is no preview in Microsoft Teams - files need to be opened to find out if it is the document and the version you were looking for.\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003ESolutions2Share\u0027s File Manager aims to increase users\u0027 productivity when working with files. \u003C/div\u003E \u003C/div\u003E"
+            ]
+          },
+          {
+            "name": "Business solution",
+            "content": [
+              "\u003Cdiv\u003E\u003Cspan\u003E\u003C/span\u003E\u003Cspan\u003EFile Manager by Solutions2Share makes working with files in Microsoft Teams easy, by providing a familiar file explorer view. With File Manager, users can switch between different teams and channels with a folder tree navigation - saving a lot of time. The \u0027file server\u0027 view can be called up for all teams at once, or for the channels of any individual team.\u003Cbr\u003E\u003C/span\u003E\u003Cdiv\u003E\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003EIn order to check whether a document is the one they are looking for, users no longer need to open it. File Manager shows previews of PDFs as well as Microsoft file types fully integrated in Microsoft Teams.\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003EInformation on file owners and collaborators as well as file versions also make it easier for users to find the correct document right away.\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003EFile Manager can be installed directly from the Microsoft Teams app store and is ready to go in just a few minutes.\u003Cbr\u003E \u003C/div\u003E\u003Cspan\u003E\u003C/span\u003E\u003Cdiv\u003E \u003C/div\u003E \u003C/div\u003E"
+            ]
+          },
+          {
+            "name": "Success factors",
+            "content": [
+              "\u003Cdiv\u003E\u003Cspan\u003EFile Manager is the right choice for our clients as it enables their users to access files in Microsoft Teams more quickly. A familiar tree view navigation makes switching between different channels and different teams easy. File previews are integrated fully in MS Teams. Information on file versions and owners ensure users work with the correct document.\u003Cbr\u003E\u003C/span\u003E\u003Cdiv\u003E\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003EOur clients\u0027 users save time every day with a quicker, easy access to files in Teams. \u003C/div\u003E \u003C/div\u003E"
+            ]
+          }
+        ],
+        "mediaAssets": [
+          {
+            "type": "image",
+            "order": 0,
+            "url": "assets/file-manager-01.png",
+            "alt": ""
+          },
+          {
+            "type": "image",
+            "order": 1,
+            "url": "assets/file-manager-02.png",
+            "alt": ""
+          },
+          {
+            "type": "image",
+            "order": 2,
+            "url": "assets/file-manager-03.png",
+            "alt": ""
+          },
+          {
+            "type": "video",
+            "order": 3,
+            "url": "https://www.youtube.com/embed/MhdqCd2njj0",
+            "alt": ""
+          }
+        ],
+        "detailItemCategories": [
+          {
+            "name": "Resources",
+            "description": "Possible html supported text shown just above the list of links",
+            "items": [
+              {
+                "url": "https://www.solutions2share.com/file-manager/",
+                "name": "https://www.solutions2share.com/file-manager/"
+              },
+              {
+                "url": "https://www.youtube.com/playlist?list=PLVE_Lp0amIFqGLhJk8u7Al6XF29eZqz8-",
+                "name": "https://www.youtube.com/playlist?list=PLVE_Lp0amIFqGLhJk8u7Al6XF29eZqz8-"
+              },
+              {
+                "url": "https://calendly.com/file-manager/file-manager-demo",
+                "name": "https://calendly.com/file-manager/file-manager-demo"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}
