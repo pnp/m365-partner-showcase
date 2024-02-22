@@ -1,0 +1,124 @@
+{
+  "solutionId": "external-user-manager",
+  "partnerId": "solutions2share",
+  "categories": [
+    "teams"
+  ],
+  "industries": [],
+  "servicesUsed": [
+    "Azure App Service",
+    "Azure Bot",
+    "Graph API",
+    "React",
+    "Teams Tabs"
+  ],
+  "sortOrder": 0,
+  "preview": true,
+  "visible": false,
+  "solutionLogoPicture": null,
+  "solutionLogoPictureAlt": "",
+  "solutionName": "External User Manager",
+  "solutionUrl": "https://www.solutions2share.com/external-user-manager/",
+  "solutionUrlTitle": "External User Manager",
+  "metadata": {
+    "personas": "Administrators;IT;IT Admin;Security Admin",
+    "businessFunctions": "Adoption;Governance;Project Management",
+    "businessValue": "\u003Cdiv\u003E\u003Cp style=\u0022margin:0in 0in 8pt;font-size:11pt;font-family:Aptos, sans-serif;\u0022\u003E\u003Cspan style=\u0022font-size:13.5pt;font-family:\u0026quot;Times New Roman\u0026quot;,serif;color:black;\u0022\u003EExternal User Manager customers\nachieve improved data protection and better control of their environment. The\ncompliance portal enhances security, while downloading the documents signed by\nguest users helps with verification issues. \u003C/span\u003E \u003C/p\u003E\u003Cp style=\u0022margin:0in 0in 8pt;font-size:11pt;font-family:Aptos, sans-serif;\u0022\u003E\u003Cspan style=\u0022font-size:13.5pt;font-family:\u0026quot;Times New Roman\u0026quot;,serif;color:black;\u0022\u003EAdministrators and controllers notice\na reduced workload in controlling guest users. \u003C/span\u003E \u003C/p\u003E\u003Cp style=\u0022margin:0in 0in 8pt;font-size:11pt;font-family:Aptos, sans-serif;\u0022\u003E\u003Cspan style=\u0022font-size:13.5pt;font-family:\u0026quot;Times New Roman\u0026quot;,serif;color:black;\u0022\u003EWith the lifecycle feature,\norganizations can make sure that guests are removed as soon as the\ncollaboration has ended, which helps prevent uncontrolled growth. \u003C/span\u003E \u003C/p\u003E\u003Cp style=\u0022margin:0in 0in 8pt;font-size:11pt;font-family:Aptos, sans-serif;\u0022\u003E\u003Cspan style=\u0022font-size:13.5pt;font-family:\u0026quot;Times New Roman\u0026quot;,serif;color:black;\u0022\u003EExternal User Manager not only manages\nguest users in Teams but also in M365 groups.\u003C/span\u003E \u003C/p\u003E \u003C/div\u003E",
+    "displayPartner": false,
+    "appSource": null,
+    "displayInfo": {
+      "default": {
+        "descriptionParagraphs": [
+          {
+            "name": "Short description",
+            "content": [
+              "\u003Cdiv\u003E\u003Cspan style=\u0022font-family:\u0026quot;Times New Roman\u0026quot;;font-size:medium;display:inline !important;\u0022\u003EExternal User Manager helps you with security and control in Microsoft Teams by providing an approval workflow for inviting guest users, lifecycles and access reviews, and a compliance portal.\u003C/span\u003E\u003Cbr\u003E \u003C/div\u003E"
+            ]
+          },
+          {
+            "name": "Long description",
+            "content": [
+              "\u003Cdiv\u003E\u003Cspan style=\u0022font-family:\u0026quot;Times New Roman\u0026quot;;font-size:medium;display:inline !important;\u0022\u003EWith External User Manager, your Team members can request access for guest users, which Team owners or admins can approve or deny.\u0026nbsp;\u003C/span\u003E \u003C/div\u003E\u003Cdiv\u003E\u003Cspan style=\u0022font-family:\u0026quot;Times New Roman\u0026quot;;font-size:medium;display:inline !important;\u0022\u003E\u003Cbr\u003E\u003C/span\u003E \u003C/div\u003E\u003Cdiv\u003E\u003Cspan style=\u0022font-family:\u0026quot;Times New Roman\u0026quot;;font-size:medium;display:inline !important;\u0022\u003EA customizable onboarding process ensures the best possible start for guest users and lets you provide documents to be read and signed, e.g. NDAs, data protection guidelines etc., ensuring better compliance.\u0026nbsp;\u003C/span\u003E \u003C/div\u003E\u003Cdiv\u003E\u003Cspan style=\u0022font-family:\u0026quot;Times New Roman\u0026quot;;font-size:medium;display:inline !important;\u0022\u003E\u003Cbr\u003E\u003C/span\u003E \u003C/div\u003E\u003Cdiv\u003E\u003Cspan style=\u0022font-family:\u0026quot;Times New Roman\u0026quot;;font-size:medium;display:inline !important;\u0022\u003EAfterwards, keep control of the number and activities of guest users with permission overview, lifecycle management, access reviews and reportings.\u003C/span\u003E\u003Cbr\u003E \u003C/div\u003E"
+            ]
+          },
+          {
+            "name": "Business need or problem",
+            "content": [
+              "\u003Cspan\u003EIn Microsoft Teams, employees can easily invite guest users from outside their organization to collaborate on various topics. But what happens after a project has been finished? After the employee leaves the company? After no-one remembers what the purpose of any given guest user once was?\u003Cbr\u003E\u003C/span\u003E\u003Cdiv\u003E\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003EEnd users often don\u2019t have an overview over which guests they invited to which team. Administrators have to employ a lot of time and energy to find out who can answer their questions about any given guest user, or who can decide if a guest user is still needed.\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003EBy default, guest users have access to all data and all documents, making it difficult to ensure data protection. Often, an invited guest user has no information on communication rules or just the basic information needed to navigate a company\u2019s teams.\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003EAnd if a decision has been made to remove a guest user from Microsoft Teams, it has to be done laboriously by hand.\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E \u003C/div\u003E\u003Cspan\u003ESolutions2Share\u2019s governance tool External User Manager aims to allow companies to keep control over external guest users in Teams and Microsoft 365, while still enabling employees to collaborate with externals.\u003C/span\u003E"
+            ]
+          },
+          {
+            "name": "Business solution",
+            "content": [
+              "\u003Cdiv\u003E\u003Cp style=\u0022margin-right:0in;margin-left:0in;font-size:12pt;font-family:\u0026quot;Times New Roman\u0026quot;, serif;\u0022\u003E\u003Cspan style=\u0022font-size:13.5pt;color:black;\u0022\u003EExternal User Manager provides\norganizations with a better way to keep control over who has access to their\ntenants and data, and to ensure compliance in their environment for guest\nusers.\u003C/span\u003E \u003C/p\u003E\u003Cp style=\u0022margin-right:0in;margin-left:0in;font-size:12pt;font-family:\u0026quot;Times New Roman\u0026quot;, serif;\u0022\u003E\u003Cspan style=\u0022font-size:13.5pt;color:black;\u0022\u003EVia External User Manager,\norganizations can deactivate the out-of-the-box method of inviting guest users\nto Microsoft Teams. Employees can then invite guests only via External User\nManager. Instead of sending out invitations directly, an automatic request and\napproval workflow is triggered: invitation requests are sent to the team owners\nor a select group of approvers, who can approve or reject them.\u003C/span\u003E \u003C/p\u003E\u003Cp style=\u0022margin-right:0in;margin-left:0in;font-size:12pt;font-family:\u0026quot;Times New Roman\u0026quot;, serif;\u0022\u003E\u003Cspan style=\u0022font-size:13.5pt;color:black;\u0022\u003EWhen a request has been approved,\nthe external guest receives an invitation. However, they are not added to Teams\ndirectly \u2013 first, they are directed to an onboarding and compliance portal.\nThere, guest users are asked to fill in their contact details or any other\nmetadata fields the organization has prepared. The organization can also\nprovide documents to be signed and accepted, such as non-disclosure agreements,\ncommunication rules or data protection requirements. Additional useful information\nin text or video format about the company can be added as well. Signed\ndocuments can be downloaded at any time later for verification.\u003C/span\u003E \u003C/p\u003E\u003Cp style=\u0022margin-right:0in;margin-left:0in;font-size:12pt;font-family:\u0026quot;Times New Roman\u0026quot;, serif;\u0022\u003E\u003Cspan style=\u0022font-size:13.5pt;color:black;\u0022\u003EOnce guest users have completed\nthe onboarding process, they can join the team.\u003C/span\u003E \u003C/p\u003E\u003Cp style=\u0022margin-right:0in;margin-left:0in;font-size:12pt;font-family:\u0026quot;Times New Roman\u0026quot;, serif;\u0022\u003E\u003Cspan style=\u0022font-size:13.5pt;color:black;\u0022\u003EIn order to keep control over who\nhas access to an organization\u2019s tenant, External User Manager offers reporting\ninsights, e.g. on active and inactive guests. In addition, organizations can\nalso access a simple overview list of external guests invited through External\nUser Manager, as well as their respective permissions.\u003C/span\u003E \u003C/p\u003E\u003Cp style=\u0022margin-right:0in;margin-left:0in;font-size:12pt;font-family:\u0026quot;Times New Roman\u0026quot;, serif;\u0022\u003E\u003Cspan style=\u0022font-size:13.5pt;color:black;\u0022\u003EAdministrators can create an\nautomatic lifecycle for guests (i.e. an access review) in External User\nManager, based on a specified period of time or based on certain triggers like\ninactivity. With the access review, organizations can regularly check if the\nguest user still needs to have access or if they should be removed from Teams.\u003C/span\u003E \u003C/p\u003E\u003Cp style=\u0022margin-right:0in;margin-left:0in;font-size:12pt;font-family:\u0026quot;Times New Roman\u0026quot;, serif;\u0022\u003E\u003Cspan style=\u0022font-size:13.5pt;color:black;\u0022\u003EOrganizations can also to invite\nguests directly to Microsoft 365 groups (without Teams).\u003C/span\u003E \u003C/p\u003E\u003Cp style=\u0022margin-right:0in;margin-left:0in;font-size:12pt;font-family:\u0026quot;Times New Roman\u0026quot;, serif;\u0022\u003E\u003Cspan style=\u0022font-size:13.5pt;color:black;\u0022\u003EExternal User Manager offers a\nwebhook in order to integrate additional third-party tools. It can be installed\ndirectly from the Microsoft Teams app store and is ready to go in just a few\nminutes.\u003C/span\u003E \u003C/p\u003E\u003Cbr\u003E \u003C/div\u003E"
+            ]
+          },
+          {
+            "name": "Success factors",
+            "content": [
+              "\u003Cdiv\u003E\u003Cp style=\u0022margin:0in 0in 8pt;font-size:11pt;font-family:Aptos, sans-serif;\u0022\u003E\u003Cspan style=\u0022font-size:13.5pt;font-family:\u0026quot;Times New Roman\u0026quot;,serif;color:black;\u0022\u003EExternal User Manager is the right\nchoice for our clients as it helps them keep control of guest users in their\nenvironment, while still enabling their employees to collaborate with\nexternals. Lifecycles automatically remove inactive guest users or trigger an\naccess review. Employees are able to request invitations for new guest users,\nwhich approvers check first.\u003C/span\u003E \u003C/p\u003E\u003Cp style=\u0022margin:0in 0in 8pt;font-size:11pt;font-family:Aptos, sans-serif;\u0022\u003E\u003Cspan style=\u0022font-size:13.5pt;font-family:\u0026quot;Times New Roman\u0026quot;,serif;color:black;\u0022\u003EOur clients\u0027 administrators save time\nevery day due to an automated process for guest users. The internal IT\ndepartments are now able to maintain their environment with minimum effort. And\nmost important of all, data protection and overall security is greatly\nenhanced.\u003C/span\u003E \u003C/p\u003E \u003C/div\u003E"
+            ]
+          }
+        ],
+        "mediaAssets": [
+          {
+            "type": "image",
+            "order": 0,
+            "url": "assets/external-user-manager-03.png",
+            "alt": ""
+          },
+          {
+            "type": "image",
+            "order": 1,
+            "url": "assets/external-user-manager-05.png",
+            "alt": ""
+          },
+          {
+            "type": "image",
+            "order": 2,
+            "url": "assets/external-user-manager-01.png",
+            "alt": ""
+          },
+          {
+            "type": "image",
+            "order": 3,
+            "url": "assets/external-user-manager-04.png",
+            "alt": ""
+          },
+          {
+            "type": "image",
+            "order": 4,
+            "url": "assets/external-user-manager-02.png",
+            "alt": ""
+          },
+          {
+            "type": "video",
+            "order": 5,
+            "url": "https://www.youtube.com/embed/arGBrvoI6JE",
+            "alt": ""
+          }
+        ],
+        "detailItemCategories": [
+          {
+            "name": "Resources",
+            "description": "Possible html supported text shown just above the list of links",
+            "items": [
+              {
+                "url": "https://www.solutions2share.com/external-user-manager/",
+                "name": "https://www.solutions2share.com/external-user-manager/"
+              },
+              {
+                "url": "https://www.youtube.com/playlist?list=PLVE_Lp0amIFqJ4Q4JB0xZgn-AnkKG7R7j",
+                "name": "https://www.youtube.com/playlist?list=PLVE_Lp0amIFqJ4Q4JB0xZgn-AnkKG7R7j"
+              },
+              {
+                "url": "https://calendly.com/external-user-manager-in-microsoft-teams/external-user-manager-in-microsoft-teams-demo",
+                "name": "https://calendly.com/external-user-manager-in-microsoft-teams/external-user-manager-in-microsoft-teams-demo"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}
