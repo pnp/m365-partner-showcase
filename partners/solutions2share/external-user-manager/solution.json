@@ -13,8 +13,8 @@
     "Teams Tabs"
   ],
   "sortOrder": 0,
-  "preview": true,
-  "visible": false,
+  "preview": false,
+  "visible": true,
   "solutionLogoPicture": null,
   "solutionLogoPictureAlt": "",
   "solutionName": "External User Manager",
