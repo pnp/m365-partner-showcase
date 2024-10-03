@@ -8,8 +8,8 @@
   "visible": false,
   "logoPicture": null,
   "logoPictureAlt": "",
-  "heroPicture": "assets/hero.png",
-  "featuredPicture": "assets/featured.png",
+  "heroPicture": "assets/Hero.png",
+  "featuredPicture": "assets/Featured.png",
   "partnerName": "VideoLink LLC, an AVI-SPL Company",
   "mpnId": null,
   "metadata": {
