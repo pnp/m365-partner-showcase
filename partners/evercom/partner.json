@@ -5,17 +5,17 @@
   "solutions": null,
   "sortOrder": 0,
   "preview": false,
-  "visible": false,
+  "visible": true,
   "logoPicture": null,
   "logoPictureAlt": "",
-  "heroPicture": "assets/hero.png",
-  "featuredPicture": "assets/featured.png",
+  "heroPicture": "assets/Hero.png",
+  "featuredPicture": "assets/Featured.png",
   "partnerName": "EVERCOM",
   "mpnId": null,
   "metadata": {
     "displayInfo": {
       "default": {
-        "shortDescription": "Evercom helps any company to monitor, analyze and manage all the comprehensive and varying communications media types available on Teams.",
+        "shortDescription": "\u003Cdiv\u003EEvercom helps any company to monitor, analyze and manage all the comprehensive and varying communications media types available on Microsoft Teams. \u003C/div\u003E",
         "featuredTitle": "MoYoBi, Monitor Your Business Intelligence",
         "featuredParagraphs": [
           "Founded in 1984 in Brussels, the heart of Europe, Evercomdevelops \u0026amp; distributes telecommunication solutions SW for all marketsegments. We work in partnership with all the major integrators to be able todeliver adequate solutions to companies. \n\u003Cbr\u003E\n\u003Cbr\u003EEvercom delivers its applications in any business model(license, SaaS, perpetual, subscription) to enable its customers to choose thebest model that fits their needs."
