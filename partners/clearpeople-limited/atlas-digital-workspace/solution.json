@@ -76,25 +76,25 @@
           {
             "type": "image",
             "order": 0,
-            "url": "assets/atlas- add it.png",
+            "url": "assets/Atlas- Add It.png",
             "alt": ""
           },
           {
             "type": "image",
             "order": 1,
-            "url": "assets/atlas - home.png",
+            "url": "assets/Atlas - Home.png",
             "alt": ""
           },
           {
             "type": "image",
             "order": 2,
-            "url": "assets/atlas - knowledge workspace.png",
+            "url": "assets/Atlas - Knowledge Workspace.png",
             "alt": ""
           },
           {
             "type": "image",
             "order": 3,
-            "url": "assets/atlas - connex.png",
+            "url": "assets/Atlas - ConneX.png",
             "alt": ""
           }
         ],

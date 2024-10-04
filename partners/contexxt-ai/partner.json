@@ -8,7 +8,7 @@
   "visible": true,
   "logoPicture": null,
   "logoPictureAlt": "",
-  "heroPicture": "assets/hero.png",
+  "heroPicture": "assets/Hero.png",
   "featuredPicture": "https://servicemgmt.visualstudio.com/994a8204-d5bf-4fbb-af23-5705618644ca/_apis/wit/attachments/bf88b9d8-f337-41bd-b73d-5583aba49721?fileName=featured",
   "partnerName": "contexxt.ai",
   "mpnId": "6283700",
@@ -31,13 +31,13 @@
           {
             "type": "image",
             "order": 0,
-            "url": "assets/hero.png",
+            "url": "assets/Hero.png",
             "alt": ""
           },
           {
             "type": "image",
             "order": 1,
-            "url": "assets/featured.jpg",
+            "url": "assets/Featured.jpg",
             "alt": ""
           }
         ],

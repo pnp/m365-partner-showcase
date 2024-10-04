@@ -64,19 +64,19 @@
           {
             "type": "image",
             "order": 0,
-            "url": "assets/learning videos 1.png",
+            "url": "assets/Learning Videos 1.png",
             "alt": ""
           },
           {
             "type": "image",
             "order": 1,
-            "url": "assets/learning videos 3.png",
+            "url": "assets/Learning Videos 3.png",
             "alt": ""
           },
           {
             "type": "image",
             "order": 2,
-            "url": "assets/learning videos 2.png",
+            "url": "assets/Learning Videos 2.png",
             "alt": ""
           }
         ],

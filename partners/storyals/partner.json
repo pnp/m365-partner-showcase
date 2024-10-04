@@ -8,7 +8,7 @@
   "visible": true,
   "logoPicture": null,
   "logoPictureAlt": "",
-  "heroPicture": "assets/hero.png",
+  "heroPicture": "assets/Hero.png",
   "featuredPicture": null,
   "partnerName": "Storyals",
   "mpnId": null,
@@ -31,7 +31,7 @@
           {
             "type": "image",
             "order": 0,
-            "url": "assets/hero.png",
+            "url": "assets/Hero.png",
             "alt": ""
           }
         ],
