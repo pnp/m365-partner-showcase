@@ -63,13 +63,13 @@
           {
             "type": "image",
             "order": 0,
-            "url": "assets/TeamsHUB_Dashboard.PNG",
+            "url": "assets/teamshub_dashboard.png",
             "alt": ""
           },
           {
             "type": "image",
             "order": 1,
-            "url": "assets/TeamsHUB_Analytics.png",
+            "url": "assets/teamshub_analytics.png",
             "alt": ""
           }
         ],

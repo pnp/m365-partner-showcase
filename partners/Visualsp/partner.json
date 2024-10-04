@@ -8,7 +8,7 @@
   "visible": true,
   "logoPicture": null,
   "logoPictureAlt": "",
-  "heroPicture": "assets/Hero.png",
+  "heroPicture": "assets/hero.png",
   "featuredPicture": "https://youtu.be/u9NhplrpLQI",
   "partnerName": "VisualSP",
   "mpnId": "4768963",
@@ -31,7 +31,7 @@
           {
             "type": "image",
             "order": 0,
-            "url": "assets/Hero.png",
+            "url": "assets/hero.png",
             "alt": ""
           }
         ],
