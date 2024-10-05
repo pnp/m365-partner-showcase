@@ -63,13 +63,13 @@
           {
             "type": "image",
             "order": 0,
-            "url": "assets/ClobbaVR-image2.png",
+            "url": "assets/clobbavr-image2.png",
             "alt": ""
           },
           {
             "type": "image",
             "order": 1,
-            "url": "assets/ClobbaVR-image1.png",
+            "url": "assets/clobbavr-image1.png",
             "alt": ""
           }
         ],

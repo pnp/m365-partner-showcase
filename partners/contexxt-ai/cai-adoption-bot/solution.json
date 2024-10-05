@@ -60,25 +60,25 @@
           {
             "type": "image",
             "order": 0,
-            "url": "assets/EN-Screenshot-2-C.png",
+            "url": "assets/en-screenshot-2-c.png",
             "alt": ""
           },
           {
             "type": "image",
             "order": 1,
-            "url": "assets/EN-Screenshot-4-C.png",
+            "url": "assets/en-screenshot-4-c.png",
             "alt": ""
           },
           {
             "type": "image",
             "order": 2,
-            "url": "assets/EN-Screenshot-3-C.png",
+            "url": "assets/en-screenshot-3-c.png",
             "alt": ""
           },
           {
             "type": "image",
             "order": 3,
-            "url": "assets/EN-Screenshot-1-C.png",
+            "url": "assets/en-screenshot-1-c.png",
             "alt": ""
           }
         ],

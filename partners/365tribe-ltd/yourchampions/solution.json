@@ -66,37 +66,37 @@
           {
             "type": "image",
             "order": 0,
-            "url": "assets/YC-Featured-Title.png",
+            "url": "assets/yc-featured-title.png",
             "alt": ""
           },
           {
             "type": "image",
             "order": 1,
-            "url": "assets/YC-Image1.png",
+            "url": "assets/yc-image1.png",
             "alt": ""
           },
           {
             "type": "image",
             "order": 2,
-            "url": "assets/YC-Image2.png",
+            "url": "assets/yc-image2.png",
             "alt": ""
           },
           {
             "type": "image",
             "order": 3,
-            "url": "assets/YC-Image3.png",
+            "url": "assets/yc-image3.png",
             "alt": ""
           },
           {
             "type": "image",
             "order": 4,
-            "url": "assets/YC-Image4.png",
+            "url": "assets/yc-image4.png",
             "alt": ""
           },
           {
             "type": "image",
             "order": 5,
-            "url": "assets/YC-Image5.png",
+            "url": "assets/yc-image5.png",
             "alt": ""
           }
         ],

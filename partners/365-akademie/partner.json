@@ -8,8 +8,8 @@
   "visible": true,
   "logoPicture": null,
   "logoPictureAlt": "",
-  "heroPicture": "assets/Hero.png",
-  "featuredPicture": "assets/Featured.png",
+  "heroPicture": "assets/hero.png",
+  "featuredPicture": "assets/featured.png",
   "partnerName": "365 Akademie",
   "mpnId": null,
   "metadata": {
@@ -29,13 +29,13 @@
           {
             "type": "image",
             "order": 0,
-            "url": "assets/Hero.png",
+            "url": "assets/hero.png",
             "alt": ""
           },
           {
             "type": "image",
             "order": 1,
-            "url": "assets/Featured.png",
+            "url": "assets/featured.png",
             "alt": ""
           }
         ],

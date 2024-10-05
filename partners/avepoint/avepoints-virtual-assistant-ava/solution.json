@@ -72,19 +72,19 @@
           {
             "type": "image",
             "order": 0,
-            "url": "assets/AVA_image3.jpg",
+            "url": "assets/ava_image3.jpg",
             "alt": ""
           },
           {
             "type": "image",
             "order": 1,
-            "url": "assets/AVA_image2.jpg",
+            "url": "assets/ava_image2.jpg",
             "alt": ""
           },
           {
             "type": "image",
             "order": 2,
-            "url": "assets/AVA_image1.png",
+            "url": "assets/ava_image1.png",
             "alt": ""
           }
         ],

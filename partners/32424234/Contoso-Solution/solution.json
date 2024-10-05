@@ -60,7 +60,7 @@
           {
             "type": "image",
             "order": 0,
-            "url": "assets/Hero.png",
+            "url": "assets/hero.png",
             "alt": ""
           }
         ],
